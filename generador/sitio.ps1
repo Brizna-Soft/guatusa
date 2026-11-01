@@ -279,7 +279,11 @@ function Get-Novedades($Fichas) {
     $items = foreach ($f in @($Fichas | Select-Object -First 40)) {
         $fecha = (Get-Fecha $f.fecha).ToUniversalTime().ToString('r', $script:Inv)
         $url = Get-UrlAbsoluta $f.ruta
-        "    <item><title>$(Html $f.titulo)</title><link>$(Html $url)</link><guid isPermaLink=`"true`">$(Html $url)</guid><pubDate>$fecha</pubDate><description>$(Html $f.resumen)</description></item>"
+        # El identificador es la clave del aviso (cambia con cada version o promocion), no la direccion de la ficha:
+        # asi un lector de RSS no da por vista una version nueva de un programa o un regalo que vuelve
+        $titulo = if ($f.telegram) { $f.telegram.texto } else { $f.titulo }
+        $guid = if ($f.telegram) { "guatusa-$($f.telegram.clave)" } else { $url }
+        "    <item><title>$(Html $titulo)</title><link>$(Html $url)</link><guid isPermaLink=`"false`">$(Html $guid)</guid><pubDate>$fecha</pubDate><description>$(Html $f.resumen)</description></item>"
     }
     @"
 <?xml version="1.0" encoding="UTF-8"?>
