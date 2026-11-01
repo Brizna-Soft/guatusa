@@ -46,6 +46,8 @@ Después se abre http://localhost:8787/. Con `armar.ps1 -SinRed` se arma solo co
 
 Los `.ps1` se guardan en UTF-8 con BOM: Windows PowerShell 5.1 los lee mal sin él.
 
+Los archivos de `datos/` los guarda el flujo de GitHub. Si armas en la PC también cambian (Windows PowerShell 5.1 escribe el JSON con otro formato), pero no hace falta subirlos: `git checkout -- datos` deshace esos cambios.
+
 ## Publicar (lo hace la persona dueña de las cuentas)
 
 1. **Cloudflare Pages:** crear la cuenta, crear un proyecto de Pages de «subida directa» llamado `brizna-soft` y un token de API con el permiso *Cloudflare Pages: Edit*. En GitHub, guardar los secretos `CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID`. Sin ellos, el flujo arma el sitio y guarda los datos, pero no publica.

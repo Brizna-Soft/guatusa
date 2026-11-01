@@ -28,10 +28,16 @@ concurrency:
 
 jobs:
   actualizar:
+    # Solo main publica: una prueba lanzada a mano desde otra rama no puede reemplazar el sitio
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      # main al empezar, no el commit del evento: una corrida que estuvo en cola trae los datos y los avisos
+      # que guardó la anterior (si no, repetiría avisos de Telegram)
       - uses: actions/checkout@v7
+        with:
+          ref: main
 
       - name: Ver qué está configurado
         id: config
@@ -66,7 +72,9 @@ jobs:
           TELEGRAM_CANAL: ${{ vars.TELEGRAM_CANAL }}
         run: ./generador/telegram.ps1
 
+      # También si falló un paso anterior: así no se pierde lo que Telegram ya avisó
       - name: Guardar los datos leídos
+        if: always()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

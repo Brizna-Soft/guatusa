@@ -254,7 +254,8 @@ foreach ($f in $fichas) {
         $propio = $descripciones[(Get-NombreComparable $f.titulo)]
         if ($propio) { $f.parrafos = @($propio) + @($f.parrafos) }
     }
-    if (-not $f.boton) { continue }
+    # Las descargas de Brizna Soft siempre son directas: ni afiliados ni acortador
+    if (-not $f.boton -or $f.grupo -eq 'brizna') { continue }
     $anfitrion = ''
     try { $anfitrion = ([uri]$f.boton.url).Host } catch { }
     $plantilla = if ($afiliados -and $anfitrion) { Get-Prop $afiliados $anfitrion } else { $null }
@@ -262,7 +263,7 @@ foreach ($f in $fichas) {
         $f.boton.url = $plantilla.Replace('{url}', [uri]::EscapeDataString($f.boton.url))
         $f.boton.rel = 'sponsored noopener'
         $f.boton.nota = 'Enlace de afiliado: si compras, la tienda nos da una comisión y a ti no te cuesta más.'
-    } elseif ($f.acortar -and $acortador -match '\{url\}' -and $f.grupo -ne 'brizna') {
+    } elseif ($f.acortar -and $acortador -match '\{url\}') {
         $f.boton.url = $acortador.Replace('{url}', [uri]::EscapeDataString($f.boton.url))
         $f.boton.nota = 'Este enlace pasa por un acortador con anuncios, que nos ayuda a mantener Guatusa. El archivo es el oficial.'
     }

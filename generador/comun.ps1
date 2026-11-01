@@ -108,6 +108,13 @@ function Get-Prop($Objeto, [string]$Nombre, $PorDefecto = $null) {
 
 function Test-Texto($Valor) { -not [string]::IsNullOrWhiteSpace([string]$Valor) }
 
+# Entero positivo o el valor por defecto (para atributos como width y height, que no se escapan)
+function Get-Entero($Valor, [int]$PorDefecto) {
+    $n = $Valor -as [int]
+    if ($null -ne $n -and $n -gt 0) { return $n }
+    $PorDefecto
+}
+
 # ---------------------------------------------------------------- HTML
 
 # Escapa texto para HTML (solo los cinco caracteres peligrosos; los acentos quedan tal cual)

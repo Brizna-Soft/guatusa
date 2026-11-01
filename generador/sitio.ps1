@@ -212,7 +212,7 @@ function Get-PaginaPrivacidad {
           <li>Google y otros proveedores usan cookies para mostrarte anuncios según tus visitas a esta página y a otros sitios de internet.</li>
           <li>Las cookies de publicidad le permiten a Google y a sus socios mostrarte anuncios basados en lo que visitas aquí y en otros sitios. Más detalles en <a href="https://policies.google.com/technologies/partner-sites?hl=es">cómo usa Google la información de los sitios que usan sus servicios</a>.</li>
           <li>Puedes desactivar los anuncios personalizados en la <a href="https://www.google.com/settings/ads">Configuración de anuncios de Google</a>.</li>
-          <li>En la página también pueden salir anuncios de otros proveedores y redes de publicidad que trabajan con Google. Para que no usen cookies de publicidad personalizada, entra a <a href="https://www.aboutads.info/choices/">www.aboutads.info/choices</a>.</li>
+          <li>En la página también pueden salir anuncios de otros proveedores y redes de publicidad que trabajan con Google. Su lista está en <a href="https://support.google.com/adsense/answer/9931967?hl=es">los proveedores de tecnología publicitaria de Google</a>, y cada uno explica en su sitio cómo desactivar sus cookies. Para que no usen cookies de publicidad personalizada, también puedes entrar a <a href="https://www.aboutads.info/choices/">www.aboutads.info/choices</a>.</li>
           <li>Si nos visitas desde el Espacio Económico Europeo, el Reino Unido o Suiza, Google te muestra primero un aviso para que elijas si aceptas esas cookies.</li>
           <li>También puedes borrar o bloquear las cookies en la configuración de tu navegador.</li>
         </ul>

@@ -83,8 +83,10 @@ function New-Pagina {
             [ordered]@{ '@type' = 'ListItem'; 'position' = $pos; 'name' = $m.n; 'item' = (Get-UrlAbsoluta $m.u) }
         }
         $ld = [ordered]@{ '@context' = 'https://schema.org'; '@type' = 'BreadcrumbList'; 'itemListElement' = @($elementos) }
-        # "</" nunca puede aparecer dentro del script
-        $json = (ConvertTo-Json -InputObject $ld -Depth 6 -Compress).Replace('</', '<\/')
+        # Ningun "<" dentro del script ("</script>" o "<!--" cambiarian como se lee la pagina). Se cambia por la
+        # secuencia JSON barra-u-003c, armada con [char]92 para que ninguna herramienta la convierta de vuelta en "<"
+        $menorQue = [string][char]92 + 'u003c'
+        $json = (ConvertTo-Json -InputObject $ld -Depth 6 -Compress).Replace('<', $menorQue)
         $extra.Add("  <script type=`"application/ld+json`">$json</script>")
     }
     @"
@@ -133,8 +135,8 @@ $(Get-Pie)
 function Get-Imagen($Item, [string]$Clase, [switch]$Grande) {
     $p = Get-Prop $Item 'portada'
     $url = Get-Prop $p 'url' '/img/sin-portada.svg'
-    $ancho = Get-Prop $p 'ancho' 640
-    $alto = Get-Prop $p 'alto' 360
+    $ancho = Get-Entero (Get-Prop $p 'ancho') 640
+    $alto = Get-Entero (Get-Prop $p 'alto') 360
     $ajuste = if ((Get-Prop $p 'ajuste') -eq 'contener') { ' contener' } else { '' }
     $alt = ''
     if ($Grande) { $alt = Get-Prop $p 'alt' "Portada de $($Item.titulo)" }
