@@ -1,0 +1,9 @@
+{
+  "nota": "Expresiones (regex, sin distinguir mayúsculas) que sacan un juego de itch.io de Guatusa. Contenido para adultos (AdSense no lo permite) y juegos de fans con marcas ajenas (no tienen permiso del dueño).",
+  "adultos": [
+    "\\bnsfw\\b", "hentai", "\\bporn", "\\bsex", "\\bnude", "\\b18\\+", "\\badult", "erotic", "\\blewd", "fetish", "ecchi", "\\byaoi\\b", "\\byuri\\b", "waifu", "strip"
+  ],
+  "marcas_ajenas": [
+    "pok[eé]mon", "\\bmtg\\b", "magic:? the gathering", "five nights at freddy", "\\bfnaf\\b", "\\bmario\\b", "zelda", "\\bsonic\\b", "minecraft", "roblox", "genshin", "among us", "pac-?man", "tetris", "undertale", "deltarune", "poppy playtime", "\\bdoki doki\\b"
+  ]
+}

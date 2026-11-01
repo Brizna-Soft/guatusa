@@ -1,0 +1,498 @@
+[
+    {
+        "slug":  "supertuxkart",
+        "nombre":  "SuperTuxKart",
+        "genero":  "Carreras",
+        "orden":  1,
+        "resumen":  "Carreras de karts con Tux y sus amigos: pistas con atajos, objetos para fastidiar y partidas en línea.",
+        "descripcion":  [
+                            "Carreras de karts al estilo de los clásicos, con Tux, el pingüino de Linux, y sus amigos. Las pistas están llenas de atajos y hay objetos para fastidiar a los rivales.",
+                            "Trae modo historia, pantalla dividida para jugar con amigos en la misma PC y partidas en línea. También está para Android."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "requisitos":  [
+                           "Procesador de dos núcleos y 1 GB de RAM libre.",
+                           "Tarjeta de video como NVIDIA GTX 470, AMD HD 6870 o Intel HD 4000, con 512 MB.",
+                           "800 MB de espacio."
+                       ],
+        "licencia":  "GPL 3 o posterior (código); arte con licencias libres",
+        "web":  "https://supertuxkart.net/",
+        "descarga":  "https://supertuxkart.net/Download",
+        "github":  "supertuxkart/stk-code",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SuperTuxKart_in-race_%282018%29.png/960px-SuperTuxKart_in-race_%282018%29.png",
+                        "ancho":  960,
+                        "alto":  540,
+                        "ajuste":  "cubrir",
+                        "alt":  "Imagen de SuperTuxKart",
+                        "credito":  "Wikimedia Commons, CC BY-SA 4.0",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:SuperTuxKart_in-race_(2018).png"
+                    }
+    },
+    {
+        "slug":  "0-ad",
+        "nombre":  "0 A.D.",
+        "genero":  "Estrategia",
+        "orden":  2,
+        "resumen":  "Estrategia en tiempo real con romanos, griegos, persas y más. Construye tu ciudad y arma tu ejército.",
+        "descripcion":  [
+                            "Estrategia en tiempo real con civilizaciones de la antigüedad: romanos, griegos, persas, cartagineses y muchas más. Construyes tu ciudad, juntas recursos y armas tu ejército, al estilo de los clásicos del género.",
+                            "Se juega contra la computadora o en línea, y lo hace un grupo de voluntarios desde hace años. Su descarga oficial es gratis y sin anuncios."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "requisitos":  [
+                           "Windows 10 u 11 (también macOS 10.15 o más nuevo y Linux)."
+                       ],
+        "licencia":  "GPL 2 o posterior (código); arte CC BY-SA 3.0",
+        "web":  "https://play0ad.com/",
+        "descarga":  "https://play0ad.com/download/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/0_A.D._Seleukiden-Stadt_Ken_Wood_23.png/1280px-0_A.D._Seleukiden-Stadt_Ken_Wood_23.png",
+                        "ancho":  960,
+                        "alto":  540,
+                        "ajuste":  "cubrir",
+                        "alt":  "Imagen de 0 A.D.",
+                        "credito":  "Wikimedia Commons, CC BY-SA 4.0",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:0_A.D._Seleukiden-Stadt_Ken_Wood_23.png"
+                    }
+    },
+    {
+        "slug":  "battle-for-wesnoth",
+        "nombre":  "The Battle for Wesnoth",
+        "genero":  "Estrategia por turnos",
+        "orden":  3,
+        "resumen":  "Estrategia por turnos de fantasía: elfos, enanos, orcos y no muertos en mapas de hexágonos.",
+        "descripcion":  [
+                            "Estrategia por turnos en un mundo de fantasía: elfos, enanos, orcos, magos y no muertos pelean en mapas de casillas hexagonales. Cada unidad gana experiencia y sube de nivel.",
+                            "Trae muchas campañas con historia, partidas en línea y cientos de complementos hechos por la comunidad. También está gratis en Steam."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "requisitos":  [
+                           "Windows 10 (versión 1903 o más nueva) de 64 bits.",
+                           "Procesador de dos núcleos a 2 GHz y 2 GB de RAM.",
+                           "800 MB de espacio."
+                       ],
+        "licencia":  "GPL 2 o posterior (código); arte GPL y CC BY-SA 4.0",
+        "espanol":  "Sí",
+        "web":  "https://www.wesnoth.org/",
+        "descarga":  "https://wiki.wesnoth.org/Download",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de The Battle for Wesnoth",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/599390/Battle_for_Wesnoth/"
+                    }
+    },
+    {
+        "slug":  "luanti",
+        "nombre":  "Luanti (antes Minetest)",
+        "genero":  "Construcción",
+        "orden":  4,
+        "resumen":  "Un mundo de cubos para explorar, minar y construir, con cientos de juegos y mods gratis.",
+        "descripcion":  [
+                            "Un mundo de cubos para explorar, minar y construir, parecido a Minecraft. Antes se llamaba Minetest.",
+                            "Desde el mismo programa puedes bajar gratis cientos de juegos y mods hechos por la comunidad, y jugar solo o en servidores con otras personas."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "requisitos":  [
+                           "Windows 8 o más nuevo (también macOS 12.3, Linux y Android 6 o más nuevos)."
+                       ],
+        "licencia":  "LGPL 2.1 o posterior (código); texturas y sonidos CC BY-SA 3.0",
+        "web":  "https://www.luanti.org/",
+        "descarga":  "https://www.luanti.org/en/downloads/",
+        "github":  "luanti-org/luanti",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Luanti-5.12-voxelibre-valley.png/960px-Luanti-5.12-voxelibre-valley.png",
+                        "ancho":  960,
+                        "alto":  540,
+                        "ajuste":  "cubrir",
+                        "alt":  "Imagen de Luanti (antes Minetest)",
+                        "credito":  "Wikimedia Commons, GPLv3 (según la ficha de Commons)",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Luanti-5.12-voxelibre-valley.png"
+                    }
+    },
+    {
+        "slug":  "mindustry",
+        "nombre":  "Mindustry",
+        "genero":  "Estrategia",
+        "orden":  5,
+        "resumen":  "Defensa de torres con fábricas: extrae minerales, arma cintas transportadoras y defiende tu base.",
+        "descripcion":  [
+                            "Mezcla de defensa de torres y fábricas: extraes minerales, armas cintas transportadoras y fábricas, y defiendes tu base de oleadas de enemigos.",
+                            "En Steam cuesta, pero su autor lo regala para PC en GitHub y para Android en Google Play. La versión de GitHub para PC es un archivo .jar que necesita Java."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "requisitos":  [
+                           "Windows de 64 bits con Java instalado (para la versión de GitHub).",
+                           "1 GB de RAM y tarjeta con OpenGL 2.0.",
+                           "200 MB de espacio."
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí",
+        "web":  "https://mindustrygame.github.io/",
+        "descarga":  "https://github.com/Anuken/Mindustry/releases/latest",
+        "github":  "Anuken/Mindustry",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de Mindustry",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/1127400/Mindustry/"
+                    }
+    },
+    {
+        "slug":  "openttd",
+        "nombre":  "OpenTTD",
+        "genero":  "Simulación",
+        "orden":  6,
+        "resumen":  "Construye una empresa de transporte con trenes, buses, barcos y aviones. Basado en Transport Tycoon.",
+        "descripcion":  [
+                            "Construye una empresa de transporte: trenes, buses, barcos y aviones que llevan pasajeros y carga entre ciudades que crecen con tu servicio.",
+                            "Está basado en el clásico Transport Tycoon Deluxe, se puede jugar en línea con amigos y trae gráficos libres que se bajan solos la primera vez."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "requisitos":  [
+                           "Windows 7 o más nuevo y 256 MB de RAM."
+                       ],
+        "licencia":  "GPL 2",
+        "espanol":  "Sí",
+        "web":  "https://www.openttd.org/",
+        "descarga":  "https://www.openttd.org/downloads/openttd-releases/latest",
+        "github":  "OpenTTD/OpenTTD",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536610/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de OpenTTD",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/1536610/OpenTTD"
+                    }
+    },
+    {
+        "slug":  "shattered-pixel-dungeon",
+        "nombre":  "Shattered Pixel Dungeon",
+        "genero":  "Rol",
+        "orden":  7,
+        "resumen":  "Baja por una mazmorra que cambia en cada partida. Pequeño, difícil y muy pulido.",
+        "descripcion":  [
+                            "Baja por una mazmorra que cambia en cada partida: encuentra armas y pociones, pelea con monstruos y trata de llegar al fondo. Si mueres, empiezas de nuevo.",
+                            "Es pequeño y muy pulido. En Steam cuesta, pero su autor lo regala en Android y en su GitHub para PC."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "requisitos":  [
+                           "Windows 10 de 64 bits.",
+                           "250 MB de espacio."
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí",
+        "web":  "https://shatteredpixel.com/",
+        "descarga":  "https://github.com/00-Evan/shattered-pixel-dungeon/releases/latest",
+        "github":  "00-Evan/shattered-pixel-dungeon",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769170/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de Shattered Pixel Dungeon",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/"
+                    }
+    },
+    {
+        "slug":  "ddracenetwork",
+        "nombre":  "DDraceNetwork",
+        "genero":  "Plataformas",
+        "orden":  8,
+        "resumen":  "Plataformas en equipo: cada quien tiene un gancho y hay que ayudarse para pasar mapas difíciles.",
+        "descripcion":  [
+                            "Plataformas en 2D para jugar en equipo: cada quien tiene un gancho, y hay que ayudarse para pasar mapas cada vez más difíciles.",
+                            "Tiene miles de mapas y se juega en línea. También está gratis en Steam y hasta tiene versión para el navegador."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android",
+                            "Navegador"
+                        ],
+        "requisitos":  [
+                           "Windows 10 o más nuevo y 2 GB de RAM.",
+                           "200 MB de espacio."
+                       ],
+        "licencia":  "Zlib (código); arte CC BY-SA 3.0",
+        "espanol":  "Sí",
+        "web":  "https://ddnet.org/",
+        "descarga":  "https://ddnet.org/downloads/",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412220/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de DDraceNetwork",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/412220/DDraceNetwork/"
+                    }
+    },
+    {
+        "slug":  "endless-sky",
+        "nombre":  "Endless Sky",
+        "genero":  "Espacio",
+        "orden":  9,
+        "resumen":  "Pilota tu nave por la galaxia: comercia, cumple misiones y métete en guerras entre facciones.",
+        "descripcion":  [
+                            "Pilota tu propia nave por la galaxia: comercia, cumple misiones, mejora tu nave y métete en las guerras entre facciones.",
+                            "Es en 2D y con mucha historia para leer. También está gratis en Steam, pero solo en inglés."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "requisitos":  [
+                           "750 MB de RAM y tarjeta con OpenGL 3.0.",
+                           "350 MB de espacio."
+                       ],
+        "licencia":  "GPL 3 (código); arte libre",
+        "espanol":  "No, está en inglés",
+        "web":  "https://endless-sky.github.io/",
+        "descarga":  "https://github.com/endless-sky/endless-sky/releases/latest",
+        "github":  "endless-sky/endless-sky",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404410/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de Endless Sky",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/404410/Endless_Sky/"
+                    }
+    },
+    {
+        "slug":  "warzone-2100",
+        "nombre":  "Warzone 2100",
+        "genero":  "Estrategia",
+        "orden":  10,
+        "resumen":  "Estrategia en tiempo real tras una guerra nuclear: investiga tecnologías y diseña tus vehículos.",
+        "descripcion":  [
+                            "Estrategia en tiempo real en un mundo arrasado por una guerra nuclear: investiga cientos de tecnologías y diseña tus propios vehículos.",
+                            "Fue un juego comercial de 1999 que sus dueños liberaron, y desde entonces lo mantiene una comunidad. También está gratis en Steam."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "requisitos":  [
+                           "Windows 7 a 11 y 1 GB de RAM.",
+                           "Tarjeta con OpenGL 3.1."
+                       ],
+        "licencia":  "GPL 2 o posterior",
+        "web":  "https://wz2100.net/",
+        "descarga":  "https://wz2100.net/download/",
+        "github":  "Warzone2100/warzone2100",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241950/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de Warzone 2100",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/1241950/Warzone_2100/"
+                    }
+    },
+    {
+        "slug":  "unciv",
+        "nombre":  "Unciv",
+        "genero":  "Estrategia por turnos",
+        "orden":  11,
+        "resumen":  "Estrategia por turnos al estilo de Civilization V, liviana para PC y celular.",
+        "descripcion":  [
+                            "Estrategia por turnos al estilo de Civilization V: funda ciudades, investiga tecnologías y lleva tu civilización de la antigüedad a la era espacial.",
+                            "Es liviano: va bien hasta en celulares sencillos, y viene en español."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "requisitos":  [
+
+                       ],
+        "licencia":  "MPL 2.0 (código); arte con licencias libres",
+        "espanol":  "Sí",
+        "web":  "https://yairm210.github.io/Unciv/",
+        "descarga":  "https://github.com/yairm210/Unciv/releases",
+        "github":  "yairm210/Unciv",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Unciv_icon.jpg",
+                        "ancho":  960,
+                        "alto":  540,
+                        "ajuste":  "contener",
+                        "alt":  "Imagen de Unciv",
+                        "credito":  "Wikimedia Commons, CC BY-SA 4.0",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Unciv_icon.jpg"
+                    }
+    },
+    {
+        "slug":  "veloren",
+        "nombre":  "Veloren",
+        "genero":  "Rol",
+        "orden":  12,
+        "resumen":  "Aventura de rol en un mundo enorme de cubos, con mazmorras y pueblos. Se juega en línea.",
+        "descripcion":  [
+                            "Aventura de rol en un mundo enorme hecho de cubos, con mazmorras, pueblos y criaturas. Se juega en línea con otras personas o solo.",
+                            "Todavía está en desarrollo, pero ya se puede jugar y crece con cada versión."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "requisitos":  [
+                           "Windows 10 u 11 de 64 bits y 4 GB de RAM.",
+                           "Tarjeta con DirectX 12 o Vulkan.",
+                           "2 GB de espacio."
+                       ],
+        "licencia":  "GPL 3",
+        "web":  "https://veloren.net/",
+        "descarga":  "https://veloren.net/download",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Veloren-0.17-screenshot-horizon.jpg/960px-Veloren-0.17-screenshot-horizon.jpg",
+                        "ancho":  960,
+                        "alto":  540,
+                        "ajuste":  "cubrir",
+                        "alt":  "Imagen de Veloren",
+                        "credito":  "Wikimedia Commons, CC0 (según la ficha de Commons)",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Veloren-0.17-screenshot-horizon.jpg"
+                    }
+    },
+    {
+        "slug":  "xonotic",
+        "nombre":  "Xonotic",
+        "genero":  "Disparos",
+        "orden":  13,
+        "resumen":  "Disparos en primera persona rápido y frenético, al estilo de los clásicos de arena.",
+        "descripcion":  [
+                            "Disparos en primera persona rápido y frenético, como los clásicos de arena: saltos imposibles, armas variadas y partidas en línea contra otras personas o contra la computadora.",
+                            "Es gratis y no tiene compras dentro."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "requisitos":  [
+                           "Windows 7 o más nuevo y 4 GB de RAM.",
+                           "Tarjeta con OpenGL 2.1."
+                       ],
+        "licencia":  "GPL 3 o posterior",
+        "web":  "https://xonotic.org/",
+        "descarga":  "https://xonotic.org/download/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Xonotic_Game_Play_-_Silent_Siege.jpg/960px-Xonotic_Game_Play_-_Silent_Siege.jpg",
+                        "ancho":  960,
+                        "alto":  540,
+                        "ajuste":  "cubrir",
+                        "alt":  "Imagen de Xonotic",
+                        "credito":  "Wikimedia Commons, GPL (según la ficha de Commons)",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Xonotic_Game_Play_-_Silent_Siege.jpg"
+                    }
+    },
+    {
+        "slug":  "supertux",
+        "nombre":  "SuperTux",
+        "genero":  "Plataformas",
+        "orden":  14,
+        "resumen":  "Plataformas en 2D al estilo de los clásicos: Tux salta y recorre mundos para rescatar a Penny.",
+        "descripcion":  [
+                            "Plataformas en 2D al estilo de los clásicos: Tux salta, junta monedas y recorre mundos de hielo y bosques para rescatar a su amiga Penny.",
+                            "Es ideal para niños, trae editor de niveles y se puede jugar hasta en el navegador. También está gratis en Steam."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Navegador"
+                        ],
+        "requisitos":  [
+                           "Windows XP o más nuevo, 250 MB de RAM y 250 MB de espacio."
+                       ],
+        "licencia":  "GPL 3 (código); arte CC BY-SA",
+        "espanol":  "Sí, en textos",
+        "web":  "https://www.supertux.org/",
+        "descarga":  "https://www.supertux.org/download.html",
+        "github":  "SuperTux/supertux",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572920/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de SuperTux",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/1572920/SuperTux/"
+                    }
+    },
+    {
+        "slug":  "cataclysm-dda",
+        "nombre":  "Cataclysm: Dark Days Ahead",
+        "genero":  "Supervivencia",
+        "orden":  15,
+        "resumen":  "Supervivencia por turnos en un mundo lleno de zombis: busca comida, arma refugios y aguanta.",
+        "descripcion":  [
+                            "Supervivencia por turnos en un mundo destruido y lleno de zombis y monstruos: busca comida, arma refugios, construye vehículos y trata de durar lo más posible.",
+                            "Es muy detallado y difícil, para quien disfruta los juegos profundos. En Steam cuesta, pero es gratis en su página oficial y en Android."
+                        ],
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "requisitos":  [
+                           "Windows 10 de 64 bits."
+                       ],
+        "licencia":  "CC BY-SA 3.0",
+        "espanol":  "Sí",
+        "web":  "https://cataclysmdda.org/",
+        "descarga":  "https://cataclysmdda.org/releases/",
+        "portada":  {
+                        "url":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330750/header.jpg",
+                        "ancho":  460,
+                        "alto":  215,
+                        "alt":  "Portada de Cataclysm: Dark Days Ahead",
+                        "credito":  "Tienda de Steam",
+                        "credito_url":  "https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/"
+                    }
+    }
+]

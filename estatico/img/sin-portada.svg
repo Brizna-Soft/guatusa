@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <title>Sin portada</title>
+  <style>
+    .fondo { fill: #EEF3F1; } .figura { fill: #C9D8D2; } .trazo { stroke: #C9D8D2; }
+    @media (prefers-color-scheme: dark) { .fondo { fill: #1A1D21; } .figura { fill: #2E3A36; } .trazo { stroke: #2E3A36; } }
+  </style>
+  <rect class="fondo" width="640" height="360"/>
+  <g transform="translate(256 116) scale(2)">
+    <g class="figura">
+      <path d="M8 34C10 30 13 27.5 17 26.5C19 26 21 25.5 23 25C29 19 37 15 45 16.5C52 18 56.5 24 56 31C55.5 37 52 40.5 47 41H28C24 41 21 39.5 19 37.5C16 37.5 12 37 8 34Z"/>
+      <ellipse cx="23.2" cy="22.4" rx="2.4" ry="3.4" transform="rotate(-15 23.2 22.4)"/>
+      <ellipse cx="10.5" cy="48.5" rx="3.6" ry="2.4" transform="rotate(-28 10.5 48.5)"/>
+    </g>
+    <path class="trazo" d="M22.5 39.5l-1 12.5M27 41l.8 11M46 40.5l1.2 11.5M51 38l2.2 13.5" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

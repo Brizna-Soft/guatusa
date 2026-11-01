@@ -1,0 +1,4 @@
+{
+  "nota": "Textos escritos a mano para los regalos, los juegos de itch.io y las ofertas, que se ponen antes del texto automático. La clave es el nombre del juego en minúsculas, sin acentos, espacios ni signos (por ejemplo «sorrywereclosed» para Sorry We're Closed). Cada texto es una lista de párrafos, escritos con palabras propias: nunca copiados de la tienda.",
+  "textos": {}
+}

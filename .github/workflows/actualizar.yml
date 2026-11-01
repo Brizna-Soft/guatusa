@@ -1,0 +1,77 @@
+# Arma Guatusa cada 6 horas con los datos nuevos, la publica en Cloudflare Pages y avisa en Telegram.
+# Los secretos los pone la persona en GitHub (Settings > Secrets and variables > Actions):
+#   CLOUDFLARE_API_TOKEN y CLOUDFLARE_ACCOUNT_ID  para publicar; sin ellos solo arma y guarda los datos
+#   TELEGRAM_BOT_TOKEN (secreto) y TELEGRAM_CANAL (variable, por ejemplo @GuatusaGratis)  para los avisos
+# Los secretos solo llegan a los pasos que los usan.
+name: Actualizar Guatusa
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # cada 6 horas, en hora UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'contenido/**'
+      - 'estatico/**'
+      - 'generador/**'
+      - 'armar.ps1'
+      - 'config.json'
+      - '.github/workflows/actualizar.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-guatusa
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Ver qué está configurado
+        id: config
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_CUENTA: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          if [ -n "$CF_TOKEN" ] && [ -n "$CF_CUENTA" ]; then echo "cloudflare=si" >> "$GITHUB_OUTPUT"; else echo "cloudflare=no" >> "$GITHUB_OUTPUT"; fi
+          if [ -n "$TG_TOKEN" ]; then echo "telegram=si" >> "$GITHUB_OUTPUT"; else echo "telegram=no" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Armar el sitio con los datos nuevos
+        shell: pwsh
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: ./armar.ps1
+
+      - name: Publicar en Cloudflare Pages
+        if: steps.config.outputs.cloudflare == 'si'
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy publico --project-name=brizna-soft --branch=main --commit-dirty=true
+
+      # Solo despues de publicar, para que los enlaces de los avisos ya funcionen
+      - name: Avisar las novedades en Telegram
+        if: steps.config.outputs.cloudflare == 'si' && steps.config.outputs.telegram == 'si'
+        shell: pwsh
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CANAL: ${{ vars.TELEGRAM_CANAL }}
+        run: ./generador/telegram.ps1
+
+      - name: Guardar los datos leídos
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add datos
+          if git diff --cached --quiet; then echo "Sin cambios en los datos."; exit 0; fi
+          git commit -m "Datos del $(date -u +'%Y-%m-%d %H:%M') UTC"
+          # Si alguien subio cambios mientras corria, se ponen los datos encima y se intenta otra vez
+          git push || { git pull --rebase origin main && git push; }

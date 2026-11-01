@@ -1,0 +1,214 @@
+[
+    {
+        "clave":  "steam-1326470",
+        "appid":  1326470,
+        "nombre":  "Sons Of The Forest",
+        "descuento":  72,
+        "precio_normal":  14.99,
+        "precio":  4.19,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-02T18:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "sons-of-the-forest"
+    },
+    {
+        "clave":  "steam-4348910",
+        "appid":  4348910,
+        "nombre":  "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "descuento":  10,
+        "precio_normal":  8.99,
+        "precio":  8.09,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-11T17:00:39Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "probably-stolen-cyberpunk-shopkeeper-sim"
+    },
+    {
+        "clave":  "steam-3240220",
+        "appid":  3240220,
+        "nombre":  "Grand Theft Auto V Enhanced",
+        "descuento":  50,
+        "precio_normal":  29.99,
+        "precio":  14.99,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-05T18:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "grand-theft-auto-v-enhanced"
+    },
+    {
+        "clave":  "steam-3241660",
+        "appid":  3241660,
+        "nombre":  "R.E.P.O.",
+        "descuento":  35,
+        "precio_normal":  4.99,
+        "precio":  3.24,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-09T17:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "r-e-p-o"
+    },
+    {
+        "clave":  "steam-648800",
+        "appid":  648800,
+        "nombre":  "Raft",
+        "descuento":  33,
+        "precio_normal":  10.99,
+        "precio":  7.36,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-05T18:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "raft"
+    },
+    {
+        "clave":  "steam-4312190",
+        "appid":  4312190,
+        "nombre":  "CRACK",
+        "descuento":  15,
+        "precio_normal":  4.79,
+        "precio":  4.07,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/0bc1d4b9c64e31c8f148cea965cd1ba039bf82a7/header_alt_assets_0_spanish.jpg",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "termina":  "2026-11-02T17:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "crack"
+    },
+    {
+        "clave":  "steam-3764200",
+        "appid":  3764200,
+        "nombre":  "Resident Evil Requiem",
+        "descuento":  30,
+        "precio_normal":  53,
+        "precio":  37.1,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-03T18:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "resident-evil-requiem"
+    },
+    {
+        "clave":  "steam-1304930",
+        "appid":  1304930,
+        "nombre":  "The Outlast Trials",
+        "descuento":  70,
+        "precio_normal":  18.99,
+        "precio":  5.69,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-02T18:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "the-outlast-trials"
+    },
+    {
+        "clave":  "steam-3527290",
+        "appid":  3527290,
+        "nombre":  "PEAK",
+        "descuento":  38,
+        "precio_normal":  3.99,
+        "precio":  2.47,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-15T10:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "peak"
+    },
+    {
+        "clave":  "steam-1799840",
+        "appid":  1799840,
+        "nombre":  "Queen\u0027s Domain",
+        "descuento":  15,
+        "precio_normal":  10.49,
+        "precio":  8.91,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "termina":  "2026-11-06T17:00:43Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "queens-domain"
+    },
+    {
+        "clave":  "steam-4530370",
+        "appid":  4530370,
+        "nombre":  "Football Manager 27",
+        "descuento":  10,
+        "precio_normal":  47.99,
+        "precio":  43.19,
+        "moneda":  "USD",
+        "imagen":  "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg",
+        "plataformas":  [
+                            "Windows",
+                            "macOS"
+                        ],
+        "termina":  "2026-11-10T16:00:00Z",
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "football-manager-27"
+    }
+]

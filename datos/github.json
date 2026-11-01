@@ -1,0 +1,1082 @@
+{
+    "audacity/audacity":  {
+                              "repo":  "audacity/audacity",
+                              "etiqueta":  "Audacity-4.0.1",
+                              "version":  "4.0.1",
+                              "fecha":  "2026-09-30T11:59:48Z",
+                              "url":  "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.1",
+                              "archivos":  [
+                                               {
+                                                   "nombre":  "audacity-linux-4.0.1-aarch64.AppImage",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-linux-4.0.1-aarch64.AppImage",
+                                                   "tamano":  70666760
+                                               },
+                                               {
+                                                   "nombre":  "audacity-linux-4.0.1-x86_64.AppImage",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-linux-4.0.1-x86_64.AppImage",
+                                                   "tamano":  73755128
+                                               },
+                                               {
+                                                   "nombre":  "audacity-macOS-4.0.1-arm64.dmg",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-arm64.dmg",
+                                                   "tamano":  50034126
+                                               },
+                                               {
+                                                   "nombre":  "audacity-macOS-4.0.1-universal.dmg",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-universal.dmg",
+                                                   "tamano":  92003045
+                                               },
+                                               {
+                                                   "nombre":  "audacity-macOS-4.0.1-x86_64.dmg",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-x86_64.dmg",
+                                                   "tamano":  54321871
+                                               },
+                                               {
+                                                   "nombre":  "audacity-sources-4.0.1.tar.xz",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-sources-4.0.1.tar.xz",
+                                                   "tamano":  190348052
+                                               },
+                                               {
+                                                   "nombre":  "audacity-win-4.0.1-arm64.7z",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.7z",
+                                                   "tamano":  32798863
+                                               },
+                                               {
+                                                   "nombre":  "audacity-win-4.0.1-arm64.msi",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.msi",
+                                                   "tamano":  38264832
+                                               },
+                                               {
+                                                   "nombre":  "audacity-win-4.0.1-x86_64.7z",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.7z",
+                                                   "tamano":  44322940
+                                               },
+                                               {
+                                                   "nombre":  "audacity-win-4.0.1-x86_64.msi",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.msi",
+                                                   "tamano":  49795072
+                                               },
+                                               {
+                                                   "nombre":  "CHECKSUMS.txt",
+                                                   "url":  "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/CHECKSUMS.txt",
+                                                   "tamano":  1632
+                                               }
+                                           ],
+                              "leido":  "2026-11-01T22:11:37Z"
+                          },
+    "Brizna-Soft/atarraya":  {
+                                 "repo":  "Brizna-Soft/atarraya",
+                                 "etiqueta":  "v0.3.1",
+                                 "version":  "0.3.1",
+                                 "fecha":  "2026-11-01T03:29:37Z",
+                                 "url":  "https://github.com/Brizna-Soft/atarraya/releases/tag/v0.3.1",
+                                 "archivos":  [
+                                                  {
+                                                      "nombre":  "Atarraya-0.3.1-x64.zip",
+                                                      "url":  "https://github.com/Brizna-Soft/atarraya/releases/download/v0.3.1/Atarraya-0.3.1-x64.zip",
+                                                      "tamano":  6589405
+                                                  },
+                                                  {
+                                                      "nombre":  "Atarraya-0.3.1-x64.zip.sha256",
+                                                      "url":  "https://github.com/Brizna-Soft/atarraya/releases/download/v0.3.1/Atarraya-0.3.1-x64.zip.sha256",
+                                                      "tamano":  89
+                                                  }
+                                              ],
+                                 "leido":  "2026-11-01T21:42:19Z"
+                             },
+    "Brizna-Soft/chachalaca":  {
+                                   "repo":  "Brizna-Soft/chachalaca",
+                                   "etiqueta":  "v0.1.0",
+                                   "version":  "0.1.0",
+                                   "fecha":  "2026-10-29T04:21:16Z",
+                                   "url":  "https://github.com/Brizna-Soft/chachalaca/releases/tag/v0.1.0",
+                                   "archivos":  [
+                                                    {
+                                                        "nombre":  "Chachalaca-0.1.0-x64.zip",
+                                                        "url":  "https://github.com/Brizna-Soft/chachalaca/releases/download/v0.1.0/Chachalaca-0.1.0-x64.zip",
+                                                        "tamano":  5458835
+                                                    },
+                                                    {
+                                                        "nombre":  "Chachalaca-0.1.0-x64.zip.sha256",
+                                                        "url":  "https://github.com/Brizna-Soft/chachalaca/releases/download/v0.1.0/Chachalaca-0.1.0-x64.zip.sha256",
+                                                        "tamano":  91
+                                                    }
+                                                ],
+                                   "leido":  "2026-11-01T21:42:20Z"
+                               },
+    "Brizna-Soft/guara":  {
+                              "repo":  "Brizna-Soft/guara",
+                              "etiqueta":  "v0.1.0",
+                              "version":  "0.1.0",
+                              "fecha":  "2026-10-28T07:39:00Z",
+                              "url":  "https://github.com/Brizna-Soft/guara/releases/tag/v0.1.0",
+                              "archivos":  [
+                                               {
+                                                   "nombre":  "Guara-0.1.0-x64.zip",
+                                                   "url":  "https://github.com/Brizna-Soft/guara/releases/download/v0.1.0/Guara-0.1.0-x64.zip",
+                                                   "tamano":  1915726
+                                               },
+                                               {
+                                                   "nombre":  "Guara-0.1.0-x64.zip.sha256",
+                                                   "url":  "https://github.com/Brizna-Soft/guara/releases/download/v0.1.0/Guara-0.1.0-x64.zip.sha256",
+                                                   "tamano":  86
+                                               }
+                                           ],
+                              "leido":  "2026-11-01T21:42:20Z"
+                          },
+    "Brizna-Soft/hntorrent-descargas":  {
+                                            "repo":  "Brizna-Soft/hntorrent-descargas",
+                                            "etiqueta":  "v0.27.1",
+                                            "version":  "0.27.1",
+                                            "fecha":  "2026-10-29T01:50:32Z",
+                                            "url":  "https://github.com/Brizna-Soft/hntorrent-descargas/releases/tag/v0.27.1",
+                                            "archivos":  [
+                                                             {
+                                                                 "nombre":  "actualizacion.json",
+                                                                 "url":  "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/actualizacion.json",
+                                                                 "tamano":  317
+                                                             },
+                                                             {
+                                                                 "nombre":  "AVISOS-DE-TERCEROS.txt",
+                                                                 "url":  "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/AVISOS-DE-TERCEROS.txt",
+                                                                 "tamano":  56676
+                                                             },
+                                                             {
+                                                                 "nombre":  "Brizna-0.27.1-x64.zip",
+                                                                 "url":  "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/Brizna-0.27.1-x64.zip",
+                                                                 "tamano":  7583956
+                                                             },
+                                                             {
+                                                                 "nombre":  "HNTorrent-0.27.1-x64.zip",
+                                                                 "url":  "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/HNTorrent-0.27.1-x64.zip",
+                                                                 "tamano":  7583962
+                                                             },
+                                                             {
+                                                                 "nombre":  "hntorrent-actualizacion.json",
+                                                                 "url":  "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/hntorrent-actualizacion.json",
+                                                                 "tamano":  320
+                                                             },
+                                                             {
+                                                                 "nombre":  "SHA256SUMS.txt",
+                                                                 "url":  "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/SHA256SUMS.txt",
+                                                                 "tamano":  179
+                                                             }
+                                                         ],
+                                            "leido":  "2026-11-01T21:42:20Z"
+                                        },
+    "Brizna-Soft/jicaro":  {
+                               "repo":  "Brizna-Soft/jicaro",
+                               "etiqueta":  "v0.1.0",
+                               "version":  "0.1.0",
+                               "fecha":  "2026-10-31T17:51:08Z",
+                               "url":  "https://github.com/Brizna-Soft/jicaro/releases/tag/v0.1.0",
+                               "archivos":  [
+                                                {
+                                                    "nombre":  "Jicaro-0.1.0-x64.zip",
+                                                    "url":  "https://github.com/Brizna-Soft/jicaro/releases/download/v0.1.0/Jicaro-0.1.0-x64.zip",
+                                                    "tamano":  2275431
+                                                },
+                                                {
+                                                    "nombre":  "Jicaro-0.1.0-x64.zip.sha256",
+                                                    "url":  "https://github.com/Brizna-Soft/jicaro/releases/download/v0.1.0/Jicaro-0.1.0-x64.zip.sha256",
+                                                    "tamano":  87
+                                                }
+                                            ],
+                               "leido":  "2026-11-01T21:42:19Z"
+                           },
+    "Brizna-Soft/mapache":  {
+                                "repo":  "Brizna-Soft/mapache",
+                                "etiqueta":  "v0.1.0",
+                                "version":  "0.1.0",
+                                "fecha":  "2026-10-28T07:03:00Z",
+                                "url":  "https://github.com/Brizna-Soft/mapache/releases/tag/v0.1.0",
+                                "archivos":  [
+                                                 {
+                                                     "nombre":  "Mapache-0.1.0-x64.zip",
+                                                     "url":  "https://github.com/Brizna-Soft/mapache/releases/download/v0.1.0/Mapache-0.1.0-x64.zip",
+                                                     "tamano":  2006680
+                                                 },
+                                                 {
+                                                     "nombre":  "Mapache-0.1.0-x64.zip.sha256",
+                                                     "url":  "https://github.com/Brizna-Soft/mapache/releases/download/v0.1.0/Mapache-0.1.0-x64.zip.sha256",
+                                                     "tamano":  88
+                                                 }
+                                             ],
+                                "leido":  "2026-11-01T21:42:20Z"
+                            },
+    "Brizna-Soft/mosquitero":  {
+                                   "repo":  "Brizna-Soft/mosquitero",
+                                   "etiqueta":  "v0.1.0",
+                                   "version":  "0.1.0",
+                                   "fecha":  "2026-10-28T07:10:27Z",
+                                   "url":  "https://github.com/Brizna-Soft/mosquitero/releases/tag/v0.1.0",
+                                   "archivos":  [
+                                                    {
+                                                        "nombre":  "Mosquitero-0.1.0-chrome.zip",
+                                                        "url":  "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-chrome.zip",
+                                                        "tamano":  1221827
+                                                    },
+                                                    {
+                                                        "nombre":  "Mosquitero-0.1.0-chrome.zip.sha256",
+                                                        "url":  "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-chrome.zip.sha256",
+                                                        "tamano":  94
+                                                    },
+                                                    {
+                                                        "nombre":  "Mosquitero-0.1.0-firefox.zip",
+                                                        "url":  "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-firefox.zip",
+                                                        "tamano":  1221897
+                                                    },
+                                                    {
+                                                        "nombre":  "Mosquitero-0.1.0-firefox.zip.sha256",
+                                                        "url":  "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-firefox.zip.sha256",
+                                                        "tamano":  95
+                                                    }
+                                                ],
+                                   "leido":  "2026-11-01T21:42:20Z"
+                               },
+    "HandBrake/HandBrake":  {
+                                "repo":  "HandBrake/HandBrake",
+                                "etiqueta":  "1.11.2",
+                                "version":  "1.11.2",
+                                "fecha":  "2026-06-07T19:08:25Z",
+                                "url":  "https://github.com/HandBrake/HandBrake/releases/tag/1.11.2",
+                                "archivos":  [
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-arm64-Win_GUI.exe",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-arm64-Win_GUI.exe",
+                                                     "tamano":  18595792
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-arm64-Win_GUI.exe.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-arm64-Win_GUI.exe.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-arm64-Win_GUI.zip",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-arm64-Win_GUI.zip",
+                                                     "tamano":  27418450
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-arm64-Win_GUI.zip.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-arm64-Win_GUI.zip.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-source.tar.bz2",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-source.tar.bz2",
+                                                     "tamano":  11761530
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-source.tar.bz2.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-source.tar.bz2.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-x86_64-Win_GUI.exe",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.exe",
+                                                     "tamano":  25331264
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-x86_64-Win_GUI.exe.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.exe.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-x86_64-Win_GUI.zip",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.zip",
+                                                     "tamano":  34937681
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-x86_64-Win_GUI.zip.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.zip.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-x86_64.flatpak",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64.flatpak",
+                                                     "tamano":  29772536
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2-x86_64.flatpak.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64.flatpak.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2.dmg",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2.dmg",
+                                                     "tamano":  47978117
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake-1.11.2.dmg.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2.dmg.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake.Plugin.IntelMediaSDK-1.11.2-x86_64.flatpak",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake.Plugin.IntelMediaSDK-1.11.2-x86_64.flatpak",
+                                                     "tamano":  13242872
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrake.Plugin.IntelMediaSDK-1.11.2-x86_64.flatpak.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake.Plugin.IntelMediaSDK-1.11.2-x86_64.flatpak.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrakeCLI-1.11.2-win-aarch64.zip",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2-win-aarch64.zip",
+                                                     "tamano":  19316730
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrakeCLI-1.11.2-win-aarch64.zip.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2-win-aarch64.zip.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrakeCLI-1.11.2-win-x86_64.zip",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2-win-x86_64.zip",
+                                                     "tamano":  25721458
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrakeCLI-1.11.2-win-x86_64.zip.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2-win-x86_64.zip.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrakeCLI-1.11.2.dmg",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2.dmg",
+                                                     "tamano":  38186738
+                                                 },
+                                                 {
+                                                     "nombre":  "HandBrakeCLI-1.11.2.dmg.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrakeCLI-1.11.2.dmg.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "LibHB-1.11.2-win-aarch64.zip",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/LibHB-1.11.2-win-aarch64.zip",
+                                                     "tamano":  19617953
+                                                 },
+                                                 {
+                                                     "nombre":  "LibHB-1.11.2-win-aarch64.zip.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/LibHB-1.11.2-win-aarch64.zip.sig",
+                                                     "tamano":  566
+                                                 },
+                                                 {
+                                                     "nombre":  "LibHB-1.11.2-win-x86_64.zip",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/LibHB-1.11.2-win-x86_64.zip",
+                                                     "tamano":  26207897
+                                                 },
+                                                 {
+                                                     "nombre":  "LibHB-1.11.2-win-x86_64.zip.sig",
+                                                     "url":  "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/LibHB-1.11.2-win-x86_64.zip.sig",
+                                                     "tamano":  566
+                                                 }
+                                             ],
+                                "leido":  "2026-11-01T22:11:37Z"
+                            },
+    "keepassxreboot/keepassxc":  {
+                                     "repo":  "keepassxreboot/keepassxc",
+                                     "etiqueta":  "2.8.0",
+                                     "version":  "2.8.0",
+                                     "fecha":  "2026-10-21T21:57:23Z",
+                                     "url":  "https://github.com/keepassxreboot/keepassxc/releases/tag/2.8.0",
+                                     "archivos":  [
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-aarch64.AppImage",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage",
+                                                          "tamano":  51272200
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-aarch64.AppImage.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.DIGEST",
+                                                          "tamano":  101
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-aarch64.AppImage.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.sig",
+                                                          "tamano":  525
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-aarch64.AppImage.zsync",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.zsync",
+                                                          "tamano":  175487
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-aarch64.AppImage.zsync.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.zsync.DIGEST",
+                                                          "tamano":  107
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-aarch64.AppImage.zsync.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.zsync.sig",
+                                                          "tamano":  525
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-arm64.dmg",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg",
+                                                          "tamano":  47786914
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-arm64.dmg.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg.DIGEST",
+                                                          "tamano":  94
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-arm64.dmg.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg.sig",
+                                                          "tamano":  525
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.AppImage",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage",
+                                                          "tamano":  52062712
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.AppImage.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.DIGEST",
+                                                          "tamano":  100
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.AppImage.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.sig",
+                                                          "tamano":  525
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.AppImage.zsync",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.zsync",
+                                                          "tamano":  178187
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.AppImage.zsync.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.zsync.DIGEST",
+                                                          "tamano":  106
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.AppImage.zsync.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.zsync.sig",
+                                                          "tamano":  525
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.dmg",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.dmg",
+                                                          "tamano":  49791713
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.dmg.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.dmg.DIGEST",
+                                                          "tamano":  95
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-1-x86_64.dmg.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.dmg.sig",
+                                                          "tamano":  525
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-aarch64.AppImage",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage",
+                                                          "tamano":  51268104
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-aarch64.AppImage.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage.DIGEST",
+                                                          "tamano":  99
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-aarch64.AppImage.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage.sig",
+                                                          "tamano":  488
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-aarch64.AppImage.zsync",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage.zsync",
+                                                          "tamano":  175473
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-aarch64.AppImage.zsync.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage.zsync.DIGEST",
+                                                          "tamano":  105
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-aarch64.AppImage.zsync.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage.zsync.sig",
+                                                          "tamano":  488
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-arm64.dmg",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-arm64.dmg",
+                                                          "tamano":  47298038
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-arm64.dmg.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-arm64.dmg.DIGEST",
+                                                          "tamano":  92
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-arm64.dmg.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-arm64.dmg.sig",
+                                                          "tamano":  488
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-ARM64.msi",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.msi",
+                                                          "tamano":  58859520
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-ARM64.msi.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.msi.DIGEST",
+                                                          "tamano":  93
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-ARM64.msi.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.msi.sig",
+                                                          "tamano":  537
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-ARM64.zip",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.zip",
+                                                          "tamano":  59703797
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-ARM64.zip.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.zip.DIGEST",
+                                                          "tamano":  93
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-ARM64.zip.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-ARM64.zip.sig",
+                                                          "tamano":  537
+                                                      },
+                                                      {
+                                                          "nombre":  "keepassxc-2.8.0-src.tar.xz",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/keepassxc-2.8.0-src.tar.xz",
+                                                          "tamano":  10867052
+                                                      },
+                                                      {
+                                                          "nombre":  "keepassxc-2.8.0-src.tar.xz.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/keepassxc-2.8.0-src.tar.xz.DIGEST",
+                                                          "tamano":  93
+                                                      },
+                                                      {
+                                                          "nombre":  "keepassxc-2.8.0-src.tar.xz.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/keepassxc-2.8.0-src.tar.xz.sig",
+                                                          "tamano":  488
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x64.msi",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi",
+                                                          "tamano":  69419008
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x64.msi.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi.DIGEST",
+                                                          "tamano":  91
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x64.msi.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi.sig",
+                                                          "tamano":  537
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x64.zip",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.zip",
+                                                          "tamano":  70348471
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x64.zip.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.zip.DIGEST",
+                                                          "tamano":  91
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x64.zip.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.zip.sig",
+                                                          "tamano":  537
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.AppImage",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.AppImage",
+                                                          "tamano":  52062712
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.AppImage.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.AppImage.DIGEST",
+                                                          "tamano":  98
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.AppImage.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.AppImage.sig",
+                                                          "tamano":  488
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.AppImage.zsync",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.AppImage.zsync",
+                                                          "tamano":  178187
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.AppImage.zsync.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.AppImage.zsync.DIGEST",
+                                                          "tamano":  104
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.AppImage.zsync.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.AppImage.zsync.sig",
+                                                          "tamano":  488
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.dmg",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.dmg",
+                                                          "tamano":  49264037
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.dmg.DIGEST",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.dmg.DIGEST",
+                                                          "tamano":  93
+                                                      },
+                                                      {
+                                                          "nombre":  "KeePassXC-2.8.0-x86_64.dmg.sig",
+                                                          "url":  "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x86_64.dmg.sig",
+                                                          "tamano":  488
+                                                      }
+                                                  ],
+                                     "leido":  "2026-11-01T22:11:37Z"
+                                 },
+    "kovidgoyal/calibre":  {
+                               "repo":  "kovidgoyal/calibre",
+                               "etiqueta":  "v9.17.0",
+                               "version":  "9.17.0",
+                               "fecha":  "2026-10-23T03:50:48Z",
+                               "url":  "https://github.com/kovidgoyal/calibre/releases/tag/v9.17.0",
+                               "archivos":  [
+                                                {
+                                                    "nombre":  "calibre-64bit-9.17.0.msi",
+                                                    "url":  "https://github.com/kovidgoyal/calibre/releases/download/v9.17.0/calibre-64bit-9.17.0.msi",
+                                                    "tamano":  240201728
+                                                },
+                                                {
+                                                    "nombre":  "calibre-9.17.0-arm64.txz",
+                                                    "url":  "https://github.com/kovidgoyal/calibre/releases/download/v9.17.0/calibre-9.17.0-arm64.txz",
+                                                    "tamano":  188047576
+                                                },
+                                                {
+                                                    "nombre":  "calibre-9.17.0-x86_64.txz",
+                                                    "url":  "https://github.com/kovidgoyal/calibre/releases/download/v9.17.0/calibre-9.17.0-x86_64.txz",
+                                                    "tamano":  201590724
+                                                },
+                                                {
+                                                    "nombre":  "calibre-9.17.0.dmg",
+                                                    "url":  "https://github.com/kovidgoyal/calibre/releases/download/v9.17.0/calibre-9.17.0.dmg",
+                                                    "tamano":  357816630
+                                                },
+                                                {
+                                                    "nombre":  "calibre-9.17.0.tar.xz",
+                                                    "url":  "https://github.com/kovidgoyal/calibre/releases/download/v9.17.0/calibre-9.17.0.tar.xz",
+                                                    "tamano":  50661596
+                                                },
+                                                {
+                                                    "nombre":  "calibre-portable-installer-9.17.0.exe",
+                                                    "url":  "https://github.com/kovidgoyal/calibre/releases/download/v9.17.0/calibre-portable-installer-9.17.0.exe",
+                                                    "tamano":  218296072
+                                                }
+                                            ],
+                               "leido":  "2026-11-01T22:11:37Z"
+                           },
+    "microsoft/PowerToys":  {
+                                "repo":  "microsoft/PowerToys",
+                                "etiqueta":  "v0.102.3001",
+                                "version":  "0.102.3001",
+                                "fecha":  "2026-10-27T10:10:02Z",
+                                "url":  "https://github.com/microsoft/PowerToys/releases/tag/v0.102.3001",
+                                "archivos":  [
+                                                 {
+                                                     "nombre":  "GroupPolicyObjectFiles-0.102.3001.0.zip",
+                                                     "url":  "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/GroupPolicyObjectFiles-0.102.3001.0.zip",
+                                                     "tamano":  9137
+                                                 },
+                                                 {
+                                                     "nombre":  "PowerToysSetup-0.102.3001.0-arm64.exe",
+                                                     "url":  "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-arm64.exe",
+                                                     "tamano":  311625952
+                                                 },
+                                                 {
+                                                     "nombre":  "PowerToysSetup-0.102.3001.0-x64.exe",
+                                                     "url":  "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-x64.exe",
+                                                     "tamano":  323913184
+                                                 },
+                                                 {
+                                                     "nombre":  "PowerToysUserSetup-0.102.3001.0-arm64.exe",
+                                                     "url":  "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-arm64.exe",
+                                                     "tamano":  311603808
+                                                 },
+                                                 {
+                                                     "nombre":  "PowerToysUserSetup-0.102.3001.0-x64.exe",
+                                                     "url":  "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-x64.exe",
+                                                     "tamano":  323884640
+                                                 },
+                                                 {
+                                                     "nombre":  "symbols-arm64.zip",
+                                                     "url":  "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-arm64.zip",
+                                                     "tamano":  440131805
+                                                 },
+                                                 {
+                                                     "nombre":  "symbols-x64.zip",
+                                                     "url":  "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-x64.zip",
+                                                     "tamano":  449866626
+                                                 }
+                                             ],
+                                "leido":  "2026-11-01T22:11:38Z"
+                            },
+    "mltframework/shotcut":  {
+                                 "repo":  "mltframework/shotcut",
+                                 "etiqueta":  "v26.9.27",
+                                 "version":  "26.9.27",
+                                 "fecha":  "2026-09-28T00:29:29Z",
+                                 "url":  "https://github.com/mltframework/shotcut/releases/tag/v26.9.27",
+                                 "archivos":  [
+                                                  {
+                                                      "nombre":  "md5sums.txt",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/md5sums.txt",
+                                                      "tamano":  702
+                                                  },
+                                                  {
+                                                      "nombre":  "sha256sums.txt",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/sha256sums.txt",
+                                                      "tamano":  1054
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-linux-x86_64-26.10.3.AppImage",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.10.3.AppImage",
+                                                      "tamano":  216024256
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-linux-x86_64-26.9.27.AppImage",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.9.27.AppImage",
+                                                      "tamano":  217801920
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-linux-x86_64-26.9.27.txz",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.9.27.txz",
+                                                      "tamano":  153652280
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-macos-26.9.27.dmg",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-macos-26.9.27.dmg",
+                                                      "tamano":  210131979
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-macos-26.9.28.dmg",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-macos-26.9.28.dmg",
+                                                      "tamano":  210616938
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-src-26.9.27.txz",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-src-26.9.27.txz",
+                                                      "tamano":  312694812
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-win64-26.9.27.exe",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win64-26.9.27.exe",
+                                                      "tamano":  152926384
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-win64-26.9.27.zip",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win64-26.9.27.zip",
+                                                      "tamano":  213335062
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-win_ARM-26.9.27.exe",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win_ARM-26.9.27.exe",
+                                                      "tamano":  117265384
+                                                  },
+                                                  {
+                                                      "nombre":  "shotcut-win_ARM-26.9.27.zip",
+                                                      "url":  "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win_ARM-26.9.27.zip",
+                                                      "tamano":  159418949
+                                                  }
+                                              ],
+                                 "leido":  "2026-11-01T22:11:37Z"
+                             },
+    "notepad-plus-plus/notepad-plus-plus":  {
+                                                "repo":  "notepad-plus-plus/notepad-plus-plus",
+                                                "etiqueta":  "v8.9.8.1",
+                                                "version":  "8.9.8.1",
+                                                "fecha":  "2026-09-24T15:21:27Z",
+                                                "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.9.8.1",
+                                                "archivos":  [
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.checksums.sha256",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.checksums.sha256",
+                                                                     "tamano":  1271
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.checksums.sha256.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.checksums.sha256.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.arm64.exe",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.arm64.exe",
+                                                                     "tamano":  6632744
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.arm64.exe.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.arm64.exe.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.exe",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.exe",
+                                                                     "tamano":  6814128
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.exe.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.exe.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.x64.exe",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.exe",
+                                                                     "tamano":  6963432
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.x64.exe.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.exe.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.x64.msi",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi",
+                                                                     "tamano":  7835648
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.Installer.x64.msi.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.7z",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.7z",
+                                                                     "tamano":  5812293
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.7z.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.7z.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.arm64.7z",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.7z",
+                                                                     "tamano":  5774292
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.arm64.7z.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.7z.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.arm64.zip",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.zip",
+                                                                     "tamano":  8090883
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.arm64.zip.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.zip.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.minimalist.7z",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.7z",
+                                                                     "tamano":  3843753
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.minimalist.7z.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.7z.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.minimalist.arm64.7z",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.arm64.7z",
+                                                                     "tamano":  3854873
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.minimalist.arm64.7z.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.arm64.7z.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.minimalist.x64.7z",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.x64.7z",
+                                                                     "tamano":  4062038
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.minimalist.x64.7z.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.x64.7z.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.x64.7z",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.7z",
+                                                                     "tamano":  6082405
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.x64.7z.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.7z.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.x64.zip",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.zip",
+                                                                     "tamano":  8250001
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.x64.zip.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.zip.sig",
+                                                                     "tamano":  594
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.zip",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.zip",
+                                                                     "tamano":  7821291
+                                                                 },
+                                                                 {
+                                                                     "nombre":  "npp.8.9.8.1.portable.zip.sig",
+                                                                     "url":  "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.zip.sig",
+                                                                     "tamano":  594
+                                                                 }
+                                                             ],
+                                                "leido":  "2026-11-01T22:11:38Z"
+                                            },
+    "obsproject/obs-studio":  {
+                                  "repo":  "obsproject/obs-studio",
+                                  "etiqueta":  "33.0.1",
+                                  "version":  "33.0.1",
+                                  "fecha":  "2026-10-29T21:52:01Z",
+                                  "url":  "https://github.com/obsproject/obs-studio/releases/tag/33.0.1",
+                                  "archivos":  [
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-macOS-Apple-dSYMs.tar.xz",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple-dSYMs.tar.xz",
+                                                       "tamano":  39297936
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-macOS-Apple.dmg",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple.dmg",
+                                                       "tamano":  209628971
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-macOS-Intel-dSYMs.tar.xz",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel-dSYMs.tar.xz",
+                                                       "tamano":  39994976
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-macOS-Intel.dmg",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel.dmg",
+                                                       "tamano":  221903179
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Sources.tar.gz",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Sources.tar.gz",
+                                                       "tamano":  16719400
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Ubuntu-26.04-x86_64-dbsym.ddeb",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64-dbsym.ddeb",
+                                                       "tamano":  382267440
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb",
+                                                       "tamano":  159354224
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Windows-arm64-PDBs.zip",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64-PDBs.zip",
+                                                       "tamano":  59758532
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Windows-arm64.zip",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64.zip",
+                                                       "tamano":  200182561
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Windows-x64-Installer.exe",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-Installer.exe",
+                                                       "tamano":  186662440
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Windows-x64-PDBs.zip",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-PDBs.zip",
+                                                       "tamano":  65912719
+                                                   },
+                                                   {
+                                                       "nombre":  "OBS-Studio-33.0.1-Windows-x64.zip",
+                                                       "url":  "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64.zip",
+                                                       "tamano":  223786669
+                                                   }
+                                               ],
+                                  "leido":  "2026-11-01T22:11:37Z"
+                              },
+    "pbatard/rufus":  {
+                          "repo":  "pbatard/rufus",
+                          "etiqueta":  "v4.15",
+                          "version":  "4.15",
+                          "fecha":  "2026-06-30T11:28:34Z",
+                          "url":  "https://github.com/pbatard/rufus/releases/tag/v4.15",
+                          "archivos":  [
+                                           {
+                                               "nombre":  "rufus-4.15.exe",
+                                               "url":  "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe",
+                                               "tamano":  1989992
+                                           },
+                                           {
+                                               "nombre":  "rufus-4.15.exe.sig",
+                                               "url":  "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe.sig",
+                                               "tamano":  256
+                                           },
+                                           {
+                                               "nombre":  "rufus-4.15p.exe",
+                                               "url":  "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15p.exe",
+                                               "tamano":  1989992
+                                           },
+                                           {
+                                               "nombre":  "rufus-4.15_arm64.exe",
+                                               "url":  "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_arm64.exe",
+                                               "tamano":  5491048
+                                           },
+                                           {
+                                               "nombre":  "rufus-4.15_arm64.exe.sig",
+                                               "url":  "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_arm64.exe.sig",
+                                               "tamano":  256
+                                           },
+                                           {
+                                               "nombre":  "rufus-4.15_x86.exe",
+                                               "url":  "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_x86.exe",
+                                               "tamano":  1933672
+                                           },
+                                           {
+                                               "nombre":  "rufus-4.15_x86.exe.sig",
+                                               "url":  "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_x86.exe.sig",
+                                               "tamano":  256
+                                           }
+                                       ],
+                          "leido":  "2026-11-01T22:11:38Z"
+                      },
+    "ShareX/ShareX":  {
+                          "repo":  "ShareX/ShareX",
+                          "etiqueta":  "v21.0.0",
+                          "version":  "21.0.0",
+                          "fecha":  "2026-07-03T04:24:56Z",
+                          "url":  "https://github.com/ShareX/ShareX/releases/tag/v21.0.0",
+                          "archivos":  [
+                                           {
+                                               "nombre":  "ShareX-21.0.0-portable-x64.zip",
+                                               "url":  "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-portable-x64.zip",
+                                               "tamano":  208850419
+                                           },
+                                           {
+                                               "nombre":  "ShareX-21.0.0-setup-x64.exe",
+                                               "url":  "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-setup-x64.exe",
+                                               "tamano":  139151207
+                                           }
+                                       ],
+                          "leido":  "2026-11-01T22:11:38Z"
+                      }
+}

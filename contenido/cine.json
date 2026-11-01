@@ -1,0 +1,641 @@
+[
+  {
+    "slug": "big-buck-bunny",
+    "titulo": "Big Buck Bunny",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 1,
+    "anio": 2008,
+    "duracion": "10 min",
+    "direccion": "Sacha Goedegebure",
+    "pais": "Países Bajos",
+    "idioma": "Sin diálogos",
+    "licencia": "Creative Commons Atribución 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0/deed.es",
+    "resumen": "Un conejo gigante y bonachón se cansa de tres roedores abusivos y les prepara una venganza de caricatura.",
+    "descripcion": [
+      "Un conejo enorme y tranquilo disfruta su mañana en el bosque hasta que tres roedores se pasan de la raya con él y con sus amigos. Lo que sigue es una venganza llena de trampas, al estilo de las caricaturas de antes.",
+      "La hizo la Fundación Blender solo con programas libres, y es una de las películas libres más vistas del mundo. No tiene diálogos, así que la disfruta cualquiera, grande o chico."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/big-buck-bunny/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ" },
+      { "texto": "Descargar el archivo oficial", "url": "https://download.blender.org/peach/bigbuckbunny_movies/" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/92/96/9296b1255fff3ef0e25da43f70616349_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Foundation, CC BY 3.0", "credito_url": "https://peach.blender.org/about/" },
+    "fuente_texto": "Licencia comprobada en la página oficial del proyecto:",
+    "fuente_url": "https://peach.blender.org/about/",
+    "fuente_enlace": "peach.blender.org"
+  },
+  {
+    "slug": "sintel",
+    "titulo": "Sintel",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 2,
+    "anio": 2010,
+    "duracion": "15 min",
+    "direccion": "Colin Levy",
+    "pais": "Países Bajos",
+    "idioma": "Inglés (pocos diálogos); en YouTube tiene subtítulos en español",
+    "licencia": "Creative Commons Atribución 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0/deed.es",
+    "resumen": "Una muchacha cruza tierras peligrosas para encontrar al pequeño dragón que fue su amigo.",
+    "descripcion": [
+      "Sintel es una muchacha que recorre montañas, desiertos y ciudades en ruinas buscando a un pequeño dragón al que cuidó y que le quitaron. Es una historia de aventura con un final que no se olvida fácil.",
+      "La hizo la Fundación Blender y es de las más queridas de su colección. Habla poco, y en YouTube tiene subtítulos en español."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/sintel/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ" },
+      { "texto": "Descargar el archivo oficial", "url": "https://download.blender.org/durian/movies/" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/03/f7/03f7b0d15c55b428680d4c6bb313f742_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Foundation, CC BY 3.0", "credito_url": "https://durian.blender.org/about/" },
+    "fuente_texto": "Licencia comprobada en la página oficial del proyecto:",
+    "fuente_url": "https://durian.blender.org/about/",
+    "fuente_enlace": "durian.blender.org"
+  },
+  {
+    "slug": "tears-of-steel",
+    "titulo": "Tears of Steel",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 3,
+    "anio": 2012,
+    "duracion": "12 min",
+    "direccion": "Ian Hubert",
+    "pais": "Países Bajos",
+    "idioma": "Inglés, con subtítulos oficiales en español",
+    "licencia": "Creative Commons Atribución 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0/deed.es",
+    "resumen": "Ciencia ficción en Ámsterdam: para salvar el mundo de los robots, primero hay que arreglar una vieja historia de amor.",
+    "descripcion": [
+      "En una Ámsterdam del futuro, un grupo de científicos intenta detener a unos robots que tienen la ciudad en ruinas. El plan depende de algo que pasó hace años entre dos enamorados.",
+      "Mezcla actores de carne y hueso con efectos hechos por computadora en Blender. Trae subtítulos oficiales en español, que se bajan aparte."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/tears-of-steel/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=R6MlUcmOul8" },
+      { "texto": "Descargar el archivo oficial", "url": "https://download.blender.org/demo/movies/ToS/" },
+      { "texto": "Subtítulos en español", "url": "https://download.blender.org/demo/movies/ToS/subtitles/TOS-es.srt" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/3c/83/3c833d978e7de4b58eaa1a12be541664_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Foundation, CC BY 3.0", "credito_url": "https://mango.blender.org/about/" },
+    "fuente_texto": "Licencia comprobada en la página oficial del proyecto:",
+    "fuente_url": "https://mango.blender.org/about/",
+    "fuente_enlace": "mango.blender.org"
+  },
+  {
+    "slug": "elephants-dream",
+    "titulo": "Elephants Dream",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 4,
+    "anio": 2006,
+    "duracion": "11 min",
+    "direccion": "Bassam Kurdali",
+    "pais": "Países Bajos",
+    "idioma": "Inglés",
+    "licencia": "Creative Commons Atribución",
+    "resumen": "Dos personajes recorren una máquina enorme y extraña donde nada es lo que parece. La primera película libre de Blender.",
+    "descripcion": [
+      "Emo y Proog caminan por dentro de una máquina gigante, llena de pasillos, cables y aparatos que parecen vivos. Uno de los dos ve maravillas donde el otro solo ve peligro.",
+      "Fue la primera película libre de la Fundación Blender: se hizo para demostrar que el cine animado se puede hacer con programas libres. Es rara y oscura, de las que dejan pensando."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/elephants-dream/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=TLkA0RELQ1g" },
+      { "texto": "Descargar el archivo oficial", "url": "https://download.blender.org/ED/" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/04/77/0477dfea1d88a94ba1a75f99f433b8f6_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Foundation, CC BY", "credito_url": "https://orange.blender.org/blog/creative-commons-license-2/" },
+    "fuente_texto": "Licencia comprobada en el blog oficial del proyecto:",
+    "fuente_url": "https://orange.blender.org/blog/creative-commons-license-2/",
+    "fuente_enlace": "orange.blender.org"
+  },
+  {
+    "slug": "cosmos-laundromat",
+    "titulo": "Cosmos Laundromat",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 5,
+    "anio": 2015,
+    "duracion": "12 min",
+    "direccion": "Mathieu Auvray",
+    "pais": "Países Bajos",
+    "idioma": "Inglés; en YouTube tiene subtítulos en español",
+    "licencia": "Creative Commons Atribución 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0/deed.es",
+    "resumen": "Una oveja triste en una isla perdida conoce a un vendedor muy raro que le ofrece la vida que quiera.",
+    "descripcion": [
+      "Franck es una oveja aburrida de su vida en una isla gris. Un día aparece un vendedor muy extraño que le promete cualquier vida que desee, y empieza un viaje loco por otros mundos.",
+      "Es el primer capítulo, «First Cycle», de un proyecto más grande de la Fundación Blender. Mezcla comedia y drama, y se ve muy bien."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/cosmos-laundromat/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=Y-rmzh0PI3c" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/75/54/7554352c0ec78a8540a8e5f3b3671927_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Foundation, CC BY 3.0", "credito_url": "https://cosmoslaundromat.org/about/" },
+    "fuente_texto": "Licencia comprobada en la página oficial del proyecto:",
+    "fuente_url": "https://cosmoslaundromat.org/about/",
+    "fuente_enlace": "cosmoslaundromat.org"
+  },
+  {
+    "slug": "spring",
+    "titulo": "Spring",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 6,
+    "anio": 2019,
+    "duracion": "8 min",
+    "direccion": "Andy Goralczyk",
+    "pais": "Países Bajos",
+    "idioma": "Sin diálogos",
+    "licencia": "Creative Commons Atribución 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0/deed.es",
+    "resumen": "Una pastora y su perro se enfrentan a espíritus antiguos para que vuelva la primavera.",
+    "descripcion": [
+      "Una joven pastora y su perro tienen que enfrentarse a los espíritus de la montaña para que el invierno termine y vuelva la primavera.",
+      "Es de las más bonitas de Blender Studio: sus paisajes parecen pintados a mano. No tiene diálogos."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/spring/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/ea/65/ea65feaacf95911f39844e2ea97e68b5_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Studio, CC BY 4.0", "credito_url": "https://studio.blender.org/projects/spring/pages/about/" },
+    "fuente_url": "https://studio.blender.org/projects/spring/pages/about/",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "coffee-run",
+    "titulo": "Coffee Run",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 7,
+    "anio": 2020,
+    "duracion": "3 min",
+    "direccion": "Hjalti Hjálmarsson",
+    "pais": "Países Bajos",
+    "idioma": "Sin diálogos",
+    "licencia": "Creative Commons Atribución 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0/deed.es",
+    "resumen": "Con demasiado café encima, una muchacha corre por los recuerdos de una relación que ya terminó.",
+    "descripcion": [
+      "Una muchacha sale corriendo con demasiado café en el cuerpo, y en la carrera se le cruzan los recuerdos dulces y amargos de una relación que ya terminó.",
+      "Son solo tres minutos, sin diálogos y con mucho ritmo."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/coffee-run/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=PVGeM40dABA" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/7a/43/7a43fa6b0bc44e62f1cbb21473800e07_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Studio, CC BY 4.0", "credito_url": "https://studio.blender.org/projects/coffee-run/pages/licensing/" },
+    "fuente_url": "https://studio.blender.org/projects/coffee-run/pages/licensing/",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "sprite-fright",
+    "titulo": "Sprite Fright",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 8,
+    "anio": 2021,
+    "duracion": "10 min",
+    "direccion": "Matthew Luhn",
+    "pais": "Países Bajos",
+    "idioma": "Inglés; en YouTube tiene subtítulos en español",
+    "licencia": "Creative Commons Atribución 1.0 (así lo dice su página)",
+    "licencia_url": "https://creativecommons.org/licenses/by/1.0/",
+    "resumen": "Unos adolescentes hacen fiesta en el bosque y molestan a los duendes que viven ahí. Comedia de sustos al estilo de los 80.",
+    "descripcion": [
+      "Un grupo de adolescentes se va de paseo al bosque y no respeta a los pequeños seres que viven entre los hongos. Mala idea: los duendes se defienden.",
+      "Es una comedia de terror al estilo de las películas de los años 80. Tiene sustos y algo de violencia de caricatura, así que no es para niños pequeños."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/sprite-fright/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=_cMxraX_5RE" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/ce/83/ce833b1d7d5862f1c6e64f7d5b8b0fc9_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Studio, Creative Commons", "credito_url": "https://studio.blender.org/projects/sprite-fright/pages/about/" },
+    "fuente_url": "https://studio.blender.org/projects/sprite-fright/pages/about/",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "agent-327",
+    "titulo": "Agent 327: Operation Barbershop",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 9,
+    "anio": 2017,
+    "duracion": "4 min",
+    "direccion": "Colin Levy y Hjalti Hjálmarsson",
+    "pais": "Países Bajos",
+    "idioma": "Inglés; en YouTube tiene subtítulos en español",
+    "licencia": "Creative Commons Atribución-SinDerivadas",
+    "licencia_url": "https://creativecommons.org/licenses/by-nd/4.0/deed.es",
+    "resumen": "Un agente secreto se mete en una barbería que esconde mucho más que tijeras y navajas.",
+    "descripcion": [
+      "El agente 327 entra a una barbería que parece normal, pero ahí adentro se esconde una trampa tras otra. Acción y humor al estilo de las películas de espías.",
+      "Está basada en el cómic holandés de Martin Lodewijk y se hizo como adelanto de un largometraje. Su licencia deja verla y compartirla, pero no cambiarla."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/agent-327/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=mN0zPOpADL4" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/37/cd/37cdbd9f849e917fcb4c7269cba43343_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Studio, CC BY-ND", "credito_url": "https://studio.blender.org/projects/agent-327/pages/about/" },
+    "fuente_url": "https://studio.blender.org/projects/agent-327/pages/about/",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "glass-half",
+    "titulo": "Glass Half",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 10,
+    "anio": 2015,
+    "duracion": "3 min",
+    "direccion": "Beorn Leonard",
+    "pais": "Países Bajos",
+    "licencia": "Creative Commons Atribución 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0/deed.es",
+    "resumen": "Dos críticos de arte aficionados discuten en una galería hasta que encuentran una obra en la que están de acuerdo.",
+    "descripcion": [
+      "Dos críticos de arte aficionados se encuentran en una galería y discuten con pasión cada obra que ven, sin importarles los demás visitantes. Hasta que dan con una pieza en la que por fin están de acuerdo.",
+      "Una comedia corta sobre los gustos de cada quien."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/glass-half/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=lqiN98z6Dak" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/ca/e4/cae4b30a27c3a0fe21d494d20b4fce83_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Foundation, CC BY 3.0", "credito_url": "https://studio.blender.org/projects/glass-half/pages/licensing/" },
+    "fuente_url": "https://studio.blender.org/projects/glass-half/pages/licensing/",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "charge",
+    "titulo": "Charge",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 11,
+    "anio": 2022,
+    "duracion": "4 min",
+    "direccion": "Hjalti Hjálmarsson",
+    "pais": "Países Bajos",
+    "licencia": "Creative Commons Atribución 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0/deed.es",
+    "resumen": "Cuatro minutos de pura acción, con el aspecto de las escenas de los videojuegos.",
+    "descripcion": [
+      "Charge es un corto de acción de unos cuatro minutos, inspirado en las escenas de los videojuegos y en las demostraciones que se dibujan en tiempo real.",
+      "Blender Studio lo hizo para empujar al límite lo que Blender puede hacer con ese estilo. Su página no le pone otra licencia, así que vale la regla general del estudio: Creative Commons Atribución 4.0."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/charge/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=UXqq0ZvbOnk" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/ae/13/ae134adfbfa91160947451873ab09c6d_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Studio, CC BY 4.0", "credito_url": "https://studio.blender.org/terms-and-conditions" },
+    "fuente_texto": "Licencia según los términos de Blender Studio:",
+    "fuente_url": "https://studio.blender.org/terms-and-conditions",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "wing-it",
+    "titulo": "Wing It!",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 12,
+    "anio": 2023,
+    "duracion": "4 min",
+    "direccion": "Rik Schutte",
+    "pais": "Países Bajos",
+    "licencia": "Creative Commons Atribución 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0/deed.es",
+    "resumen": "Un gato y un perro que no se llevan nada bien intentan llegar a la luna en una nave hecha en casa.",
+    "descripcion": [
+      "Un gato construye una nave espacial y un perro termina al mando, rumbo a la luna. Como no se llevan nada bien, el viaje sale tan mal como te imaginas.",
+      "Mezcla animación en 2D y en 3D, y fue elegida para el festival de animación de Annecy de 2024, en la sección para público joven."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/wing-it/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=u9lj-c29dxI" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/c2/6d/c26d3b56aeb6bc9bf1ba6ee8e27b7ccd_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Studio, CC BY 4.0", "credito_url": "https://studio.blender.org/projects/wing-it/pages/licensing/" },
+    "fuente_url": "https://studio.blender.org/projects/wing-it/pages/licensing/",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "singularity",
+    "titulo": "Singularity",
+    "tipo": "corto",
+    "grupo": "libre",
+    "orden": 13,
+    "anio": 2026,
+    "duracion": "7 min",
+    "direccion": "Andy Goralczyk",
+    "pais": "Países Bajos",
+    "idioma": "Sin diálogos",
+    "licencia": "Creative Commons Atribución 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0/deed.es",
+    "resumen": "Un pequeño ser del espacio pierde su hogar y busca refugio con otras criaturas. La película libre más nueva de Blender.",
+    "descripcion": [
+      "En una época muy antigua del universo, un suceso cósmico se traga el hogar de un pequeño ser del espacio. Sin casa, busca refugio junto a otras criaturas, bajo la mirada de un ser celeste misterioso.",
+      "Es la película libre más nueva de Blender Studio, de 2026. No tiene diálogos: la historia la cuentan los sonidos y la música."
+    ],
+    "ver": { "texto": "Ver en Blender Studio", "url": "https://studio.blender.org/projects/singularity/" },
+    "otros": [
+      { "texto": "Verla en YouTube", "url": "https://www.youtube.com/watch?v=l5OZu-IrXpw" }
+    ],
+    "portada": { "url": "https://studio.blender.org/files/public/thumbnail/b0/e4/b0e42f5463a4dba3adf6386d9dd0f048_m.webp", "ancho": 1280, "alto": 720, "credito": "Blender Studio, CC BY 4.0", "credito_url": "https://studio.blender.org/projects/singularity/pages/licensing/" },
+    "fuente_url": "https://studio.blender.org/projects/singularity/pages/licensing/",
+    "fuente_enlace": "studio.blender.org"
+  },
+  {
+    "slug": "caminandes",
+    "titulo": "Caminandes",
+    "tipo": "serie",
+    "grupo": "libre",
+    "orden": 14,
+    "anio": "2013 a 2016",
+    "duracion": "3 episodios de 2 min",
+    "direccion": "Pablo Vazquez",
+    "idioma": "Sin diálogos",
+    "licencia": "Creative Commons Atribución",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Blender_Foundation_-_Caminandes_-_Episode_3_-_Llamigos_-_Cover_thumbnail.png",
+    "resumen": "Koro, una llama de la Patagonia, se mete en líos cada vez que quiere cruzar al otro lado.",
+    "descripcion": [
+      "Koro es una llama de la Patagonia muy terca: en cada episodio quiere pasar al otro lado de algo, ya sea una carretera, una cerca eléctrica o el camino de un pingüino, y siempre termina en problemas.",
+      "Son tres episodios cortos y sin diálogos, buenos para ver con niños: «Llama Drama», «Gran Dillama» y «Llamigos». Los hizo el argentino Pablo Vazquez con Blender."
+    ],
+    "ver": { "texto": "Ver «Llamigos» en Blender Studio", "url": "https://studio.blender.org/projects/caminandes-3/" },
+    "otros": [
+      { "texto": "Episodio 1 en YouTube", "url": "https://www.youtube.com/watch?v=JOhiWY7XmoY" },
+      { "texto": "Episodio 2 en YouTube", "url": "https://www.youtube.com/watch?v=Z4C82eyhwgU" },
+      { "texto": "Episodio 3 en YouTube", "url": "https://www.youtube.com/watch?v=SkVqJ1SGeL0" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Blender_Foundation_-_Caminandes_-_Episode_3_-_Llamigos_-_Cover_thumbnail.png/960px-Blender_Foundation_-_Caminandes_-_Episode_3_-_Llamigos_-_Cover_thumbnail.png", "ancho": 960, "alto": 540, "credito": "Blender Foundation, CC BY 4.0, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Blender_Foundation_-_Caminandes_-_Episode_3_-_Llamigos_-_Cover_thumbnail.png" },
+    "fuente_texto": "Licencia comprobada en:",
+    "fuente_url": "https://www.youtube.com/watch?v=JOhiWY7XmoY",
+    "fuente_enlace": "la descripción oficial del episodio 1"
+  },
+  {
+    "slug": "morevna",
+    "titulo": "Morevna",
+    "tipo": "serie",
+    "grupo": "libre",
+    "orden": 15,
+    "anio": 2016,
+    "duracion": "Episodio 3: 10 min",
+    "direccion": "Konstantin Dmitriev",
+    "pais": "Rusia",
+    "idioma": "Inglés; en YouTube tiene subtítulos en español",
+    "licencia": "Creative Commons Atribución-CompartirIgual 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    "resumen": "Anime de ciencia ficción hecho solo con programas libres, basado en un cuento ruso de una princesa guerrera.",
+    "descripcion": [
+      "Morevna toma el cuento ruso de Marya Morevna, la princesa guerrera, y lo cuenta como anime de ciencia ficción, con robots y peleas.",
+      "La hace el Morevna Project solo con programas libres, como Synfig y Blender. El episodio 3 se puede ver gratis en su página y en YouTube."
+    ],
+    "ver": { "texto": "Ver el episodio 3", "url": "https://morevnaproject.org/animated-short/morevna-episode-3/" },
+    "otros": [
+      { "texto": "Verlo en YouTube", "url": "https://www.youtube.com/watch?v=ecVv2IB7f5k" }
+    ],
+    "portada": { "url": "https://morevnaproject.org/wp-content/uploads/2018/02/poster-youtube-alt2-en.jpg", "ancho": 1920, "alto": 1080, "credito": "Morevna Project, CC BY-SA 4.0", "credito_url": "https://morevnaproject.org/animated-short/morevna-episode-3/" },
+    "fuente_url": "https://morevnaproject.org/animated-short/morevna-episode-3/",
+    "fuente_enlace": "morevnaproject.org"
+  },
+  {
+    "slug": "pepper-and-carrot",
+    "titulo": "Pepper&Carrot (animación)",
+    "tipo": "serie",
+    "grupo": "libre",
+    "orden": 16,
+    "anio": "2017 a 2022",
+    "duracion": "Episodios de 2 a 8 min",
+    "direccion": "Morevna Project, sobre el cómic de David Revoy",
+    "idioma": "Inglés",
+    "licencia": "Creative Commons Atribución-CompartirIgual 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    "resumen": "La pequeña bruja Pepper y su gato Carrot se meten en líos de magia. Basada en un cómic libre.",
+    "descripcion": [
+      "Pepper es una bruja joven que aprende magia con su gato Carrot, y casi todo le sale al revés. Esta serie animada lleva a la pantalla el cómic libre del francés David Revoy.",
+      "La anima el Morevna Project con programas libres. Los episodios se pueden ver gratis, y en itch.io se pueden bajar junto con sus archivos de trabajo."
+    ],
+    "ver": { "texto": "Ver los episodios", "url": "https://morevnaproject.org/pepper-and-carrot/" },
+    "otros": [
+      { "texto": "Episodio 6 en YouTube", "url": "https://www.youtube.com/watch?v=cTb1_w8hvqY" },
+      { "texto": "Descargar en itch.io (gratis)", "url": "https://morevnaproject.itch.io/peppercarrot-motion-comic" }
+    ],
+    "portada": { "url": "https://i.ytimg.com/vi/v6-r01Jb_HM/hqdefault.jpg", "ancho": 480, "alto": 360, "credito": "Morevna Project y David Revoy, CC BY-SA 4.0", "credito_url": "https://morevnaproject.org/pepper-and-carrot/episode-5/" },
+    "fuente_texto": "Licencia comprobada en la página del episodio:",
+    "fuente_url": "https://morevnaproject.org/pepper-and-carrot/episode-5/",
+    "fuente_enlace": "morevnaproject.org"
+  },
+  {
+    "slug": "viaje-a-la-luna",
+    "titulo": "Viaje a la Luna",
+    "tipo": "corto",
+    "grupo": "dominio-publico",
+    "orden": 1,
+    "anio": 1902,
+    "duracion": "Entre 9 y 18 min, según la copia",
+    "direccion": "Georges Méliès",
+    "pais": "Francia",
+    "idioma": "Muda",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Le_Voyage_dans_la_Lune_(1902).webm",
+    "resumen": "Unos astrónomos viajan a la Luna en una cápsula disparada con un cañón. Una de las primeras películas de ciencia ficción.",
+    "descripcion": [
+      "Un grupo de astrónomos se mete en una cápsula, la disparan con un cañón gigante y termina clavada en el ojo de la Luna. Allá arriba los esperan estrellas con cara, hongos enormes y unos habitantes nada amistosos.",
+      "Es una de las películas más famosas de la historia y de las primeras de ciencia ficción. La hizo el mago y cineasta francés Georges Méliès, pionero de los efectos especiales. Es muda."
+    ],
+    "ver": { "texto": "Ver en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Le_Voyage_dans_la_Lune_(1902).webm", "nota": "Wikimedia Commons solo guarda obras libres o de dominio público." },
+    "otros": [
+      { "texto": "Verla en Internet Archive", "url": "https://archive.org/details/le-voyage-dans-la-lune-1902" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Voyage_dans_la_Lune_affiche.jpg/500px-Voyage_dans_la_Lune_affiche.jpg", "ancho": 500, "alto": 617, "ajuste": "contener", "alt": "Cartel de Viaje a la Luna", "credito": "Cartel de 1902, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Voyage_dans_la_Lune_affiche.jpg" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:Le_Voyage_dans_la_Lune_(1902).webm",
+    "fuente_enlace": "Wikimedia Commons"
+  },
+  {
+    "slug": "asalto-y-robo-de-un-tren",
+    "titulo": "Asalto y robo de un tren",
+    "tipo": "corto",
+    "grupo": "dominio-publico",
+    "orden": 2,
+    "anio": 1903,
+    "duracion": "12 min",
+    "direccion": "Edwin S. Porter",
+    "pais": "Estados Unidos",
+    "idioma": "Muda",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:The_Great_Train_Robbery_(1903).webm",
+    "resumen": "Cuatro bandidos asaltan un tren y huyen a caballo. Uno de los primeros westerns del cine.",
+    "descripcion": [
+      "Cuatro bandidos asaltan un tren, les roban a los pasajeros y huyen a caballo con el pueblo detrás de ellos. Termina con una escena famosa: uno de los bandidos le dispara directo a la cámara.",
+      "Es uno de los primeros westerns y una de las películas que enseñaron a contar una historia saltando de una escena a otra. Muda y de 12 minutos; su título en inglés es «The Great Train Robbery»."
+    ],
+    "ver": { "texto": "Ver en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Great_Train_Robbery_(1903).webm", "nota": "Wikimedia Commons solo guarda obras libres o de dominio público." },
+    "otros": [
+      { "texto": "Verla en Internet Archive", "url": "https://archive.org/details/the-great-train-robbery-1903" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Great_Train_Robbery_Poster.jpeg", "ancho": 500, "alto": 700, "ajuste": "contener", "alt": "Cartel de Asalto y robo de un tren", "credito": "Cartel de 1903, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Great_Train_Robbery_Poster.jpeg" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:The_Great_Train_Robbery_(1903).webm",
+    "fuente_enlace": "Wikimedia Commons"
+  },
+  {
+    "slug": "frankenstein-1910",
+    "titulo": "Frankenstein (1910)",
+    "tipo": "corto",
+    "grupo": "dominio-publico",
+    "orden": 3,
+    "anio": 1910,
+    "duracion": "16 min",
+    "direccion": "J. Searle Dawley",
+    "pais": "Estados Unidos",
+    "idioma": "Muda",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Frankenstein_-_Edison_Mfg._Co.,_1910.webm",
+    "resumen": "La primera película de Frankenstein: un joven científico crea un ser que no sale como esperaba.",
+    "descripcion": [
+      "Es la primera película basada en la novela de Mary Shelley. Un joven científico crea un ser en su laboratorio, pero lo que sale de la olla no es lo que esperaba, y ese ser no lo deja en paz.",
+      "La hizo el estudio de Thomas Edison y estuvo perdida durante décadas, hasta que apareció una copia. Muda y de 16 minutos."
+    ],
+    "ver": { "texto": "Ver en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Frankenstein_-_Edison_Mfg._Co.,_1910.webm", "nota": "Wikimedia Commons solo guarda obras libres o de dominio público." },
+    "otros": [
+      { "texto": "Verla en Internet Archive", "url": "https://archive.org/details/Frankenstein_1910" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Frankenstein_%281910%29_poster.jpg/500px-Frankenstein_%281910%29_poster.jpg", "ancho": 500, "alto": 700, "ajuste": "contener", "alt": "Cartel de Frankenstein de 1910", "credito": "Cartel de 1910, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Frankenstein_(1910)_poster.jpg" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:Frankenstein_-_Edison_Mfg._Co.,_1910.webm",
+    "fuente_enlace": "Wikimedia Commons"
+  },
+  {
+    "slug": "gertie-el-dinosaurio",
+    "titulo": "Gertie, el dinosaurio",
+    "tipo": "corto",
+    "grupo": "dominio-publico",
+    "orden": 4,
+    "anio": 1914,
+    "duracion": "12 min",
+    "direccion": "Winsor McCay",
+    "pais": "Estados Unidos",
+    "idioma": "Muda",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Winsor_McCay_(1914)Gertie_the_Dinosaur.webm",
+    "resumen": "Una dinosauria simpática baila, come árboles y obedece (más o menos) a su domador. Dibujos animados de 1914.",
+    "descripcion": [
+      "Gertie es una dinosauria simpática que baila, se come un árbol entero, se pone a llorar cuando la regañan y obedece (más o menos) a su domador. Fue de los primeros dibujos animados con un personaje que tiene personalidad propia.",
+      "Su creador, Winsor McCay, la dibujó a mano, cuadro por cuadro. Es muda y perfecta para ver con niños."
+    ],
+    "ver": { "texto": "Ver en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Winsor_McCay_(1914)Gertie_the_Dinosaur.webm", "nota": "Wikimedia Commons solo guarda obras libres o de dominio público." },
+    "otros": [
+      { "texto": "Verla en Internet Archive", "url": "https://archive.org/details/DinozaurGertie1914Rez.WinsorMcCay" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gertie_the_Dinosaur_poster.jpg/500px-Gertie_the_Dinosaur_poster.jpg", "ancho": 500, "alto": 700, "ajuste": "contener", "alt": "Cartel de Gertie, el dinosaurio", "credito": "Cartel de 1914, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Gertie_the_Dinosaur_poster.jpg" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:Winsor_McCay_(1914)Gertie_the_Dinosaur.webm",
+    "fuente_enlace": "Wikimedia Commons"
+  },
+  {
+    "slug": "nosferatu",
+    "titulo": "Nosferatu",
+    "tipo": "pelicula",
+    "grupo": "dominio-publico",
+    "orden": 5,
+    "anio": 1922,
+    "duracion": "Entre 63 y 94 min, según la copia",
+    "direccion": "F. W. Murnau",
+    "pais": "Alemania",
+    "idioma": "Muda",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922).webm",
+    "resumen": "Un vampiro llega a una ciudad alemana y con él las ratas y la peste. Un clásico del terror.",
+    "descripcion": [
+      "El conde Orlok, un vampiro que vive en lo alto de los montes, compra una casa en una ciudad alemana, y con él llegan las ratas y la peste. Su sombra subiendo por la escalera es una de las imágenes más famosas del cine.",
+      "Es una versión no oficial de «Drácula», la novela de Bram Stoker, y un clásico del cine de terror alemán. Es muda, así que la pueden ver todos, aunque da miedo."
+    ],
+    "ver": { "texto": "Ver en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922).webm", "nota": "Wikimedia Commons solo guarda obras libres o de dominio público." },
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nosferatu_%281922%29_-_Count_Orlok_Standing_In_A_Wooden_Doorway.png/500px-Nosferatu_%281922%29_-_Count_Orlok_Standing_In_A_Wooden_Doorway.png", "ancho": 500, "alto": 375, "ajuste": "contener", "alt": "El conde Orlok parado en una puerta de madera", "credito": "Fotograma de 1922, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922)_-_Count_Orlok_Standing_In_A_Wooden_Doorway.png" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922).webm",
+    "fuente_enlace": "Wikimedia Commons"
+  },
+  {
+    "slug": "los-cuatro-jinetes-del-apocalipsis",
+    "titulo": "Los cuatro jinetes del Apocalipsis",
+    "tipo": "pelicula",
+    "grupo": "dominio-publico",
+    "orden": 6,
+    "anio": 1921,
+    "duracion": "Entre 134 y 156 min, según la versión",
+    "direccion": "Rex Ingram",
+    "pais": "Estados Unidos",
+    "idioma": "Muda",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:The_Four_Horsemen_of_the_Apocalypse_(1921).webm",
+    "resumen": "Basada en la novela del español Blasco Ibáñez: una familia de Argentina queda dividida por la Primera Guerra Mundial.",
+    "descripcion": [
+      "Está basada en la novela del español Vicente Blasco Ibáñez. Los nietos de un rico hacendado de Argentina terminan en bandos contrarios cuando estalla la Primera Guerra Mundial, uno del lado de Francia y otro del de Alemania.",
+      "Fue la película que volvió famoso a Rodolfo Valentino, con su escena bailando tango. Es muda y larga, de más de dos horas."
+    ],
+    "ver": { "texto": "Ver en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:The_Four_Horsemen_of_the_Apocalypse_(1921).webm", "nota": "Wikimedia Commons solo guarda obras libres o de dominio público." },
+    "otros": [
+      { "texto": "Verla en Internet Archive", "url": "https://archive.org/details/The_Four_Horsemen_of_the_Apocalypse" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Four_Horsemen_of_the_Apocalypse_Poster.jpg/500px-Four_Horsemen_of_the_Apocalypse_Poster.jpg", "ancho": 500, "alto": 700, "ajuste": "contener", "alt": "Cartel de Los cuatro jinetes del Apocalipsis", "credito": "Cartel de 1921, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Four_Horsemen_of_the_Apocalypse_Poster.jpg" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:The_Four_Horsemen_of_the_Apocalypse_(1921).webm",
+    "fuente_enlace": "Wikimedia Commons"
+  },
+  {
+    "slug": "amanecer",
+    "titulo": "Amanecer",
+    "tipo": "pelicula",
+    "grupo": "dominio-publico",
+    "orden": 7,
+    "anio": 1927,
+    "duracion": "95 min",
+    "direccion": "F. W. Murnau",
+    "pais": "Estados Unidos",
+    "idioma": "Muda, con música y efectos de sonido de su época",
+    "licencia": "Dominio público",
+    "licencia_url": "https://commons.wikimedia.org/wiki/File:Sunrise_-_A_Song_of_Two_Humans_(1927).webm",
+    "resumen": "Un campesino está a punto de cometer un error terrible contra su esposa, y un día en la ciudad les cambia la vida.",
+    "descripcion": [
+      "Un campesino, enamorado de una mujer de la ciudad, está a punto de cometer un error terrible contra su esposa. Lo que sigue es un día en la ciudad que les cambia la vida a los dos.",
+      "Ganó premios en la primera entrega de los Óscar y es considerada una de las películas más bellas del cine mudo. Su título en inglés es «Sunrise: A Song of Two Humans»."
+    ],
+    "ver": { "texto": "Ver en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Sunrise_-_A_Song_of_Two_Humans_(1927).webm", "nota": "Wikimedia Commons solo guarda obras libres o de dominio público." },
+    "otros": [
+      { "texto": "Verla en Internet Archive", "url": "https://archive.org/details/sunrise-1927-by-f.-w.-murnau" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sunrise_-_A_Song_of_Two_Humans.jpg/500px-Sunrise_-_A_Song_of_Two_Humans.jpg", "ancho": 500, "alto": 700, "ajuste": "contener", "alt": "Cartel de Amanecer", "credito": "Cartel de 1927, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Sunrise_-_A_Song_of_Two_Humans.jpg" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:Sunrise_-_A_Song_of_Two_Humans_(1927).webm",
+    "fuente_enlace": "Wikimedia Commons"
+  },
+  {
+    "slug": "judex",
+    "titulo": "Judex",
+    "tipo": "serie",
+    "grupo": "dominio-publico",
+    "orden": 8,
+    "anio": 1916,
+    "duracion": "12 episodios, unas 6 horas en total",
+    "direccion": "Louis Feuillade",
+    "pais": "Francia",
+    "idioma": "Muda; la copia completa trae letreros en inglés",
+    "licencia": "Dominio público",
+    "licencia_url": "https://archive.org/details/JudexEpisode01LOmbreMystrieuse1916",
+    "resumen": "Un justiciero misterioso de capa negra contra un banquero sin escrúpulos. Serie francesa de 12 episodios.",
+    "descripcion": [
+      "Un justiciero misterioso, con capa y sombrero negros, decide castigar a un banquero sin escrúpulos. Pero en el camino aparecen secuestros, disfraces y una villana que no se rinde nunca.",
+      "Es una serie francesa de 12 episodios, abuela de los superhéroes del cine. La dirigió Louis Feuillade, maestro del suspenso en el cine mudo."
+    ],
+    "ver": { "texto": "Ver la serie en Internet Archive", "url": "https://archive.org/details/JudexEpisode01LOmbreMystrieuse1916", "nota": "Internet Archive es una biblioteca sin fines de lucro; esta copia está marcada como dominio público." },
+    "otros": [
+      { "texto": "Episodio 1 en Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Judex_-_Episode_01_-_L%27Ombre_myst%C3%A9rieuse_(1916).webm" }
+    ],
+    "portada": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Le_Petit_Parisien_publie_Judex%2C_roman-cin%C3%A9_par_Arthur_Bern%C3%A8de%2C_cr%C3%A9%C3%A9_et_film%C3%A9_par_L._Feuillade%2C_film_Gaumont_affiche%2C_de_Leonetto_Cappiello.jpg/500px-Le_Petit_Parisien_publie_Judex%2C_roman-cin%C3%A9_par_Arthur_Bern%C3%A8de%2C_cr%C3%A9%C3%A9_et_film%C3%A9_par_L._Feuillade%2C_film_Gaumont_affiche%2C_de_Leonetto_Cappiello.jpg", "ancho": 500, "alto": 700, "ajuste": "contener", "alt": "Cartel de Judex, de Leonetto Cappiello", "credito": "Cartel de Leonetto Cappiello, dominio público, vía Wikimedia Commons", "credito_url": "https://commons.wikimedia.org/wiki/File:Le_Petit_Parisien_publie_Judex,_roman-cin%C3%A9_par_Arthur_Bern%C3%A8de,_cr%C3%A9%C3%A9_et_film%C3%A9_par_L._Feuillade,_film_Gaumont_affiche,_de_Leonetto_Cappiello.jpg" },
+    "fuente_texto": "Dominio público comprobado en:",
+    "fuente_url": "https://commons.wikimedia.org/wiki/File:Judex_-_Episode_01_-_L%27Ombre_myst%C3%A9rieuse_(1916).webm",
+    "fuente_enlace": "Wikimedia Commons"
+  }
+]

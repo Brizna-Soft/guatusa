@@ -1,0 +1,25 @@
+{
+  "sitio": {
+    "url": "https://brizna-soft.pages.dev",
+    "repositorio": "https://github.com/Brizna-Soft/guatusa",
+    "brizna": "https://brizna-soft.github.io/"
+  },
+  "fuentes": {
+    "paginas_itch": 2,
+    "dias_regalos_terminados": 30,
+    "dias_ofertas_terminadas": 7,
+    "dias_itch_fuera_de_lista": 14
+  },
+  "ingresos": {
+    "adsense_cliente": "",
+    "paypal": "https://paypal.me/BriznaSoft",
+    "telegram_canal": "",
+    "afiliados": {},
+    "acortador": ""
+  },
+  "telegram": {
+    "maximo_por_vez": 6,
+    "tipos": ["regalo", "oferta", "brizna"],
+    "descuento_minimo": 50
+  }
+}

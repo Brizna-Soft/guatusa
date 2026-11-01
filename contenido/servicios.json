@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "pluto-tv",
+    "nombre": "Pluto TV",
+    "orden": 1,
+    "resumen": "Televisión gratis por internet: canales en vivo de películas, series, novelas y anime, en español.",
+    "descripcion": [
+      "Pluto TV es televisión gratis por internet: muchos canales en vivo de películas, series, novelas, anime, programas de misterio y noticias, y además una sección para ver películas y series cuando quieras. Se paga con anuncios, como la tele de siempre.",
+      "No hace falta crear una cuenta. La versión para Latinoamérica está en español, y la comprobamos desde Honduras el 1 de noviembre de 2026."
+    ],
+    "url": "https://pluto.tv/latam/",
+    "precio": "Gratis, con anuncios",
+    "cuenta": "No hace falta",
+    "espanol": "Sí, la versión para Latinoamérica",
+    "plataformas": ["Web", "Android", "iPhone", "Smart TV"],
+    "honduras": "Sí: lo probamos desde Honduras el 1 de noviembre de 2026",
+    "evidencia": "https://pluto.tv/latam/",
+    "evidencia_texto": "pluto.tv/latam, abierto desde Honduras",
+    "portada": { "texto": true, "color": "#2B2F36", "subtitulo": "Televisión gratis en vivo" }
+  },
+  {
+    "slug": "vix-gratis",
+    "nombre": "ViX Gratis",
+    "orden": 2,
+    "resumen": "El plan gratis de ViX: novelas, películas, series y noticias en español, con anuncios y sin tarjeta.",
+    "descripcion": [
+      "ViX es el servicio de video de TelevisaUnivision. Su plan gratis, ViX Gratis, trae novelas, películas, series y noticias en español, a cambio de ver anuncios.",
+      "Según su ayuda oficial, ViX funciona en Honduras y el plan gratis no pide tarjeta. Lo que trae y el precio de los otros planes cambian según el país."
+    ],
+    "url": "https://vix.com/",
+    "precio": "Gratis, con anuncios",
+    "cuenta": "No pide tarjeta; puede pedir una cuenta gratis",
+    "espanol": "Sí, todo en español",
+    "plataformas": ["Web", "Android", "iPhone", "Smart TV"],
+    "honduras": "Sí, según su página de ayuda",
+    "evidencia": "https://ayuda.vix.com/hc/en-us/articles/4863337920141-In-which-countries-is-ViX-available",
+    "evidencia_texto": "la ayuda oficial de ViX",
+    "portada": { "texto": true, "color": "#C2410C", "subtitulo": "Novelas y películas en español" }
+  },
+  {
+    "slug": "plex",
+    "nombre": "Plex",
+    "orden": 3,
+    "resumen": "Miles de películas y series gratis con anuncios. La mayoría en inglés, con algunas en español.",
+    "descripcion": [
+      "Plex sirve para ver tus propios videos en cualquier aparato, pero además tiene miles de películas y series gratis con anuncios, y canales en vivo.",
+      "Su ayuda dice que el contenido gratis funciona en casi todos los países, y Honduras no está en la lista de los que quedan fuera. Ojo: la mayoría está en inglés."
+    ],
+    "url": "https://watch.plex.tv/",
+    "precio": "Gratis, con anuncios",
+    "cuenta": "Puede pedir una cuenta gratis",
+    "espanol": "Poco: la mayoría está en inglés",
+    "plataformas": ["Web", "Android", "iPhone", "Smart TV"],
+    "honduras": "Sí, según su página de ayuda",
+    "evidencia": "https://support.plex.tv/articles/frequently-asked-questions-vod/",
+    "evidencia_texto": "la ayuda oficial de Plex",
+    "portada": { "texto": true, "color": "#9A6A12", "subtitulo": "Películas y series gratis" }
+  },
+  {
+    "slug": "retina-latina",
+    "nombre": "Retina Latina",
+    "orden": 4,
+    "resumen": "Cine latinoamericano gratis: películas, documentales y cortos de toda la región, sin registrarte.",
+    "descripcion": [
+      "Retina Latina es una plataforma gratis de cine latinoamericano: películas, documentales y cortos de toda la región que casi nunca llegan a los cines de aquí. La impulsan entidades públicas de cine de varios países latinoamericanos.",
+      "No hace falta registrarse. Su página dice que la mayoría de las películas se pueden ver en América Latina y el Caribe, y desde Honduras abre sin bloqueo."
+    ],
+    "url": "https://www.retinalatina.org/",
+    "precio": "Gratis",
+    "cuenta": "No hace falta",
+    "espanol": "Sí: es cine latinoamericano",
+    "plataformas": ["Web"],
+    "honduras": "Sí: su página dice que funciona en América Latina y abre desde Honduras",
+    "evidencia": "https://www.retinalatina.org/nosotros/contacto/",
+    "evidencia_texto": "la página de ayuda de Retina Latina",
+    "portada": { "texto": true, "color": "#6B21A8", "subtitulo": "Cine latinoamericano gratis" }
+  }
+]

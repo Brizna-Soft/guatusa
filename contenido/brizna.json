@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "atarraya",
+    "nombre": "Atarraya",
+    "categoria": "Descargas",
+    "repo": "Brizna-Soft/atarraya",
+    "patron_zip": "^Atarraya-\\d+\\.\\d+\\.\\d+-x64\\.zip$",
+    "orden": 1,
+    "resumen": "Gestor de descargas gratis: baja en varias partes a la vez, también torrents y las descargas de tu navegador.",
+    "descripcion": [
+      "Como la atarraya que se lanza y atrapa muchos peces de una vez: Atarraya baja cada archivo en varias partes a la vez, también torrents, y las descargas de tu navegador.",
+      "Usa hasta 16 conexiones por archivo, junta muchos enlaces en su recolector (también recibe Click'n'Load) y pone un botón «Descargar este video» sobre los videos de las páginas, sin YouTube ni videos protegidos. Puedes pausar y seguir después, aunque apagues la PC."
+    ],
+    "plataforma": "Windows 10 y 11 (64 bits)",
+    "requisitos": ["Windows 10 u 11 de 64 bits.", "Para tomar las descargas del navegador: Chrome, Edge o Brave con su extensión."],
+    "pasos": [
+      "Pulsa el botón verde: baja el .zip directo desde GitHub.",
+      "Descomprímelo en una carpeta y abre Atarraya.exe.",
+      "Para que tome las descargas del navegador, instala su extensión: la guía está en «Más detalles en Brizna Soft»."
+    ],
+    "pagina": "https://brizna-soft.github.io/programas/atarraya/",
+    "captura": "https://brizna-soft.github.io/img/atarraya-captura.png",
+    "captura_ancho": 1180,
+    "captura_alto": 640,
+    "captura_alt": "Ventana de Atarraya bajando la imagen de Debian por torrent, con cinco videos de Internet Archive ya terminados"
+  },
+  {
+    "slug": "jicaro",
+    "nombre": "Jícaro",
+    "categoria": "Archivos comprimidos",
+    "repo": "Brizna-Soft/jicaro",
+    "patron_zip": "^Jicaro-\\d+\\.\\d+\\.\\d+-x64\\.zip$",
+    "orden": 2,
+    "resumen": "Descompresor gratis: abre ZIP, RAR, 7z e ISO, también los RAR que bajan en varias partes.",
+    "descripcion": [
+      "Como el jícaro, el fruto hondureño que sirve de vasija: Jícaro guarda y saca lo que traen tus archivos ZIP, RAR y 7z, también los RAR que bajan en varias partes.",
+      "Abre ZIP, RAR, 7z, ISO, TAR y más, y los ZIP con contraseña. Junta los RAR en partes (.part01.rar...) y te dice si falta alguna. Nunca escribe fuera de la carpeta que eliges y frena los archivos tramposos. Si lo activas en Ajustes, agrega «Extraer aquí» al clic derecho."
+    ],
+    "plataforma": "Windows 10 y 11 (64 bits)",
+    "requisitos": ["Windows 10 u 11 de 64 bits."],
+    "pasos": [
+      "Pulsa el botón verde: baja el .zip directo desde GitHub.",
+      "Descomprímelo en una carpeta y abre Jicaro.exe.",
+      "Arrastra un archivo comprimido a la ventana y elige dónde extraerlo."
+    ],
+    "pagina": "https://brizna-soft.github.io/programas/jicaro/",
+    "captura": "https://brizna-soft.github.io/img/jicaro-captura.png",
+    "captura_ancho": 980,
+    "captura_alto": 600,
+    "captura_alt": "Ventana de Jícaro mostrando lo que trae un ZIP, listo para extraer"
+  },
+  {
+    "slug": "mapache",
+    "nombre": "Mapache",
+    "categoria": "Limpieza y disco",
+    "repo": "Brizna-Soft/mapache",
+    "patron_zip": "^Mapache-\\d+\\.\\d+\\.\\d+-x64\\.zip$",
+    "orden": 3,
+    "resumen": "Muestra qué ocupa tu disco en un mapa de colores y limpia lo que sobra, siempre preguntando antes.",
+    "descripcion": [
+      "Como el mapache que revuelve todo hasta encontrar lo que sobra: Mapache te muestra qué ocupa tu disco y limpia lo que no sirve, sin tocar lo importante.",
+      "Lee todo el disco en segundos y lo muestra en un mapa de colores, con los archivos más grandes y el espacio por tipo (videos, fotos, juegos...). Limpia temporales viejos, informes de errores y cachés, y lo que eliges quitar va a la Papelera para que puedas recuperarlo."
+    ],
+    "plataforma": "Windows 10 y 11 (64 bits)",
+    "requisitos": ["Windows 10 u 11 de 64 bits."],
+    "pasos": [
+      "Pulsa el botón verde: baja el .zip directo desde GitHub.",
+      "Descomprímelo en una carpeta y abre Mapache.exe.",
+      "Elige el disco que quieres revisar y espera el mapa de colores."
+    ],
+    "pagina": "https://brizna-soft.github.io/programas/mapache/",
+    "captura": "https://brizna-soft.github.io/img/mapache-captura.png",
+    "captura_ancho": 1000,
+    "captura_alto": 620,
+    "captura_alt": "Mapa de colores de Mapache: cada rectángulo es una carpeta, más grande cuanto más ocupa"
+  },
+  {
+    "slug": "guara",
+    "nombre": "Guara",
+    "categoria": "Revisar la PC",
+    "repo": "Brizna-Soft/guara",
+    "patron_zip": "^Guara-\\d+\\.\\d+\\.\\d+-x64\\.zip$",
+    "orden": 4,
+    "resumen": "Revisa tu PC y te explica en palabras sencillas qué tiene y qué hacer. Solo lee: no cambia nada.",
+    "descripcion": [
+      "Como la guara roja, nuestra ave nacional, que todo lo ve y todo lo cuenta: Guara revisa tu PC y te explica en palabras sencillas qué tiene y qué hacer.",
+      "Revisa el disco, la memoria, el procesador, la tarjeta gráfica, la batería y los aparatos con problemas, y avisa de pantallas azules y apagados inesperados. Trae un buscador de soluciones con pasos seguros y enlaces oficiales de Microsoft, y su informe para pedir ayuda no lleva tus datos."
+    ],
+    "plataforma": "Windows 10 y 11 (64 bits)",
+    "requisitos": ["Windows 10 u 11 de 64 bits."],
+    "pasos": [
+      "Pulsa el botón verde: baja el .zip directo desde GitHub.",
+      "Descomprímelo en una carpeta y abre Guara.exe.",
+      "Pulsa revisar y lee lo que encontró: cada aviso trae qué hacer."
+    ],
+    "pagina": "https://brizna-soft.github.io/programas/guara/",
+    "captura": "https://brizna-soft.github.io/img/guara-captura.png",
+    "captura_ancho": 1000,
+    "captura_alto": 620,
+    "captura_alt": "Buscador de soluciones de Guara con los pasos para cuando la PC está lenta"
+  },
+  {
+    "slug": "mosquitero",
+    "nombre": "Mosquitero",
+    "categoria": "Navegador",
+    "repo": "Brizna-Soft/mosquitero",
+    "patron_zip": "^Mosquitero-\\d+\\.\\d+\\.\\d+-chrome\\.zip$",
+    "orden": 5,
+    "resumen": "Extensión gratis que bloquea anuncios y rastreadores en Chrome, Edge y Brave.",
+    "descripcion": [
+      "Como el mosquitero que deja afuera a los zancudos: Mosquitero bloquea los anuncios y los rastreadores, para que las páginas carguen más rápido y nadie te siga.",
+      "Usa las listas EasyList, EasyPrivacy y EasyList en español, oculta los huecos que dejan los anuncios y se apaga con un clic en un sitio que no funcione bien. No manda nada a ningún lado: todo pasa dentro de tu navegador."
+    ],
+    "plataforma": "Chrome, Edge y Brave",
+    "requisitos": ["Chrome, Edge o Brave al día."],
+    "pasos": [
+      "Pulsa el botón verde: baja el .zip directo desde GitHub.",
+      "Descomprímelo en una carpeta que no vayas a borrar.",
+      "En el navegador, abre la página de extensiones, activa el modo de desarrollador y pulsa «Cargar descomprimida». La guía completa está en «Más detalles en Brizna Soft»."
+    ],
+    "pagina": "https://brizna-soft.github.io/programas/mosquitero/",
+    "captura": "https://brizna-soft.github.io/img/mosquitero-captura.png",
+    "captura_ancho": 1000,
+    "captura_alto": 620,
+    "captura_alt": "Ventanita de Mosquitero con el contador de anuncios y rastreadores bloqueados"
+  },
+  {
+    "slug": "hntorrent",
+    "nombre": "HNTorrent",
+    "categoria": "Descargas",
+    "repo": "Brizna-Soft/hntorrent-descargas",
+    "patron_zip": "^HNTorrent-\\d+\\.\\d+\\.\\d+-x64\\.zip$",
+    "orden": 6,
+    "resumen": "Cliente de BitTorrent liviano y en español, sin anuncios ni programas extra.",
+    "descripcion": [
+      "HNTorrent es un cliente de BitTorrent liviano y fácil de usar, para bajar archivos sin anuncios ni programas extra.",
+      "No hace falta instalarlo: se descomprime y se abre. Se actualiza solo, cada actualización va firmada, y viene en español con modo claro y oscuro. Úsalo solo con torrents legales, como las imágenes de Linux o los archivos de Internet Archive."
+    ],
+    "plataforma": "Windows 10 y 11 (64 bits)",
+    "requisitos": ["Windows 10 u 11 de 64 bits.", "Si no abre, instala el «Visual C++ Redistributable» de Microsoft."],
+    "pasos": [
+      "Pulsa el botón verde: baja el .zip directo desde GitHub.",
+      "Descomprímelo en una carpeta y abre HNTorrent.exe.",
+      "Abre un archivo .torrent o pega un enlace magnet de un sitio legal."
+    ],
+    "pagina": "https://brizna-soft.github.io/programas/hntorrent/",
+    "captura": "https://brizna-soft.github.io/img/hntorrent-captura.png",
+    "captura_ancho": 984,
+    "captura_alto": 442,
+    "captura_alt": "Ventana de HNTorrent con tres descargas: una completa, una a la mitad y una en pausa"
+  },
+  {
+    "slug": "chachalaca",
+    "nombre": "Chachalaca",
+    "categoria": "Sonido y voz",
+    "repo": "Brizna-Soft/chachalaca",
+    "patron_zip": "^Chachalaca-\\d+\\.\\d+\\.\\d+-x64\\.zip$",
+    "orden": 7,
+    "resumen": "Pone sonidos en tu micrófono y te cambia la voz en vivo, para Discord y los juegos con chat de voz.",
+    "descripcion": [
+      "La chachalaca es el pájaro más escandaloso del monte: este programa hace que tus amigos te escuchen igual. Pone sonidos en tu micrófono y te cambia la voz en vivo, para Discord y los juegos con chat de voz.",
+      "Trae 16 sonidos propios y efectos de voz como ardilla, robot, monstruo y eco; quita el ruido de fondo, calla el micrófono cuando no hablas y tiene atajos de teclado que funcionan dentro de los juegos. El micrófono virtual que trae es VB-CABLE, de VB-Audio, que es donationware: si te sirve, apoya a su autor en vb-cable.com."
+    ],
+    "plataforma": "Windows 10 y 11 (64 bits)",
+    "requisitos": ["Windows 10 u 11 de 64 bits.", "Un micrófono."],
+    "pasos": [
+      "Pulsa el botón verde: baja el .zip directo desde GitHub.",
+      "Descomprímelo en una carpeta y abre Chachalaca.exe.",
+      "Elige tu micrófono y, en Discord o en el juego, elige como micrófono el cable de Chachalaca."
+    ],
+    "pagina": "https://brizna-soft.github.io/programas/chachalaca/",
+    "captura": "https://brizna-soft.github.io/img/chachalaca-captura.png",
+    "captura_ancho": 840,
+    "captura_alto": 800,
+    "captura_alt": "Ventana de Chachalaca con los micrófonos elegidos, los botones de voces y el tablero de sonidos"
+  }
+]

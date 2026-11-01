@@ -1,0 +1,607 @@
+{
+    "apps":  {
+                 "1007490":  {
+                                 "appid":  1007490,
+                                 "nombre":  "Gladiator: Blades of Fury",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura",
+                                                 "Indie"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Yash Future Tech Solutions Pvt Ltd"
+                                                ],
+                                 "anio":  2019,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "SO: Windows 7 or later required",
+                                                    "Procesador: Intel Core i3 515 7U",
+                                                    "Memoria: 4 GB de RAM",
+                                                    "Gráficos: 1 GB AMD or NVIDIA Graphic Card",
+                                                    "DirectX: Versión 9.0",
+                                                    "Almacenamiento: 2 GB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:12Z"
+                             },
+                 "105000":  {
+                                "appid":  105000,
+                                "nombre":  "A New Beginning - Final Cut",
+                                "tipo":  "game",
+                                "gratis":  false,
+                                "generos":  [
+                                                "Aventura",
+                                                "Indie"
+                                            ],
+                                "desarrollo":  [
+                                                   "Daedalic Entertainment"
+                                               ],
+                                "anio":  2012,
+                                "idiomas":  {
+                                                "texto_es":  true,
+                                                "audio_es":  false,
+                                                "latino":  false
+                                            },
+                                "requisitos":  [
+                                                   "SO: Windows XP",
+                                                   "Procesador: 2 GHz (Single Core) o 1.8 GHz (Dual Core)",
+                                                   "Memoria: 1.5 GB de RAM",
+                                                   "Gráficos: Compatible con OpenGL 2.0 y con 256 MB de VRAM (Shared Memory is not recommended)",
+                                                   "DirectX®: 9.0c",
+                                                   "Disco Duro: 5 GB HD space",
+                                                   "Sonido: Compatible con DirectX"
+                                               ],
+                                "edad":  0,
+                                "leido":  "2026-11-01T21:45:15Z"
+                            },
+                 "1304930":  {
+                                 "appid":  1304930,
+                                 "nombre":  "The Outlast Trials",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura",
+                                                 "Indie"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Red Barrels"
+                                                ],
+                                 "anio":  2024,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 10",
+                                                    "Procesador: Intel Core i7-3770 or AMD Ryzen 5 1400",
+                                                    "Memoria: 8 GB de RAM",
+                                                    "Gráficos: NVIDIA GeForce GTX 650 Ti, 2 GB or Radeon R7 360, 2 GB or Intel Arc A310, 4GB",
+                                                    "DirectX: Versión 11",
+                                                    "Red: Conexión de banda ancha a Internet",
+                                                    "Almacenamiento: 40 GB de espacio disponible",
+                                                    "Notas adicionales: Low 720p @ 30 FPS, DX11, Ray Tracing OFF"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:25Z"
+                             },
+                 "1326470":  {
+                                 "appid":  1326470,
+                                 "nombre":  "Sons Of The Forest",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura",
+                                                 "Indie",
+                                                 "Simuladores"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Endnight Games Ltd"
+                                                ],
+                                 "anio":  2024,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: 64-bit Windows 10",
+                                                    "Procesador: INTEL CORE I5-8400 or AMD RYZEN 3 3300X",
+                                                    "Memoria: 12 GB de RAM",
+                                                    "Gráficos: NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB",
+                                                    "DirectX: Versión 11",
+                                                    "Almacenamiento: 20 GB de espacio disponible",
+                                                    "Notas adicionales: SSD (Preferred)"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:20Z"
+                             },
+                 "1796580":  {
+                                 "appid":  1796580,
+                                 "nombre":  "Sorry We\u0027re Closed",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura",
+                                                 "Indie"
+                                             ],
+                                 "desarrollo":  [
+                                                    "à la mode games"
+                                                ],
+                                 "anio":  2024,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 10 or newer, 64-bit",
+                                                    "Procesador: Intel i3 or equivalent",
+                                                    "Memoria: 4 GB de RAM",
+                                                    "Gráficos: Integrated (Intel UHD or AMD Radeon)",
+                                                    "Almacenamiento: 2 GB de espacio disponible",
+                                                    "Notas adicionales: El juego funciona bien en equipos de especificaciones bajas. Prueba la demo para comprobar cómo rinde en tu ordenador."
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:16Z"
+                             },
+                 "1799840":  {
+                                 "appid":  1799840,
+                                 "nombre":  "Queen\u0027s Domain",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura",
+                                                 "Indie",
+                                                 "Rol"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Freshly Baked Games LLC"
+                                                ],
+                                 "anio":  2026,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 10",
+                                                    "Procesador: Intel Core i5 quad core, 2.5ghz",
+                                                    "Memoria: 4 GB de RAM",
+                                                    "Gráficos: NVIDIA GTX 760 / AMD RX 560",
+                                                    "DirectX: Versión 11",
+                                                    "Almacenamiento: 1500 MB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:24Z"
+                             },
+                 "2015240":  {
+                                 "appid":  2015240,
+                                 "nombre":  "Dwarven Realms",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+
+                                             ],
+                                 "desarrollo":  [
+                                                    "Crater Studios"
+                                                ],
+                                 "anio":  2024,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: 64-bit Windows",
+                                                    "Procesador: Intel CPU Core i3-2120 (3.3 GHz) / AMD CPU FX-6300 (3.5 GHz)",
+                                                    "Memoria: 16 GB de RAM",
+                                                    "Gráficos: Nvidia GeForce GTX 760 (2 GB) / AMD Radeon HD 7850 (2 GB)",
+                                                    "Red: Conexión de banda ancha a Internet",
+                                                    "Almacenamiento: 10 GB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:19Z"
+                             },
+                 "2912680":  {
+                                 "appid":  2912680,
+                                 "nombre":  "Quiztopia : The Ultimate Trivia",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Aventura",
+                                                 "Indie"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Yash Future Tech Solutions Pvt Ltd"
+                                                ],
+                                 "anio":  2024,
+                                 "idiomas":  {
+                                                 "texto_es":  false,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "SO: Windows 7 or Later",
+                                                    "Procesador: Intel Core i3 515 7U",
+                                                    "Memoria: 2 GB de RAM",
+                                                    "Gráficos: 512 MB AMD or NVIDIA Graphic Card",
+                                                    "DirectX: Versión 9.0",
+                                                    "Almacenamiento: 1500 MB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:13Z"
+                             },
+                 "3240220":  {
+                                 "appid":  3240220,
+                                 "nombre":  "Grand Theft Auto V Enhanced",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura",
+                                                 "Carreras"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Rockstar North"
+                                                ],
+                                 "anio":  2025,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 10 (latest service pack)",
+                                                    "Procesador: Intel® Core™ i7-4770 | AMD FX™-9590",
+                                                    "Memoria: 8 GB de RAM",
+                                                    "Gráficos: NVIDIA GeForce® GTX 1630 (4GB VRAM) | AMD Radeon™ RX 6400 (4GB VRAM)",
+                                                    "Almacenamiento: 105 GB de espacio disponible",
+                                                    "Tarjeta de sonido: DirectX 10 Compatible"
+                                                ],
+                                 "edad":  17,
+                                 "leido":  "2026-11-01T21:45:21Z"
+                             },
+                 "3241660":  {
+                                 "appid":  3241660,
+                                 "nombre":  "R.E.P.O.",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Acceso anticipado"
+                                             ],
+                                 "desarrollo":  [
+                                                    "semiwork"
+                                                ],
+                                 "anio":  2025,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "SO: Windows 10",
+                                                    "Procesador: Core i5 6600",
+                                                    "Memoria: 8 GB de RAM",
+                                                    "Gráficos: GTX 970",
+                                                    "DirectX: Versión 10",
+                                                    "Red: Conexión de banda ancha a Internet",
+                                                    "Almacenamiento: 1 GB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:22Z"
+                             },
+                 "3527290":  {
+                                 "appid":  3527290,
+                                 "nombre":  "PEAK",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura",
+                                                 "Indie"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Team PEAK"
+                                                ],
+                                 "anio":  2025,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Win 10",
+                                                    "Procesador: Intel Core i5 @ 2.5 GHz or equivalent",
+                                                    "Memoria: 8 GB de RAM",
+                                                    "Gráficos: GTX 1060 or RX 6600 XT",
+                                                    "DirectX: Versión 12",
+                                                    "Almacenamiento: 16 GB de espacio disponible",
+                                                    "Notas adicionales: Requires a 64-bit processor and operating system"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:26Z"
+                             },
+                 "3764200":  {
+                                 "appid":  3764200,
+                                 "nombre":  "Resident Evil Requiem",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Aventura"
+                                             ],
+                                 "desarrollo":  [
+                                                    "CAPCOM Co., Ltd."
+                                                ],
+                                 "anio":  2026,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  true,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 11 (64bit required)",
+                                                    "Procesador: Intel corei5-8500 / AMD Ryzen 5 3500",
+                                                    "Memoria: 16 GB de RAM",
+                                                    "Gráficos: GeForce GTX 1660 6GB / Radeon RX 5500 XT 8GB",
+                                                    "DirectX: Versión 12",
+                                                    "Notas adicionales: Supports 1080p gameplay (using upscaling, native resolution of 640p)/30fps. Note: Frame rate may drop when the processing load is high. An SSD is required."
+                                                ],
+                                 "edad":  17,
+                                 "leido":  "2026-11-01T21:45:24Z"
+                             },
+                 "4312190":  {
+                                 "appid":  4312190,
+                                 "nombre":  "CRACK",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Aventura",
+                                                 "Simuladores"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Rafoli"
+                                                ],
+                                 "anio":  2026,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 10 64-bit",
+                                                    "Procesador: Intel i5-6600 / Ryzen 5 1600",
+                                                    "Memoria: 8 GB de RAM",
+                                                    "Gráficos: GTX 1050 Ti / RX 570, 4 GB VRAM",
+                                                    "DirectX: Versión 11",
+                                                    "Almacenamiento: 3 GB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:23Z"
+                             },
+                 "4331890":  {
+                                 "appid":  4331890,
+                                 "nombre":  "GetHigh.EXE",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Casual",
+                                                 "Indie"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Zypong.com"
+                                                ],
+                                 "anio":  2026,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows® 10 64 Bit",
+                                                    "Procesador: Intel Core i3-6100 or AMD FX-6300",
+                                                    "Memoria: 4 GB de RAM",
+                                                    "Gráficos: NVIDIA GTX 750 Ti or AMD Radeon R7 260X",
+                                                    "DirectX: Versión 11",
+                                                    "Almacenamiento: 220 MB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:18Z"
+                             },
+                 "4348910":  {
+                                 "appid":  4348910,
+                                 "nombre":  "Probably Stolen - Cyberpunk Shopkeeper Sim",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Indie",
+                                                 "Rol",
+                                                 "Simuladores",
+                                                 "Estrategia"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Questing Goose Studio"
+                                                ],
+                                 "anio":  2026,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Win 10, x64",
+                                                    "Procesador: Intel Core i3 or equivalent",
+                                                    "Memoria: 8 GB de RAM",
+                                                    "Gráficos: GTX 650ti equivalent or higher",
+                                                    "DirectX: Versión 10",
+                                                    "Almacenamiento: 1 GB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:21Z"
+                             },
+                 "4530370":  {
+                                 "appid":  4530370,
+                                 "nombre":  "Football Manager 27",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Simuladores",
+                                                 "Deportes",
+                                                 "Estrategia"
+                                             ],
+                                 "desarrollo":  [
+                                                    "Sports Interactive"
+                                                ],
+                                 "anio":  2026,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  true
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 10 or 11 with all updates",
+                                                    "Procesador: Desktop: Intel Core i3-530 or AMD FX-4100 Laptop: Intel Core i3-330M or AMD A6-5200 Requires SSE4.2 \u0026 SSSE3",
+                                                    "Memoria: 6 GB de RAM",
+                                                    "Gráficos: Desktop: NVIDIA GeForce GTX 960 or AMD Radeon R9 380 or Intel HD 530 Laptop: NVIDIA GeForce GTX 960M or AMD Radeon R9 M375 or Intel HD 530 1 GiB VRAM Requires Shader Model 5.0",
+                                                    "DirectX: Versión 11",
+                                                    "Almacenamiento: 20 GB de espacio disponible"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:26Z"
+                             },
+                 "5090990":  {
+                                 "appid":  5090990,
+                                 "nombre":  "MAFIA HOTEL",
+                                 "tipo":  "game",
+                                 "gratis":  false,
+                                 "generos":  [
+                                                 "Acción",
+                                                 "Casual",
+                                                 "Indie",
+                                                 "Estrategia"
+                                             ],
+                                 "desarrollo":  [
+                                                    "RedForge"
+                                                ],
+                                 "anio":  2027,
+                                 "idiomas":  {
+                                                 "texto_es":  true,
+                                                 "audio_es":  false,
+                                                 "latino":  false
+                                             },
+                                 "requisitos":  [
+                                                    "Requiere un procesador y un sistema operativo de 64 bits",
+                                                    "SO: Windows 10 64-bit (Version 20H2) or Better",
+                                                    "Procesador: Ryzen 3600 or better",
+                                                    "Memoria: 8 GB de RAM",
+                                                    "Gráficos: GTX 1060 with 4gb of ram or better",
+                                                    "DirectX: Versión 12",
+                                                    "Almacenamiento: 4 MB de espacio disponible",
+                                                    "Tarjeta de sonido: 100% DirectX 9.0c compatible audio device",
+                                                    "Notas adicionales: SSD Recommended"
+                                                ],
+                                 "edad":  0,
+                                 "leido":  "2026-11-01T21:45:17Z"
+                             },
+                 "648800":  {
+                                "appid":  648800,
+                                "nombre":  "Raft",
+                                "tipo":  "game",
+                                "gratis":  false,
+                                "generos":  [
+                                                "Aventura",
+                                                "Indie",
+                                                "Simuladores"
+                                            ],
+                                "desarrollo":  [
+                                                   "Redbeet Interactive"
+                                               ],
+                                "anio":  2022,
+                                "idiomas":  {
+                                                "texto_es":  true,
+                                                "audio_es":  false,
+                                                "latino":  false
+                                            },
+                                "requisitos":  [
+                                                   "Requiere un procesador y un sistema operativo de 64 bits",
+                                                   "SO: Windows 7 or later",
+                                                   "Procesador: Intel Core i5 2.6GHz or similar",
+                                                   "Memoria: 6 GB de RAM",
+                                                   "Gráficos: GeForce GTX 700 series or similar",
+                                                   "DirectX: Versión 11",
+                                                   "Red: Conexión de banda ancha a Internet",
+                                                   "Almacenamiento: 10 GB de espacio disponible",
+                                                   "Notas adicionales: 64-bit operating system is required"
+                                               ],
+                                "edad":  0,
+                                "leido":  "2026-11-01T21:45:23Z"
+                            }
+             },
+    "nombres":  {
+                    "anewbeginningfinalcut":  {
+                                                  "appid":  105000,
+                                                  "leido":  "2026-11-01T21:45:08Z"
+                                              },
+                    "asleepact1":  {
+                                       "appid":  0,
+                                       "leido":  "2026-11-01T21:45:08Z"
+                                   },
+                    "dwarvenrealms":  {
+                                          "appid":  2015240,
+                                          "leido":  "2026-11-01T21:45:08Z"
+                                      },
+                    "epicworldhuntforquest":  {
+                                                  "appid":  0,
+                                                  "leido":  "2026-11-01T21:45:08Z"
+                                              },
+                    "gethighexe":  {
+                                       "appid":  4331890,
+                                       "leido":  "2026-11-01T21:45:08Z"
+                                   },
+                    "gladiatorbladesoffury":  {
+                                                  "appid":  1007490,
+                                                  "leido":  "2026-11-01T21:45:08Z"
+                                              },
+                    "horseracing":  {
+                                        "appid":  0,
+                                        "leido":  "2026-11-01T22:11:34Z"
+                                    },
+                    "mafiahotel":  {
+                                       "appid":  5090990,
+                                       "leido":  "2026-11-01T21:45:08Z"
+                                   },
+                    "quiztopiatheultimatetrivia":  {
+                                                       "appid":  2912680,
+                                                       "leido":  "2026-11-01T21:45:08Z"
+                                                   },
+                    "sorrywereclosed":  {
+                                            "appid":  1796580,
+                                            "leido":  "2026-11-01T21:45:08Z"
+                                        }
+                }
+}

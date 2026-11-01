@@ -1,0 +1,1356 @@
+[
+    {
+        "clave":  "itch-mrdrnose-itch-io-votv",
+        "nombre":  "\"Voices Of The Void\" Alpha",
+        "autor":  "mrdrnose",
+        "url":  "https://mrdrnose.itch.io/votv",
+        "imagen":  "https://img.itch.zone/aW1nLzI2NDI5NTgzLmpwZw==/315x250%23c/5lRRHP.jpg",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "creado":  "2022-07-25T13:14:52Z",
+        "orden":  1,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "voices-of-the-void-alpha"
+    },
+    {
+        "clave":  "itch-tomyself-itch-io-interact-with-me",
+        "nombre":  "Interact With Me!",
+        "autor":  "tomyself",
+        "url":  "https://tomyself.itch.io/interact-with-me",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNTQ5MjE3LnBuZw==/315x250%23c/NefVJO.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2025-10-16T09:54:13Z",
+        "orden":  2,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "interact-with-me"
+    },
+    {
+        "clave":  "itch-funbanan-itch-io-nasubi",
+        "nombre":  "NASUBI",
+        "autor":  "funbanan",
+        "url":  "https://funbanan.itch.io/nasubi",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNTkyMTUxLnBuZw==/315x250%23c/mBQaeZ.png",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-06-25T21:05:16Z",
+        "orden":  3,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "nasubi"
+    },
+    {
+        "clave":  "itch-mattstov-itch-io-ichorous",
+        "nombre":  "Ichorous",
+        "autor":  "mattstov",
+        "url":  "https://mattstov.itch.io/ichorous",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNTUxODQ4LmdpZg==/original/Ic1tES.gif",
+        "genero":  "Acción",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "creado":  "2024-01-16T23:58:29Z",
+        "orden":  4,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "ichorous"
+    },
+    {
+        "clave":  "itch-tenshistudios-itch-io-the-community-notes-are-wrong",
+        "nombre":  "The Community Notes Are Wrong",
+        "autor":  "tenshistudios",
+        "url":  "https://tenshistudios.itch.io/the-community-notes-are-wrong",
+        "imagen":  "https://img.itch.zone/aW1nLzMwMTUzNjIxLnBuZw==/315x250%23c/f1IUY%2F.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-03-04T12:42:29Z",
+        "orden":  5,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "the-community-notes-are-wrong"
+    },
+    {
+        "clave":  "itch-gabbydarienzo-itch-io-obsession",
+        "nombre":  "OBSESSED With Fashion",
+        "autor":  "gabbydarienzo",
+        "url":  "https://gabbydarienzo.itch.io/obsession",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNDQ3MDAxLmpwZw==/315x250%23c/wYd8qi.jpg",
+        "genero":  "Otro",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-08-31T13:03:38Z",
+        "orden":  6,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "obsessed-with-fashion"
+    },
+    {
+        "clave":  "itch-adamgryu-itch-io-pumpkin-carver",
+        "nombre":  "The Annual Ghost Town Pumpkin Festival",
+        "autor":  "adamgryu",
+        "url":  "https://adamgryu.itch.io/pumpkin-carver",
+        "imagen":  "https://img.itch.zone/aW1nLzEzNTk4NTQ0LnBuZw==/315x250%23c/4CPM83.png",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2020-10-11T05:09:42Z",
+        "orden":  7,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "the-annual-ghost-town-pumpkin-festival"
+    },
+    {
+        "clave":  "itch-traumalab-itch-io-trauma-lab",
+        "nombre":  "Trauma lab",
+        "autor":  "traumalab",
+        "url":  "https://traumalab.itch.io/trauma-lab",
+        "imagen":  "https://img.itch.zone/aW1nLzMxMTI5MDA2LnBuZw==/315x250%23c/tCwu6l.png",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-10-20T14:57:02Z",
+        "orden":  8,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "trauma-lab"
+    },
+    {
+        "clave":  "itch-devhourgames-itch-io-loveland",
+        "nombre":  "Loveland",
+        "autor":  "devhourgames",
+        "url":  "https://devhourgames.itch.io/loveland",
+        "imagen":  "https://img.itch.zone/aW1nLzc1MDQ5NjcucG5n/315x250%23c/XHfTo3.png",
+        "genero":  "Aventura",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2020-08-31T22:48:17Z",
+        "orden":  9,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "loveland"
+    },
+    {
+        "clave":  "itch-garula-itch-io-the-freak-circus",
+        "nombre":  "The Freak Circus",
+        "autor":  "garula",
+        "url":  "https://garula.itch.io/the-freak-circus",
+        "imagen":  "https://img.itch.zone/aW1nLzIxNjQxODI1LnBuZw==/315x250%23c/LC5bpl.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2025-06-10T02:36:13Z",
+        "orden":  10,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "the-freak-circus"
+    },
+    {
+        "clave":  "itch-soffis-mbm-itch-io-to-eat-a-god",
+        "nombre":  "To Eat a God",
+        "autor":  "soffis-mbm",
+        "url":  "https://soffis-mbm.itch.io/to-eat-a-god",
+        "imagen":  "https://img.itch.zone/aW1nLzMxMzQ4OTk0LnBuZw==/315x250%23c/ufWF19.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2024-06-27T21:35:09Z",
+        "orden":  11,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "to-eat-a-god"
+    },
+    {
+        "clave":  "itch-hahadit-itch-io-creepydates",
+        "nombre":  "CreepyDates",
+        "autor":  "hahadit",
+        "url":  "https://hahadit.itch.io/creepydates",
+        "imagen":  "https://img.itch.zone/aW1nLzI2Mzk3ODg5LnBuZw==/315x250%23c/jUvPeh.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2025-07-26T18:09:04Z",
+        "orden":  12,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "creepydates"
+    },
+    {
+        "clave":  "itch-coolom-games-itch-io-dating-killmulator-2",
+        "nombre":  "Dating Killmulator 2",
+        "autor":  "coolom-games",
+        "url":  "https://coolom-games.itch.io/dating-killmulator-2",
+        "imagen":  "https://img.itch.zone/aW1nLzI2NDU3OTc4LnBuZw==/315x250%23c/RxH%2BKG.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-02-15T11:55:18Z",
+        "orden":  13,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "dating-killmulator-2"
+    },
+    {
+        "clave":  "itch-yaxworks-itch-io-game-about-botting-in-an-mmorpg",
+        "nombre":  "Game About Botting in an MMORPG",
+        "autor":  "yaxworks",
+        "url":  "https://yaxworks.itch.io/game-about-botting-in-an-mmorpg",
+        "imagen":  "https://img.itch.zone/aW1nLzMwMjUyMzI3LnBuZw==/315x250%23c/t%2BVbzi.png",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-05-08T12:15:16Z",
+        "orden":  14,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "game-about-botting-in-an-mmorpg"
+    },
+    {
+        "clave":  "itch-cutiesai-itch-io-14dayswithyou",
+        "nombre":  "14 Days With You [DEMO]",
+        "autor":  "cutiesai",
+        "url":  "https://cutiesai.itch.io/14dayswithyou",
+        "imagen":  "https://img.itch.zone/aW1nLzIxNDc2NzkxLmdpZg==/original/AWPx1Z.gif",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2022-04-20T22:15:59Z",
+        "orden":  15,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "14-days-with-you-demo"
+    },
+    {
+        "clave":  "itch-lazyspar7an-itch-io-rampancy",
+        "nombre":  "Rampancy",
+        "autor":  "lazyspar7an",
+        "url":  "https://lazyspar7an.itch.io/rampancy",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNjA5MDg5LnBuZw==/315x250%23c/si7Hjr.png",
+        "genero":  "Disparos",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "creado":  "2025-09-08T01:15:19Z",
+        "orden":  16,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "rampancy"
+    },
+    {
+        "clave":  "itch-weswaregames-itch-io-hamburger-hill",
+        "nombre":  "Hamburger Hill",
+        "autor":  "weswaregames",
+        "url":  "https://weswaregames.itch.io/hamburger-hill",
+        "imagen":  "https://img.itch.zone/aW1nLzMxMjIwMTY3LnBuZw==/315x250%23c/ecVFXV.png",
+        "genero":  "Disparos",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2026-10-22T07:56:20Z",
+        "orden":  17,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "hamburger-hill"
+    },
+    {
+        "clave":  "itch-twoandahalfstudios-itch-io-a-date-with-death",
+        "nombre":  "A Date with Death",
+        "autor":  "twoandahalfstudios",
+        "url":  "https://twoandahalfstudios.itch.io/a-date-with-death",
+        "imagen":  "https://img.itch.zone/aW1nLzEzMjI3MDAyLnBuZw==/315x250%23c/kVaU3H.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2023-05-19T16:38:11Z",
+        "orden":  18,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "a-date-with-death"
+    },
+    {
+        "clave":  "itch-jennyvipham-itch-io-error143",
+        "nombre":  "ERROR143",
+        "autor":  "jennyvipham",
+        "url":  "https://jennyvipham.itch.io/error143",
+        "imagen":  "https://img.itch.zone/aW1nLzIyNDEzNzA3LnBuZw==/315x250%23c/su4fdE.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2022-04-04T16:15:01Z",
+        "orden":  19,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "error143"
+    },
+    {
+        "clave":  "itch-elyaradine-itch-io-dressmaker",
+        "nombre":  "Dressmaker",
+        "autor":  "elyaradine",
+        "url":  "https://elyaradine.itch.io/dressmaker",
+        "imagen":  "https://img.itch.zone/aW1nLzIyOTk5MzkzLmdpZg==/original/%2B8QtXi.gif",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2025-07-22T18:14:34Z",
+        "orden":  20,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "dressmaker"
+    },
+    {
+        "clave":  "itch-tzschk-itch-io-oakpointe",
+        "nombre":  "Oakpointe",
+        "autor":  "tzschk",
+        "url":  "https://tzschk.itch.io/oakpointe",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNjEzMTMxLnBuZw==/315x250%23c/4QTv5K.png",
+        "genero":  "Otro",
+        "plataformas":  [
+                            "Windows",
+                            "macOS"
+                        ],
+        "creado":  "2026-10-30T08:56:35Z",
+        "orden":  21,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "oakpointe"
+    },
+    {
+        "clave":  "itch-zieelane-itch-io-helping-your-boyfriend",
+        "nombre":  "Helping Your Boyfriend",
+        "autor":  "zieelane",
+        "url":  "https://zieelane.itch.io/helping-your-boyfriend",
+        "imagen":  "https://img.itch.zone/aW1nLzMwMTM1Mzc4LmdpZg==/original/U2DC5U.gif",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Android"
+                        ],
+        "creado":  "2026-09-20T21:41:52Z",
+        "orden":  22,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "helping-your-boyfriend"
+    },
+    {
+        "clave":  "itch-redspringstudio-itch-io-touchstarved",
+        "nombre":  "TOUCHSTARVED: A Dark Romance Visual Novel",
+        "autor":  "redspringstudio",
+        "url":  "https://redspringstudio.itch.io/touchstarved",
+        "imagen":  "https://img.itch.zone/aW1nLzExNTk1Nzk5LmpwZw==/315x250%23c/M3tL3R.jpg",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS"
+                        ],
+        "creado":  "2023-03-14T17:08:33Z",
+        "orden":  23,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "touchstarved-a-dark-romance-visual-novel"
+    },
+    {
+        "clave":  "itch-anuke-itch-io-mindustry",
+        "nombre":  "Mindustry",
+        "autor":  "anuke",
+        "url":  "https://anuke.itch.io/mindustry",
+        "imagen":  "https://img.itch.zone/aW1nLzI2NjkyMjUxLnBuZw==/315x250%23c/ojkigl.png",
+        "genero":  "Estrategia",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2017-04-30T21:40:43Z",
+        "orden":  24,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "mindustry-2"
+    },
+    {
+        "clave":  "itch-ijwhfunn-itch-io-bens-playground",
+        "nombre":  "BENs_Playground",
+        "autor":  "ijwhfunn",
+        "url":  "https://ijwhfunn.itch.io/bens-playground",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNDcwMjAxLnBuZw==/315x250%23c/vDlRUP.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-10-28T06:40:31Z",
+        "orden":  25,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "bens-playground"
+    },
+    {
+        "clave":  "itch-thepipiw-itch-io-kingdom-of-marionettes",
+        "nombre":  "Kingdom Of Marionettes (DEMO)",
+        "autor":  "thepipiw",
+        "url":  "https://thepipiw.itch.io/kingdom-of-marionettes",
+        "imagen":  "https://img.itch.zone/aW1nLzI1NDA1NTM0LnBuZw==/315x250%23c/yuLYQI.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2026-02-04T16:10:31Z",
+        "orden":  26,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "kingdom-of-marionettes-demo"
+    },
+    {
+        "clave":  "itch-spar0w-itch-io-bigbaddogs",
+        "nombre":  "Big Bad Dogs",
+        "autor":  "spar0w",
+        "url":  "https://spar0w.itch.io/bigbaddogs",
+        "imagen":  "https://img.itch.zone/aW1nLzIyMTY5MDQxLmdpZg==/original/FqFEf8.gif",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2025-02-08T20:43:59Z",
+        "orden":  27,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "big-bad-dogs"
+    },
+    {
+        "clave":  "itch-deerspherestudios-itch-io-mushroom-oasis",
+        "nombre":  "Mushroom Oasis",
+        "autor":  "deerspherestudios",
+        "url":  "https://deerspherestudios.itch.io/mushroom-oasis",
+        "imagen":  "https://img.itch.zone/aW1nLzExNTkxMzIxLmdpZg==/original/pECVwW.gif",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2023-02-14T15:19:14Z",
+        "orden":  28,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "mushroom-oasis"
+    },
+    {
+        "clave":  "itch-ninja-muffin24-itch-io-funkin",
+        "nombre":  "Friday Night Funkin\u0027",
+        "autor":  "ninja-muffin24",
+        "url":  "https://ninja-muffin24.itch.io/funkin",
+        "imagen":  "https://img.itch.zone/aW1nLzQ1MjMxODcuZ2lm/original/5%2BUV5L.gif",
+        "genero":  "Ritmo",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2020-10-18T21:36:01Z",
+        "orden":  29,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "friday-night-funkin"
+    },
+    {
+        "clave":  "itch-akilargie-itch-io-my-fiance-is-a-fiend",
+        "nombre":  "My Fiancé is a Fiend [DEMO]",
+        "autor":  "akilargie",
+        "url":  "https://akilargie.itch.io/my-fiance-is-a-fiend",
+        "imagen":  "https://img.itch.zone/aW1nLzI4MTY1ODczLnBuZw==/315x250%23c/RszzRk.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2026-06-28T12:38:32Z",
+        "orden":  30,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "my-fiance-is-a-fiend-demo"
+    },
+    {
+        "clave":  "itch-sourmiiiilk-itch-io-online-obsession",
+        "nombre":  "Online Obsession",
+        "autor":  "sourmiiiilk",
+        "url":  "https://sourmiiiilk.itch.io/online-obsession",
+        "imagen":  "https://img.itch.zone/aW1nLzE5NjgyMjc4LnBuZw==/315x250%23c/mdp6SI.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2023-09-21T20:38:47Z",
+        "orden":  31,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "online-obsession"
+    },
+    {
+        "clave":  "itch-nso9019-itch-io-roam",
+        "nombre":  "ROAM0120.exe",
+        "autor":  "nso9019",
+        "url":  "https://nso9019.itch.io/roam",
+        "imagen":  "https://img.itch.zone/aW1nLzIwNzEzNzQwLnBuZw==/315x250%23c/QEfto2.png",
+        "genero":  "Otro",
+        "plataformas":  [
+
+                        ],
+        "creado":  "2025-04-13T21:40:46Z",
+        "orden":  32,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "roam0120-exe"
+    },
+    {
+        "clave":  "itch-comfortkuma-itch-io-knee-deep",
+        "nombre":  "Knee Deep! [DEMO]",
+        "autor":  "comfortkuma",
+        "url":  "https://comfortkuma.itch.io/knee-deep",
+        "imagen":  "https://img.itch.zone/aW1nLzI3MzM5MDk2LnBuZw==/315x250%23c/%2F26AU1.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2025-03-02T16:16:32Z",
+        "orden":  33,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "knee-deep-demo"
+    },
+    {
+        "clave":  "itch-iinksk-itch-io-danganronpa-another-remaster",
+        "nombre":  "Danganronpa Another Remaster",
+        "autor":  "iinksk",
+        "url":  "https://iinksk.itch.io/danganronpa-another-remaster",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNjE4NzU3LnBuZw==/315x250%23c/W%2FERNA.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+
+                        ],
+        "creado":  "2026-09-09T18:14:36Z",
+        "orden":  34,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "danganronpa-another-remaster"
+    },
+    {
+        "clave":  "itch-memorious-itch-io-dark-parts",
+        "nombre":  "Dark Parts",
+        "autor":  "memorious",
+        "url":  "https://memorious.itch.io/dark-parts",
+        "imagen":  "https://img.itch.zone/aW1nLzI1ODcwNjQ1LmdpZg==/original/b9v%2Fg3.gif",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2025-10-26T16:05:53Z",
+        "orden":  35,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "dark-parts"
+    },
+    {
+        "clave":  "itch-purple-sugar-itch-io-witchs-bound",
+        "nombre":  "Witch’s Bound",
+        "autor":  "purple-sugar",
+        "url":  "https://purple-sugar.itch.io/witchs-bound",
+        "imagen":  "https://img.itch.zone/aW1nLzMxNTk0NzQ1LmpwZw==/315x250%23c/70lewF.jpg",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2024-12-27T15:01:33Z",
+        "orden":  36,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "witchs-bound"
+    },
+    {
+        "clave":  "itch-sfour-s4-itch-io-how-to-date-an-entity",
+        "nombre":  "How to Date an Entity (and stay alive)",
+        "autor":  "sfour-s4",
+        "url":  "https://sfour-s4.itch.io/how-to-date-an-entity",
+        "imagen":  "https://img.itch.zone/aW1nLzE5Mzk2MTczLnBuZw==/315x250%23c/sNBALD.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2024-11-27T17:09:56Z",
+        "orden":  37,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "how-to-date-an-entity-and-stay-alive"
+    },
+    {
+        "clave":  "itch-gbpatch-itch-io-our-life",
+        "nombre":  "​Our Life: Beginnings \u0026 Always",
+        "autor":  "gbpatch",
+        "url":  "https://gbpatch.itch.io/our-life",
+        "imagen":  "https://img.itch.zone/aW1nLzcwMTIxNDMucG5n/315x250%23c/BalGQb.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2019-06-07T23:47:57Z",
+        "orden":  38,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "our-life-beginnings-y-always"
+    },
+    {
+        "clave":  "itch-livingslime-itch-io-prescriptionlove",
+        "nombre":  "Prescription:LOVE",
+        "autor":  "livingslime",
+        "url":  "https://livingslime.itch.io/prescriptionlove",
+        "imagen":  "https://img.itch.zone/aW1nLzE4Mjc4NzgyLnBuZw==/315x250%23c/nkA1x6.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2024-09-29T09:00:33Z",
+        "orden":  39,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "prescription-love"
+    },
+    {
+        "clave":  "itch-mookichuu-itch-io-overdose",
+        "nombre":  "OVERD0SE",
+        "autor":  "mookichuu",
+        "url":  "https://mookichuu.itch.io/overdose",
+        "imagen":  "https://img.itch.zone/aW1nLzMwNDk4NTYzLmdpZg==/original/L7HFbh.gif",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-03-07T00:24:48Z",
+        "orden":  40,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "overd0se"
+    },
+    {
+        "clave":  "itch-southlondonsilicon-itch-io-multi-modal",
+        "nombre":  "Multi Modal Transit",
+        "autor":  "southlondonsilicon",
+        "url":  "https://southlondonsilicon.itch.io/multi-modal",
+        "imagen":  "https://img.itch.zone/aW1nLzMwODA0MDc1LmpwZWc=/315x250%23c/JbK0%2BQ.jpeg",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-08-01T16:36:45Z",
+        "orden":  41,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "multi-modal-transit"
+    },
+    {
+        "clave":  "itch-mcryxstudios-itch-io-insomnia-jeff-the-killer",
+        "nombre":  "Insomnia",
+        "autor":  "mcryxstudios",
+        "url":  "https://mcryxstudios.itch.io/insomnia-jeff-the-killer",
+        "imagen":  "https://img.itch.zone/aW1nLzI5MjY1Mjc3LnBuZw==/315x250%23c/QLnjwu.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-08-14T02:47:16Z",
+        "orden":  42,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "insomnia"
+    },
+    {
+        "clave":  "itch-paranoidhawk-itch-io-lookouts",
+        "nombre":  "Lookouts",
+        "autor":  "paranoidhawk",
+        "url":  "https://paranoidhawk.itch.io/lookouts",
+        "imagen":  "https://img.itch.zone/aW1nLzg1NDg5OTUucG5n/315x250%23c/xFnrlZ.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2019-12-11T00:16:42Z",
+        "orden":  43,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "lookouts"
+    },
+    {
+        "clave":  "itch-coolom-games-itch-io-datingkillmulator",
+        "nombre":  "Dating Killmulator",
+        "autor":  "coolom-games",
+        "url":  "https://coolom-games.itch.io/datingkillmulator",
+        "imagen":  "https://img.itch.zone/aW1nLzI2NDU3OTc1LnBuZw==/315x250%23c/UYEikE.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2023-05-28T20:42:57Z",
+        "orden":  44,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "dating-killmulator"
+    },
+    {
+        "clave":  "itch-santiago-garcia-itch-io-the-masterplan",
+        "nombre":  "The Masterplan",
+        "autor":  "santiago-garcia",
+        "url":  "https://santiago-garcia.itch.io/the-masterplan",
+        "imagen":  "https://img.itch.zone/aW1nLzMwOTY1NDQ2LnBuZw==/315x250%23c/PC8zOT.png",
+        "genero":  "Aventura",
+        "plataformas":  [
+                            "Windows",
+                            "Linux"
+                        ],
+        "creado":  "2026-10-16T17:42:51Z",
+        "orden":  45,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "the-masterplan"
+    },
+    {
+        "clave":  "itch-neesacomplex-itch-io-fear-me-jeff-the-killers-dating-sim",
+        "nombre":  "Fear Me [Jeff the Killer\u0027s Dating Sim]",
+        "autor":  "neesacomplex",
+        "url":  "https://neesacomplex.itch.io/fear-me-jeff-the-killers-dating-sim",
+        "imagen":  "https://img.itch.zone/aW1nLzIzODYzNTQyLnBuZw==/315x250%23c/sS4UHy.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2025-05-21T21:09:26Z",
+        "orden":  46,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "fear-me-jeff-the-killers-dating-sim"
+    },
+    {
+        "clave":  "itch-digitarium-itch-io-peggys-post",
+        "nombre":  "Peggy\u0027s Post",
+        "autor":  "digitarium",
+        "url":  "https://digitarium.itch.io/peggys-post",
+        "imagen":  "https://img.itch.zone/aW1nLzEyMDQ2NzA1LnBuZw==/315x250%23c/i4cZgY.png",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2023-05-02T01:39:52Z",
+        "orden":  47,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "peggys-post"
+    },
+    {
+        "clave":  "itch-selyk-alien-itch-io-obsession",
+        "nombre":  "Obsession",
+        "autor":  "selyk-alien",
+        "url":  "https://selyk-alien.itch.io/obsession",
+        "imagen":  "https://img.itch.zone/aW1nLzI4OTQ1MDY5LmpwZw==/315x250%23c/7hxD2D.jpg",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Android"
+                        ],
+        "creado":  "2025-11-20T22:52:12Z",
+        "orden":  48,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "obsession"
+    },
+    {
+        "clave":  "itch-c0rew-itch-io-souldate",
+        "nombre":  "Soul Date",
+        "autor":  "c0rew",
+        "url":  "https://c0rew.itch.io/souldate",
+        "imagen":  "https://img.itch.zone/aW1nLzI4NzI0NzgyLmpwZw==/315x250%23c/9tyywt.jpg",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2026-04-06T17:42:10Z",
+        "orden":  49,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "soul-date"
+    },
+    {
+        "clave":  "itch-ncase-itch-io-wbwwb",
+        "nombre":  "We Become What We Behold",
+        "autor":  "ncase",
+        "url":  "https://ncase.itch.io/wbwwb",
+        "imagen":  "https://img.itch.zone/aW1hZ2UvOTIxMTUvNDU0MDMxLnBuZw==/315x250%23c/cxthdQ.png",
+        "genero":  "Otro",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2016-10-18T11:26:41Z",
+        "orden":  50,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "we-become-what-we-behold"
+    },
+    {
+        "clave":  "itch-gregs-games-itch-io-nosferatooth",
+        "nombre":  "NOSFER-A-TOOTH",
+        "autor":  "gregs-games",
+        "url":  "https://gregs-games.itch.io/nosferatooth",
+        "imagen":  "https://img.itch.zone/aW1nLzMwOTA1MjMzLmdpZg==/original/vgxOnv.gif",
+        "genero":  "Estrategia",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2026-10-13T07:18:35Z",
+        "orden":  51,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "nosfer-a-tooth"
+    },
+    {
+        "clave":  "itch-racheldrawsthis-itch-io-elevator-hitch",
+        "nombre":  "Elevator Hitch",
+        "autor":  "racheldrawsthis",
+        "url":  "https://racheldrawsthis.itch.io/elevator-hitch",
+        "imagen":  "https://img.itch.zone/aW1nLzEwMTM5MjUxLnBuZw==/315x250%23c/tItICn.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS"
+                        ],
+        "creado":  "2022-09-20T20:07:14Z",
+        "orden":  52,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "elevator-hitch"
+    },
+    {
+        "clave":  "itch-gbpatch-itch-io-our-life-nf",
+        "nombre":  "Our Life: Now \u0026 Forever",
+        "autor":  "gbpatch",
+        "url":  "https://gbpatch.itch.io/our-life-nf",
+        "imagen":  "https://img.itch.zone/aW1nLzMwODQ4MzcxLnBuZw==/315x250%23c/07XN3c.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2021-04-28T19:54:00Z",
+        "orden":  53,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "our-life-now-y-forever"
+    },
+    {
+        "clave":  "itch-hakita-itch-io-ultrakill-prelude",
+        "nombre":  "ULTRAKILL Prelude",
+        "autor":  "hakita",
+        "url":  "https://hakita.itch.io/ultrakill-prelude",
+        "imagen":  "https://img.itch.zone/aW1nLzI0NDUwMjAucG5n/315x250%23c/7%2BI8cQ.png",
+        "genero":  "Acción",
+        "plataformas":  [
+                            "Windows",
+                            "Linux"
+                        ],
+        "creado":  "2019-08-30T18:50:41Z",
+        "orden":  54,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "ultrakill-prelude"
+    },
+    {
+        "clave":  "itch-shikami-games-itch-io-broken-horror-anthology",
+        "nombre":  "Broken Horror Anthology Demo",
+        "autor":  "shikami-games",
+        "url":  "https://shikami-games.itch.io/broken-horror-anthology",
+        "imagen":  "https://img.itch.zone/aW1nLzMxMjk5NzkzLmpwZw==/315x250%23c/%2F7K3kk.jpg",
+        "genero":  "Acción",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "creado":  "2026-10-24T14:14:46Z",
+        "orden":  55,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "broken-horror-anthology-demo"
+    },
+    {
+        "clave":  "itch-meant-to-bee-studios-itch-io-criminally-yours",
+        "nombre":  "Criminally Yours",
+        "autor":  "meant-to-bee-studios",
+        "url":  "https://meant-to-bee-studios.itch.io/criminally-yours",
+        "imagen":  "https://img.itch.zone/aW1nLzIyNzkwNDY3LnBuZw==/315x250%23c/PyompQ.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux",
+                            "Android"
+                        ],
+        "creado":  "2025-02-10T03:05:56Z",
+        "orden":  56,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "criminally-yours"
+    },
+    {
+        "clave":  "itch-llonelly-itch-io-jackknife",
+        "nombre":  "JACKKNIFE",
+        "autor":  "llonelly",
+        "url":  "https://llonelly.itch.io/jackknife",
+        "imagen":  "https://img.itch.zone/aW1nLzIzNTY3MTI4LnBuZw==/315x250%23c/yUIh1J.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2025-10-12T03:56:55Z",
+        "orden":  57,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "jackknife"
+    },
+    {
+        "clave":  "itch-isattt-itch-io-gentle-fall",
+        "nombre":  "Gentle Fall [Demo]",
+        "autor":  "isattt",
+        "url":  "https://isattt.itch.io/gentle-fall",
+        "imagen":  "https://img.itch.zone/aW1nLzI4Njk0MDI2LnBuZw==/315x250%23c/O6C%2B9r.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2023-02-25T05:30:02Z",
+        "orden":  58,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "gentle-fall-demo"
+    },
+    {
+        "clave":  "itch-livingslime-itch-io-where-eternity-sleeps",
+        "nombre":  "Where Eternity Sleeps",
+        "autor":  "livingslime",
+        "url":  "https://livingslime.itch.io/where-eternity-sleeps",
+        "imagen":  "https://img.itch.zone/aW1nLzIxMzIyOTk2LnBuZw==/315x250%23c/CVV4Oa.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2025-04-17T07:36:29Z",
+        "orden":  59,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "where-eternity-sleeps"
+    },
+    {
+        "clave":  "itch-delucat-itch-io-bloody-painter-dating-sim",
+        "nombre":  "Bloody Painter Dating Sim",
+        "autor":  "delucat",
+        "url":  "https://delucat.itch.io/bloody-painter-dating-sim",
+        "imagen":  "https://img.itch.zone/aW1nLzE3NjU4MjE1LmpwZw==/315x250%23c/aoX%2BV7.jpg",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2024-09-04T17:36:08Z",
+        "orden":  60,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "bloody-painter-dating-sim"
+    },
+    {
+        "clave":  "itch-nomnomnami-itch-io-contract-demon",
+        "nombre":  "Contract Demon",
+        "autor":  "nomnomnami",
+        "url":  "https://nomnomnami.itch.io/contract-demon",
+        "imagen":  "https://img.itch.zone/aW1nLzE5NzQ5NTMucG5n/315x250%23c/ddmbx8.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2019-03-19T06:19:29Z",
+        "orden":  61,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "contract-demon"
+    },
+    {
+        "clave":  "itch-comfortkuma-itch-io-heartstop-tour",
+        "nombre":  "Heartstop Tour [FULL GAME]",
+        "autor":  "comfortkuma",
+        "url":  "https://comfortkuma.itch.io/heartstop-tour",
+        "imagen":  "https://img.itch.zone/aW1nLzIxODA4ODk0LnBuZw==/315x250%23c/SxCY1Z.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2025-06-22T13:31:23Z",
+        "orden":  62,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "heartstop-tour-full-game"
+    },
+    {
+        "clave":  "itch-nopanamaman-itch-io-z-a-t-o-i-love-the-world-and-everything-in-it",
+        "nombre":  "Z. A. T. O. // I Love the World and Everything In It",
+        "autor":  "nopanamaman",
+        "url":  "https://nopanamaman.itch.io/z-a-t-o-i-love-the-world-and-everything-in-it",
+        "imagen":  "https://img.itch.zone/aW1nLzIzODQxNzMyLnBuZw==/315x250%23c/1dBIos.png",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2025-10-29T10:02:34Z",
+        "orden":  63,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T22:11:34Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "z-a-t-o-i-love-the-world-and-everything-in-it"
+    },
+    {
+        "clave":  "itch-laceysflashgames-itch-io-laceys-flash-games",
+        "nombre":  "Lacey\u0027s Flash Games",
+        "autor":  "laceysflashgames",
+        "url":  "https://laceysflashgames.itch.io/laceys-flash-games",
+        "imagen":  "https://img.itch.zone/aW1nLzIwMDUzMzIyLnBuZw==/315x250%23c/8Xf4YA.png",
+        "genero":  "Otro",
+        "plataformas":  [
+
+                        ],
+        "creado":  "2024-12-15T22:22:25Z",
+        "orden":  64,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "laceys-flash-games"
+    },
+    {
+        "clave":  "itch-racheldrawsthis-itch-io-dead-plate",
+        "nombre":  "Dead Plate",
+        "autor":  "racheldrawsthis",
+        "url":  "https://racheldrawsthis.itch.io/dead-plate",
+        "imagen":  "https://img.itch.zone/aW1nLzEzOTExNTU0LnBuZw==/315x250%23c/9Xjwn6.png",
+        "genero":  "Rol",
+        "plataformas":  [
+                            "Windows",
+                            "macOS"
+                        ],
+        "creado":  "2023-10-31T13:39:19Z",
+        "orden":  65,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "dead-plate"
+    },
+    {
+        "clave":  "itch-racheldrawsthis-itch-io-cold-front",
+        "nombre":  "Cold Front",
+        "autor":  "racheldrawsthis",
+        "url":  "https://racheldrawsthis.itch.io/cold-front",
+        "imagen":  "https://img.itch.zone/aW1nLzk2ODczMTIucG5n/315x250%23c/in3D2N.png",
+        "genero":  "Rol",
+        "plataformas":  [
+                            "Windows",
+                            "macOS"
+                        ],
+        "creado":  "2022-08-01T14:32:39Z",
+        "orden":  66,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "cold-front"
+    },
+    {
+        "clave":  "itch-linglyum-itch-io-loving-decays",
+        "nombre":  "Loving Decays [FULL GAME]",
+        "autor":  "linglyum",
+        "url":  "https://linglyum.itch.io/loving-decays",
+        "imagen":  "https://img.itch.zone/aW1nLzI2MTI5NjQ3LmpwZw==/315x250%23c/pjy2Se.jpg",
+        "genero":  "Novela visual",
+        "plataformas":  [
+                            "Windows",
+                            "macOS",
+                            "Linux"
+                        ],
+        "creado":  "2025-02-27T08:50:42Z",
+        "orden":  67,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "loving-decays-full-game"
+    },
+    {
+        "clave":  "itch-viv8k-itch-io-saihateeki",
+        "nombre":  "さいはて駅 (Saihate Station) + Artbook",
+        "autor":  "viv8k",
+        "url":  "https://viv8k.itch.io/saihateeki",
+        "imagen":  "https://img.itch.zone/aW1nLzE2MzQ3MzAxLmpwZw==/315x250%23c/2WaXn9.jpg",
+        "genero":  "Aventura",
+        "plataformas":  [
+                            "Windows",
+                            "macOS"
+                        ],
+        "creado":  "2024-05-30T07:24:01Z",
+        "orden":  68,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "saihate-station-artbook"
+    },
+    {
+        "clave":  "itch-suspain-itch-io-idol-of-fear",
+        "nombre":  "Idol of Fear",
+        "autor":  "suspain",
+        "url":  "https://suspain.itch.io/idol-of-fear",
+        "imagen":  "https://img.itch.zone/aW1nLzIzNDUxNTc0LmpwZw==/315x250%23c/1AD75v.jpg",
+        "genero":  "Aventura",
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "creado":  "2025-06-14T10:45:02Z",
+        "orden":  69,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "idol-of-fear"
+    },
+    {
+        "clave":  "itch-samandev-itch-io-tamaweb",
+        "nombre":  "Tamaweb: Virtual Pet Game",
+        "autor":  "samandev",
+        "url":  "https://samandev.itch.io/tamaweb",
+        "imagen":  "https://img.itch.zone/aW1nLzE3Nzk3NDg4LnBuZw==/315x250%23c/ZJr4Ym.png",
+        "genero":  "Simulación",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2024-02-24T19:41:17Z",
+        "orden":  70,
+        "vigente":  true,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T22:21:40Z",
+        "fin_visto":  null,
+        "slug":  "tamaweb-virtual-pet-game"
+    },
+    {
+        "clave":  "itch-waxwing0-itch-io-fbc",
+        "nombre":  "Flesh, Blood, \u0026 Concrete",
+        "autor":  "waxwing0",
+        "url":  "https://waxwing0.itch.io/fbc",
+        "imagen":  "https://img.itch.zone/aW1nLzcxMDUyNjUucG5n/315x250%23c/%2FSHfYQ.png",
+        "genero":  "Otro",
+        "plataformas":  [
+                            "Navegador"
+                        ],
+        "creado":  "2021-03-28T13:16:18Z",
+        "orden":  69,
+        "vigente":  false,
+        "visto_primero":  "2026-11-01T21:42:17Z",
+        "visto_ultimo":  "2026-11-01T21:45:08Z",
+        "slug":  "flesh-blood-y-concrete",
+        "fin_visto":  "2026-11-01T22:11:34Z"
+    }
+]

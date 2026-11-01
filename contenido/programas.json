@@ -1,0 +1,608 @@
+[
+    {
+        "slug":  "7-zip",
+        "nombre":  "7-Zip",
+        "categoria":  "Archivos y compresión",
+        "orden":  1,
+        "resumen":  "Comprime y descomprime ZIP, 7z, RAR, ISO y muchos formatos más. Liviano y confiable.",
+        "descripcion":  [
+                            "Comprime y descomprime archivos ZIP, 7z, RAR, TAR, ISO y muchos formatos más. Es liviano, rápido y lleva más de veinte años siendo una de las opciones gratis más confiables para Windows.",
+                            "Su formato 7z comprime más que el ZIP, y desde el clic derecho del Explorador puedes extraer o comprimir sin abrir el programa."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows de 64 bits, de 32 bits o ARM64."
+                       ],
+        "licencia":  "GNU LGPL (con una restricción para RAR)",
+        "web":  "https://www.7-zip.org/",
+        "descarga":  "https://www.7-zip.org/download.html",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/7-Zip_Icon.svg/250px-7-Zip_Icon.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de 7-Zip",
+                        "credito":  "Logo de 7-Zip, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:7-Zip_Icon.svg"
+                    }
+    },
+    {
+        "slug":  "sumatrapdf",
+        "nombre":  "SumatraPDF",
+        "categoria":  "Lectura y oficina",
+        "orden":  2,
+        "resumen":  "Abre PDF, libros electrónicos y cómics en un instante. Ideal para computadoras viejas.",
+        "descripcion":  [
+                            "Abre PDF, libros electrónicos (EPUB y MOBI) y cómics (CBZ y CBR) en un instante. Es muy liviano, así que va bien hasta en computadoras viejas.",
+                            "No tiene publicidad ni pide cuenta. Se puede usar sin instalar, desde una carpeta o una memoria USB."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 7 o más nuevo, de 32 o 64 bits (ARM64 con Windows 10 u 11)."
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí (algunas partes pueden estar a medio traducir)",
+        "web":  "https://www.sumatrapdfreader.org/",
+        "descarga":  "https://www.sumatrapdfreader.org/download-free-pdf-viewer",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sumatra_PDF_logo.svg/250px-Sumatra_PDF_logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de SumatraPDF",
+                        "credito":  "Logo de SumatraPDF, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Sumatra_PDF_logo.svg"
+                    }
+    },
+    {
+        "slug":  "libreoffice",
+        "nombre":  "LibreOffice",
+        "categoria":  "Lectura y oficina",
+        "orden":  3,
+        "resumen":  "Textos, hojas de cálculo y presentaciones, compatible con Word, Excel y PowerPoint.",
+        "descripcion":  [
+                            "Es la alternativa gratis a Microsoft Office: procesador de textos (Writer), hojas de cálculo (Calc), presentaciones (Impress) y más. Abre y guarda archivos de Word, Excel y PowerPoint.",
+                            "La hace The Document Foundation con voluntarios de todo el mundo, y tiene su página de descarga en español."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 u 11 de 64 bits (o ARM64).",
+                           "256 MB de RAM como mínimo; recomiendan 512 MB."
+                       ],
+        "licencia":  "MPL 2.0",
+        "web":  "https://es.libreoffice.org/",
+        "descarga":  "https://es.libreoffice.org/descarga/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LibreOffice_logo.svg/250px-LibreOffice_logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de LibreOffice",
+                        "credito":  "Logo de LibreOffice, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:LibreOffice_logo.svg"
+                    }
+    },
+    {
+        "slug":  "keepassxc",
+        "nombre":  "KeePassXC",
+        "categoria":  "Seguridad",
+        "orden":  4,
+        "resumen":  "Guarda tus contraseñas en un archivo cifrado en tu PC, con una sola contraseña maestra.",
+        "descripcion":  [
+                            "Guarda todas tus contraseñas en un archivo cifrado en tu PC, protegido con una sola contraseña maestra. También te inventa contraseñas difíciles para cada sitio.",
+                            "No usa la nube a menos que tú copies el archivo a otro lado, y tiene una extensión para llenar las contraseñas en el navegador."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 u 11 de 64 bits (o ARM64).",
+                           "Necesita el «Visual C++ Redistributable» de Microsoft."
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí",
+        "web":  "https://keepassxc.org/",
+        "descarga":  "https://keepassxc.org/download/",
+        "github":  "keepassxreboot/keepassxc",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KeePassXC.svg/250px-KeePassXC.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de KeePassXC",
+                        "credito":  "Logo de KeePassXC, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:KeePassXC.svg"
+                    }
+    },
+    {
+        "slug":  "thunderbird",
+        "nombre":  "Thunderbird",
+        "categoria":  "Internet y correo",
+        "orden":  5,
+        "resumen":  "Junta tus correos de Gmail, Outlook y otros en un solo programa, con calendario.",
+        "descripcion":  [
+                            "Es el programa de correo de los creadores de Firefox: junta tus cuentas de Gmail, Outlook y otras en un solo lugar, con calendario y contactos.",
+                            "Es gratis, sin anuncios y en español."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 o más nuevo.",
+                           "Recomiendan 1 GB de RAM (2 GB en la versión de 64 bits)."
+                       ],
+        "licencia":  "MPL 2.0",
+        "espanol":  "Sí",
+        "web":  "https://www.thunderbird.net/es-ES/",
+        "descarga":  "https://www.thunderbird.net/es-ES/thunderbird/all/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Thunderbird_2023_icon.svg/250px-Thunderbird_2023_icon.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Thunderbird",
+                        "credito":  "Logo de Thunderbird, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Thunderbird_2023_icon.svg"
+                    }
+    },
+    {
+        "slug":  "vlc",
+        "nombre":  "VLC",
+        "categoria":  "Video y audio",
+        "orden":  6,
+        "resumen":  "Reproduce casi cualquier video o música sin instalar nada más.",
+        "descripcion":  [
+                            "Reproduce casi cualquier video o música sin instalar códecs extra: MKV, MP4, AVI, DVD, radios y transmisiones por internet.",
+                            "También sirve para convertir videos y para poner subtítulos. Lo hace VideoLAN, una organización sin fines de lucro."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Desde Windows XP SP3 hasta Windows 11, de 32 o 64 bits (o ARM64)."
+                       ],
+        "licencia":  "GPL 2",
+        "espanol":  "Sí",
+        "web":  "https://www.videolan.org/vlc/",
+        "descarga":  "https://www.videolan.org/vlc/download-windows.html",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/250px-VLC_Icon.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de VLC",
+                        "credito":  "Logo de VLC, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:VLC_Icon.svg"
+                    }
+    },
+    {
+        "slug":  "obs-studio",
+        "nombre":  "OBS Studio",
+        "categoria":  "Video y audio",
+        "orden":  7,
+        "resumen":  "Graba la pantalla y transmite en vivo a YouTube, Twitch o Facebook.",
+        "descripcion":  [
+                            "Graba la pantalla y transmite en vivo a YouTube, Twitch o Facebook. Es el programa que usan casi todos los streamers.",
+                            "Puedes armar escenas con el juego, tu cámara, textos e imágenes, y cambiar de una a otra con un clic."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 u 11 de 64 bits."
+                       ],
+        "licencia":  "GPL 2",
+        "web":  "https://obsproject.com/es",
+        "descarga":  "https://obsproject.com/download",
+        "github":  "obsproject/obs-studio",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/250px-OBS_Studio_Logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de OBS Studio",
+                        "credito":  "Logo de OBS Studio, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:OBS_Studio_Logo.svg"
+                    }
+    },
+    {
+        "slug":  "audacity",
+        "nombre":  "Audacity",
+        "categoria":  "Video y audio",
+        "orden":  8,
+        "resumen":  "Graba y edita audio: corta, une, quita ruido y exporta a MP3.",
+        "descripcion":  [
+                            "Graba y edita audio: corta, une, quita ruido y exporta a MP3 o WAV. Sirve para podcasts, notas de voz o para limpiar una grabación.",
+                            "Funciona con tu micrófono o con los archivos de audio que ya tengas."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Probado en Windows 10 y 11 de 64 bits (la versión ARM64 pide Windows 11)."
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí (lo traducen voluntarios)",
+        "web":  "https://www.audacityteam.org/",
+        "descarga":  "https://www.audacityteam.org/download/windows/",
+        "github":  "audacity/audacity",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Audacity_4_Logo.svg/250px-Audacity_4_Logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Audacity",
+                        "credito":  "Logo de Audacity, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Audacity_4_Logo.svg"
+                    }
+    },
+    {
+        "slug":  "shotcut",
+        "nombre":  "Shotcut",
+        "categoria":  "Video y audio",
+        "orden":  9,
+        "resumen":  "Editor de video fácil: corta, une, pon música, textos y transiciones.",
+        "descripcion":  [
+                            "Es un editor de video para cortar, unir, poner música, textos y transiciones. Es fácil para empezar y trae filtros para mejorar el color y el sonido.",
+                            "Abre casi cualquier formato de video sin tener que convertirlo antes."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 (versión 1809 o más nueva) u 11, de 64 bits."
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí",
+        "web":  "https://www.shotcut.org/",
+        "descarga":  "https://www.shotcut.org/download/",
+        "github":  "mltframework/shotcut",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shotcut_logo_2026.svg/250px-Shotcut_logo_2026.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Shotcut",
+                        "credito":  "Logo de Shotcut, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Shotcut_logo_2026.svg"
+                    }
+    },
+    {
+        "slug":  "handbrake",
+        "nombre":  "HandBrake",
+        "categoria":  "Video y audio",
+        "orden":  10,
+        "resumen":  "Convierte videos a MP4 o MKV y los hace más livianos sin perder mucha calidad.",
+        "descripcion":  [
+                            "Convierte videos a MP4 o MKV y los hace más livianos sin perder mucha calidad. Es ideal para pasar videos al celular o para ahorrar espacio.",
+                            "Trae ajustes listos para celulares, tabletas y la web, así que no hace falta saber de formatos."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 o más nuevo, de 64 bits (o ARM64)."
+                       ],
+        "licencia":  "GPL 2",
+        "web":  "https://handbrake.fr/",
+        "descarga":  "https://handbrake.fr/downloads.php",
+        "github":  "HandBrake/HandBrake",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Handbrake_light.png/250px-Handbrake_light.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de HandBrake",
+                        "credito":  "Logo de HandBrake, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Handbrake_light.png"
+                    }
+    },
+    {
+        "slug":  "gimp",
+        "nombre":  "GIMP",
+        "categoria":  "Diseño e imagen",
+        "orden":  11,
+        "resumen":  "Edita fotos e imágenes con capas y filtros. La alternativa gratis más conocida a Photoshop.",
+        "descripcion":  [
+                            "Edita fotos e imágenes: recortar, retocar, capas, filtros y mucho más. Es la alternativa gratis más conocida a Photoshop.",
+                            "Abre muchos formatos, incluidos los archivos PSD de Photoshop."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 (versión 1903 o más nueva) u 11, de 64 bits o ARM64."
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí",
+        "web":  "https://www.gimp.org/",
+        "descarga":  "https://www.gimp.org/downloads/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_GIMP_icon_-_v3.0.svg/250px-The_GIMP_icon_-_v3.0.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de GIMP",
+                        "credito":  "Logo de GIMP, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:The_GIMP_icon_-_v3.0.svg"
+                    }
+    },
+    {
+        "slug":  "krita",
+        "nombre":  "Krita",
+        "categoria":  "Diseño e imagen",
+        "orden":  12,
+        "resumen":  "Para dibujar y pintar en la computadora, con pinceles muy buenos y tabletas gráficas.",
+        "descripcion":  [
+                            "Es un programa para dibujar y pintar en la computadora, con pinceles muy buenos y soporte para tabletas gráficas. Lo usan ilustradores y artistas de cómics.",
+                            "También sirve para hacer animación cuadro por cuadro."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 8.1 o más nuevo, de 64 bits.",
+                           "4 GB de RAM como mínimo; recomiendan 16 GB."
+                       ],
+        "licencia":  "GPL 3",
+        "web":  "https://krita.org/es/",
+        "descarga":  "https://krita.org/en/download/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krita_Application_Logo.svg/250px-Krita_Application_Logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Krita",
+                        "credito":  "Logo de Krita, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Krita_Application_Logo.svg"
+                    }
+    },
+    {
+        "slug":  "inkscape",
+        "nombre":  "Inkscape",
+        "categoria":  "Diseño e imagen",
+        "orden":  13,
+        "resumen":  "Diseño vectorial para logos, afiches e ilustraciones. La alternativa gratis a Illustrator.",
+        "descripcion":  [
+                            "Es un programa de diseño vectorial para logos, afiches, ilustraciones e íconos. Es la alternativa gratis a Illustrator y guarda en SVG, PDF y PNG.",
+                            "Los dibujos vectoriales se pueden agrandar todo lo que quieras sin que se vean pixelados."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+
+                       ],
+        "licencia":  "GPL 2 o posterior",
+        "web":  "https://inkscape.org/",
+        "descarga":  "https://inkscape.org/release/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/250px-Inkscape_Logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Inkscape",
+                        "credito":  "Logo de Inkscape, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Inkscape_Logo.svg"
+                    }
+    },
+    {
+        "slug":  "blender",
+        "nombre":  "Blender",
+        "categoria":  "Diseño e imagen",
+        "orden":  14,
+        "resumen":  "3D completo: modelar, animar y renderizar. Con él se hicieron las películas libres de Blender.",
+        "descripcion":  [
+                            "Es un programa de 3D completo: modelar, animar, iluminar, renderizar y hasta editar video. Con él se hicieron las películas libres que están en la sección Cine.",
+                            "Es pesado: para ir cómodo necesita una PC con buena tarjeta gráfica."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 8.1 de 64 bits como mínimo; recomiendan Windows 11.",
+                           "8 GB de RAM como mínimo; recomiendan 32 GB."
+                       ],
+        "licencia":  "GPL",
+        "espanol":  "Sí",
+        "web":  "https://www.blender.org/",
+        "descarga":  "https://www.blender.org/download/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/250px-Blender_logo_no_text.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Blender",
+                        "credito":  "Logo de Blender, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Blender_logo_no_text.svg"
+                    }
+    },
+    {
+        "slug":  "calibre",
+        "nombre":  "calibre",
+        "categoria":  "Lectura y oficina",
+        "orden":  15,
+        "resumen":  "Organiza tus libros electrónicos, conviértelos de formato y pásalos a tu lector o celular.",
+        "descripcion":  [
+                            "Organiza tu biblioteca de libros electrónicos, convierte entre formatos (EPUB, MOBI, AZW3 y PDF) y los pasa a tu lector o a tu celular.",
+                            "También puede bajar noticias de periódicos como libros electrónicos, para leerlas después."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 (versión 1809 o más nueva) u 11, de 64 bits."
+                       ],
+        "licencia":  "GPL 3",
+        "web":  "https://calibre-ebook.com/es",
+        "descarga":  "https://calibre-ebook.com/download_windows",
+        "github":  "kovidgoyal/calibre",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Calibre_logo_SVG_version.svg/250px-Calibre_logo_SVG_version.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de calibre",
+                        "credito":  "Logo de calibre, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Calibre_logo_SVG_version.svg"
+                    }
+    },
+    {
+        "slug":  "firefox",
+        "nombre":  "Firefox",
+        "categoria":  "Internet y correo",
+        "orden":  16,
+        "resumen":  "Navegador rápido que bloquea muchos rastreadores sin que hagas nada.",
+        "descripcion":  [
+                            "Es un navegador web rápido que cuida tu privacidad: bloquea muchos rastreadores sin que hagas nada y funciona con extensiones.",
+                            "Lo hace Mozilla, una organización sin fines de lucro, y está en español."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 10 o más nuevo.",
+                           "Para Windows 7, 8 y 8.1 existe Firefox ESR."
+                       ],
+        "licencia":  "MPL 2.0",
+        "espanol":  "Sí",
+        "web":  "https://www.firefox.com/es-ES/",
+        "descarga":  "https://www.firefox.com/es-ES/download/windows/",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/250px-Firefox_logo%2C_2019.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Firefox",
+                        "credito":  "Logo de Firefox, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Firefox_logo,_2019.svg"
+                    }
+    },
+    {
+        "slug":  "notepad-plus-plus",
+        "nombre":  "Notepad++",
+        "categoria":  "Utilidades",
+        "orden":  17,
+        "resumen":  "Editor de texto y código liviano, mucho más cómodo que el Bloc de notas.",
+        "descripcion":  [
+                            "Es un editor de texto y de código liviano, con colores para muchos lenguajes de programación, pestañas y búsqueda avanzada.",
+                            "Es mucho más cómodo que el Bloc de notas, también para notas y listas."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows de 32 bits, 64 bits o ARM64."
+                       ],
+        "licencia":  "GPL",
+        "espanol":  "Sí",
+        "web":  "https://notepad-plus-plus.org/",
+        "descarga":  "https://notepad-plus-plus.org/downloads/",
+        "github":  "notepad-plus-plus/notepad-plus-plus",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/250px-Notepad%2B%2B_Logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de Notepad++",
+                        "credito":  "Logo de Notepad++, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Notepad%2B%2B_Logo.svg"
+                    }
+    },
+    {
+        "slug":  "sharex",
+        "nombre":  "ShareX",
+        "categoria":  "Utilidades",
+        "orden":  18,
+        "resumen":  "Captura la pantalla, graba en video o GIF y marca la imagen con flechas y textos.",
+        "descripcion":  [
+                            "Captura la pantalla completa, una ventana o un pedazo, graba en video o en GIF y edita la captura con flechas, textos y partes borrosas.",
+                            "Tiene muchísimas opciones, pero con las teclas que trae ya funciona."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+
+                       ],
+        "licencia":  "GPL 3",
+        "espanol":  "Sí",
+        "web":  "https://getsharex.com/",
+        "descarga":  "https://getsharex.com/downloads",
+        "github":  "ShareX/ShareX",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/d/d1/ShareX_Logo.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de ShareX",
+                        "credito":  "Logo de ShareX, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:ShareX_Logo.png"
+                    }
+    },
+    {
+        "slug":  "rufus",
+        "nombre":  "Rufus",
+        "categoria":  "Utilidades",
+        "orden":  19,
+        "resumen":  "Crea memorias USB para instalar Windows o Linux en una computadora.",
+        "descripcion":  [
+                            "Crea memorias USB de arranque para instalar Windows o Linux en una computadora. Es pequeño y no hace falta instalarlo.",
+                            "Ojo: borra todo lo que tenga la memoria USB, así que antes guarda tus archivos en otro lado."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 8 o más nuevo, de 32, 64 bits o ARM64."
+                       ],
+        "licencia":  "GPL 3 o posterior",
+        "espanol":  "Sí",
+        "web":  "https://rufus.ie/es/",
+        "descarga":  "https://rufus.ie/es/",
+        "github":  "pbatard/rufus",
+        "portada":  {
+                        "texto":  true,
+                        "color":  "#1F5F8B",
+                        "subtitulo":  "Utilidades"
+                    }
+    },
+    {
+        "slug":  "powertoys",
+        "nombre":  "PowerToys",
+        "categoria":  "Utilidades",
+        "orden":  20,
+        "resumen":  "Herramientas gratis de Microsoft: lanzador rápido, renombrar en lote, achicar imágenes y más.",
+        "descripcion":  [
+                            "Son herramientas gratis de Microsoft para Windows: un lanzador rápido, cambiar el nombre de muchos archivos a la vez, achicar imágenes, un selector de colores y más.",
+                            "Es de código abierto y se instala desde GitHub o desde la Microsoft Store."
+                        ],
+        "plataformas":  [
+                            "Windows"
+                        ],
+        "requisitos":  [
+                           "Windows 11, o Windows 10 versión 2004 o más nueva.",
+                           "64 bits o ARM64."
+                       ],
+        "licencia":  "MIT",
+        "espanol":  "Sí",
+        "web":  "https://learn.microsoft.com/es-es/windows/powertoys/",
+        "descarga":  "https://learn.microsoft.com/es-es/windows/powertoys/install",
+        "github":  "microsoft/PowerToys",
+        "portada":  {
+                        "url":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Microsoft_PowerToys-Logo_Vintage%2C_Logo.svg/250px-Microsoft_PowerToys-Logo_Vintage%2C_Logo.svg.png",
+                        "ancho":  250,
+                        "alto":  250,
+                        "ajuste":  "contener",
+                        "alt":  "Logo de PowerToys",
+                        "credito":  "Logo de PowerToys, vía Wikimedia Commons",
+                        "credito_url":  "https://commons.wikimedia.org/wiki/File:Microsoft_PowerToys-Logo_Vintage,_Logo.svg"
+                    }
+    }
+]

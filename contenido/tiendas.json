@@ -1,0 +1,179 @@
+{
+  "epic": {
+    "nombre": "Epic Games Store",
+    "corto": "Epic",
+    "requisito": "Cuenta gratis de Epic Games",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página del juego en la tienda de Epic.",
+      "Inicia sesión con tu cuenta de Epic Games. Si no tienes, la creas gratis ahí mismo.",
+      "Pulsa «Obtener» y confirma el pedido. El total debe decir US$0.00: si te piden pagar, no es el regalo.",
+      "Listo: el juego queda en tu biblioteca. Para jugarlo, instala el programa Epic Games Launcher en tu PC."
+    ]
+  },
+  "steam": {
+    "nombre": "Steam",
+    "corto": "Steam",
+    "requisito": "Cuenta gratis de Steam",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Inicia sesión en Steam. Si no tienes cuenta, la creas gratis.",
+      "Pulsa el botón para agregarlo gratis a tu cuenta. Si la página pide pagar, no es el regalo.",
+      "Instálalo desde tu biblioteca de Steam."
+    ],
+    "pasos_clave": [
+      "Pulsa el botón verde: te lleva a la página oficial del sorteo.",
+      "Sigue sus pasos para recibir la clave (key). Las claves se reparten hasta que se acaban.",
+      "En Steam, abre «Juegos» › «Activar un producto en Steam» y pega la clave.",
+      "Instálalo desde tu biblioteca de Steam."
+    ]
+  },
+  "gog": {
+    "nombre": "GOG",
+    "corto": "GOG",
+    "requisito": "Cuenta gratis de GOG",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a GOG.",
+      "Inicia sesión en GOG o crea una cuenta gratis.",
+      "Busca el aviso del regalo (suele estar en la portada de GOG) y pulsa el botón para reclamarlo.",
+      "El juego queda en tu biblioteca. Lo bajas con GOG Galaxy o con su instalador, que no lleva DRM."
+    ]
+  },
+  "itch": {
+    "nombre": "itch.io",
+    "corto": "itch.io",
+    "requisito": "Cuenta gratis de itch.io",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial en itch.io.",
+      "Inicia sesión en itch.io o crea una cuenta gratis, para que el juego quede en tu biblioteca.",
+      "Pulsa el botón para descargarlo o reclamarlo gratis.",
+      "Bájalo desde tu biblioteca y pásale el antivirus antes de abrirlo, como a todo lo que bajas de internet."
+    ]
+  },
+  "indiegala": {
+    "nombre": "IndieGala",
+    "corto": "IndieGala",
+    "requisito": "Cuenta gratis de IndieGala",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página del regalo en IndieGala.",
+      "Inicia sesión en IndieGala o crea una cuenta gratis.",
+      "Pulsa el botón para agregarlo a tu biblioteca.",
+      "Bájalo desde tu biblioteca de IndieGala y pásale el antivirus antes de abrirlo."
+    ]
+  },
+  "stove": {
+    "nombre": "STOVE",
+    "corto": "STOVE",
+    "requisito": "Cuenta gratis de STOVE",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la tienda STOVE.",
+      "Inicia sesión o crea una cuenta gratis de STOVE.",
+      "Pulsa el botón para reclamarlo. Si te piden pagar, no es el regalo.",
+      "Instálalo con el programa de STOVE."
+    ]
+  },
+  "prime": {
+    "nombre": "Prime Gaming",
+    "corto": "Prime Gaming",
+    "requisito": "Suscripción de Amazon Prime (de pago)",
+    "aviso": "Este regalo es solo para quien paga Amazon Prime. Si no tienes Prime, no te sirve.",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a Prime Gaming.",
+      "Inicia sesión con tu cuenta de Amazon que tiene Prime.",
+      "Pulsa el botón para reclamarlo y sigue las instrucciones para activarlo en la tienda que te indique."
+    ]
+  },
+  "ubisoft": {
+    "nombre": "Ubisoft Store",
+    "corto": "Ubisoft",
+    "requisito": "Cuenta gratis de Ubisoft",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la tienda de Ubisoft.",
+      "Inicia sesión o crea una cuenta gratis de Ubisoft.",
+      "Pulsa el botón para reclamarlo. Si te piden pagar, no es el regalo.",
+      "Instálalo con el programa Ubisoft Connect."
+    ]
+  },
+  "ea": {
+    "nombre": "EA app",
+    "corto": "EA",
+    "requisito": "Cuenta gratis de EA",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Inicia sesión o crea una cuenta gratis de EA.",
+      "Pulsa el botón para agregarlo a tu biblioteca.",
+      "Instálalo con la EA app."
+    ]
+  },
+  "battlenet": {
+    "nombre": "Battle.net",
+    "corto": "Battle.net",
+    "requisito": "Cuenta gratis de Battle.net",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Inicia sesión o crea una cuenta gratis de Battle.net.",
+      "Pulsa el botón para reclamarlo.",
+      "Instálalo con la app de Battle.net."
+    ]
+  },
+  "xbox": {
+    "nombre": "Xbox",
+    "corto": "Xbox",
+    "requisito": "Cuenta de Microsoft",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Inicia sesión con tu cuenta de Microsoft.",
+      "Pulsa el botón para obtenerlo. Si te piden pagar, no es el regalo."
+    ]
+  },
+  "playstation": {
+    "nombre": "PlayStation Store",
+    "corto": "PlayStation",
+    "requisito": "Cuenta de PlayStation Network",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Inicia sesión con tu cuenta de PlayStation Network.",
+      "Pulsa el botón para agregarlo a tu biblioteca. Si te piden pagar, no es el regalo."
+    ]
+  },
+  "nintendo": {
+    "nombre": "Nintendo eShop",
+    "corto": "Nintendo",
+    "requisito": "Cuenta de Nintendo",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Inicia sesión con tu cuenta de Nintendo.",
+      "Sigue los pasos para reclamarlo. Si te piden pagar, no es el regalo."
+    ]
+  },
+  "movil": {
+    "nombre": "Google Play o App Store",
+    "corto": "Celular",
+    "requisito": "Celular con Android o iPhone",
+    "pasos": [
+      "Abre esta página en tu celular y pulsa el botón verde: te lleva a la tienda oficial.",
+      "Revisa que el precio diga «Gratis» o US$0 antes de instalar.",
+      "Instálalo. Lo que consigues gratis durante la promoción suele quedar en tu cuenta."
+    ]
+  },
+  "vr": {
+    "nombre": "Tienda de realidad virtual",
+    "corto": "Realidad virtual",
+    "requisito": "Visor de realidad virtual compatible",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Sigue sus pasos para recibir la clave y actívala en la tienda de tu visor.",
+      "Instálalo desde la biblioteca de tu visor."
+    ]
+  },
+  "otra": {
+    "nombre": "Tienda oficial",
+    "corto": "Otra tienda",
+    "requisito": "Cuenta gratis en la tienda del regalo",
+    "pasos": [
+      "Pulsa el botón verde: te lleva a la página oficial del regalo.",
+      "Inicia sesión o crea una cuenta gratis en esa tienda.",
+      "Sigue los pasos para reclamarlo. Si te piden pagar o datos de tarjeta, no es este regalo.",
+      "Instálalo desde tu biblioteca."
+    ]
+  }
+}
