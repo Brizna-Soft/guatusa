@@ -1,0 +1,34 @@
+name: Un enlace no sirve
+description: Un botón que no abre, un regalo que ya terminó o una imagen que no carga
+labels: ["enlace"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por avisar: así Guatusa sigue al día para todos.
+        No pongas contraseñas ni datos personales: lo que se escribe aquí es público.
+  - type: input
+    id: ficha
+    attributes:
+      label: ¿En qué página de Guatusa?
+      description: Copia la dirección de la ficha.
+      placeholder: "https://brizna-soft.pages.dev/regalos/..."
+    validations:
+      required: true
+  - type: dropdown
+    id: problema
+    attributes:
+      label: ¿Qué pasa?
+      options:
+        - El botón no abre o da error
+        - El regalo ya terminó
+        - Me pide pagar o datos de tarjeta
+        - La imagen no carga
+        - Otra cosa
+    validations:
+      required: true
+  - type: textarea
+    id: detalles
+    attributes:
+      label: Cuéntanos más (opcional)
+      description: Si sale un mensaje, cópialo.

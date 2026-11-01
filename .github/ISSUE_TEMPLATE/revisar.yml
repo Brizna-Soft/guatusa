@@ -1,0 +1,34 @@
+name: Algo no debería estar
+description: Algo pirata, sin permiso de su dueño, para adultos o engañoso
+labels: ["revisar"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        En Guatusa solo va lo gratis y legal. Si ves algo que no cumple, lo revisamos y lo quitamos.
+        Si eres dueño de algo que aparece aquí y quieres que lo quitemos, dilo también aquí.
+  - type: input
+    id: ficha
+    attributes:
+      label: ¿En qué página de Guatusa?
+      placeholder: "https://brizna-soft.pages.dev/..."
+    validations:
+      required: true
+  - type: dropdown
+    id: motivo
+    attributes:
+      label: ¿Por qué no debería estar?
+      options:
+        - Es pirata o no tiene permiso de su dueño
+        - Es contenido para adultos
+        - Es engañoso o trae virus
+        - Soy el dueño y quiero que lo quiten
+        - Otra razón
+    validations:
+      required: true
+  - type: textarea
+    id: detalles
+    attributes:
+      label: Cuéntanos más
+    validations:
+      required: true

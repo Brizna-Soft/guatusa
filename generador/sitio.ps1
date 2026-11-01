@@ -180,7 +180,7 @@ function Get-PaginaAcerca {
         </ul>
 
         <h2>Reportar un problema</h2>
-        <p>¿Un enlace roto, un regalo que ya no sirve o algo que no debería estar? Escríbenos en <a href="$(Enlace "$($script:Sitio.repo)/issues")">GitHub</a>$contactoTelegram.</p>
+        <p>¿Un enlace roto, un regalo que ya no sirve o algo que no debería estar? Avísanos con el formulario de <a href="$(Enlace "$($script:Sitio.repo)/issues/new/choose")">GitHub</a>$contactoTelegram. Ahí también puedes sugerir algo gratis y legal que falte.</p>
 
         <h2>Créditos</h2>
         <p>Datos de los regalos: <a href="https://www.gamerpower.com/">GamerPower</a>. Juegos de <a href="https://itch.io/">itch.io</a>. Precios, requisitos e imágenes de ofertas: tienda de Steam. Las imágenes de películas y programas dicen su autor y licencia en cada ficha. Las marcas, nombres y portadas son de sus dueños; Guatusa no es parte de ninguna tienda.</p>

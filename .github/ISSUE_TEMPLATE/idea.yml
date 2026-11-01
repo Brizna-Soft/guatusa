@@ -1,0 +1,24 @@
+name: Sugerir algo gratis
+description: Un juego, programa, película o servicio gratis y legal que debería estar en Guatusa
+labels: ["idea"]
+body:
+  - type: input
+    id: nombre
+    attributes:
+      label: ¿Qué es?
+      placeholder: "Nombre del juego, programa, película o servicio"
+    validations:
+      required: true
+  - type: input
+    id: enlace
+    attributes:
+      label: Enlace oficial
+      description: La página oficial o de la tienda, nunca un sitio de descargas de otros.
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: porque
+    attributes:
+      label: ¿Por qué es gratis y legal?
+      description: Por ejemplo, su autor lo regala, tiene licencia libre o es de dominio público.
