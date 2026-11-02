@@ -37,7 +37,7 @@
         "tamano": 108216769
       }
     ],
-    "leido": "2026-11-02T07:32:35Z"
+    "leido": "2026-11-02T19:00:43Z"
   },
   "Anuken/Mindustry": {
     "repo": "Anuken/Mindustry",
@@ -67,72 +67,72 @@
         "tamano": 19453000
       }
     ],
-    "leido": "2026-11-02T07:32:35Z"
+    "leido": "2026-11-02T19:00:42Z"
   },
   "audacity/audacity": {
     "repo": "audacity/audacity",
-    "etiqueta": "Audacity-4.0.1",
-    "version": "4.0.1",
-    "fecha": "2026-09-30T11:59:48Z",
-    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.1",
+    "etiqueta": "Audacity-4.0.2",
+    "version": "4.0.2",
+    "fecha": "2026-11-02T10:01:34Z",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.2",
     "archivos": [
       {
-        "nombre": "audacity-linux-4.0.1-aarch64.AppImage",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-linux-4.0.1-aarch64.AppImage",
-        "tamano": 70666760
+        "nombre": "audacity-linux-4.0.2-aarch64.AppImage",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-linux-4.0.2-aarch64.AppImage",
+        "tamano": 70670856
       },
       {
-        "nombre": "audacity-linux-4.0.1-x86_64.AppImage",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-linux-4.0.1-x86_64.AppImage",
-        "tamano": 73755128
+        "nombre": "audacity-linux-4.0.2-x86_64.AppImage",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-linux-4.0.2-x86_64.AppImage",
+        "tamano": 73726456
       },
       {
-        "nombre": "audacity-macOS-4.0.1-arm64.dmg",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-arm64.dmg",
-        "tamano": 50034126
+        "nombre": "audacity-macOS-4.0.2-arm64.dmg",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-macOS-4.0.2-arm64.dmg",
+        "tamano": 50030766
       },
       {
-        "nombre": "audacity-macOS-4.0.1-universal.dmg",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-universal.dmg",
-        "tamano": 92003045
+        "nombre": "audacity-macOS-4.0.2-universal.dmg",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-macOS-4.0.2-universal.dmg",
+        "tamano": 91997209
       },
       {
-        "nombre": "audacity-macOS-4.0.1-x86_64.dmg",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-macOS-4.0.1-x86_64.dmg",
-        "tamano": 54321871
+        "nombre": "audacity-macOS-4.0.2-x86_64.dmg",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-macOS-4.0.2-x86_64.dmg",
+        "tamano": 54394541
       },
       {
-        "nombre": "audacity-sources-4.0.1.tar.xz",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-sources-4.0.1.tar.xz",
-        "tamano": 190348052
+        "nombre": "audacity-sources-4.0.2.tar.xz",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-sources-4.0.2.tar.xz",
+        "tamano": 190743760
       },
       {
-        "nombre": "audacity-win-4.0.1-arm64.7z",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.7z",
-        "tamano": 32798863
+        "nombre": "audacity-win-4.0.2-arm64.7z",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-arm64.7z",
+        "tamano": 32843241
       },
       {
-        "nombre": "audacity-win-4.0.1-arm64.msi",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-arm64.msi",
-        "tamano": 38264832
+        "nombre": "audacity-win-4.0.2-arm64.msi",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-arm64.msi",
+        "tamano": 38240256
       },
       {
-        "nombre": "audacity-win-4.0.1-x86_64.7z",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.7z",
-        "tamano": 44322940
+        "nombre": "audacity-win-4.0.2-x86_64.7z",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-x86_64.7z",
+        "tamano": 44336109
       },
       {
-        "nombre": "audacity-win-4.0.1-x86_64.msi",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.msi",
-        "tamano": 49795072
+        "nombre": "audacity-win-4.0.2-x86_64.msi",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-x86_64.msi",
+        "tamano": 49823744
       },
       {
         "nombre": "CHECKSUMS.txt",
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/CHECKSUMS.txt",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/CHECKSUMS.txt",
         "tamano": 1632
       }
     ],
-    "leido": "2026-11-02T07:32:36Z"
+    "leido": "2026-11-02T19:00:44Z"
   },
   "Brizna-Soft/atarraya": {
     "repo": "Brizna-Soft/atarraya",
@@ -152,7 +152,7 @@
         "tamano": 89
       }
     ],
-    "leido": "2026-11-02T07:32:33Z"
+    "leido": "2026-11-02T19:00:41Z"
   },
   "Brizna-Soft/chachalaca": {
     "repo": "Brizna-Soft/chachalaca",
@@ -172,7 +172,7 @@
         "tamano": 91
       }
     ],
-    "leido": "2026-11-02T07:32:34Z"
+    "leido": "2026-11-02T19:00:42Z"
   },
   "Brizna-Soft/guara": {
     "repo": "Brizna-Soft/guara",
@@ -192,7 +192,7 @@
         "tamano": 86
       }
     ],
-    "leido": "2026-11-02T07:32:34Z"
+    "leido": "2026-11-02T19:00:41Z"
   },
   "Brizna-Soft/hntorrent-descargas": {
     "repo": "Brizna-Soft/hntorrent-descargas",
@@ -232,7 +232,7 @@
         "tamano": 179
       }
     ],
-    "leido": "2026-11-02T07:32:34Z"
+    "leido": "2026-11-02T19:00:42Z"
   },
   "Brizna-Soft/jicaro": {
     "repo": "Brizna-Soft/jicaro",
@@ -252,7 +252,7 @@
         "tamano": 87
       }
     ],
-    "leido": "2026-11-02T07:32:33Z"
+    "leido": "2026-11-02T19:00:41Z"
   },
   "Brizna-Soft/mapache": {
     "repo": "Brizna-Soft/mapache",
@@ -272,7 +272,7 @@
         "tamano": 88
       }
     ],
-    "leido": "2026-11-02T07:32:33Z"
+    "leido": "2026-11-02T19:00:41Z"
   },
   "Brizna-Soft/mosquitero": {
     "repo": "Brizna-Soft/mosquitero",
@@ -302,7 +302,7 @@
         "tamano": 95
       }
     ],
-    "leido": "2026-11-02T07:32:34Z"
+    "leido": "2026-11-02T19:00:41Z"
   },
   "endless-sky/endless-sky": {
     "repo": "endless-sky/endless-sky",
@@ -342,7 +342,7 @@
         "tamano": 364425528
       }
     ],
-    "leido": "2026-11-02T07:32:35Z"
+    "leido": "2026-11-02T19:00:43Z"
   },
   "HandBrake/HandBrake": {
     "repo": "HandBrake/HandBrake",
@@ -482,7 +482,7 @@
         "tamano": 566
       }
     ],
-    "leido": "2026-11-02T07:32:36Z"
+    "leido": "2026-11-02T19:00:45Z"
   },
   "keepassxreboot/keepassxc": {
     "repo": "keepassxreboot/keepassxc",
@@ -747,7 +747,7 @@
         "tamano": 488
       }
     ],
-    "leido": "2026-11-02T07:32:36Z"
+    "leido": "2026-11-02T19:00:44Z"
   },
   "kovidgoyal/calibre": {
     "repo": "kovidgoyal/calibre",
@@ -787,7 +787,7 @@
         "tamano": 218296072
       }
     ],
-    "leido": "2026-11-02T07:32:36Z"
+    "leido": "2026-11-02T19:00:45Z"
   },
   "luanti-org/luanti": {
     "repo": "luanti-org/luanti",
@@ -842,7 +842,7 @@
         "tamano": 14346225
       }
     ],
-    "leido": "2026-11-02T07:32:35Z"
+    "leido": "2026-11-02T19:00:42Z"
   },
   "microsoft/PowerToys": {
     "repo": "microsoft/PowerToys",
@@ -887,7 +887,7 @@
         "tamano": 449866626
       }
     ],
-    "leido": "2026-11-02T07:32:37Z"
+    "leido": "2026-11-02T19:00:46Z"
   },
   "mltframework/shotcut": {
     "repo": "mltframework/shotcut",
@@ -957,7 +957,7 @@
         "tamano": 159418949
       }
     ],
-    "leido": "2026-11-02T07:32:36Z"
+    "leido": "2026-11-02T19:00:45Z"
   },
   "notepad-plus-plus/notepad-plus-plus": {
     "repo": "notepad-plus-plus/notepad-plus-plus",
@@ -1107,7 +1107,7 @@
         "tamano": 594
       }
     ],
-    "leido": "2026-11-02T07:32:37Z"
+    "leido": "2026-11-02T19:00:45Z"
   },
   "obsproject/obs-studio": {
     "repo": "obsproject/obs-studio",
@@ -1177,7 +1177,7 @@
         "tamano": 223786669
       }
     ],
-    "leido": "2026-11-02T07:32:36Z"
+    "leido": "2026-11-02T19:00:44Z"
   },
   "OpenTTD/OpenTTD": {
     "repo": "OpenTTD/OpenTTD",
@@ -1186,7 +1186,7 @@
     "fecha": "2026-04-04T19:56:48Z",
     "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3",
     "archivos": [],
-    "leido": "2026-11-02T07:32:35Z"
+    "leido": "2026-11-02T19:00:43Z"
   },
   "pbatard/rufus": {
     "repo": "pbatard/rufus",
@@ -1231,7 +1231,7 @@
         "tamano": 256
       }
     ],
-    "leido": "2026-11-02T07:32:37Z"
+    "leido": "2026-11-02T19:00:45Z"
   },
   "ShareX/ShareX": {
     "repo": "ShareX/ShareX",
@@ -1251,7 +1251,7 @@
         "tamano": 139151207
       }
     ],
-    "leido": "2026-11-02T07:32:37Z"
+    "leido": "2026-11-02T19:00:45Z"
   },
   "SuperTux/supertux": {
     "repo": "SuperTux/supertux",
@@ -1336,7 +1336,7 @@
         "tamano": 277928552
       }
     ],
-    "leido": "2026-11-02T07:32:36Z"
+    "leido": "2026-11-02T19:00:44Z"
   },
   "supertuxkart/stk-code": {
     "repo": "supertuxkart/stk-code",
@@ -1411,7 +1411,7 @@
         "tamano": 183727403
       }
     ],
-    "leido": "2026-11-02T07:32:34Z"
+    "leido": "2026-11-02T19:00:42Z"
   },
   "Warzone2100/warzone2100": {
     "repo": "Warzone2100/warzone2100",
@@ -1511,7 +1511,7 @@
         "tamano": 393747010
       }
     ],
-    "leido": "2026-11-02T07:32:35Z"
+    "leido": "2026-11-02T19:00:43Z"
   },
   "yairm210/Unciv": {
     "repo": "yairm210/Unciv",
@@ -1556,6 +1556,6 @@
         "tamano": 22840481
       }
     ],
-    "leido": "2026-11-02T07:32:35Z"
+    "leido": "2026-11-02T19:00:43Z"
   }
 }

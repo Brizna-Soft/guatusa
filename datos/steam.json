@@ -308,6 +308,41 @@
       "edad": 0,
       "leido": "2026-11-02T07:32:38Z"
     },
+    "252490": {
+      "appid": 252490,
+      "nombre": "Rust",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Multijugador masivo",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Facepunch Studios"
+      ],
+      "anio": 2018,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 11 64bit",
+        "Procesador: AMD Ryzen 5 1400 or Intel Core i5-6600",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: AMD Radeon RX 470, NVIDIA GeForce GTX 1060, Intel® Arc™ A580",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 45 GB de espacio disponible",
+        "Notas adicionales: SSD is highly recommended or expect longer than average load times."
+      ],
+      "edad": 0,
+      "leido": "2026-11-02T19:00:46Z"
+    },
     "2912680": {
       "appid": 2912680,
       "nombre": "Quiztopia : The Ultimate Trivia",
