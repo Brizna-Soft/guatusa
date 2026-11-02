@@ -245,6 +245,69 @@
       "edad": 0,
       "leido": "2026-11-02T00:00:20Z"
     },
+    "2050650": {
+      "appid": 2050650,
+      "nombre": "Resident Evil 4",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "CAPCOM Co., Ltd."
+      ],
+      "anio": 2023,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 (64 bit)",
+        "Procesador: AMD Ryzen 3 1200 / Intel Core i5-7500",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet"
+      ],
+      "edad": 0,
+      "leido": "2026-11-02T07:32:38Z"
+    },
+    "2223980": {
+      "appid": 2223980,
+      "nombre": "Nomad Drive",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Casual",
+        "Indie",
+        "Simuladores",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Indie Devil"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 / 11 (64-bit)",
+        "Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600 (6 cores)",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: NVIDIA GTX 1060 6 GB / AMD RX 580 8 GB (6 GB VRAM",
+        "DirectX: Versión 11",
+        "Almacenamiento: 3 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-02T07:32:38Z"
+    },
     "2912680": {
       "appid": 2912680,
       "nombre": "Quiztopia : The Ultimate Trivia",
