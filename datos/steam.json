@@ -216,6 +216,35 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:19Z"
     },
+    "2016980": {
+      "appid": 2016980,
+      "nombre": "Highway Driving",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Carreras",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "Yash Future Tech Solutions Pvt Ltd"
+      ],
+      "anio": 2022,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 7 or later required",
+        "Procesador: Intel Core i3 515 7U",
+        "Memoria: 2 GB de RAM",
+        "Gráficos: 1 GB AMD or NVIDIA Graphic Card",
+        "Almacenamiento: 500 MB de espacio disponible",
+        "Notas adicionales: Steering wheels and Pedals supported in this game"
+      ],
+      "edad": 0,
+      "leido": "2026-11-02T00:00:20Z"
+    },
     "2912680": {
       "appid": 2912680,
       "nombre": "Quiztopia : The Ultimate Trivia",
@@ -601,6 +630,36 @@
       ],
       "edad": 0,
       "leido": "2026-11-01T21:45:23Z"
+    },
+    "660900": {
+      "appid": 660900,
+      "nombre": "Dark Mystery",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Indie",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Yash Future Tech Solutions Pvt Ltd"
+      ],
+      "anio": 2017,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 7 or later required",
+        "Procesador: Intel Core i3 515 7U",
+        "Memoria: 2 GB de RAM",
+        "Gráficos: 1 GB AMD or NVIDIA Graphic Card",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 1500 MB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-02T00:00:21Z"
     }
   },
   "nombres": {
@@ -611,6 +670,10 @@
     "asleepact1": {
       "appid": 0,
       "leido": "2026-11-01T21:45:08Z"
+    },
+    "darkmystery": {
+      "appid": 660900,
+      "leido": "2026-11-02T00:00:17Z"
     },
     "dwarvenrealms": {
       "appid": 2015240,
@@ -627,6 +690,10 @@
     "gladiatorbladesoffury": {
       "appid": 1007490,
       "leido": "2026-11-01T21:45:08Z"
+    },
+    "highwaydriving": {
+      "appid": 2016980,
+      "leido": "2026-11-02T00:00:17Z"
     },
     "horseracing": {
       "appid": 0,
