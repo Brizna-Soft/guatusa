@@ -50,7 +50,7 @@ Los archivos de `datos/` los guarda el flujo de GitHub. Si armas en la PC tambi�
 
 ## Publicar (lo hace la persona dueña de las cuentas)
 
-1. **Cloudflare Pages:** crear la cuenta, crear un proyecto de Pages de «subida directa» llamado `brizna-soft` y un token de API con el permiso *Cloudflare Pages: Edit*. En GitHub, guardar los secretos `CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID`. Sin ellos, el flujo arma el sitio y guarda los datos, pero no publica.
+1. **Cloudflare Pages:** crear la cuenta y un token de API con el permiso *Account › Cloudflare Pages › Edit*. En GitHub, guardar los secretos `CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID` (está en *Workers & Pages › Account Details*). Después, correr el flujo a mano una vez (*Actions › Actualizar Guatusa › Run workflow*): esa corrida crea el proyecto `brizna-soft` y lo publica. Sin los secretos, el flujo arma el sitio y guarda los datos, pero no publica.
 2. **Telegram:** crear el canal y un bot con @BotFather, y poner el bot como administrador del canal. En GitHub, el secreto `TELEGRAM_BOT_TOKEN` y la variable `TELEGRAM_CANAL` (por ejemplo `@GuatusaGratis`). En `config.json`, `telegram_canal` sin la arroba, para el botón de la página. La primera vez solo anota lo que ya existe; después cada novedad sale una vez.
 3. **AdSense:** cuando lo aprueben, poner el `ca-pub-...` en `adsense_cliente`. Se agregan solos el código, la etiqueta de verificación y `ads.txt`. `brizna-soft.pages.dev` se puede agregar a AdSense porque `pages.dev` está en la lista pública de sufijos.
 4. **Afiliados:** en `config.json`, `afiliados` lleva `{ "dominio de la tienda": "plantilla con {url}" }`. Esos botones se marcan como enlace de afiliado.

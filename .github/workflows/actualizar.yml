@@ -55,6 +55,16 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: ./armar.ps1
 
+      # Solo en las corridas a mano: crea el proyecto la primera vez. Si ya existe, este paso falla sin detener nada.
+      - name: Crear el proyecto de Cloudflare Pages (la primera vez)
+        if: steps.config.outputs.cloudflare == 'si' && github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages project create brizna-soft --production-branch=main
+
       - name: Publicar en Cloudflare Pages
         if: steps.config.outputs.cloudflare == 'si'
         uses: cloudflare/wrangler-action@v4
