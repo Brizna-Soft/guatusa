@@ -14,7 +14,7 @@
     "termina": "2026-11-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
     "slug": "sons-of-the-forest"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -52,28 +52,9 @@
     "termina": "2026-11-05T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
-  },
-  {
-    "clave": "steam-3751950",
-    "appid": 3751950,
-    "nombre": "Assassin's Creed Black Flag Resynced",
-    "descuento": 25,
-    "precio_normal": 47.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T22:45:02Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
-    "fin_visto": null,
-    "slug": "assassins-creed-black-flag-resynced"
   },
   {
     "clave": "steam-648800",
@@ -90,47 +71,28 @@
     "termina": "2026-11-05T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
     "slug": "raft"
   },
   {
-    "clave": "steam-2223980",
-    "appid": 2223980,
-    "nombre": "Nomad Drive",
-    "descuento": 10,
-    "precio_normal": 8.09,
-    "precio": 7.28,
+    "clave": "steam-3751950",
+    "appid": 3751950,
+    "nombre": "Assassin's Creed Black Flag Resynced",
+    "descuento": 25,
+    "precio_normal": 47.99,
+    "precio": 35.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-10T17:00:40Z",
+    "termina": "2026-11-10T17:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-02T07:32:31Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_primero": "2026-11-01T22:45:02Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
-    "slug": "nomad-drive"
-  },
-  {
-    "clave": "steam-3241660",
-    "appid": 3241660,
-    "nombre": "R.E.P.O.",
-    "descuento": 35,
-    "precio_normal": 4.99,
-    "precio": 3.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-09T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
-    "fin_visto": null,
-    "slug": "r-e-p-o"
+    "slug": "assassins-creed-black-flag-resynced"
   },
   {
     "clave": "steam-1304930",
@@ -147,28 +109,47 @@
     "termina": "2026-11-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
     "slug": "the-outlast-trials"
   },
   {
-    "clave": "steam-3764200",
-    "appid": 3764200,
-    "nombre": "Resident Evil Requiem",
-    "descuento": 30,
-    "precio_normal": 53.0,
-    "precio": 37.1,
+    "clave": "steam-3241660",
+    "appid": 3241660,
+    "nombre": "R.E.P.O.",
+    "descuento": 35,
+    "precio_normal": 4.99,
+    "precio": 3.24,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-03T18:00:00Z",
+    "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
-    "slug": "resident-evil-requiem"
+    "slug": "r-e-p-o"
+  },
+  {
+    "clave": "steam-2223980",
+    "appid": 2223980,
+    "nombre": "Nomad Drive",
+    "descuento": 10,
+    "precio_normal": 8.09,
+    "precio": 7.28,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T17:00:40Z",
+    "vigente": true,
+    "visto_primero": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
+    "fin_visto": null,
+    "slug": "nomad-drive"
   },
   {
     "clave": "steam-2050650",
@@ -185,9 +166,28 @@
     "termina": "2026-11-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-02T07:32:31Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
     "slug": "resident-evil-4"
+  },
+  {
+    "clave": "steam-381210",
+    "appid": 381210,
+    "nombre": "Dead by Daylight",
+    "descuento": 60,
+    "precio_normal": 14.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-02T13:14:19Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
+    "fin_visto": null,
+    "slug": "dead-by-daylight"
   },
   {
     "clave": "steam-4530370",
@@ -205,9 +205,28 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-02T13:14:19Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-3764200",
+    "appid": 3764200,
+    "nombre": "Resident Evil Requiem",
+    "descuento": 30,
+    "precio_normal": 53.0,
+    "precio": 37.1,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-03T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-02T07:32:31Z",
+    "slug": "resident-evil-requiem",
+    "fin_visto": "2026-11-02T13:14:19Z"
   },
   {
     "clave": "steam-4312190",

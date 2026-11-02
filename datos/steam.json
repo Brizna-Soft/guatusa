@@ -503,6 +503,38 @@
       "edad": 17,
       "leido": "2026-11-01T21:45:24Z"
     },
+    "381210": {
+      "appid": 381210,
+      "nombre": "Dead by Daylight",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción"
+      ],
+      "desarrollo": [
+        "Behaviour Interactive Inc."
+      ],
+      "anio": 2016,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Sistemas operativos de 64 bits (Windows 10)",
+        "Procesador: Intel Core i3-4170 o AMD FX-8120",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: GeForce GTX 460 1GB o AMD HD 6850 1GB, compatibles con DX11",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 50 GB de espacio disponible",
+        "Tarjeta de sonido: Compatible con DX11",
+        "Notas adicionales: With these requirements, it is recommended that the game is played on Low quality settings."
+      ],
+      "edad": 17,
+      "leido": "2026-11-02T13:14:23Z"
+    },
     "4312190": {
       "appid": 4312190,
       "nombre": "CRACK",
