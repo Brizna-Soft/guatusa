@@ -308,6 +308,41 @@
       "edad": 0,
       "leido": "2026-11-02T07:32:38Z"
     },
+    "2320980": {
+      "appid": 2320980,
+      "nombre": "Loftia",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Casual",
+        "Indie",
+        "Multijugador masivo",
+        "Rol",
+        "Simuladores",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Qloud Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10 (64 bit)",
+        "Procesador: Intel Core i3-10100F / AMD Ryzen 3 3100 (o equivalente)",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GeForce GTX 1050 / AMD Radeon RX 560 (o equivalente)",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 10 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-03T18:59:30Z"
+    },
     "2440760": {
       "appid": 2440760,
       "nombre": "GRAVHOUNDS",
@@ -790,6 +825,36 @@
       ],
       "edad": 0,
       "leido": "2026-11-01T21:45:17Z"
+    },
+    "5266240": {
+      "appid": 5266240,
+      "nombre": "Potato Please",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        " Golden Horn Studios"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10/11 64-bit",
+        "Procesador: Intel Core i5-8400 or AMD Ryzen 5 2600",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: GeForce GTX 1060 or Radeon RX 580",
+        "Almacenamiento: 2 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-03T18:59:30Z"
     },
     "648800": {
       "appid": 648800,
