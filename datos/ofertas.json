@@ -1,22 +1,23 @@
 [
   {
-    "clave": "steam-4348910",
-    "appid": 4348910,
-    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-    "descuento": 10,
-    "precio_normal": 8.99,
-    "precio": 8.09,
+    "clave": "steam-3727090",
+    "appid": 3727090,
+    "nombre": "Horses of Hoofprint Bay",
+    "descuento": 15,
+    "precio_normal": 14.85,
+    "precio": 12.62,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727090/05ecc629bbeefe5b64ea3acc33da82009bccf968/header.jpg",
     "plataformas": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
-    "termina": "2026-11-11T17:00:39Z",
+    "termina": "2026-11-11T18:00:30Z",
     "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "visto_primero": "2026-11-04T19:03:15Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
     "fin_visto": null,
-    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+    "slug": "horses-of-hoofprint-bay"
   },
   {
     "clave": "steam-2320980",
@@ -34,9 +35,47 @@
     "termina": "2026-11-17T18:00:53Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
     "fin_visto": null,
     "slug": "loftia"
+  },
+  {
+    "clave": "steam-4348910",
+    "appid": 4348910,
+    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "descuento": 10,
+    "precio_normal": 8.99,
+    "precio": 8.09,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-11T17:00:39Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
+    "fin_visto": null,
+    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+  },
+  {
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
+    "fin_visto": null,
+    "slug": "control-resonant"
   },
   {
     "clave": "steam-3240220",
@@ -53,7 +92,7 @@
     "termina": "2026-11-05T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
   },
@@ -72,28 +111,9 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
     "fin_visto": null,
     "slug": "potato-please"
-  },
-  {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
-    "fin_visto": null,
-    "slug": "control-resonant"
   },
   {
     "clave": "steam-3768760",
@@ -110,66 +130,9 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
     "fin_visto": null,
     "slug": "007-first-light"
-  },
-  {
-    "clave": "steam-648800",
-    "appid": 648800,
-    "nombre": "Raft",
-    "descuento": 33,
-    "precio_normal": 10.99,
-    "precio": 7.36,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-05T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
-    "fin_visto": null,
-    "slug": "raft"
-  },
-  {
-    "clave": "steam-3241660",
-    "appid": 3241660,
-    "nombre": "R.E.P.O.",
-    "descuento": 35,
-    "precio_normal": 4.99,
-    "precio": 3.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-09T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
-    "fin_visto": null,
-    "slug": "r-e-p-o"
-  },
-  {
-    "clave": "steam-2223980",
-    "appid": 2223980,
-    "nombre": "Nomad Drive",
-    "descuento": 10,
-    "precio_normal": 8.09,
-    "precio": 7.28,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:40Z",
-    "vigente": true,
-    "visto_primero": "2026-11-02T07:32:31Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
-    "fin_visto": null,
-    "slug": "nomad-drive"
   },
   {
     "clave": "steam-1799840",
@@ -186,9 +149,47 @@
     "termina": "2026-11-06T17:00:43Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
     "fin_visto": null,
     "slug": "queens-domain"
+  },
+  {
+    "clave": "steam-3241660",
+    "appid": 3241660,
+    "nombre": "R.E.P.O.",
+    "descuento": 35,
+    "precio_normal": 4.99,
+    "precio": 3.24,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-09T17:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
+    "fin_visto": null,
+    "slug": "r-e-p-o"
+  },
+  {
+    "clave": "steam-1677110",
+    "appid": 1677110,
+    "nombre": "Lightyear Frontier",
+    "descuento": 20,
+    "precio_normal": 14.99,
+    "precio": 11.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-12T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-04T19:03:15Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
+    "fin_visto": null,
+    "slug": "lightyear-frontier"
   },
   {
     "clave": "steam-4530370",
@@ -198,7 +199,7 @@
     "precio_normal": 47.99,
     "precio": 43.19,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/4bddfef11f8626c8dbb44322b11bd99b9b9e4931/header_alt_assets_0_spanish.jpg",
     "plataformas": [
       "Windows",
       "macOS"
@@ -206,9 +207,47 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "visto_ultimo": "2026-11-04T19:03:15Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-648800",
+    "appid": 648800,
+    "nombre": "Raft",
+    "descuento": 33,
+    "precio_normal": 10.99,
+    "precio": 7.36,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-05T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "slug": "raft",
+    "fin_visto": "2026-11-04T19:03:15Z"
+  },
+  {
+    "clave": "steam-2223980",
+    "appid": 2223980,
+    "nombre": "Nomad Drive",
+    "descuento": 10,
+    "precio_normal": 8.09,
+    "precio": 7.28,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T17:00:40Z",
+    "vigente": false,
+    "visto_primero": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "slug": "nomad-drive",
+    "fin_visto": "2026-11-04T19:03:15Z"
   },
   {
     "clave": "steam-3751950",

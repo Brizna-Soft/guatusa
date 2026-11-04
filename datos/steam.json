@@ -126,6 +126,33 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:20Z"
     },
+    "1677110": {
+      "appid": 1677110,
+      "nombre": "Lightyear Frontier",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [],
+      "desarrollo": [
+        "FRAME BREAK"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10",
+        "Procesador: Intel Core i3-4170 / AMD Ryzen 5 1500X",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: NVIDIA Geforce GTX 1050 / AMD Radeon RX 460",
+        "Almacenamiento: 10 GB de espacio disponible",
+        "Notas adicionales: Low settings, 720p, 30 fps"
+      ],
+      "edad": 0,
+      "leido": "2026-11-04T19:03:24Z"
+    },
     "1796580": {
       "appid": 1796580,
       "nombre": "Sorry We're Closed",
@@ -593,6 +620,32 @@
       ],
       "edad": 0,
       "leido": "2026-11-04T01:11:25Z"
+    },
+    "3727090": {
+      "appid": 3727090,
+      "nombre": "Horses of Hoofprint Bay",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Simuladores",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "Thogli Studios"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10 version 21H1 (build 19043) or newer",
+        "Procesador: x86, x64 architecture with SSE2 instruction set support, Arm64"
+      ],
+      "edad": 0,
+      "leido": "2026-11-04T19:03:24Z"
     },
     "3751950": {
       "appid": 3751950,
