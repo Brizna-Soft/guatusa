@@ -1,5 +1,44 @@
 [
   {
+    "clave": "steam-2320980",
+    "appid": 2320980,
+    "nombre": "Loftia",
+    "descuento": 17,
+    "precio_normal": 14.49,
+    "precio": 12.02,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-17T18:00:53Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
+    "fin_visto": null,
+    "slug": "loftia"
+  },
+  {
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
+    "fin_visto": null,
+    "slug": "control-resonant"
+  },
+  {
     "clave": "steam-4348910",
     "appid": 4348910,
     "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -14,7 +53,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -33,7 +72,7 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
     "slug": "potato-please"
   },
@@ -52,7 +91,7 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -71,7 +110,7 @@
     "termina": "2026-11-05T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
   },
@@ -90,28 +129,9 @@
     "termina": "2026-11-06T17:00:43Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
     "slug": "queens-domain"
-  },
-  {
-    "clave": "steam-3751950",
-    "appid": 3751950,
-    "nombre": "Assassin's Creed Black Flag Resynced",
-    "descuento": 25,
-    "precio_normal": 47.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T22:45:02Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
-    "fin_visto": null,
-    "slug": "assassins-creed-black-flag-resynced"
   },
   {
     "clave": "steam-3241660",
@@ -128,67 +148,48 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
     "slug": "r-e-p-o"
   },
   {
-    "clave": "steam-648800",
-    "appid": 648800,
-    "nombre": "Raft",
-    "descuento": 33,
-    "precio_normal": 10.99,
-    "precio": 7.36,
+    "clave": "steam-3751950",
+    "appid": 3751950,
+    "nombre": "Assassin's Creed Black Flag Resynced",
+    "descuento": 25,
+    "precio_normal": 47.99,
+    "precio": 35.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-05T18:00:00Z",
+    "termina": "2026-11-10T17:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_primero": "2026-11-01T22:45:02Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
-    "slug": "raft"
+    "slug": "assassins-creed-black-flag-resynced"
   },
   {
-    "clave": "steam-252490",
-    "appid": 252490,
-    "nombre": "Rust",
-    "descuento": 50,
-    "precio_normal": 18.99,
-    "precio": 9.49,
+    "clave": "steam-275850",
+    "appid": 275850,
+    "nombre": "No Man's Sky",
+    "descuento": 60,
+    "precio_normal": 26.99,
+    "precio": 10.79,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg",
     "plataformas": [
       "Windows",
       "macOS"
     ],
-    "termina": "2026-11-09T17:00:00Z",
+    "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
-    "slug": "rust"
-  },
-  {
-    "clave": "steam-2223980",
-    "appid": 2223980,
-    "nombre": "Nomad Drive",
-    "descuento": 10,
-    "precio_normal": 8.09,
-    "precio": 7.28,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:40Z",
-    "vigente": true,
-    "visto_primero": "2026-11-02T07:32:31Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
-    "fin_visto": null,
-    "slug": "nomad-drive"
+    "slug": "no-mans-sky"
   },
   {
     "clave": "steam-4530370",
@@ -206,29 +207,67 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-04T01:11:15Z",
     "fin_visto": null,
     "slug": "football-manager-27"
   },
   {
-    "clave": "steam-2320980",
-    "appid": 2320980,
-    "nombre": "Loftia",
-    "descuento": 17,
-    "precio_normal": 14.49,
-    "precio": 12.02,
+    "clave": "steam-648800",
+    "appid": 648800,
+    "nombre": "Raft",
+    "descuento": 33,
+    "precio_normal": 10.99,
+    "precio": 7.36,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-05T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "slug": "raft",
+    "fin_visto": "2026-11-04T01:11:15Z"
+  },
+  {
+    "clave": "steam-252490",
+    "appid": 252490,
+    "nombre": "Rust",
+    "descuento": 50,
+    "precio_normal": 18.99,
+    "precio": 9.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
     "plataformas": [
       "Windows",
       "macOS"
     ],
-    "termina": "2026-11-17T18:00:53Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
+    "termina": "2026-11-09T17:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-02T19:00:37Z",
     "visto_ultimo": "2026-11-03T18:59:21Z",
-    "fin_visto": null,
-    "slug": "loftia"
+    "slug": "rust",
+    "fin_visto": "2026-11-04T01:11:15Z"
+  },
+  {
+    "clave": "steam-2223980",
+    "appid": 2223980,
+    "nombre": "Nomad Drive",
+    "descuento": 10,
+    "precio_normal": 8.09,
+    "precio": 7.28,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T17:00:40Z",
+    "vigente": false,
+    "visto_primero": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-03T18:59:21Z",
+    "slug": "nomad-drive",
+    "fin_visto": "2026-11-04T01:11:15Z"
   },
   {
     "clave": "steam-2050650",

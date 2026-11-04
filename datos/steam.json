@@ -411,6 +411,36 @@
       "edad": 0,
       "leido": "2026-11-02T19:00:46Z"
     },
+    "275850": {
+      "appid": 275850,
+      "nombre": "No Man's Sky",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Hello Games"
+      ],
+      "anio": 2016,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10/11 (64-bit versions)",
+        "Procesador: Intel Core i3",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GTX 1060 3GB, AMD RX 470 4GB, Intel UHD graphics 630",
+        "Almacenamiento: 15 GB de espacio disponible",
+        "Compatibilidad con RV: SteamVR"
+      ],
+      "edad": 0,
+      "leido": "2026-11-04T01:11:25Z"
+    },
     "2912680": {
       "appid": 2912680,
       "nombre": "Quiztopia : The Ultimate Trivia",
@@ -532,6 +562,37 @@
       ],
       "edad": 0,
       "leido": "2026-11-01T21:45:26Z"
+    },
+    "3669870": {
+      "appid": 3669870,
+      "nombre": "CONTROL Resonant",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Remedy Entertainment"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 / 11 (64 bit)",
+        "Procesador: Intel i5-8500 / AMD Ryzen 5 3500",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: Geforce GTX 1070 / Radeon RX 5600 XT / Intel Arc A580",
+        "Almacenamiento: 120 GB de espacio disponible",
+        "Notas adicionales: SSD Required"
+      ],
+      "edad": 0,
+      "leido": "2026-11-04T01:11:25Z"
     },
     "3751950": {
       "appid": 3751950,
