@@ -1,5 +1,26 @@
 [
   {
+    "clave": "gp-3843",
+    "id": 3843,
+    "nombre": "Letter Quest: Grimm's Journey Remastered Steam",
+    "tienda": "steam",
+    "tienda_texto": "",
+    "plataformas": "PC, Steam",
+    "valor": 6.99,
+    "imagen": "https://www.gamerpower.com/offers/1b/6aeb27dbc0e38.jpg",
+    "url": "https://www.gamerpower.com/open/letter-quest-grimm-s-journey-remastered-steam-key-giveaway",
+    "url_fuente": "https://www.gamerpower.com/letter-quest-grimm-s-journey-remastered-steam-key-giveaway",
+    "publicado": "2026-11-04T13:40:59Z",
+    "termina": "2026-11-07T05:59:00Z",
+    "es_clave": true,
+    "es_paquete": false,
+    "vigente": true,
+    "visto_primero": "2026-11-04T13:12:12Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
+    "fin_visto": null,
+    "slug": "letter-quest-grimms-journey-remastered-steam"
+  },
+  {
     "clave": "gp-3842",
     "id": 3842,
     "nombre": "Highway Driving",
@@ -16,7 +37,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-02T00:00:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "highway-driving"
   },
@@ -37,7 +58,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-02T00:00:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "dark-mystery"
   },
@@ -58,7 +79,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T22:11:34Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "horse-racing"
   },
@@ -79,7 +100,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "epic-world-hunt-for-quest"
   },
@@ -100,7 +121,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "gladiator-blades-of-fury"
   },
@@ -121,7 +142,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "quiztopia-the-ultimate-trivia"
   },
@@ -142,7 +163,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "my-darkest-witch"
   },
@@ -163,7 +184,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "galaxy-kart"
   },
@@ -184,7 +205,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "sorry-were-closed"
   },
@@ -205,7 +226,7 @@
     "es_paquete": true,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "free-itch-io-games-bundle"
   },
@@ -226,7 +247,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "molokaust"
   },
@@ -247,7 +268,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "octane100"
   },
@@ -268,7 +289,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "heirloom"
   },
@@ -289,7 +310,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "ancient-evil"
   },
@@ -310,7 +331,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "last-room"
   },
@@ -331,7 +352,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "best-plumber"
   },
@@ -352,7 +373,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "sausage-hunter"
   },
@@ -373,7 +394,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "battle-ram"
   },
@@ -394,7 +415,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "leaper"
   },
@@ -415,7 +436,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "dwarven-realms"
   },
@@ -436,7 +457,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "very-realistic-game-dev-simulator"
   },
@@ -457,7 +478,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "cherophobia"
   },
@@ -478,7 +499,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "gigabash"
   },
@@ -499,7 +520,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "do-you-have-a-moment-to-talk-about-our-lord-and-savior"
   },
@@ -520,7 +541,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "assassin-at-crimson-keep"
   },
@@ -541,7 +562,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "project-malice"
   },
@@ -562,7 +583,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "buckler-2"
   },
@@ -583,7 +604,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "roseblight"
   },
@@ -604,7 +625,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "solace-inc"
   },
@@ -625,7 +646,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "sharknado-vr"
   },
@@ -646,7 +667,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T07:24:22Z",
+    "visto_ultimo": "2026-11-04T13:12:12Z",
     "fin_visto": null,
     "slug": "dual-chroma-academy-carols"
   },
