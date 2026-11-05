@@ -438,6 +438,36 @@
       "edad": 0,
       "leido": "2026-11-02T19:00:46Z"
     },
+    "2615540": {
+      "appid": 2615540,
+      "nombre": "VOID/BREAKER",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
+      "desarrollo": [
+        "Stubby Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10",
+        "Procesador: Intel Core i5-4590 or AMD FX 8350",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GTX 970 or AMD Radeon R9 290",
+        "DirectX: Versión 11",
+        "Almacenamiento: 14 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-05T01:13:34Z"
+    },
     "275850": {
       "appid": 275850,
       "nombre": "No Man's Sky",
