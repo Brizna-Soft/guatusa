@@ -370,6 +370,33 @@
       "edad": 0,
       "leido": "2026-11-03T18:59:30Z"
     },
+    "2411200": {
+      "appid": 2411200,
+      "nombre": "Underkeep",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Indie",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Rake in Grass"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 7/8/10 or higher (64bit)",
+        "Gráficos: OpenGL 3.2 compatible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-05T19:01:48Z"
+    },
     "2440760": {
       "appid": 2440760,
       "nombre": "GRAVHOUNDS",
@@ -526,6 +553,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-01T21:45:13Z"
+    },
+    "3204330": {
+      "appid": 3204330,
+      "nombre": "Condado de la Fortuna",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Indie",
+        "Simuladores",
+        "Estrategia",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Nepos Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 7 and higher",
+        "Procesador: Intel i3+ and equivalents",
+        "Memoria: 3 GB de RAM",
+        "Gráficos: NVIDIA GeForce 770 / AMD R9 290",
+        "Almacenamiento: 2 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-05T19:01:49Z"
     },
     "3240220": {
       "appid": 3240220,
@@ -1062,6 +1121,35 @@
       ],
       "edad": 0,
       "leido": "2026-11-02T00:00:21Z"
+    },
+    "821250": {
+      "appid": 821250,
+      "nombre": "Flotsam",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Indie",
+        "Simuladores",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Pajama Llama Games"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 7 SP1+",
+        "Procesador: Intel Core i5 or equivalent",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 650 or equivalent",
+        "Almacenamiento: 600 MB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-05T19:01:47Z"
     }
   },
   "nombres": {
@@ -1084,6 +1172,10 @@
     "epicworldhuntforquest": {
       "appid": 0,
       "leido": "2026-11-01T21:45:08Z"
+    },
+    "flotsam": {
+      "appid": 821250,
+      "leido": "2026-11-05T19:01:38Z"
     },
     "gethighexe": {
       "appid": 4331890,
