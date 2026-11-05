@@ -1,24 +1,5 @@
 [
   {
-    "clave": "steam-4348910",
-    "appid": 4348910,
-    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-    "descuento": 10,
-    "precio_normal": 8.99,
-    "precio": 8.09,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-11T17:00:39Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
-    "fin_visto": null,
-    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
-  },
-  {
     "clave": "steam-3240220",
     "appid": 3240220,
     "nombre": "Grand Theft Auto V Enhanced",
@@ -33,9 +14,47 @@
     "termina": "2026-11-05T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
+  },
+  {
+    "clave": "steam-4348910",
+    "appid": 4348910,
+    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "descuento": 10,
+    "precio_normal": 8.99,
+    "precio": 8.09,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-11T17:00:39Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
+    "fin_visto": null,
+    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+  },
+  {
+    "clave": "steam-5266240",
+    "appid": 5266240,
+    "nombre": "Potato Please",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T18:00:36Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
+    "fin_visto": null,
+    "slug": "potato-please"
   },
   {
     "clave": "steam-2320980",
@@ -53,66 +72,28 @@
     "termina": "2026-11-17T18:00:53Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
     "slug": "loftia"
   },
   {
-    "clave": "steam-5266240",
-    "appid": 5266240,
-    "nombre": "Potato Please",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
+    "clave": "steam-3768760",
+    "appid": 3768760,
+    "nombre": "007 First Light",
+    "descuento": 40,
+    "precio_normal": 45.99,
+    "precio": 27.59,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-15T18:00:36Z",
+    "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_primero": "2026-11-03T01:09:24Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
-    "slug": "potato-please"
-  },
-  {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
-    "fin_visto": null,
-    "slug": "control-resonant"
-  },
-  {
-    "clave": "steam-1799840",
-    "appid": 1799840,
-    "nombre": "Queen's Domain",
-    "descuento": 15,
-    "precio_normal": 10.49,
-    "precio": 8.91,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-06T17:00:43Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
-    "fin_visto": null,
-    "slug": "queens-domain"
+    "slug": "007-first-light"
   },
   {
     "clave": "steam-3727090",
@@ -130,28 +111,28 @@
     "termina": "2026-11-11T18:00:30Z",
     "vigente": true,
     "visto_primero": "2026-11-04T19:03:15Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
     "slug": "horses-of-hoofprint-bay"
   },
   {
-    "clave": "steam-3768760",
-    "appid": 3768760,
-    "nombre": "007 First Light",
-    "descuento": 40,
-    "precio_normal": 45.99,
-    "precio": 27.59,
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-09T18:00:00Z",
+    "termina": "2026-11-10T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
-    "slug": "007-first-light"
+    "slug": "control-resonant"
   },
   {
     "clave": "steam-648800",
@@ -168,28 +149,47 @@
     "termina": "2026-11-05T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
     "slug": "raft"
   },
   {
-    "clave": "steam-2615540",
-    "appid": 2615540,
-    "nombre": "VOID/BREAKER",
-    "descuento": 40,
-    "precio_normal": 15.99,
-    "precio": 9.59,
+    "clave": "steam-1799840",
+    "appid": 1799840,
+    "nombre": "Queen's Domain",
+    "descuento": 15,
+    "precio_normal": 10.49,
+    "precio": 8.91,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/4f3789458cfd9c3375c2926620b19640135f7c4a/header_alt_assets_8.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-18T19:00:00Z",
+    "termina": "2026-11-06T17:00:43Z",
     "vigente": true,
-    "visto_primero": "2026-11-05T01:13:26Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
-    "slug": "void-breaker"
+    "slug": "queens-domain"
+  },
+  {
+    "clave": "steam-3241660",
+    "appid": 3241660,
+    "nombre": "R.E.P.O.",
+    "descuento": 35,
+    "precio_normal": 4.99,
+    "precio": 3.24,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-09T17:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
+    "fin_visto": null,
+    "slug": "r-e-p-o"
   },
   {
     "clave": "steam-4530370",
@@ -207,9 +207,28 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "visto_ultimo": "2026-11-05T13:18:26Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-2615540",
+    "appid": 2615540,
+    "nombre": "VOID/BREAKER",
+    "descuento": 40,
+    "precio_normal": 15.99,
+    "precio": 9.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/4f3789458cfd9c3375c2926620b19640135f7c4a/header_alt_assets_8.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T19:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-05T01:13:26Z",
+    "visto_ultimo": "2026-11-05T07:27:07Z",
+    "slug": "void-breaker",
+    "fin_visto": "2026-11-05T13:18:26Z"
   },
   {
     "clave": "steam-1677110",
@@ -229,25 +248,6 @@
     "visto_ultimo": "2026-11-05T01:13:26Z",
     "slug": "lightyear-frontier",
     "fin_visto": "2026-11-05T07:27:07Z"
-  },
-  {
-    "clave": "steam-3241660",
-    "appid": 3241660,
-    "nombre": "R.E.P.O.",
-    "descuento": 35,
-    "precio_normal": 4.99,
-    "precio": 3.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-09T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-04T19:03:15Z",
-    "slug": "r-e-p-o",
-    "fin_visto": "2026-11-05T01:13:26Z"
   },
   {
     "clave": "steam-2223980",
