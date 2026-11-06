@@ -14,7 +14,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -33,9 +33,28 @@
     "termina": "2026-11-19T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-05T19:01:38Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
     "fin_visto": null,
     "slug": "underkeep"
+  },
+  {
+    "clave": "steam-5266240",
+    "appid": 5266240,
+    "nombre": "Potato Please",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T18:00:36Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
+    "fin_visto": null,
+    "slug": "potato-please"
   },
   {
     "clave": "steam-1799840",
@@ -52,7 +71,7 @@
     "termina": "2026-11-06T17:00:43Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
     "fin_visto": null,
     "slug": "queens-domain"
   },
@@ -71,86 +90,9 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
     "fin_visto": null,
     "slug": "007-first-light"
-  },
-  {
-    "clave": "steam-2448570",
-    "appid": 2448570,
-    "nombre": "Road Rash™: Edición del 30.º aniversario",
-    "descuento": 50,
-    "precio_normal": 9.99,
-    "precio": 4.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
-    "fin_visto": null,
-    "slug": "road-rash-edicion-del-30-aniversario"
-  },
-  {
-    "clave": "steam-5266240",
-    "appid": 5266240,
-    "nombre": "Potato Please",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T18:00:36Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
-    "fin_visto": null,
-    "slug": "potato-please"
-  },
-  {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
-    "fin_visto": null,
-    "slug": "control-resonant"
-  },
-  {
-    "clave": "steam-2320980",
-    "appid": 2320980,
-    "nombre": "Loftia",
-    "descuento": 17,
-    "precio_normal": 14.49,
-    "precio": 12.02,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-17T18:00:53Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
-    "fin_visto": null,
-    "slug": "loftia"
   },
   {
     "clave": "steam-3241660",
@@ -167,9 +109,66 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
     "fin_visto": null,
     "slug": "r-e-p-o"
+  },
+  {
+    "clave": "steam-1211600",
+    "appid": 1211600,
+    "nombre": "ZED ZONE",
+    "descuento": 40,
+    "precio_normal": 11.99,
+    "precio": 7.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:03Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T13:12:41Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
+    "fin_visto": null,
+    "slug": "zed-zone"
+  },
+  {
+    "clave": "steam-2448570",
+    "appid": 2448570,
+    "nombre": "Road Rash™: Edición del 30.º aniversario",
+    "descuento": 50,
+    "precio_normal": 9.99,
+    "precio": 4.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
+    "fin_visto": null,
+    "slug": "road-rash-edicion-del-30-aniversario"
+  },
+  {
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
+    "fin_visto": null,
+    "slug": "control-resonant"
   },
   {
     "clave": "steam-4530370",
@@ -187,9 +186,29 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "visto_ultimo": "2026-11-06T13:12:41Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-2320980",
+    "appid": 2320980,
+    "nombre": "Loftia",
+    "descuento": 17,
+    "precio_normal": 14.49,
+    "precio": 12.02,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-17T18:00:53Z",
+    "vigente": false,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "slug": "loftia",
+    "fin_visto": "2026-11-06T13:12:41Z"
   },
   {
     "clave": "steam-12210",

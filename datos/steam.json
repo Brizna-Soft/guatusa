@@ -60,6 +60,37 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:15Z"
     },
+    "1211600": {
+      "appid": 1211600,
+      "nombre": "ZED ZONE",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Indie",
+        "Rol",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "Leven Liu"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Win XP",
+        "Procesador: INTEL i3/ AMD R3",
+        "Memoria: 2 GB de RAM",
+        "Gráficos: Nvidia GTX 660",
+        "DirectX: Versión 10",
+        "Almacenamiento: 300 MB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-06T13:12:45Z"
+    },
     "12210": {
       "appid": 12210,
       "nombre": "Grand Theft Auto IV: The Complete Edition",
