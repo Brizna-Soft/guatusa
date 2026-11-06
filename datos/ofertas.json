@@ -1,24 +1,5 @@
 [
   {
-    "clave": "steam-2411200",
-    "appid": 2411200,
-    "nombre": "Underkeep",
-    "descuento": 15,
-    "precio_normal": 12.95,
-    "precio": 11.0,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411200/be22c58d9f42d3d349198e87b3c192998047b053/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-05T19:01:38Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
-    "fin_visto": null,
-    "slug": "underkeep"
-  },
-  {
     "clave": "steam-4348910",
     "appid": 4348910,
     "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -33,9 +14,28 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+  },
+  {
+    "clave": "steam-2411200",
+    "appid": 2411200,
+    "nombre": "Underkeep",
+    "descuento": 15,
+    "precio_normal": 12.95,
+    "precio": 11.0,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411200/be22c58d9f42d3d349198e87b3c192998047b053/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-05T19:01:38Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "fin_visto": null,
+    "slug": "underkeep"
   },
   {
     "clave": "steam-1799840",
@@ -52,28 +52,9 @@
     "termina": "2026-11-06T17:00:43Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
     "fin_visto": null,
     "slug": "queens-domain"
-  },
-  {
-    "clave": "steam-5266240",
-    "appid": 5266240,
-    "nombre": "Potato Please",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T18:00:36Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
-    "fin_visto": null,
-    "slug": "potato-please"
   },
   {
     "clave": "steam-3768760",
@@ -90,7 +71,7 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -109,9 +90,47 @@
     "termina": "2026-11-19T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
     "fin_visto": null,
     "slug": "road-rash-edicion-del-30-aniversario"
+  },
+  {
+    "clave": "steam-5266240",
+    "appid": 5266240,
+    "nombre": "Potato Please",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T18:00:36Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "fin_visto": null,
+    "slug": "potato-please"
+  },
+  {
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
+    "fin_visto": null,
+    "slug": "control-resonant"
   },
   {
     "clave": "steam-2320980",
@@ -129,47 +148,28 @@
     "termina": "2026-11-17T18:00:53Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
     "fin_visto": null,
     "slug": "loftia"
   },
   {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
+    "clave": "steam-3241660",
+    "appid": 3241660,
+    "nombre": "R.E.P.O.",
+    "descuento": 35,
+    "precio_normal": 4.99,
+    "precio": 3.24,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-10T18:00:00Z",
+    "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
     "fin_visto": null,
-    "slug": "control-resonant"
-  },
-  {
-    "clave": "steam-12210",
-    "appid": 12210,
-    "nombre": "Grand Theft Auto IV: The Complete Edition",
-    "descuento": 70,
-    "precio_normal": 19.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
-    "fin_visto": null,
-    "slug": "grand-theft-auto-iv-the-complete-edition"
+    "slug": "r-e-p-o"
   },
   {
     "clave": "steam-4530370",
@@ -187,28 +187,28 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T07:23:23Z",
     "fin_visto": null,
     "slug": "football-manager-27"
   },
   {
-    "clave": "steam-3241660",
-    "appid": 3241660,
-    "nombre": "R.E.P.O.",
-    "descuento": 35,
-    "precio_normal": 4.99,
-    "precio": 3.24,
+    "clave": "steam-12210",
+    "appid": 12210,
+    "nombre": "Grand Theft Auto IV: The Complete Edition",
+    "descuento": 70,
+    "precio_normal": 19.99,
+    "precio": 5.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-09T17:00:00Z",
+    "termina": "2026-11-19T18:00:00Z",
     "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-05T19:01:38Z",
-    "slug": "r-e-p-o",
-    "fin_visto": "2026-11-06T01:17:01Z"
+    "visto_primero": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-06T01:17:01Z",
+    "slug": "grand-theft-auto-iv-the-complete-edition",
+    "fin_visto": "2026-11-06T07:23:23Z"
   },
   {
     "clave": "steam-3727090",
