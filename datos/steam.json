@@ -1121,6 +1121,38 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:17Z"
     },
+    "5160800": {
+      "appid": 5160800,
+      "nombre": "Find The Needle",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Indie",
+        "Simuladores",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Needless Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10 64-bit",
+        "Procesador: 4 cores / 8 threads, Intel i5-8400 or Ryzen 5 2600",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: dedicated GPU with Vulkan 1.3 support and 4 GB VRAM, GTX 1050 Ti or RX 570",
+        "DirectX: Versión 12",
+        "Almacenamiento: 3 GB de espacio disponible",
+        "Notas adicionales: Integrated graphics are not supported and may crash"
+      ],
+      "edad": 0,
+      "leido": "2026-11-06T18:59:23Z"
+    },
     "5266240": {
       "appid": 5266240,
       "nombre": "Potato Please",

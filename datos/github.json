@@ -37,7 +37,7 @@
         "tamano": 108216769
       }
     ],
-    "leido": "2026-11-06T07:23:29Z"
+    "leido": "2026-11-06T18:59:19Z"
   },
   "Anuken/Mindustry": {
     "repo": "Anuken/Mindustry",
@@ -67,7 +67,7 @@
         "tamano": 19453000
       }
     ],
-    "leido": "2026-11-06T07:23:28Z"
+    "leido": "2026-11-06T18:59:19Z"
   },
   "audacity/audacity": {
     "repo": "audacity/audacity",
@@ -132,7 +132,7 @@
         "tamano": 1632
       }
     ],
-    "leido": "2026-11-06T07:23:30Z"
+    "leido": "2026-11-06T18:59:21Z"
   },
   "Brizna-Soft/atarraya": {
     "repo": "Brizna-Soft/atarraya",
@@ -152,7 +152,7 @@
         "tamano": 89
       }
     ],
-    "leido": "2026-11-06T07:23:26Z"
+    "leido": "2026-11-06T18:59:17Z"
   },
   "Brizna-Soft/chachalaca": {
     "repo": "Brizna-Soft/chachalaca",
@@ -172,7 +172,7 @@
         "tamano": 91
       }
     ],
-    "leido": "2026-11-06T07:23:27Z"
+    "leido": "2026-11-06T18:59:18Z"
   },
   "Brizna-Soft/guara": {
     "repo": "Brizna-Soft/guara",
@@ -192,7 +192,7 @@
         "tamano": 86
       }
     ],
-    "leido": "2026-11-06T07:23:27Z"
+    "leido": "2026-11-06T18:59:18Z"
   },
   "Brizna-Soft/hntorrent-descargas": {
     "repo": "Brizna-Soft/hntorrent-descargas",
@@ -232,7 +232,7 @@
         "tamano": 179
       }
     ],
-    "leido": "2026-11-06T07:23:27Z"
+    "leido": "2026-11-06T18:59:18Z"
   },
   "Brizna-Soft/jicaro": {
     "repo": "Brizna-Soft/jicaro",
@@ -252,7 +252,7 @@
         "tamano": 87
       }
     ],
-    "leido": "2026-11-06T07:23:26Z"
+    "leido": "2026-11-06T18:59:18Z"
   },
   "Brizna-Soft/mapache": {
     "repo": "Brizna-Soft/mapache",
@@ -272,7 +272,7 @@
         "tamano": 88
       }
     ],
-    "leido": "2026-11-06T07:23:27Z"
+    "leido": "2026-11-06T18:59:18Z"
   },
   "Brizna-Soft/mosquitero": {
     "repo": "Brizna-Soft/mosquitero",
@@ -302,7 +302,7 @@
         "tamano": 95
       }
     ],
-    "leido": "2026-11-06T07:23:27Z"
+    "leido": "2026-11-06T18:59:18Z"
   },
   "endless-sky/endless-sky": {
     "repo": "endless-sky/endless-sky",
@@ -342,7 +342,7 @@
         "tamano": 364425528
       }
     ],
-    "leido": "2026-11-06T07:23:29Z"
+    "leido": "2026-11-06T18:59:20Z"
   },
   "HandBrake/HandBrake": {
     "repo": "HandBrake/HandBrake",
@@ -482,7 +482,7 @@
         "tamano": 566
       }
     ],
-    "leido": "2026-11-06T07:23:31Z"
+    "leido": "2026-11-06T18:59:21Z"
   },
   "keepassxreboot/keepassxc": {
     "repo": "keepassxreboot/keepassxc",
@@ -747,7 +747,7 @@
         "tamano": 488
       }
     ],
-    "leido": "2026-11-06T07:23:30Z"
+    "leido": "2026-11-06T18:59:20Z"
   },
   "kovidgoyal/calibre": {
     "repo": "kovidgoyal/calibre",
@@ -787,7 +787,7 @@
         "tamano": 259196168
       }
     ],
-    "leido": "2026-11-06T07:23:31Z"
+    "leido": "2026-11-06T18:59:21Z"
   },
   "luanti-org/luanti": {
     "repo": "luanti-org/luanti",
@@ -842,52 +842,52 @@
         "tamano": 14346225
       }
     ],
-    "leido": "2026-11-06T07:23:28Z"
+    "leido": "2026-11-06T18:59:19Z"
   },
   "microsoft/PowerToys": {
     "repo": "microsoft/PowerToys",
-    "etiqueta": "v0.102.3001",
-    "version": "0.102.3001",
-    "fecha": "2026-10-27T10:10:02Z",
-    "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.3001",
+    "etiqueta": "v0.102.3101",
+    "version": "0.102.3101",
+    "fecha": "2026-11-06T09:54:30Z",
+    "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.3101",
     "archivos": [
       {
-        "nombre": "GroupPolicyObjectFiles-0.102.3001.0.zip",
-        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/GroupPolicyObjectFiles-0.102.3001.0.zip",
+        "nombre": "GroupPolicyObjectFiles-0.102.3101.0.zip",
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/GroupPolicyObjectFiles-0.102.3101.0.zip",
         "tamano": 9137
       },
       {
-        "nombre": "PowerToysSetup-0.102.3001.0-arm64.exe",
-        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-arm64.exe",
-        "tamano": 311625952
+        "nombre": "PowerToysSetup-0.102.3101.0-arm64.exe",
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-arm64.exe",
+        "tamano": 311830736
       },
       {
-        "nombre": "PowerToysSetup-0.102.3001.0-x64.exe",
-        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysSetup-0.102.3001.0-x64.exe",
-        "tamano": 323913184
+        "nombre": "PowerToysSetup-0.102.3101.0-x64.exe",
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-x64.exe",
+        "tamano": 323977120
       },
       {
-        "nombre": "PowerToysUserSetup-0.102.3001.0-arm64.exe",
-        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-arm64.exe",
-        "tamano": 311603808
+        "nombre": "PowerToysUserSetup-0.102.3101.0-arm64.exe",
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-arm64.exe",
+        "tamano": 311804080
       },
       {
-        "nombre": "PowerToysUserSetup-0.102.3001.0-x64.exe",
-        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/PowerToysUserSetup-0.102.3001.0-x64.exe",
-        "tamano": 323884640
+        "nombre": "PowerToysUserSetup-0.102.3101.0-x64.exe",
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-x64.exe",
+        "tamano": 323951160
       },
       {
         "nombre": "symbols-arm64.zip",
-        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-arm64.zip",
-        "tamano": 440131805
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/symbols-arm64.zip",
+        "tamano": 440845234
       },
       {
         "nombre": "symbols-x64.zip",
-        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3001/symbols-x64.zip",
-        "tamano": 449866626
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/symbols-x64.zip",
+        "tamano": 450272344
       }
     ],
-    "leido": "2026-11-06T07:23:32Z"
+    "leido": "2026-11-06T18:59:22Z"
   },
   "mltframework/shotcut": {
     "repo": "mltframework/shotcut",
@@ -957,157 +957,157 @@
         "tamano": 159418949
       }
     ],
-    "leido": "2026-11-06T07:23:30Z"
+    "leido": "2026-11-06T18:59:21Z"
   },
   "notepad-plus-plus/notepad-plus-plus": {
     "repo": "notepad-plus-plus/notepad-plus-plus",
-    "etiqueta": "v8.9.8.1",
-    "version": "8.9.8.1",
-    "fecha": "2026-09-24T15:21:27Z",
-    "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.9.8.1",
+    "etiqueta": "v8.9.9",
+    "version": "8.9.9",
+    "fecha": "2026-11-06T15:37:20Z",
+    "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.9.9",
     "archivos": [
       {
-        "nombre": "npp.8.9.8.1.checksums.sha256",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.checksums.sha256",
-        "tamano": 1271
+        "nombre": "npp.8.9.9.checksums.sha256",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.checksums.sha256",
+        "tamano": 1245
       },
       {
-        "nombre": "npp.8.9.8.1.checksums.sha256.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.checksums.sha256.sig",
+        "nombre": "npp.8.9.9.checksums.sha256.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.checksums.sha256.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.arm64.exe",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.arm64.exe",
-        "tamano": 6632744
+        "nombre": "npp.8.9.9.Installer.arm64.exe",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.arm64.exe",
+        "tamano": 6695832
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.arm64.exe.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.arm64.exe.sig",
+        "nombre": "npp.8.9.9.Installer.arm64.exe.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.arm64.exe.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.exe",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.exe",
-        "tamano": 6814128
+        "nombre": "npp.8.9.9.Installer.exe",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.exe",
+        "tamano": 6875200
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.exe.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.exe.sig",
+        "nombre": "npp.8.9.9.Installer.exe.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.exe.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.x64.exe",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.exe",
-        "tamano": 6963432
+        "nombre": "npp.8.9.9.Installer.x64.exe",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.x64.exe",
+        "tamano": 7028968
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.x64.exe.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.exe.sig",
+        "nombre": "npp.8.9.9.Installer.x64.exe.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.x64.exe.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.x64.msi",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi",
-        "tamano": 7835648
+        "nombre": "npp.8.9.9.Installer.x64.msi",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.x64.msi",
+        "tamano": 7909376
       },
       {
-        "nombre": "npp.8.9.8.1.Installer.x64.msi.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi.sig",
+        "nombre": "npp.8.9.9.Installer.x64.msi.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.x64.msi.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.7z",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.7z",
-        "tamano": 5812293
+        "nombre": "npp.8.9.9.portable.7z",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.7z",
+        "tamano": 5875611
       },
       {
-        "nombre": "npp.8.9.8.1.portable.7z.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.7z.sig",
+        "nombre": "npp.8.9.9.portable.7z.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.7z.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.arm64.7z",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.7z",
-        "tamano": 5774292
+        "nombre": "npp.8.9.9.portable.arm64.7z",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.arm64.7z",
+        "tamano": 5839028
       },
       {
-        "nombre": "npp.8.9.8.1.portable.arm64.7z.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.7z.sig",
+        "nombre": "npp.8.9.9.portable.arm64.7z.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.arm64.7z.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.arm64.zip",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.zip",
-        "tamano": 8090883
+        "nombre": "npp.8.9.9.portable.arm64.zip",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.arm64.zip",
+        "tamano": 8180663
       },
       {
-        "nombre": "npp.8.9.8.1.portable.arm64.zip.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.arm64.zip.sig",
+        "nombre": "npp.8.9.9.portable.arm64.zip.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.arm64.zip.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.minimalist.7z",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.7z",
-        "tamano": 3843753
+        "nombre": "npp.8.9.9.portable.minimalist.7z",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.minimalist.7z",
+        "tamano": 3867830
       },
       {
-        "nombre": "npp.8.9.8.1.portable.minimalist.7z.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.7z.sig",
+        "nombre": "npp.8.9.9.portable.minimalist.7z.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.minimalist.7z.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.minimalist.arm64.7z",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.arm64.7z",
-        "tamano": 3854873
+        "nombre": "npp.8.9.9.portable.minimalist.arm64.7z",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.minimalist.arm64.7z",
+        "tamano": 3881674
       },
       {
-        "nombre": "npp.8.9.8.1.portable.minimalist.arm64.7z.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.arm64.7z.sig",
+        "nombre": "npp.8.9.9.portable.minimalist.arm64.7z.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.minimalist.arm64.7z.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.minimalist.x64.7z",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.x64.7z",
-        "tamano": 4062038
+        "nombre": "npp.8.9.9.portable.minimalist.x64.7z",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.minimalist.x64.7z",
+        "tamano": 4087907
       },
       {
-        "nombre": "npp.8.9.8.1.portable.minimalist.x64.7z.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.minimalist.x64.7z.sig",
+        "nombre": "npp.8.9.9.portable.minimalist.x64.7z.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.minimalist.x64.7z.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.x64.7z",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.7z",
-        "tamano": 6082405
+        "nombre": "npp.8.9.9.portable.x64.7z",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.x64.7z",
+        "tamano": 6148508
       },
       {
-        "nombre": "npp.8.9.8.1.portable.x64.7z.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.7z.sig",
+        "nombre": "npp.8.9.9.portable.x64.7z.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.x64.7z.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.x64.zip",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.zip",
-        "tamano": 8250001
+        "nombre": "npp.8.9.9.portable.x64.zip",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.x64.zip",
+        "tamano": 8338502
       },
       {
-        "nombre": "npp.8.9.8.1.portable.x64.zip.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.x64.zip.sig",
+        "nombre": "npp.8.9.9.portable.x64.zip.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.x64.zip.sig",
         "tamano": 594
       },
       {
-        "nombre": "npp.8.9.8.1.portable.zip",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.zip",
-        "tamano": 7821291
+        "nombre": "npp.8.9.9.portable.zip",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.zip",
+        "tamano": 7906415
       },
       {
-        "nombre": "npp.8.9.8.1.portable.zip.sig",
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.portable.zip.sig",
+        "nombre": "npp.8.9.9.portable.zip.sig",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.portable.zip.sig",
         "tamano": 594
       }
     ],
-    "leido": "2026-11-06T07:23:31Z"
+    "leido": "2026-11-06T18:59:21Z"
   },
   "obsproject/obs-studio": {
     "repo": "obsproject/obs-studio",
@@ -1177,7 +1177,7 @@
         "tamano": 223786669
       }
     ],
-    "leido": "2026-11-06T07:23:30Z"
+    "leido": "2026-11-06T18:59:21Z"
   },
   "OpenTTD/OpenTTD": {
     "repo": "OpenTTD/OpenTTD",
@@ -1186,7 +1186,7 @@
     "fecha": "2026-04-04T19:56:48Z",
     "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3",
     "archivos": [],
-    "leido": "2026-11-06T07:23:28Z"
+    "leido": "2026-11-06T18:59:19Z"
   },
   "pbatard/rufus": {
     "repo": "pbatard/rufus",
@@ -1231,27 +1231,27 @@
         "tamano": 256
       }
     ],
-    "leido": "2026-11-06T07:23:32Z"
+    "leido": "2026-11-06T18:59:22Z"
   },
   "ShareX/ShareX": {
     "repo": "ShareX/ShareX",
-    "etiqueta": "v21.0.0",
-    "version": "21.0.0",
-    "fecha": "2026-07-03T04:24:56Z",
-    "url": "https://github.com/ShareX/ShareX/releases/tag/v21.0.0",
+    "etiqueta": "v22.2.0",
+    "version": "22.2.0",
+    "fecha": "2026-11-06T01:46:39Z",
+    "url": "https://github.com/ShareX/ShareX/releases/tag/v22.2.0",
     "archivos": [
       {
-        "nombre": "ShareX-21.0.0-portable-x64.zip",
-        "url": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-portable-x64.zip",
-        "tamano": 208850419
+        "nombre": "ShareX-22.2.0-portable-x64.zip",
+        "url": "https://github.com/ShareX/ShareX/releases/download/v22.2.0/ShareX-22.2.0-portable-x64.zip",
+        "tamano": 192490070
       },
       {
-        "nombre": "ShareX-21.0.0-setup-x64.exe",
-        "url": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-setup-x64.exe",
-        "tamano": 139151207
+        "nombre": "ShareX-22.2.0-setup-x64.exe",
+        "url": "https://github.com/ShareX/ShareX/releases/download/v22.2.0/ShareX-22.2.0-setup-x64.exe",
+        "tamano": 132440520
       }
     ],
-    "leido": "2026-11-06T07:23:31Z"
+    "leido": "2026-11-06T18:59:22Z"
   },
   "SuperTux/supertux": {
     "repo": "SuperTux/supertux",
@@ -1336,7 +1336,7 @@
         "tamano": 277928552
       }
     ],
-    "leido": "2026-11-06T07:23:30Z"
+    "leido": "2026-11-06T18:59:20Z"
   },
   "supertuxkart/stk-code": {
     "repo": "supertuxkart/stk-code",
@@ -1411,7 +1411,7 @@
         "tamano": 183727403
       }
     ],
-    "leido": "2026-11-06T07:23:28Z"
+    "leido": "2026-11-06T18:59:19Z"
   },
   "Warzone2100/warzone2100": {
     "repo": "Warzone2100/warzone2100",
@@ -1511,7 +1511,7 @@
         "tamano": 393747010
       }
     ],
-    "leido": "2026-11-06T07:23:29Z"
+    "leido": "2026-11-06T18:59:20Z"
   },
   "yairm210/Unciv": {
     "repo": "yairm210/Unciv",
@@ -1556,6 +1556,6 @@
         "tamano": 22840481
       }
     ],
-    "leido": "2026-11-06T07:23:29Z"
+    "leido": "2026-11-06T18:59:20Z"
   }
 }
