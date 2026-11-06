@@ -60,6 +60,37 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:15Z"
     },
+    "12210": {
+      "appid": 12210,
+      "nombre": "Grand Theft Auto IV: The Complete Edition",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Rockstar North",
+        "Rockstar Toronto"
+      ],
+      "anio": 2020,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10 (64-bit)",
+        "Procesador: Intel Core 2 Duo a 1.8 GHz, AMD Athlon X2 64 a 2.4 GHz",
+        "Memoria: 1.5 GB de RAM",
+        "Gráficos: nVidia 7900 con 256 MB / ATI X1900 con 256 MB",
+        "Versión de DirectX: DirectX 9.0c",
+        "Disco Duro: 22 GB de espacio libre",
+        "Sonido: Dispositivo de sonido 5.1"
+      ],
+      "edad": 17,
+      "leido": "2026-11-06T01:17:09Z"
+    },
     "1304930": {
       "appid": 1304930,
       "nombre": "The Outlast Trials",
@@ -429,6 +460,36 @@
       ],
       "edad": 0,
       "leido": "2026-11-03T01:09:32Z"
+    },
+    "2448570": {
+      "appid": 2448570,
+      "nombre": "Road Rash™: Edición del 30.º aniversario",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Carreras"
+      ],
+      "desarrollo": [
+        "Electronic Arts"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10 or Windows 11",
+        "Procesador: Any 1 GHz Intel or AMD processor (dual-core or better)",
+        "Memoria: 2 MB de RAM",
+        "Gráficos: DirectX 9 compatible graphics with 128 MB VRAM",
+        "DirectX: Versión 9.0c",
+        "Almacenamiento: 4 MB de espacio disponible",
+        "Tarjeta de sonido: Any Windows-compatible sound device"
+      ],
+      "edad": 0,
+      "leido": "2026-11-06T01:17:09Z"
     },
     "252490": {
       "appid": 252490,
@@ -1184,6 +1245,10 @@
     "gladiatorbladesoffury": {
       "appid": 1007490,
       "leido": "2026-11-01T21:45:08Z"
+    },
+    "gmhgoodmorninghumanepicgamesgiveaways": {
+      "appid": 0,
+      "leido": "2026-11-06T01:17:01Z"
     },
     "highwaydriving": {
       "appid": 2016980,
