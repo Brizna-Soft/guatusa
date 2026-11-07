@@ -37,7 +37,7 @@
         "tamano": 108216769
       }
     ],
-    "leido": "2026-11-07T01:05:35Z"
+    "leido": "2026-11-07T12:57:13Z"
   },
   "Anuken/Mindustry": {
     "repo": "Anuken/Mindustry",
@@ -67,7 +67,7 @@
         "tamano": 19453000
       }
     ],
-    "leido": "2026-11-07T01:05:35Z"
+    "leido": "2026-11-07T12:57:13Z"
   },
   "audacity/audacity": {
     "repo": "audacity/audacity",
@@ -132,7 +132,7 @@
         "tamano": 1632
       }
     ],
-    "leido": "2026-11-07T01:05:36Z"
+    "leido": "2026-11-07T12:57:15Z"
   },
   "Brizna-Soft/atarraya": {
     "repo": "Brizna-Soft/atarraya",
@@ -152,157 +152,162 @@
         "tamano": 89
       }
     ],
-    "leido": "2026-11-07T01:05:33Z"
+    "leido": "2026-11-07T12:57:11Z"
   },
   "Brizna-Soft/chachalaca": {
     "repo": "Brizna-Soft/chachalaca",
-    "etiqueta": "v0.1.0",
-    "version": "0.1.0",
-    "fecha": "2026-10-29T04:21:16Z",
-    "url": "https://github.com/Brizna-Soft/chachalaca/releases/tag/v0.1.0",
+    "etiqueta": "v0.1.1",
+    "version": "0.1.1",
+    "fecha": "2026-11-07T08:40:50Z",
+    "url": "https://github.com/Brizna-Soft/chachalaca/releases/tag/v0.1.1",
     "archivos": [
       {
-        "nombre": "Chachalaca-0.1.0-x64.zip",
-        "url": "https://github.com/Brizna-Soft/chachalaca/releases/download/v0.1.0/Chachalaca-0.1.0-x64.zip",
-        "tamano": 5458835
+        "nombre": "Chachalaca-0.1.1-x64.zip",
+        "url": "https://github.com/Brizna-Soft/chachalaca/releases/download/v0.1.1/Chachalaca-0.1.1-x64.zip",
+        "tamano": 5469795
       },
       {
-        "nombre": "Chachalaca-0.1.0-x64.zip.sha256",
-        "url": "https://github.com/Brizna-Soft/chachalaca/releases/download/v0.1.0/Chachalaca-0.1.0-x64.zip.sha256",
+        "nombre": "Chachalaca-0.1.1-x64.zip.sha256",
+        "url": "https://github.com/Brizna-Soft/chachalaca/releases/download/v0.1.1/Chachalaca-0.1.1-x64.zip.sha256",
         "tamano": 91
       }
     ],
-    "leido": "2026-11-07T01:05:34Z"
+    "leido": "2026-11-07T12:57:12Z"
   },
   "Brizna-Soft/guara": {
     "repo": "Brizna-Soft/guara",
-    "etiqueta": "v0.1.0",
-    "version": "0.1.0",
-    "fecha": "2026-10-28T07:39:00Z",
-    "url": "https://github.com/Brizna-Soft/guara/releases/tag/v0.1.0",
+    "etiqueta": "v0.1.2",
+    "version": "0.1.2",
+    "fecha": "2026-11-07T08:33:31Z",
+    "url": "https://github.com/Brizna-Soft/guara/releases/tag/v0.1.2",
     "archivos": [
       {
-        "nombre": "Guara-0.1.0-x64.zip",
-        "url": "https://github.com/Brizna-Soft/guara/releases/download/v0.1.0/Guara-0.1.0-x64.zip",
-        "tamano": 1915726
+        "nombre": "Guara-0.1.2-x64.zip",
+        "url": "https://github.com/Brizna-Soft/guara/releases/download/v0.1.2/Guara-0.1.2-x64.zip",
+        "tamano": 1925086
       },
       {
-        "nombre": "Guara-0.1.0-x64.zip.sha256",
-        "url": "https://github.com/Brizna-Soft/guara/releases/download/v0.1.0/Guara-0.1.0-x64.zip.sha256",
+        "nombre": "Guara-0.1.2-x64.zip.sha256",
+        "url": "https://github.com/Brizna-Soft/guara/releases/download/v0.1.2/Guara-0.1.2-x64.zip.sha256",
         "tamano": 86
       }
     ],
-    "leido": "2026-11-07T01:05:33Z"
+    "leido": "2026-11-07T12:57:11Z"
   },
   "Brizna-Soft/hntorrent-descargas": {
     "repo": "Brizna-Soft/hntorrent-descargas",
-    "etiqueta": "v0.27.1",
-    "version": "0.27.1",
-    "fecha": "2026-10-29T01:50:32Z",
-    "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/tag/v0.27.1",
+    "etiqueta": "v0.27.2",
+    "version": "0.27.2",
+    "fecha": "2026-11-07T04:03:04Z",
+    "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/tag/v0.27.2",
     "archivos": [
       {
         "nombre": "actualizacion.json",
-        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/actualizacion.json",
+        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.2/actualizacion.json",
         "tamano": 317
       },
       {
         "nombre": "AVISOS-DE-TERCEROS.txt",
-        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/AVISOS-DE-TERCEROS.txt",
+        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.2/AVISOS-DE-TERCEROS.txt",
         "tamano": 56676
       },
       {
-        "nombre": "Brizna-0.27.1-x64.zip",
-        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/Brizna-0.27.1-x64.zip",
-        "tamano": 7583956
+        "nombre": "Brizna-0.27.2-x64.zip",
+        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.2/Brizna-0.27.2-x64.zip",
+        "tamano": 7585734
       },
       {
-        "nombre": "HNTorrent-0.27.1-x64.zip",
-        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/HNTorrent-0.27.1-x64.zip",
-        "tamano": 7583962
+        "nombre": "HNTorrent-0.27.2-x64.zip",
+        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.2/HNTorrent-0.27.2-x64.zip",
+        "tamano": 7585740
       },
       {
         "nombre": "hntorrent-actualizacion.json",
-        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/hntorrent-actualizacion.json",
+        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.2/hntorrent-actualizacion.json",
         "tamano": 320
       },
       {
         "nombre": "SHA256SUMS.txt",
-        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.1/SHA256SUMS.txt",
+        "url": "https://github.com/Brizna-Soft/hntorrent-descargas/releases/download/v0.27.2/SHA256SUMS.txt",
         "tamano": 179
       }
     ],
-    "leido": "2026-11-07T01:05:34Z"
+    "leido": "2026-11-07T12:57:12Z"
   },
   "Brizna-Soft/jicaro": {
     "repo": "Brizna-Soft/jicaro",
-    "etiqueta": "v0.1.0",
-    "version": "0.1.0",
-    "fecha": "2026-10-31T17:51:08Z",
-    "url": "https://github.com/Brizna-Soft/jicaro/releases/tag/v0.1.0",
+    "etiqueta": "v0.2.1",
+    "version": "0.2.1",
+    "fecha": "2026-11-07T08:34:04Z",
+    "url": "https://github.com/Brizna-Soft/jicaro/releases/tag/v0.2.1",
     "archivos": [
       {
-        "nombre": "Jicaro-0.1.0-x64.zip",
-        "url": "https://github.com/Brizna-Soft/jicaro/releases/download/v0.1.0/Jicaro-0.1.0-x64.zip",
-        "tamano": 2275431
+        "nombre": "7z2605-src.7z",
+        "url": "https://github.com/Brizna-Soft/jicaro/releases/download/v0.2.1/7z2605-src.7z",
+        "tamano": 1552479
       },
       {
-        "nombre": "Jicaro-0.1.0-x64.zip.sha256",
-        "url": "https://github.com/Brizna-Soft/jicaro/releases/download/v0.1.0/Jicaro-0.1.0-x64.zip.sha256",
+        "nombre": "Jicaro-0.2.1-x64.zip",
+        "url": "https://github.com/Brizna-Soft/jicaro/releases/download/v0.2.1/Jicaro-0.2.1-x64.zip",
+        "tamano": 3231545
+      },
+      {
+        "nombre": "Jicaro-0.2.1-x64.zip.sha256",
+        "url": "https://github.com/Brizna-Soft/jicaro/releases/download/v0.2.1/Jicaro-0.2.1-x64.zip.sha256",
         "tamano": 87
       }
     ],
-    "leido": "2026-11-07T01:05:33Z"
+    "leido": "2026-11-07T12:57:11Z"
   },
   "Brizna-Soft/mapache": {
     "repo": "Brizna-Soft/mapache",
-    "etiqueta": "v0.1.0",
-    "version": "0.1.0",
-    "fecha": "2026-10-28T07:03:00Z",
-    "url": "https://github.com/Brizna-Soft/mapache/releases/tag/v0.1.0",
+    "etiqueta": "v0.1.2",
+    "version": "0.1.2",
+    "fecha": "2026-11-07T08:33:40Z",
+    "url": "https://github.com/Brizna-Soft/mapache/releases/tag/v0.1.2",
     "archivos": [
       {
-        "nombre": "Mapache-0.1.0-x64.zip",
-        "url": "https://github.com/Brizna-Soft/mapache/releases/download/v0.1.0/Mapache-0.1.0-x64.zip",
-        "tamano": 2006680
+        "nombre": "Mapache-0.1.2-x64.zip",
+        "url": "https://github.com/Brizna-Soft/mapache/releases/download/v0.1.2/Mapache-0.1.2-x64.zip",
+        "tamano": 2021720
       },
       {
-        "nombre": "Mapache-0.1.0-x64.zip.sha256",
-        "url": "https://github.com/Brizna-Soft/mapache/releases/download/v0.1.0/Mapache-0.1.0-x64.zip.sha256",
+        "nombre": "Mapache-0.1.2-x64.zip.sha256",
+        "url": "https://github.com/Brizna-Soft/mapache/releases/download/v0.1.2/Mapache-0.1.2-x64.zip.sha256",
         "tamano": 88
       }
     ],
-    "leido": "2026-11-07T01:05:33Z"
+    "leido": "2026-11-07T12:57:11Z"
   },
   "Brizna-Soft/mosquitero": {
     "repo": "Brizna-Soft/mosquitero",
-    "etiqueta": "v0.1.0",
-    "version": "0.1.0",
-    "fecha": "2026-10-28T07:10:27Z",
-    "url": "https://github.com/Brizna-Soft/mosquitero/releases/tag/v0.1.0",
+    "etiqueta": "v0.2.0",
+    "version": "0.2.0",
+    "fecha": "2026-11-07T08:33:47Z",
+    "url": "https://github.com/Brizna-Soft/mosquitero/releases/tag/v0.2.0",
     "archivos": [
       {
-        "nombre": "Mosquitero-0.1.0-chrome.zip",
-        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-chrome.zip",
-        "tamano": 1221827
+        "nombre": "Mosquitero-0.2.0-chrome.zip",
+        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.2.0/Mosquitero-0.2.0-chrome.zip",
+        "tamano": 1224266
       },
       {
-        "nombre": "Mosquitero-0.1.0-chrome.zip.sha256",
-        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-chrome.zip.sha256",
+        "nombre": "Mosquitero-0.2.0-chrome.zip.sha256",
+        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.2.0/Mosquitero-0.2.0-chrome.zip.sha256",
         "tamano": 94
       },
       {
-        "nombre": "Mosquitero-0.1.0-firefox.zip",
-        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-firefox.zip",
-        "tamano": 1221897
+        "nombre": "Mosquitero-0.2.0-firefox.zip",
+        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.2.0/Mosquitero-0.2.0-firefox.zip",
+        "tamano": 1224336
       },
       {
-        "nombre": "Mosquitero-0.1.0-firefox.zip.sha256",
-        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.1.0/Mosquitero-0.1.0-firefox.zip.sha256",
+        "nombre": "Mosquitero-0.2.0-firefox.zip.sha256",
+        "url": "https://github.com/Brizna-Soft/mosquitero/releases/download/v0.2.0/Mosquitero-0.2.0-firefox.zip.sha256",
         "tamano": 95
       }
     ],
-    "leido": "2026-11-07T01:05:34Z"
+    "leido": "2026-11-07T12:57:12Z"
   },
   "endless-sky/endless-sky": {
     "repo": "endless-sky/endless-sky",
@@ -342,7 +347,7 @@
         "tamano": 364425528
       }
     ],
-    "leido": "2026-11-07T01:05:35Z"
+    "leido": "2026-11-07T12:57:14Z"
   },
   "HandBrake/HandBrake": {
     "repo": "HandBrake/HandBrake",
@@ -482,7 +487,7 @@
         "tamano": 566
       }
     ],
-    "leido": "2026-11-07T01:05:36Z"
+    "leido": "2026-11-07T12:57:15Z"
   },
   "keepassxreboot/keepassxc": {
     "repo": "keepassxreboot/keepassxc",
@@ -747,7 +752,7 @@
         "tamano": 488
       }
     ],
-    "leido": "2026-11-07T01:05:36Z"
+    "leido": "2026-11-07T12:57:15Z"
   },
   "kovidgoyal/calibre": {
     "repo": "kovidgoyal/calibre",
@@ -787,7 +792,7 @@
         "tamano": 259196168
       }
     ],
-    "leido": "2026-11-07T01:05:37Z"
+    "leido": "2026-11-07T12:57:16Z"
   },
   "luanti-org/luanti": {
     "repo": "luanti-org/luanti",
@@ -842,7 +847,7 @@
         "tamano": 14346225
       }
     ],
-    "leido": "2026-11-07T01:05:34Z"
+    "leido": "2026-11-07T12:57:13Z"
   },
   "microsoft/PowerToys": {
     "repo": "microsoft/PowerToys",
@@ -887,7 +892,7 @@
         "tamano": 450272344
       }
     ],
-    "leido": "2026-11-07T01:05:37Z"
+    "leido": "2026-11-07T12:57:16Z"
   },
   "mltframework/shotcut": {
     "repo": "mltframework/shotcut",
@@ -957,7 +962,7 @@
         "tamano": 159418949
       }
     ],
-    "leido": "2026-11-07T01:05:36Z"
+    "leido": "2026-11-07T12:57:15Z"
   },
   "notepad-plus-plus/notepad-plus-plus": {
     "repo": "notepad-plus-plus/notepad-plus-plus",
@@ -1107,7 +1112,7 @@
         "tamano": 594
       }
     ],
-    "leido": "2026-11-07T01:05:37Z"
+    "leido": "2026-11-07T12:57:16Z"
   },
   "obsproject/obs-studio": {
     "repo": "obsproject/obs-studio",
@@ -1177,7 +1182,7 @@
         "tamano": 223786669
       }
     ],
-    "leido": "2026-11-07T01:05:36Z"
+    "leido": "2026-11-07T12:57:15Z"
   },
   "OpenTTD/OpenTTD": {
     "repo": "OpenTTD/OpenTTD",
@@ -1186,7 +1191,7 @@
     "fecha": "2026-04-04T19:56:48Z",
     "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3",
     "archivos": [],
-    "leido": "2026-11-07T01:05:35Z"
+    "leido": "2026-11-07T12:57:13Z"
   },
   "pbatard/rufus": {
     "repo": "pbatard/rufus",
@@ -1231,27 +1236,27 @@
         "tamano": 256
       }
     ],
-    "leido": "2026-11-07T01:05:37Z"
+    "leido": "2026-11-07T12:57:16Z"
   },
   "ShareX/ShareX": {
     "repo": "ShareX/ShareX",
-    "etiqueta": "v22.2.0",
-    "version": "22.2.0",
-    "fecha": "2026-11-06T01:46:39Z",
-    "url": "https://github.com/ShareX/ShareX/releases/tag/v22.2.0",
+    "etiqueta": "v22.3.0",
+    "version": "22.3.0",
+    "fecha": "2026-11-07T05:52:09Z",
+    "url": "https://github.com/ShareX/ShareX/releases/tag/v22.3.0",
     "archivos": [
       {
-        "nombre": "ShareX-22.2.0-portable-x64.zip",
-        "url": "https://github.com/ShareX/ShareX/releases/download/v22.2.0/ShareX-22.2.0-portable-x64.zip",
-        "tamano": 192490070
+        "nombre": "ShareX-22.3.0-portable-x64.zip",
+        "url": "https://github.com/ShareX/ShareX/releases/download/v22.3.0/ShareX-22.3.0-portable-x64.zip",
+        "tamano": 209418034
       },
       {
-        "nombre": "ShareX-22.2.0-setup-x64.exe",
-        "url": "https://github.com/ShareX/ShareX/releases/download/v22.2.0/ShareX-22.2.0-setup-x64.exe",
-        "tamano": 132440520
+        "nombre": "ShareX-22.3.0-setup-x64.exe",
+        "url": "https://github.com/ShareX/ShareX/releases/download/v22.3.0/ShareX-22.3.0-setup-x64.exe",
+        "tamano": 145191112
       }
     ],
-    "leido": "2026-11-07T01:05:37Z"
+    "leido": "2026-11-07T12:57:16Z"
   },
   "SuperTux/supertux": {
     "repo": "SuperTux/supertux",
@@ -1336,7 +1341,7 @@
         "tamano": 277928552
       }
     ],
-    "leido": "2026-11-07T01:05:35Z"
+    "leido": "2026-11-07T12:57:14Z"
   },
   "supertuxkart/stk-code": {
     "repo": "supertuxkart/stk-code",
@@ -1411,7 +1416,7 @@
         "tamano": 183727403
       }
     ],
-    "leido": "2026-11-07T01:05:34Z"
+    "leido": "2026-11-07T12:57:12Z"
   },
   "Warzone2100/warzone2100": {
     "repo": "Warzone2100/warzone2100",
@@ -1511,7 +1516,7 @@
         "tamano": 393747010
       }
     ],
-    "leido": "2026-11-07T01:05:35Z"
+    "leido": "2026-11-07T12:57:14Z"
   },
   "yairm210/Unciv": {
     "repo": "yairm210/Unciv",
@@ -1556,6 +1561,6 @@
         "tamano": 22840481
       }
     ],
-    "leido": "2026-11-07T01:05:35Z"
+    "leido": "2026-11-07T12:57:14Z"
   }
 }

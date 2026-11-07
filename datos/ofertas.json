@@ -14,7 +14,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -52,7 +52,7 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "potato-please"
   },
@@ -71,28 +71,9 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "r-e-p-o"
-  },
-  {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
-    "fin_visto": null,
-    "slug": "control-resonant"
   },
   {
     "clave": "steam-1211600",
@@ -109,7 +90,7 @@
     "termina": "2026-11-19T18:00:03Z",
     "vigente": true,
     "visto_primero": "2026-11-06T13:12:41Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "zed-zone"
   },
@@ -128,28 +109,67 @@
     "termina": "2026-11-19T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-05T19:01:38Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "underkeep"
   },
   {
-    "clave": "steam-2448570",
-    "appid": 2448570,
-    "nombre": "Road Rash™: Edición del 30.º aniversario",
-    "descuento": 50,
-    "precio_normal": 9.99,
-    "precio": 4.99,
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-19T18:00:00Z",
+    "termina": "2026-11-10T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
-    "slug": "road-rash-edicion-del-30-aniversario"
+    "slug": "control-resonant"
+  },
+  {
+    "clave": "steam-2223980",
+    "appid": 2223980,
+    "nombre": "Nomad Drive",
+    "descuento": 10,
+    "precio_normal": 8.09,
+    "precio": 7.28,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T17:00:40Z",
+    "vigente": true,
+    "visto_primero": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
+    "fin_visto": null,
+    "slug": "nomad-drive"
+  },
+  {
+    "clave": "steam-252490",
+    "appid": 252490,
+    "nombre": "Rust",
+    "descuento": 50,
+    "precio_normal": 18.99,
+    "precio": 9.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-09T17:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-02T19:00:37Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
+    "fin_visto": null,
+    "slug": "rust"
   },
   {
     "clave": "steam-3527290",
@@ -166,29 +186,9 @@
     "termina": "2026-11-15T10:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "peak"
-  },
-  {
-    "clave": "steam-2320980",
-    "appid": 2320980,
-    "nombre": "Loftia",
-    "descuento": 17,
-    "precio_normal": 14.49,
-    "precio": 12.02,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-17T18:00:53Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
-    "fin_visto": null,
-    "slug": "loftia"
   },
   {
     "clave": "steam-4530370",
@@ -206,9 +206,48 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "visto_ultimo": "2026-11-07T12:57:08Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-2448570",
+    "appid": 2448570,
+    "nombre": "Road Rash™: Edición del 30.º aniversario",
+    "descuento": 50,
+    "precio_normal": 9.99,
+    "precio": 4.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "slug": "road-rash-edicion-del-30-aniversario",
+    "fin_visto": "2026-11-07T12:57:08Z"
+  },
+  {
+    "clave": "steam-2320980",
+    "appid": 2320980,
+    "nombre": "Loftia",
+    "descuento": 17,
+    "precio_normal": 14.49,
+    "precio": 12.02,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-17T18:00:53Z",
+    "vigente": false,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-07T07:04:29Z",
+    "slug": "loftia",
+    "fin_visto": "2026-11-07T12:57:08Z"
   },
   {
     "clave": "steam-3751950",
@@ -228,26 +267,6 @@
     "visto_ultimo": "2026-11-07T01:05:30Z",
     "slug": "assassins-creed-black-flag-resynced",
     "fin_visto": "2026-11-07T07:04:29Z"
-  },
-  {
-    "clave": "steam-252490",
-    "appid": 252490,
-    "nombre": "Rust",
-    "descuento": 50,
-    "precio_normal": 18.99,
-    "precio": 9.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-09T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
-    "slug": "rust",
-    "fin_visto": "2026-11-07T01:05:30Z"
   },
   {
     "clave": "steam-5160800",
@@ -421,25 +440,6 @@
     "visto_ultimo": "2026-11-05T07:27:07Z",
     "slug": "void-breaker",
     "fin_visto": "2026-11-05T13:18:26Z"
-  },
-  {
-    "clave": "steam-2223980",
-    "appid": 2223980,
-    "nombre": "Nomad Drive",
-    "descuento": 10,
-    "precio_normal": 8.09,
-    "precio": 7.28,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:40Z",
-    "vigente": false,
-    "visto_primero": "2026-11-02T07:32:31Z",
-    "visto_ultimo": "2026-11-04T13:12:12Z",
-    "slug": "nomad-drive",
-    "fin_visto": "2026-11-04T19:03:15Z"
   },
   {
     "clave": "steam-275850",
