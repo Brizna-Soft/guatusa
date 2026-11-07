@@ -1,24 +1,5 @@
 [
   {
-    "clave": "steam-4348910",
-    "appid": 4348910,
-    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-    "descuento": 10,
-    "precio_normal": 8.99,
-    "precio": 8.09,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-11T17:00:39Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
-    "fin_visto": null,
-    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
-  },
-  {
     "clave": "steam-3768760",
     "appid": 3768760,
     "nombre": "007 First Light",
@@ -33,9 +14,28 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
     "slug": "007-first-light"
+  },
+  {
+    "clave": "steam-4348910",
+    "appid": 4348910,
+    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "descuento": 10,
+    "precio_normal": 8.99,
+    "precio": 8.09,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-11T17:00:39Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
+    "fin_visto": null,
+    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
   {
     "clave": "steam-2411200",
@@ -52,28 +52,9 @@
     "termina": "2026-11-19T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-05T19:01:38Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
     "slug": "underkeep"
-  },
-  {
-    "clave": "steam-5266240",
-    "appid": 5266240,
-    "nombre": "Potato Please",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T18:00:36Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
-    "fin_visto": null,
-    "slug": "potato-please"
   },
   {
     "clave": "steam-3669870",
@@ -90,29 +71,28 @@
     "termina": "2026-11-10T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
     "slug": "control-resonant"
   },
   {
-    "clave": "steam-252490",
-    "appid": 252490,
-    "nombre": "Rust",
-    "descuento": 50,
-    "precio_normal": 18.99,
-    "precio": 9.49,
+    "clave": "steam-5266240",
+    "appid": 5266240,
+    "nombre": "Potato Please",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
     "plataformas": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
-    "termina": "2026-11-09T17:00:00Z",
+    "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
-    "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
-    "slug": "rust"
+    "slug": "potato-please"
   },
   {
     "clave": "steam-3241660",
@@ -129,7 +109,7 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
     "slug": "r-e-p-o"
   },
@@ -149,7 +129,7 @@
     "termina": "2026-11-17T18:00:53Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
     "slug": "loftia"
   },
@@ -168,9 +148,28 @@
     "termina": "2026-11-19T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
     "slug": "road-rash-edicion-del-30-aniversario"
+  },
+  {
+    "clave": "steam-3751950",
+    "appid": 3751950,
+    "nombre": "Assassin's Creed Black Flag Resynced",
+    "descuento": 25,
+    "precio_normal": 47.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T17:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T22:45:02Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
+    "fin_visto": null,
+    "slug": "assassins-creed-black-flag-resynced"
   },
   {
     "clave": "steam-4530370",
@@ -188,9 +187,29 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-07T01:05:30Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-252490",
+    "appid": 252490,
+    "nombre": "Rust",
+    "descuento": 50,
+    "precio_normal": 18.99,
+    "precio": 9.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-09T17:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-02T19:00:37Z",
+    "visto_ultimo": "2026-11-06T18:59:14Z",
+    "slug": "rust",
+    "fin_visto": "2026-11-07T01:05:30Z"
   },
   {
     "clave": "steam-5160800",
@@ -205,11 +224,11 @@
       "Windows"
     ],
     "termina": "2026-11-20T18:00:30Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-06T18:59:14Z",
     "visto_ultimo": "2026-11-06T18:59:14Z",
-    "fin_visto": null,
-    "slug": "find-the-needle"
+    "slug": "find-the-needle",
+    "fin_visto": "2026-11-07T01:05:30Z"
   },
   {
     "clave": "steam-1799840",
@@ -402,25 +421,6 @@
     "visto_ultimo": "2026-11-04T13:12:12Z",
     "slug": "nomad-drive",
     "fin_visto": "2026-11-04T19:03:15Z"
-  },
-  {
-    "clave": "steam-3751950",
-    "appid": 3751950,
-    "nombre": "Assassin's Creed Black Flag Resynced",
-    "descuento": 25,
-    "precio_normal": 47.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T22:45:02Z",
-    "visto_ultimo": "2026-11-04T01:11:15Z",
-    "slug": "assassins-creed-black-flag-resynced",
-    "fin_visto": "2026-11-04T07:24:22Z"
   },
   {
     "clave": "steam-275850",
