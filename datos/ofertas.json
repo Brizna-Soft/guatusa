@@ -14,7 +14,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -33,9 +33,85 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
     "fin_visto": null,
     "slug": "007-first-light"
+  },
+  {
+    "clave": "steam-3241660",
+    "appid": 3241660,
+    "nombre": "R.E.P.O.",
+    "descuento": 35,
+    "precio_normal": 4.99,
+    "precio": 3.24,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-09T17:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
+    "fin_visto": null,
+    "slug": "r-e-p-o"
+  },
+  {
+    "clave": "steam-5266240",
+    "appid": 5266240,
+    "nombre": "Potato Please",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T18:00:36Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
+    "fin_visto": null,
+    "slug": "potato-please"
+  },
+  {
+    "clave": "steam-1211600",
+    "appid": 1211600,
+    "nombre": "ZED ZONE",
+    "descuento": 40,
+    "precio_normal": 11.99,
+    "precio": 7.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:03Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T13:12:41Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
+    "fin_visto": null,
+    "slug": "zed-zone"
+  },
+  {
+    "clave": "steam-5160800",
+    "appid": 5160800,
+    "nombre": "Find The Needle",
+    "descuento": 15,
+    "precio_normal": 8.09,
+    "precio": 6.87,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:30Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
+    "fin_visto": null,
+    "slug": "find-the-needle"
   },
   {
     "clave": "steam-252490",
@@ -53,123 +129,28 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
     "fin_visto": null,
     "slug": "rust"
   },
   {
-    "clave": "steam-5266240",
-    "appid": 5266240,
-    "nombre": "Potato Please",
+    "clave": "steam-2223980",
+    "appid": 2223980,
+    "nombre": "Nomad Drive",
     "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T18:00:36Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
-    "fin_visto": null,
-    "slug": "potato-please"
-  },
-  {
-    "clave": "steam-3241660",
-    "appid": 3241660,
-    "nombre": "R.E.P.O.",
-    "descuento": 35,
-    "precio_normal": 4.99,
-    "precio": 3.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-09T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
-    "fin_visto": null,
-    "slug": "r-e-p-o"
-  },
-  {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
-    "fin_visto": null,
-    "slug": "control-resonant"
-  },
-  {
-    "clave": "steam-5160800",
-    "appid": 5160800,
-    "nombre": "Find The Needle",
-    "descuento": 15,
     "precio_normal": 8.09,
-    "precio": 6.87,
+    "precio": 7.28,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-20T18:00:30Z",
+    "termina": "2026-11-10T17:00:40Z",
     "vigente": true,
-    "visto_primero": "2026-11-06T18:59:14Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "visto_primero": "2026-11-02T07:32:31Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
     "fin_visto": null,
-    "slug": "find-the-needle"
-  },
-  {
-    "clave": "steam-1211600",
-    "appid": 1211600,
-    "nombre": "ZED ZONE",
-    "descuento": 40,
-    "precio_normal": 11.99,
-    "precio": 7.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:03Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T13:12:41Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
-    "fin_visto": null,
-    "slug": "zed-zone"
-  },
-  {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T10:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
-    "fin_visto": null,
-    "slug": "peak"
+    "slug": "nomad-drive"
   },
   {
     "clave": "steam-275850",
@@ -187,7 +168,7 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
     "fin_visto": null,
     "slug": "no-mans-sky"
   },
@@ -207,9 +188,47 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "visto_ultimo": "2026-11-08T12:57:39Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "slug": "control-resonant",
+    "fin_visto": "2026-11-08T12:57:39Z"
+  },
+  {
+    "clave": "steam-3527290",
+    "appid": 3527290,
+    "nombre": "PEAK",
+    "descuento": 38,
+    "precio_normal": 3.99,
+    "precio": 2.47,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T10:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-08T07:07:27Z",
+    "slug": "peak",
+    "fin_visto": "2026-11-08T12:57:39Z"
   },
   {
     "clave": "steam-2320980",
@@ -268,25 +287,6 @@
     "visto_ultimo": "2026-11-07T18:51:26Z",
     "slug": "assassins-creed-black-flag-resynced",
     "fin_visto": "2026-11-08T01:11:54Z"
-  },
-  {
-    "clave": "steam-2223980",
-    "appid": 2223980,
-    "nombre": "Nomad Drive",
-    "descuento": 10,
-    "precio_normal": 8.09,
-    "precio": 7.28,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:40Z",
-    "vigente": false,
-    "visto_primero": "2026-11-02T07:32:31Z",
-    "visto_ultimo": "2026-11-07T12:57:08Z",
-    "slug": "nomad-drive",
-    "fin_visto": "2026-11-07T18:51:26Z"
   },
   {
     "clave": "steam-2448570",
