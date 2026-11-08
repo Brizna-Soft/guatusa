@@ -14,7 +14,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -52,9 +52,28 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
     "fin_visto": null,
     "slug": "r-e-p-o"
+  },
+  {
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
+    "fin_visto": null,
+    "slug": "control-resonant"
   },
   {
     "clave": "steam-5266240",
@@ -71,9 +90,48 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
     "fin_visto": null,
     "slug": "potato-please"
+  },
+  {
+    "clave": "steam-5160800",
+    "appid": 5160800,
+    "nombre": "Find The Needle",
+    "descuento": 15,
+    "precio_normal": 8.09,
+    "precio": 6.87,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:30Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
+    "fin_visto": null,
+    "slug": "find-the-needle"
+  },
+  {
+    "clave": "steam-2320980",
+    "appid": 2320980,
+    "nombre": "Loftia",
+    "descuento": 17,
+    "precio_normal": 14.49,
+    "precio": 12.02,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-17T18:00:53Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
+    "fin_visto": null,
+    "slug": "loftia"
   },
   {
     "clave": "steam-252490",
@@ -91,66 +149,9 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
     "fin_visto": null,
     "slug": "rust"
-  },
-  {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
-    "fin_visto": null,
-    "slug": "control-resonant"
-  },
-  {
-    "clave": "steam-2411200",
-    "appid": 2411200,
-    "nombre": "Underkeep",
-    "descuento": 15,
-    "precio_normal": 12.95,
-    "precio": 11.0,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411200/be22c58d9f42d3d349198e87b3c192998047b053/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-05T19:01:38Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
-    "fin_visto": null,
-    "slug": "underkeep"
-  },
-  {
-    "clave": "steam-3751950",
-    "appid": 3751950,
-    "nombre": "Assassin's Creed Black Flag Resynced",
-    "descuento": 25,
-    "precio_normal": 47.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T22:45:02Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
-    "fin_visto": null,
-    "slug": "assassins-creed-black-flag-resynced"
   },
   {
     "clave": "steam-275850",
@@ -168,9 +169,28 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
     "fin_visto": null,
     "slug": "no-mans-sky"
+  },
+  {
+    "clave": "steam-3527290",
+    "appid": 3527290,
+    "nombre": "PEAK",
+    "descuento": 38,
+    "precio_normal": 3.99,
+    "precio": 2.47,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T10:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
+    "fin_visto": null,
+    "slug": "peak"
   },
   {
     "clave": "steam-4530370",
@@ -188,9 +208,47 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "visto_ultimo": "2026-11-08T01:11:54Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-2411200",
+    "appid": 2411200,
+    "nombre": "Underkeep",
+    "descuento": 15,
+    "precio_normal": 12.95,
+    "precio": 11.0,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411200/be22c58d9f42d3d349198e87b3c192998047b053/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-05T19:01:38Z",
+    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "slug": "underkeep",
+    "fin_visto": "2026-11-08T01:11:54Z"
+  },
+  {
+    "clave": "steam-3751950",
+    "appid": 3751950,
+    "nombre": "Assassin's Creed Black Flag Resynced",
+    "descuento": 25,
+    "precio_normal": 47.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T17:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T22:45:02Z",
+    "visto_ultimo": "2026-11-07T18:51:26Z",
+    "slug": "assassins-creed-black-flag-resynced",
+    "fin_visto": "2026-11-08T01:11:54Z"
   },
   {
     "clave": "steam-1211600",
@@ -231,25 +289,6 @@
     "fin_visto": "2026-11-07T18:51:26Z"
   },
   {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T10:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-07T12:57:08Z",
-    "slug": "peak",
-    "fin_visto": "2026-11-07T18:51:26Z"
-  },
-  {
     "clave": "steam-2448570",
     "appid": 2448570,
     "nombre": "Road Rash™: Edición del 30.º aniversario",
@@ -267,45 +306,6 @@
     "visto_ultimo": "2026-11-07T07:04:29Z",
     "slug": "road-rash-edicion-del-30-aniversario",
     "fin_visto": "2026-11-07T12:57:08Z"
-  },
-  {
-    "clave": "steam-2320980",
-    "appid": 2320980,
-    "nombre": "Loftia",
-    "descuento": 17,
-    "precio_normal": 14.49,
-    "precio": 12.02,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-17T18:00:53Z",
-    "vigente": false,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-07T07:04:29Z",
-    "slug": "loftia",
-    "fin_visto": "2026-11-07T12:57:08Z"
-  },
-  {
-    "clave": "steam-5160800",
-    "appid": 5160800,
-    "nombre": "Find The Needle",
-    "descuento": 15,
-    "precio_normal": 8.09,
-    "precio": 6.87,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:30Z",
-    "vigente": false,
-    "visto_primero": "2026-11-06T18:59:14Z",
-    "visto_ultimo": "2026-11-06T18:59:14Z",
-    "slug": "find-the-needle",
-    "fin_visto": "2026-11-07T01:05:30Z"
   },
   {
     "clave": "steam-1799840",
