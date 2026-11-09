@@ -14,7 +14,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -52,7 +52,7 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
     "slug": "r-e-p-o"
   },
@@ -71,48 +71,28 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
     "slug": "potato-please"
   },
   {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
+    "clave": "steam-1211600",
+    "appid": 1211600,
+    "nombre": "ZED ZONE",
+    "descuento": 40,
+    "precio_normal": 11.99,
+    "precio": 7.19,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-10T18:00:00Z",
+    "termina": "2026-11-19T18:00:03Z",
     "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_primero": "2026-11-06T13:12:41Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
-    "slug": "control-resonant"
-  },
-  {
-    "clave": "steam-275850",
-    "appid": 275850,
-    "nombre": "No Man's Sky",
-    "descuento": 60,
-    "precio_normal": 26.99,
-    "precio": 10.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-09T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
-    "fin_visto": null,
-    "slug": "no-mans-sky"
+    "slug": "zed-zone"
   },
   {
     "clave": "steam-252490",
@@ -130,28 +110,9 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
     "slug": "rust"
-  },
-  {
-    "clave": "steam-1211600",
-    "appid": 1211600,
-    "nombre": "ZED ZONE",
-    "descuento": 40,
-    "precio_normal": 11.99,
-    "precio": 7.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:03Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T13:12:41Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
-    "fin_visto": null,
-    "slug": "zed-zone"
   },
   {
     "clave": "steam-5160800",
@@ -168,28 +129,48 @@
     "termina": "2026-11-20T18:00:30Z",
     "vigente": true,
     "visto_primero": "2026-11-06T18:59:14Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
     "slug": "find-the-needle"
   },
   {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
+    "clave": "steam-275850",
+    "appid": 275850,
+    "nombre": "No Man's Sky",
+    "descuento": 60,
+    "precio_normal": 26.99,
+    "precio": 10.79,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-09T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
+    "fin_visto": null,
+    "slug": "no-mans-sky"
+  },
+  {
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-15T10:00:00Z",
+    "termina": "2026-11-10T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
-    "slug": "peak"
+    "slug": "control-resonant"
   },
   {
     "clave": "steam-4530370",
@@ -207,9 +188,47 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-3629430",
+    "appid": 3629430,
+    "nombre": "DREADMOOR",
+    "descuento": 10,
+    "precio_normal": 10.99,
+    "precio": 9.89,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-09T13:21:11Z",
+    "visto_ultimo": "2026-11-09T13:21:11Z",
+    "fin_visto": null,
+    "slug": "dreadmoor"
+  },
+  {
+    "clave": "steam-3527290",
+    "appid": 3527290,
+    "nombre": "PEAK",
+    "descuento": 38,
+    "precio_normal": 3.99,
+    "precio": 2.47,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T10:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "slug": "peak",
+    "fin_visto": "2026-11-09T13:21:11Z"
   },
   {
     "clave": "steam-2320980",

@@ -771,6 +771,41 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:26Z"
     },
+    "3629430": {
+      "appid": 3629430,
+      "nombre": "DREADMOOR",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Rol",
+        "Simuladores",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Dream Dock"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 or higher",
+        "Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GTX 1060 (6 GB) / AMD Radeon RX 580 (8 GB)",
+        "DirectX: Versión 12",
+        "Almacenamiento: 60 GB de espacio disponible",
+        "Tarjeta de sonido: DirectX compatible sound card with the latest drivers"
+      ],
+      "edad": 0,
+      "leido": "2026-11-09T13:21:15Z"
+    },
     "3669870": {
       "appid": 3669870,
       "nombre": "CONTROL Resonant",
