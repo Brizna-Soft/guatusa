@@ -1,24 +1,5 @@
 [
   {
-    "clave": "steam-3768760",
-    "appid": 3768760,
-    "nombre": "007 First Light",
-    "descuento": 40,
-    "precio_normal": 45.99,
-    "precio": 27.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-09T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
-    "fin_visto": null,
-    "slug": "007-first-light"
-  },
-  {
     "clave": "steam-4348910",
     "appid": 4348910,
     "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -33,9 +14,28 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+  },
+  {
+    "clave": "steam-3768760",
+    "appid": 3768760,
+    "nombre": "007 First Light",
+    "descuento": 40,
+    "precio_normal": 45.99,
+    "precio": 27.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-09T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T01:09:24Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "fin_visto": null,
+    "slug": "007-first-light"
   },
   {
     "clave": "steam-3241660",
@@ -52,7 +52,7 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
     "fin_visto": null,
     "slug": "r-e-p-o"
   },
@@ -71,7 +71,7 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
     "fin_visto": null,
     "slug": "potato-please"
   },
@@ -90,7 +90,7 @@
     "termina": "2026-11-10T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
     "fin_visto": null,
     "slug": "control-resonant"
   },
@@ -110,67 +110,9 @@
     "termina": "2026-11-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
     "fin_visto": null,
     "slug": "no-mans-sky"
-  },
-  {
-    "clave": "steam-5160800",
-    "appid": 5160800,
-    "nombre": "Find The Needle",
-    "descuento": 15,
-    "precio_normal": 8.09,
-    "precio": 6.87,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:30Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T18:59:14Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
-    "fin_visto": null,
-    "slug": "find-the-needle"
-  },
-  {
-    "clave": "steam-2320980",
-    "appid": 2320980,
-    "nombre": "Loftia",
-    "descuento": 17,
-    "precio_normal": 14.49,
-    "precio": 12.02,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-17T18:00:53Z",
-    "vigente": true,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
-    "fin_visto": null,
-    "slug": "loftia"
-  },
-  {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T10:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
-    "fin_visto": null,
-    "slug": "peak"
   },
   {
     "clave": "steam-252490",
@@ -188,9 +130,66 @@
     "termina": "2026-11-09T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
     "fin_visto": null,
     "slug": "rust"
+  },
+  {
+    "clave": "steam-1211600",
+    "appid": 1211600,
+    "nombre": "ZED ZONE",
+    "descuento": 40,
+    "precio_normal": 11.99,
+    "precio": 7.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:03Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T13:12:41Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "fin_visto": null,
+    "slug": "zed-zone"
+  },
+  {
+    "clave": "steam-5160800",
+    "appid": 5160800,
+    "nombre": "Find The Needle",
+    "descuento": 15,
+    "precio_normal": 8.09,
+    "precio": 6.87,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:30Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "fin_visto": null,
+    "slug": "find-the-needle"
+  },
+  {
+    "clave": "steam-3527290",
+    "appid": 3527290,
+    "nombre": "PEAK",
+    "descuento": 38,
+    "precio_normal": 3.99,
+    "precio": 2.47,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T10:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
+    "fin_visto": null,
+    "slug": "peak"
   },
   {
     "clave": "steam-4530370",
@@ -208,9 +207,29 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "visto_ultimo": "2026-11-09T07:33:52Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-2320980",
+    "appid": 2320980,
+    "nombre": "Loftia",
+    "descuento": 17,
+    "precio_normal": 14.49,
+    "precio": 12.02,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-17T18:00:53Z",
+    "vigente": false,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-09T01:14:47Z",
+    "slug": "loftia",
+    "fin_visto": "2026-11-09T07:33:52Z"
   },
   {
     "clave": "steam-3751950",
@@ -230,25 +249,6 @@
     "visto_ultimo": "2026-11-08T18:51:14Z",
     "slug": "assassins-creed-black-flag-resynced",
     "fin_visto": "2026-11-09T01:14:47Z"
-  },
-  {
-    "clave": "steam-1211600",
-    "appid": 1211600,
-    "nombre": "ZED ZONE",
-    "descuento": 40,
-    "precio_normal": 11.99,
-    "precio": 7.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:03Z",
-    "vigente": false,
-    "visto_primero": "2026-11-06T13:12:41Z",
-    "visto_ultimo": "2026-11-08T12:57:39Z",
-    "slug": "zed-zone",
-    "fin_visto": "2026-11-08T18:51:14Z"
   },
   {
     "clave": "steam-2223980",
@@ -574,26 +574,5 @@
     "visto_ultimo": "2026-11-02T13:14:19Z",
     "slug": "dead-by-daylight",
     "fin_visto": "2026-11-02T19:00:37Z"
-  },
-  {
-    "clave": "steam-4312190",
-    "appid": 4312190,
-    "nombre": "CRACK",
-    "descuento": 15,
-    "precio_normal": 4.79,
-    "precio": 4.07,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/0bc1d4b9c64e31c8f148cea965cd1ba039bf82a7/header_alt_assets_0_spanish.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-02T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-02T01:12:16Z",
-    "slug": "crack",
-    "fin_visto": "2026-11-02T07:32:31Z"
   }
 ]
