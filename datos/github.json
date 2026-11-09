@@ -37,7 +37,7 @@
         "tamano": 108216769
       }
     ],
-    "leido": "2026-11-09T07:33:56Z"
+    "leido": "2026-11-09T19:00:12Z"
   },
   "Anuken/Mindustry": {
     "repo": "Anuken/Mindustry",
@@ -67,7 +67,7 @@
         "tamano": 19453000
       }
     ],
-    "leido": "2026-11-09T07:33:56Z"
+    "leido": "2026-11-09T19:00:12Z"
   },
   "audacity/audacity": {
     "repo": "audacity/audacity",
@@ -132,7 +132,7 @@
         "tamano": 1632
       }
     ],
-    "leido": "2026-11-09T07:33:58Z"
+    "leido": "2026-11-09T19:00:14Z"
   },
   "Brizna-Soft/atarraya": {
     "repo": "Brizna-Soft/atarraya",
@@ -152,7 +152,7 @@
         "tamano": 89
       }
     ],
-    "leido": "2026-11-09T07:33:54Z"
+    "leido": "2026-11-09T19:00:10Z"
   },
   "Brizna-Soft/chachalaca": {
     "repo": "Brizna-Soft/chachalaca",
@@ -172,7 +172,7 @@
         "tamano": 91
       }
     ],
-    "leido": "2026-11-09T07:33:55Z"
+    "leido": "2026-11-09T19:00:11Z"
   },
   "Brizna-Soft/guara": {
     "repo": "Brizna-Soft/guara",
@@ -192,7 +192,7 @@
         "tamano": 86
       }
     ],
-    "leido": "2026-11-09T07:33:55Z"
+    "leido": "2026-11-09T19:00:11Z"
   },
   "Brizna-Soft/hntorrent-descargas": {
     "repo": "Brizna-Soft/hntorrent-descargas",
@@ -232,7 +232,7 @@
         "tamano": 179
       }
     ],
-    "leido": "2026-11-09T07:33:55Z"
+    "leido": "2026-11-09T19:00:11Z"
   },
   "Brizna-Soft/jicaro": {
     "repo": "Brizna-Soft/jicaro",
@@ -257,7 +257,7 @@
         "tamano": 87
       }
     ],
-    "leido": "2026-11-09T07:33:54Z"
+    "leido": "2026-11-09T19:00:10Z"
   },
   "Brizna-Soft/mapache": {
     "repo": "Brizna-Soft/mapache",
@@ -277,7 +277,7 @@
         "tamano": 88
       }
     ],
-    "leido": "2026-11-09T07:33:55Z"
+    "leido": "2026-11-09T19:00:11Z"
   },
   "Brizna-Soft/mosquitero": {
     "repo": "Brizna-Soft/mosquitero",
@@ -307,7 +307,7 @@
         "tamano": 95
       }
     ],
-    "leido": "2026-11-09T07:33:55Z"
+    "leido": "2026-11-09T19:00:11Z"
   },
   "endless-sky/endless-sky": {
     "repo": "endless-sky/endless-sky",
@@ -347,7 +347,7 @@
         "tamano": 364425528
       }
     ],
-    "leido": "2026-11-09T07:33:57Z"
+    "leido": "2026-11-09T19:00:13Z"
   },
   "HandBrake/HandBrake": {
     "repo": "HandBrake/HandBrake",
@@ -487,7 +487,7 @@
         "tamano": 566
       }
     ],
-    "leido": "2026-11-09T07:33:58Z"
+    "leido": "2026-11-09T19:00:14Z"
   },
   "keepassxreboot/keepassxc": {
     "repo": "keepassxreboot/keepassxc",
@@ -752,7 +752,7 @@
         "tamano": 488
       }
     ],
-    "leido": "2026-11-09T07:33:57Z"
+    "leido": "2026-11-09T19:00:14Z"
   },
   "kovidgoyal/calibre": {
     "repo": "kovidgoyal/calibre",
@@ -792,7 +792,7 @@
         "tamano": 259196168
       }
     ],
-    "leido": "2026-11-09T07:33:58Z"
+    "leido": "2026-11-09T19:00:15Z"
   },
   "luanti-org/luanti": {
     "repo": "luanti-org/luanti",
@@ -847,7 +847,7 @@
         "tamano": 14346225
       }
     ],
-    "leido": "2026-11-09T07:33:56Z"
+    "leido": "2026-11-09T19:00:12Z"
   },
   "microsoft/PowerToys": {
     "repo": "microsoft/PowerToys",
@@ -892,7 +892,7 @@
         "tamano": 450272344
       }
     ],
-    "leido": "2026-11-09T07:33:59Z"
+    "leido": "2026-11-09T19:00:15Z"
   },
   "mltframework/shotcut": {
     "repo": "mltframework/shotcut",
@@ -962,7 +962,7 @@
         "tamano": 159418949
       }
     ],
-    "leido": "2026-11-09T07:33:58Z"
+    "leido": "2026-11-09T19:00:14Z"
   },
   "notepad-plus-plus/notepad-plus-plus": {
     "repo": "notepad-plus-plus/notepad-plus-plus",
@@ -1112,7 +1112,7 @@
         "tamano": 594
       }
     ],
-    "leido": "2026-11-09T07:33:59Z"
+    "leido": "2026-11-09T19:00:15Z"
   },
   "obsproject/obs-studio": {
     "repo": "obsproject/obs-studio",
@@ -1182,7 +1182,7 @@
         "tamano": 223786669
       }
     ],
-    "leido": "2026-11-09T07:33:58Z"
+    "leido": "2026-11-09T19:00:14Z"
   },
   "OpenTTD/OpenTTD": {
     "repo": "OpenTTD/OpenTTD",
@@ -1191,7 +1191,7 @@
     "fecha": "2026-04-04T19:56:48Z",
     "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3",
     "archivos": [],
-    "leido": "2026-11-09T07:33:56Z"
+    "leido": "2026-11-09T19:00:12Z"
   },
   "pbatard/rufus": {
     "repo": "pbatard/rufus",
@@ -1236,7 +1236,7 @@
         "tamano": 256
       }
     ],
-    "leido": "2026-11-09T07:33:59Z"
+    "leido": "2026-11-09T19:00:15Z"
   },
   "ShareX/ShareX": {
     "repo": "ShareX/ShareX",
@@ -1256,7 +1256,7 @@
         "tamano": 145391368
       }
     ],
-    "leido": "2026-11-09T07:33:59Z"
+    "leido": "2026-11-09T19:00:15Z"
   },
   "SuperTux/supertux": {
     "repo": "SuperTux/supertux",
@@ -1341,7 +1341,7 @@
         "tamano": 277928552
       }
     ],
-    "leido": "2026-11-09T07:33:57Z"
+    "leido": "2026-11-09T19:00:13Z"
   },
   "supertuxkart/stk-code": {
     "repo": "supertuxkart/stk-code",
@@ -1416,7 +1416,7 @@
         "tamano": 183727403
       }
     ],
-    "leido": "2026-11-09T07:33:56Z"
+    "leido": "2026-11-09T19:00:12Z"
   },
   "Warzone2100/warzone2100": {
     "repo": "Warzone2100/warzone2100",
@@ -1516,7 +1516,7 @@
         "tamano": 393747010
       }
     ],
-    "leido": "2026-11-09T07:33:57Z"
+    "leido": "2026-11-09T19:00:13Z"
   },
   "yairm210/Unciv": {
     "repo": "yairm210/Unciv",
@@ -1561,6 +1561,6 @@
         "tamano": 22840487
       }
     ],
-    "leido": "2026-11-09T07:33:57Z"
+    "leido": "2026-11-09T19:00:13Z"
   }
 }
