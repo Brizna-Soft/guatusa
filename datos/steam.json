@@ -1279,6 +1279,40 @@
       "edad": 0,
       "leido": "2026-11-06T18:59:23Z"
     },
+    "5175310": {
+      "appid": 5175310,
+      "nombre": "Worst Class Ever",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "Funcore Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64 bit",
+        "Procesador: Intel Core i3-3240 (2 * 3400); AMD FX-4300 (4 * 3800)",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: GeForce GTX 750 Ti 2GB",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 4 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-10T07:16:46Z"
+    },
     "5266240": {
       "appid": 5266240,
       "nombre": "Potato Please",

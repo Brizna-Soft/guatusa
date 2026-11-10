@@ -1,22 +1,22 @@
 [
   {
-    "clave": "steam-4576490",
-    "appid": 4576490,
-    "nombre": "Casualties: Unknown",
-    "descuento": 15,
-    "precio_normal": 12.49,
-    "precio": 10.61,
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-23T18:00:23Z",
+    "termina": "2026-11-23T18:00:11Z",
     "vigente": true,
-    "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
-    "slug": "casualties-unknown"
+    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-2584270",
@@ -33,9 +33,28 @@
     "termina": "2026-11-16T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "mortal-shell-ii"
+  },
+  {
+    "clave": "steam-4576490",
+    "appid": 4576490,
+    "nombre": "Casualties: Unknown",
+    "descuento": 15,
+    "precio_normal": 12.49,
+    "precio": 10.61,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:23Z",
+    "vigente": true,
+    "visto_primero": "2026-11-09T19:00:07Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "fin_visto": null,
+    "slug": "casualties-unknown"
   },
   {
     "clave": "steam-3629430",
@@ -52,7 +71,7 @@
     "termina": "2026-11-23T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T13:21:11Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "dreadmoor"
   },
@@ -71,7 +90,7 @@
     "termina": "2026-11-11T17:00:39Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
   },
@@ -90,7 +109,7 @@
     "termina": "2026-11-10T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "control-resonant"
   },
@@ -109,7 +128,7 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "potato-please"
   },
@@ -128,7 +147,7 @@
     "termina": "2026-11-10T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T22:45:02Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "assassins-creed-black-flag-resynced"
   },
@@ -147,48 +166,9 @@
     "termina": "2026-11-15T10:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "peak"
-  },
-  {
-    "clave": "steam-5160800",
-    "appid": 5160800,
-    "nombre": "Find The Needle",
-    "descuento": 15,
-    "precio_normal": 8.09,
-    "precio": 6.87,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:30Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T18:59:14Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
-    "fin_visto": null,
-    "slug": "find-the-needle"
-  },
-  {
-    "clave": "steam-5064170",
-    "appid": 5064170,
-    "nombre": "Go Next!",
-    "descuento": 15,
-    "precio_normal": 8.09,
-    "precio": 6.87,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064170/fd2ef71b9537f3fff25f47e9ec5ea92ae290b7b8/header.jpg",
-    "plataformas": [
-      "Windows",
-      "Linux"
-    ],
-    "termina": "2026-11-23T18:00:12Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T01:09:14Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
-    "fin_visto": null,
-    "slug": "go-next"
   },
   {
     "clave": "steam-4530370",
@@ -206,9 +186,48 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-5160800",
+    "appid": 5160800,
+    "nombre": "Find The Needle",
+    "descuento": 15,
+    "precio_normal": 8.09,
+    "precio": 6.87,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:30Z",
+    "vigente": false,
+    "visto_primero": "2026-11-06T18:59:14Z",
+    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "slug": "find-the-needle",
+    "fin_visto": "2026-11-10T07:16:36Z"
+  },
+  {
+    "clave": "steam-5064170",
+    "appid": 5064170,
+    "nombre": "Go Next!",
+    "descuento": 15,
+    "precio_normal": 8.09,
+    "precio": 6.87,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064170/fd2ef71b9537f3fff25f47e9ec5ea92ae290b7b8/header.jpg",
+    "plataformas": [
+      "Windows",
+      "Linux"
+    ],
+    "termina": "2026-11-23T18:00:12Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T01:09:14Z",
+    "visto_ultimo": "2026-11-10T01:09:14Z",
+    "slug": "go-next",
+    "fin_visto": "2026-11-10T07:16:36Z"
   },
   {
     "clave": "steam-12210",
