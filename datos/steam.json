@@ -1181,6 +1181,38 @@
       "edad": 0,
       "leido": "2026-11-09T19:00:16Z"
     },
+    "5064170": {
+      "appid": 5064170,
+      "nombre": "Go Next!",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
+      "desarrollo": [
+        "Mixidev"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 (64 bits)",
+        "Procesador: Intel Core i5-4460 / AMD Ryzen 3 1200 o superior",
+        "Memoria: 2 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 750 Ti / AMD Radeon R7 265 o superior",
+        "DirectX: Versión 11",
+        "Almacenamiento: 500 MB de espacio disponible",
+        "Tarjeta de sonido: Cualquiera"
+      ],
+      "edad": 0,
+      "leido": "2026-11-10T01:09:21Z"
+    },
     "5090990": {
       "appid": 5090990,
       "nombre": "MAFIA HOTEL",
