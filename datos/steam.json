@@ -617,6 +617,34 @@
       "edad": 0,
       "leido": "2026-11-05T01:13:34Z"
     },
+    "2638080": {
+      "appid": 2638080,
+      "nombre": "Annihilated",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Indie",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Death Kumiai"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 11",
+        "Procesador: AMD Ryzen 5 5625U or equivalent",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: AMD Radeon Graphics (integrated) or equivalent",
+        "Almacenamiento: 2 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-10T13:10:12Z"
+    },
     "275850": {
       "appid": 275850,
       "nombre": "No Man's Sky",
@@ -835,6 +863,37 @@
       ],
       "edad": 0,
       "leido": "2026-11-09T13:21:15Z"
+    },
+    "3669620": {
+      "appid": 3669620,
+      "nombre": "Warhammer Survivors",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Casual",
+        "Indie",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Auroch Digital"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 Home 64-Bit",
+        "Procesador: Dual Core 2.4 Ghz x86-64",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: GTX 750 or equivalent graphics card",
+        "Almacenamiento: 5 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-10T13:10:12Z"
     },
     "3669870": {
       "appid": 3669870,

@@ -14,9 +14,85 @@
     "termina": "2026-11-23T18:00:11Z",
     "vigente": true,
     "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
     "fin_visto": null,
     "slug": "worst-class-ever"
+  },
+  {
+    "clave": "steam-3669620",
+    "appid": 3669620,
+    "nombre": "Warhammer Survivors",
+    "descuento": 10,
+    "precio_normal": 4.99,
+    "precio": 4.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-17T18:00:59Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T13:10:09Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
+    "fin_visto": null,
+    "slug": "warhammer-survivors"
+  },
+  {
+    "clave": "steam-4348910",
+    "appid": 4348910,
+    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "descuento": 10,
+    "precio_normal": 8.99,
+    "precio": 8.09,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-11T17:00:39Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
+    "fin_visto": null,
+    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+  },
+  {
+    "clave": "steam-2638080",
+    "appid": 2638080,
+    "nombre": "Annihilated",
+    "descuento": 10,
+    "precio_normal": 9.55,
+    "precio": 8.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T13:10:09Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
+    "fin_visto": null,
+    "slug": "annihilated"
+  },
+  {
+    "clave": "steam-3629430",
+    "appid": 3629430,
+    "nombre": "DREADMOOR",
+    "descuento": 10,
+    "precio_normal": 10.99,
+    "precio": 9.89,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-09T13:21:11Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
+    "fin_visto": null,
+    "slug": "dreadmoor"
   },
   {
     "clave": "steam-2584270",
@@ -33,7 +109,7 @@
     "termina": "2026-11-16T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
     "fin_visto": null,
     "slug": "mortal-shell-ii"
   },
@@ -52,66 +128,9 @@
     "termina": "2026-11-23T18:00:23Z",
     "vigente": true,
     "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
     "fin_visto": null,
     "slug": "casualties-unknown"
-  },
-  {
-    "clave": "steam-3629430",
-    "appid": 3629430,
-    "nombre": "DREADMOOR",
-    "descuento": 10,
-    "precio_normal": 10.99,
-    "precio": 9.89,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-09T13:21:11Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
-    "fin_visto": null,
-    "slug": "dreadmoor"
-  },
-  {
-    "clave": "steam-4348910",
-    "appid": 4348910,
-    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-    "descuento": 10,
-    "precio_normal": 8.99,
-    "precio": 8.09,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-11T17:00:39Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
-    "fin_visto": null,
-    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
-  },
-  {
-    "clave": "steam-3669870",
-    "appid": 3669870,
-    "nombre": "CONTROL Resonant",
-    "descuento": 20,
-    "precio_normal": 44.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
-    "fin_visto": null,
-    "slug": "control-resonant"
   },
   {
     "clave": "steam-5266240",
@@ -128,47 +147,47 @@
     "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
     "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
     "fin_visto": null,
     "slug": "potato-please"
   },
   {
-    "clave": "steam-3751950",
-    "appid": 3751950,
-    "nombre": "Assassin's Creed Black Flag Resynced",
-    "descuento": 25,
-    "precio_normal": 47.99,
-    "precio": 35.99,
+    "clave": "steam-1211600",
+    "appid": 1211600,
+    "nombre": "ZED ZONE",
+    "descuento": 40,
+    "precio_normal": 11.99,
+    "precio": 7.19,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-10T17:00:00Z",
+    "termina": "2026-11-19T18:00:03Z",
     "vigente": true,
-    "visto_primero": "2026-11-01T22:45:02Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "visto_primero": "2026-11-06T13:12:41Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
     "fin_visto": null,
-    "slug": "assassins-creed-black-flag-resynced"
+    "slug": "zed-zone"
   },
   {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
+    "clave": "steam-3669870",
+    "appid": 3669870,
+    "nombre": "CONTROL Resonant",
+    "descuento": 20,
+    "precio_normal": 44.99,
+    "precio": 35.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-15T10:00:00Z",
+    "termina": "2026-11-10T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "visto_primero": "2026-11-04T01:11:15Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
     "fin_visto": null,
-    "slug": "peak"
+    "slug": "control-resonant"
   },
   {
     "clave": "steam-4530370",
@@ -186,9 +205,47 @@
     "termina": "2026-11-10T16:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-10T13:10:09Z",
     "fin_visto": null,
     "slug": "football-manager-27"
+  },
+  {
+    "clave": "steam-3751950",
+    "appid": 3751950,
+    "nombre": "Assassin's Creed Black Flag Resynced",
+    "descuento": 25,
+    "precio_normal": 47.99,
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-10T17:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T22:45:02Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "slug": "assassins-creed-black-flag-resynced",
+    "fin_visto": "2026-11-10T13:10:09Z"
+  },
+  {
+    "clave": "steam-3527290",
+    "appid": 3527290,
+    "nombre": "PEAK",
+    "descuento": 38,
+    "precio_normal": 3.99,
+    "precio": 2.47,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T10:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-10T07:16:36Z",
+    "slug": "peak",
+    "fin_visto": "2026-11-10T13:10:09Z"
   },
   {
     "clave": "steam-5160800",
@@ -284,25 +341,6 @@
     "visto_primero": "2026-11-01T21:42:17Z",
     "visto_ultimo": "2026-11-09T13:21:11Z",
     "slug": "r-e-p-o",
-    "fin_visto": "2026-11-09T19:00:07Z"
-  },
-  {
-    "clave": "steam-1211600",
-    "appid": 1211600,
-    "nombre": "ZED ZONE",
-    "descuento": 40,
-    "precio_normal": 11.99,
-    "precio": 7.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:03Z",
-    "vigente": false,
-    "visto_primero": "2026-11-06T13:12:41Z",
-    "visto_ultimo": "2026-11-09T13:21:11Z",
-    "slug": "zed-zone",
     "fin_visto": "2026-11-09T19:00:07Z"
   },
   {
@@ -594,24 +632,5 @@
     "visto_ultimo": "2026-11-03T13:09:27Z",
     "slug": "resident-evil-requiem",
     "fin_visto": "2026-11-03T18:59:21Z"
-  },
-  {
-    "clave": "steam-2440760",
-    "appid": 2440760,
-    "nombre": "GRAVHOUNDS",
-    "descuento": 25,
-    "precio_normal": 10.49,
-    "precio": 7.86,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440760/2432c78a467c370bcfa566baa22f0939df5219b0/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-16T18:00:47Z",
-    "vigente": false,
-    "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-03T01:09:24Z",
-    "slug": "gravhounds",
-    "fin_visto": "2026-11-03T07:16:53Z"
   }
 ]
