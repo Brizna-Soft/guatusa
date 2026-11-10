@@ -522,6 +522,35 @@
       "edad": 0,
       "leido": "2026-11-06T01:17:09Z"
     },
+    "2523740": {
+      "appid": 2523740,
+      "nombre": "DreamWorks Shrek 2 Remastered",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Aspyr Media"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 11 (64-bit)",
+        "Procesador: Intel i5-10400 / Ryzen 5 3600",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA 1060 / AMD RX 570",
+        "DirectX: Versión 12",
+        "Almacenamiento: 15 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-10T19:00:30Z"
+    },
     "252490": {
       "appid": 252490,
       "nombre": "Rust",
@@ -674,6 +703,34 @@
       ],
       "edad": 0,
       "leido": "2026-11-04T01:11:25Z"
+    },
+    "2780810": {
+      "appid": 2780810,
+      "nombre": "Euro Truck Simulator 2 - Nordic Horizons",
+      "tipo": "dlc",
+      "gratis": false,
+      "generos": [
+        "Indie",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "SCS Software"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "OS: Windows 7",
+        "Processor: Intel Core i5-6400 or AMD Ryzen 3 1200 or similar",
+        "Memory: 8 GB RAM",
+        "Graphics: NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)",
+        "Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)"
+      ],
+      "edad": 0,
+      "leido": "2026-11-10T19:00:29Z"
     },
     "2912680": {
       "appid": 2912680,
@@ -1239,6 +1296,32 @@
       ],
       "edad": 0,
       "leido": "2026-11-09T19:00:16Z"
+    },
+    "4618570": {
+      "appid": 4618570,
+      "nombre": "Booster Pack Heroes",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "zup"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10, 11",
+        "Procesador: Dual-core @ 2.0 Ghz",
+        "Gráficos: Any graphics card"
+      ],
+      "edad": 0,
+      "leido": "2026-11-10T19:00:29Z"
     },
     "5064170": {
       "appid": 5064170,
