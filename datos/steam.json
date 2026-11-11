@@ -397,6 +397,34 @@
       "edad": 0,
       "leido": "2026-11-02T07:32:38Z"
     },
+    "227300": {
+      "appid": 227300,
+      "nombre": "Euro Truck Simulator 2",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Indie",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "SCS Software"
+      ],
+      "anio": 2012,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "OS: Windows 10 64-bit",
+        "Processor: Intel Core i5-6400 or AMD Ryzen 3 1200 or similar",
+        "Memory: 8 GB RAM",
+        "Graphics: NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)",
+        "Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)"
+      ],
+      "edad": 0,
+      "leido": "2026-11-11T13:17:10Z"
+    },
     "2320980": {
       "appid": 2320980,
       "nombre": "Loftia",
