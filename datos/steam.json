@@ -882,6 +882,34 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:22Z"
     },
+    "3285880": {
+      "appid": 3285880,
+      "nombre": "MONOMOON",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Indie"
+      ],
+      "desarrollo": [
+        "Gentle Giant"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10",
+        "Procesador: 2 GHz",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Relatively modern dedicated graphics card",
+        "Almacenamiento: 600 MB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-11T19:04:08Z"
+    },
     "3527290": {
       "appid": 3527290,
       "nombre": "PEAK",
