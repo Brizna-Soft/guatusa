@@ -1323,6 +1323,35 @@
       "edad": 0,
       "leido": "2026-11-10T19:00:29Z"
     },
+    "4876650": {
+      "appid": 4876650,
+      "nombre": "Nunca ordenes por color",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "Bryan Livingston"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10 de 64 bits (versión 21H2 o posterior)",
+        "Procesador: Cuatro núcleos x64 con SSE4.2 (Intel Core i3-6100 / AMD Ryzen 3 1200)",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: GPU compatible con DirectX 12 y soporte para compute shaders, 2 GB de VRAM (NVIDIA GeForce GTX 960 / AMD Radeon RX 460 / Intel UHD 620)",
+        "DirectX: Versión 12",
+        "Almacenamiento: 1 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-11T01:11:53Z"
+    },
     "5064170": {
       "appid": 5064170,
       "nombre": "Go Next!",
