@@ -1,5 +1,43 @@
 [
   {
+    "clave": "steam-4348910",
+    "appid": 4348910,
+    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "descuento": 10,
+    "precio_normal": 8.99,
+    "precio": 8.09,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-11T17:00:39Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
+    "fin_visto": null,
+    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
+  },
+  {
     "clave": "steam-2584270",
     "appid": 2584270,
     "nombre": "Mortal Shell II",
@@ -14,9 +52,48 @@
     "termina": "2026-11-16T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
     "fin_visto": null,
     "slug": "mortal-shell-ii"
+  },
+  {
+    "clave": "steam-2638080",
+    "appid": 2638080,
+    "nombre": "Annihilated",
+    "descuento": 10,
+    "precio_normal": 9.55,
+    "precio": 8.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T13:10:09Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
+    "fin_visto": null,
+    "slug": "annihilated"
+  },
+  {
+    "clave": "steam-4618570",
+    "appid": 4618570,
+    "nombre": "Booster Pack Heroes",
+    "descuento": 30,
+    "precio_normal": 5.69,
+    "precio": 3.98,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-24T18:00:05Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T19:00:21Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
+    "fin_visto": null,
+    "slug": "booster-pack-heroes"
   },
   {
     "clave": "steam-3629430",
@@ -33,7 +110,7 @@
     "termina": "2026-11-23T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T13:21:11Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
     "fin_visto": null,
     "slug": "dreadmoor"
   },
@@ -52,28 +129,28 @@
     "termina": "2026-11-17T18:00:59Z",
     "vigente": true,
     "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
     "fin_visto": null,
     "slug": "warhammer-survivors"
   },
   {
-    "clave": "steam-4348910",
-    "appid": 4348910,
-    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-    "descuento": 10,
-    "precio_normal": 8.99,
-    "precio": 8.09,
+    "clave": "steam-4576490",
+    "appid": 4576490,
+    "nombre": "Casualties: Unknown",
+    "descuento": 15,
+    "precio_normal": 12.49,
+    "precio": 10.61,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-11T17:00:39Z",
+    "termina": "2026-11-23T18:00:23Z",
     "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
+    "visto_primero": "2026-11-09T19:00:07Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
     "fin_visto": null,
-    "slug": "probably-stolen-cyberpunk-shopkeeper-sim"
+    "slug": "casualties-unknown"
   },
   {
     "clave": "steam-4876650",
@@ -91,86 +168,28 @@
     "termina": "2026-11-17T18:00:32Z",
     "vigente": true,
     "visto_primero": "2026-11-11T01:11:47Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
     "fin_visto": null,
     "slug": "nunca-ordenes-por-color"
   },
   {
-    "clave": "steam-4576490",
-    "appid": 4576490,
-    "nombre": "Casualties: Unknown",
-    "descuento": 15,
-    "precio_normal": 12.49,
-    "precio": 10.61,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:23Z",
-    "vigente": true,
-    "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
-    "fin_visto": null,
-    "slug": "casualties-unknown"
-  },
-  {
-    "clave": "steam-4618570",
-    "appid": 4618570,
-    "nombre": "Booster Pack Heroes",
-    "descuento": 30,
-    "precio_normal": 5.69,
-    "precio": 3.98,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-24T18:00:05Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
-    "fin_visto": null,
-    "slug": "booster-pack-heroes"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
-  },
-  {
-    "clave": "steam-2638080",
-    "appid": 2638080,
-    "nombre": "Annihilated",
+    "clave": "steam-5266240",
+    "appid": 5266240,
+    "nombre": "Potato Please",
     "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
+    "precio_normal": 5.69,
+    "precio": 5.12,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-23T18:00:33Z",
+    "termina": "2026-11-15T18:00:36Z",
     "vigente": true,
-    "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-11T01:11:47Z",
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-11T07:22:42Z",
     "fin_visto": null,
-    "slug": "annihilated"
+    "slug": "potato-please"
   },
   {
     "clave": "steam-2780810",
@@ -191,25 +210,6 @@
     "visto_primero": "2026-11-10T19:00:21Z",
     "visto_ultimo": "2026-11-10T19:00:21Z",
     "slug": "euro-truck-simulator-2-nordic-horizons",
-    "fin_visto": "2026-11-11T01:11:47Z"
-  },
-  {
-    "clave": "steam-5266240",
-    "appid": 5266240,
-    "nombre": "Potato Please",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T18:00:36Z",
-    "vigente": false,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-10T19:00:21Z",
-    "slug": "potato-please",
     "fin_visto": "2026-11-11T01:11:47Z"
   },
   {
