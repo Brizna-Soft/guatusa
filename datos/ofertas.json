@@ -1,24 +1,5 @@
 [
   {
-    "clave": "steam-489830",
-    "appid": 489830,
-    "nombre": "The Elder Scrolls V: Skyrim Special Edition",
-    "descuento": 80,
-    "precio_normal": 23.99,
-    "precio": 4.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
-    "fin_visto": null,
-    "slug": "the-elder-scrolls-v-skyrim-special-edition"
-  },
-  {
     "clave": "steam-5175310",
     "appid": 5175310,
     "nombre": "Worst Class Ever",
@@ -33,9 +14,28 @@
     "termina": "2026-11-23T18:00:11Z",
     "vigente": true,
     "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
     "fin_visto": null,
     "slug": "worst-class-ever"
+  },
+  {
+    "clave": "steam-489830",
+    "appid": 489830,
+    "nombre": "The Elder Scrolls V: Skyrim Special Edition",
+    "descuento": 80,
+    "precio_normal": 23.99,
+    "precio": 4.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
+    "fin_visto": null,
+    "slug": "the-elder-scrolls-v-skyrim-special-edition"
   },
   {
     "clave": "steam-2536520",
@@ -52,7 +52,7 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
     "fin_visto": null,
     "slug": "diablo-ii-resurrected-infernal-edition"
   },
@@ -71,48 +71,9 @@
     "termina": "2026-11-16T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
     "fin_visto": null,
     "slug": "mortal-shell-ii"
-  },
-  {
-    "clave": "steam-4618570",
-    "appid": 4618570,
-    "nombre": "Booster Pack Heroes",
-    "descuento": 30,
-    "precio_normal": 5.69,
-    "precio": 3.98,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-24T18:00:05Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
-    "fin_visto": null,
-    "slug": "booster-pack-heroes"
-  },
-  {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T10:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
-    "fin_visto": null,
-    "slug": "peak"
   },
   {
     "clave": "steam-227300",
@@ -131,28 +92,9 @@
     "termina": "2026-11-24T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
     "fin_visto": null,
     "slug": "euro-truck-simulator-2"
-  },
-  {
-    "clave": "steam-3629430",
-    "appid": 3629430,
-    "nombre": "DREADMOOR",
-    "descuento": 10,
-    "precio_normal": 10.99,
-    "precio": 9.89,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-09T13:21:11Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
-    "fin_visto": null,
-    "slug": "dreadmoor"
   },
   {
     "clave": "steam-2638080",
@@ -169,9 +111,86 @@
     "termina": "2026-11-23T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
     "fin_visto": null,
     "slug": "annihilated"
+  },
+  {
+    "clave": "steam-4618570",
+    "appid": 4618570,
+    "nombre": "Booster Pack Heroes",
+    "descuento": 30,
+    "precio_normal": 5.69,
+    "precio": 3.98,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-24T18:00:05Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T19:00:21Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
+    "fin_visto": null,
+    "slug": "booster-pack-heroes"
+  },
+  {
+    "clave": "steam-5266240",
+    "appid": 5266240,
+    "nombre": "Potato Please",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T18:00:36Z",
+    "vigente": true,
+    "visto_primero": "2026-11-03T18:59:21Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
+    "fin_visto": null,
+    "slug": "potato-please"
+  },
+  {
+    "clave": "steam-3629430",
+    "appid": 3629430,
+    "nombre": "DREADMOOR",
+    "descuento": 10,
+    "precio_normal": 10.99,
+    "precio": 9.89,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-09T13:21:11Z",
+    "visto_ultimo": "2026-11-12T13:20:56Z",
+    "fin_visto": null,
+    "slug": "dreadmoor"
+  },
+  {
+    "clave": "steam-3527290",
+    "appid": 3527290,
+    "nombre": "PEAK",
+    "descuento": 38,
+    "precio_normal": 3.99,
+    "precio": 2.47,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T10:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "slug": "peak",
+    "fin_visto": "2026-11-12T13:20:56Z"
   },
   {
     "clave": "steam-3669620",
@@ -267,25 +286,6 @@
     "visto_primero": "2026-11-11T01:11:47Z",
     "visto_ultimo": "2026-11-11T19:04:01Z",
     "slug": "nunca-ordenes-por-color",
-    "fin_visto": "2026-11-12T01:20:42Z"
-  },
-  {
-    "clave": "steam-5266240",
-    "appid": 5266240,
-    "nombre": "Potato Please",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T18:00:36Z",
-    "vigente": false,
-    "visto_primero": "2026-11-03T18:59:21Z",
-    "visto_ultimo": "2026-11-11T19:04:01Z",
-    "slug": "potato-please",
     "fin_visto": "2026-11-12T01:20:42Z"
   },
   {
@@ -733,24 +733,5 @@
     "visto_ultimo": "2026-11-05T13:18:26Z",
     "slug": "raft",
     "fin_visto": "2026-11-05T19:01:38Z"
-  },
-  {
-    "clave": "steam-2615540",
-    "appid": 2615540,
-    "nombre": "VOID/BREAKER",
-    "descuento": 40,
-    "precio_normal": 15.99,
-    "precio": 9.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/4f3789458cfd9c3375c2926620b19640135f7c4a/header_alt_assets_8.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T19:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-05T01:13:26Z",
-    "visto_ultimo": "2026-11-05T07:27:07Z",
-    "slug": "void-breaker",
-    "fin_visto": "2026-11-05T13:18:26Z"
   }
 ]
