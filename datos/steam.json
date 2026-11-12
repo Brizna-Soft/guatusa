@@ -614,6 +614,37 @@
       "edad": 0,
       "leido": "2026-11-02T19:00:46Z"
     },
+    "2536520": {
+      "appid": 2536520,
+      "nombre": "Diablo II: Resurrected – Infernal Edition",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Rol",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Blizzard Entertainment, Inc."
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows® 10",
+        "Procesador: Intel® Core i3-3250/AMD FX-4350",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GTX 660/AMD Radeon HD 7850",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 43 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-12T01:20:50Z"
+    },
     "2584270": {
       "appid": 2584270,
       "nombre": "Mortal Shell II",
@@ -1407,6 +1438,33 @@
       ],
       "edad": 0,
       "leido": "2026-11-11T01:11:53Z"
+    },
+    "489830": {
+      "appid": 489830,
+      "nombre": "The Elder Scrolls V: Skyrim Special Edition",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Rol"
+      ],
+      "desarrollo": [
+        "Bethesda Game Studios"
+      ],
+      "anio": 2016,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 7/8.1/10 (requiere versión de 64 bits)",
+        "Procesador: Intel Core i5-750/AMD Phenom II X4-945",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GTX 470 de 1 GB/AMD HD 7870 de 2 GB",
+        "Almacenamiento: 12 GB de espacio disponible"
+      ],
+      "edad": 17,
+      "leido": "2026-11-12T01:20:50Z"
     },
     "5064170": {
       "appid": 5064170,
