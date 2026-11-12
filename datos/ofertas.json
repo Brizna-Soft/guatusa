@@ -14,9 +14,28 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
     "fin_visto": null,
     "slug": "the-elder-scrolls-v-skyrim-special-edition"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-2536520",
@@ -33,7 +52,7 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
     "fin_visto": null,
     "slug": "diablo-ii-resurrected-infernal-edition"
   },
@@ -52,66 +71,9 @@
     "termina": "2026-11-16T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
     "fin_visto": null,
     "slug": "mortal-shell-ii"
-  },
-  {
-    "clave": "steam-3669620",
-    "appid": 3669620,
-    "nombre": "Warhammer Survivors",
-    "descuento": 10,
-    "precio_normal": 4.99,
-    "precio": 4.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-17T18:00:59Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
-    "fin_visto": null,
-    "slug": "warhammer-survivors"
-  },
-  {
-    "clave": "steam-3629430",
-    "appid": 3629430,
-    "nombre": "DREADMOOR",
-    "descuento": 10,
-    "precio_normal": 10.99,
-    "precio": 9.89,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-09T13:21:11Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
-    "fin_visto": null,
-    "slug": "dreadmoor"
-  },
-  {
-    "clave": "steam-4576490",
-    "appid": 4576490,
-    "nombre": "Casualties: Unknown",
-    "descuento": 15,
-    "precio_normal": 12.49,
-    "precio": 10.61,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:23Z",
-    "vigente": true,
-    "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
-    "fin_visto": null,
-    "slug": "casualties-unknown"
   },
   {
     "clave": "steam-4618570",
@@ -129,7 +91,7 @@
     "termina": "2026-11-24T18:00:05Z",
     "vigente": true,
     "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
     "fin_visto": null,
     "slug": "booster-pack-heroes"
   },
@@ -148,28 +110,9 @@
     "termina": "2026-11-15T10:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
     "fin_visto": null,
     "slug": "peak"
-  },
-  {
-    "clave": "steam-12210",
-    "appid": 12210,
-    "nombre": "Grand Theft Auto IV: The Complete Edition",
-    "descuento": 70,
-    "precio_normal": 19.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
-    "fin_visto": null,
-    "slug": "grand-theft-auto-iv-the-complete-edition"
   },
   {
     "clave": "steam-227300",
@@ -186,11 +129,106 @@
       "Linux"
     ],
     "termina": "2026-11-24T17:00:00Z",
-    "vigente": false,
+    "vigente": true,
     "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-11T19:04:01Z",
-    "slug": "euro-truck-simulator-2",
-    "fin_visto": "2026-11-12T01:20:42Z"
+    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "fin_visto": null,
+    "slug": "euro-truck-simulator-2"
+  },
+  {
+    "clave": "steam-3629430",
+    "appid": 3629430,
+    "nombre": "DREADMOOR",
+    "descuento": 10,
+    "precio_normal": 10.99,
+    "precio": 9.89,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-09T13:21:11Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "fin_visto": null,
+    "slug": "dreadmoor"
+  },
+  {
+    "clave": "steam-2638080",
+    "appid": 2638080,
+    "nombre": "Annihilated",
+    "descuento": 10,
+    "precio_normal": 9.55,
+    "precio": 8.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T13:10:09Z",
+    "visto_ultimo": "2026-11-12T07:28:13Z",
+    "fin_visto": null,
+    "slug": "annihilated"
+  },
+  {
+    "clave": "steam-3669620",
+    "appid": 3669620,
+    "nombre": "Warhammer Survivors",
+    "descuento": 10,
+    "precio_normal": 4.99,
+    "precio": 4.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-17T18:00:59Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T13:10:09Z",
+    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "slug": "warhammer-survivors",
+    "fin_visto": "2026-11-12T07:28:13Z"
+  },
+  {
+    "clave": "steam-4576490",
+    "appid": 4576490,
+    "nombre": "Casualties: Unknown",
+    "descuento": 15,
+    "precio_normal": 12.49,
+    "precio": 10.61,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:23Z",
+    "vigente": false,
+    "visto_primero": "2026-11-09T19:00:07Z",
+    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "slug": "casualties-unknown",
+    "fin_visto": "2026-11-12T07:28:13Z"
+  },
+  {
+    "clave": "steam-12210",
+    "appid": 12210,
+    "nombre": "Grand Theft Auto IV: The Complete Edition",
+    "descuento": 70,
+    "precio_normal": 19.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-12T01:20:42Z",
+    "slug": "grand-theft-auto-iv-the-complete-edition",
+    "fin_visto": "2026-11-12T07:28:13Z"
   },
   {
     "clave": "steam-3285880",
@@ -251,25 +289,6 @@
     "fin_visto": "2026-11-12T01:20:42Z"
   },
   {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-11T13:17:08Z",
-    "slug": "worst-class-ever",
-    "fin_visto": "2026-11-11T19:04:01Z"
-  },
-  {
     "clave": "steam-4348910",
     "appid": 4348910,
     "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
@@ -286,25 +305,6 @@
     "visto_primero": "2026-11-01T21:42:17Z",
     "visto_ultimo": "2026-11-11T13:17:08Z",
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
-    "fin_visto": "2026-11-11T19:04:01Z"
-  },
-  {
-    "clave": "steam-2638080",
-    "appid": 2638080,
-    "nombre": "Annihilated",
-    "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:33Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-11T13:17:08Z",
-    "slug": "annihilated",
     "fin_visto": "2026-11-11T19:04:01Z"
   },
   {
