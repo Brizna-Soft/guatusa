@@ -1875,6 +1875,37 @@
       "edad": 0,
       "leido": "2026-11-10T07:16:46Z"
     },
+    "5185890": {
+      "appid": 5185890,
+      "nombre": "Zombies Aren't Real",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Estrategia",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Jogamedev"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10/11 64-bit",
+        "Procesador: 4-core CPU at 3.0 GHz (Intel Core i5-6500 / AMD Ryzen 3 1200)",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: DirectX 11 GPU with 2 GB VRAM (Intel UHD 620 / GeForce GTX 750 Ti / Radeon R7 260X)",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2 GB de espacio disponible",
+        "Notas adicionales: Choose \"Low\" in graphics settings for a smoother experience"
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T18:59:52Z"
+    },
     "5266240": {
       "appid": 5266240,
       "nombre": "Potato Please",

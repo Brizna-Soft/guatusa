@@ -1,99 +1,22 @@
 [
   {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
-  },
-  {
-    "clave": "steam-3816120",
-    "appid": 3816120,
-    "nombre": "重生2我独自逆袭 Re2 I Rise Alone",
-    "descuento": 20,
-    "precio_normal": 8.99,
-    "precio": 7.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/984b15718fc643fbb82a97c5e43201a52bd4ee32/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-27T18:00:02Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T13:16:24Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "fin_visto": null,
-    "slug": "2-re2-i-rise-alone"
-  },
-  {
-    "clave": "steam-4459590",
-    "appid": 4459590,
-    "nombre": "Legión del azar - Slotbound",
+    "clave": "steam-5185890",
+    "appid": 5185890,
+    "nombre": "Zombies Aren't Real",
     "descuento": 10,
     "precio_normal": 5.69,
     "precio": 5.12,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-26T18:00:33Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "fin_visto": null,
-    "slug": "legion-del-azar-slotbound"
-  },
-  {
-    "clave": "steam-2860490",
-    "appid": 2860490,
-    "nombre": "ワロタ、俺の家のとなり魔王城www",
-    "descuento": 10,
-    "precio_normal": 12.49,
-    "precio": 11.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-19T18:00:27Z",
+    "termina": "2026-11-20T18:00:06Z",
     "vigente": true,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "visto_primero": "2026-11-13T18:59:45Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
     "fin_visto": null,
-    "slug": "www"
-  },
-  {
-    "clave": "steam-2536520",
-    "appid": 2536520,
-    "nombre": "Diablo II: Resurrected – Infernal Edition",
-    "descuento": 35,
-    "precio_normal": 39.99,
-    "precio": 25.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "fin_visto": null,
-    "slug": "diablo-ii-resurrected-infernal-edition"
+    "slug": "zombies-arent-real"
   },
   {
     "clave": "steam-227300",
@@ -112,9 +35,28 @@
     "termina": "2026-11-24T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
     "fin_visto": null,
     "slug": "euro-truck-simulator-2"
+  },
+  {
+    "clave": "steam-2536520",
+    "appid": 2536520,
+    "nombre": "Diablo II: Resurrected – Infernal Edition",
+    "descuento": 35,
+    "precio_normal": 39.99,
+    "precio": 25.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
+    "fin_visto": null,
+    "slug": "diablo-ii-resurrected-infernal-edition"
   },
   {
     "clave": "steam-489830",
@@ -131,28 +73,48 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
     "fin_visto": null,
     "slug": "the-elder-scrolls-v-skyrim-special-edition"
   },
   {
-    "clave": "steam-4651080",
-    "appid": 4651080,
-    "nombre": "CelSector",
+    "clave": "steam-4459590",
+    "appid": 4459590,
+    "nombre": "Legión del azar - Slotbound",
     "descuento": 10,
-    "precio_normal": 9.09,
-    "precio": 8.18,
+    "precio_normal": 5.69,
+    "precio": 5.12,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-26T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T07:24:41Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
+    "fin_visto": null,
+    "slug": "legion-del-azar-slotbound"
+  },
+  {
+    "clave": "steam-5378110",
+    "appid": 5378110,
+    "nombre": "One More Lawn",
+    "descuento": 30,
+    "precio_normal": 4.29,
+    "precio": 3.0,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-19T18:00:47Z",
+    "termina": "2026-11-26T18:00:03Z",
     "vigente": true,
-    "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
     "fin_visto": null,
-    "slug": "celsector"
+    "slug": "one-more-lawn"
   },
   {
     "clave": "steam-4493130",
@@ -170,47 +132,9 @@
     "termina": "2026-11-26T18:00:19Z",
     "vigente": true,
     "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
     "fin_visto": null,
     "slug": "ski-e-o-imperio-en-la-nieve"
-  },
-  {
-    "clave": "steam-2638080",
-    "appid": 2638080,
-    "nombre": "Annihilated",
-    "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:33Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "fin_visto": null,
-    "slug": "annihilated"
-  },
-  {
-    "clave": "steam-5378110",
-    "appid": 5378110,
-    "nombre": "One More Lawn",
-    "descuento": 30,
-    "precio_normal": 4.29,
-    "precio": 3.0,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-26T18:00:03Z",
-    "vigente": false,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-13T07:24:41Z",
-    "slug": "one-more-lawn",
-    "fin_visto": "2026-11-13T13:16:24Z"
   },
   {
     "clave": "steam-2784470",
@@ -226,11 +150,127 @@
       "macOS"
     ],
     "termina": "2026-11-26T19:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
+    "fin_visto": null,
+    "slug": "9-kings"
+  },
+  {
+    "clave": "steam-2780810",
+    "appid": 2780810,
+    "nombre": "Euro Truck Simulator 2 - Nordic Horizons",
+    "descuento": 10,
+    "precio_normal": 9.55,
+    "precio": 8.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "termina": "2026-11-24T17:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T19:00:21Z",
+    "visto_ultimo": "2026-11-13T18:59:45Z",
+    "fin_visto": null,
+    "slug": "euro-truck-simulator-2-nordic-horizons"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "slug": "worst-class-ever",
+    "fin_visto": "2026-11-13T18:59:45Z"
+  },
+  {
+    "clave": "steam-3816120",
+    "appid": 3816120,
+    "nombre": "重生2我独自逆袭 Re2 I Rise Alone",
+    "descuento": 20,
+    "precio_normal": 8.99,
+    "precio": 7.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/984b15718fc643fbb82a97c5e43201a52bd4ee32/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-27T18:00:02Z",
+    "vigente": false,
+    "visto_primero": "2026-11-13T13:16:24Z",
+    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "slug": "2-re2-i-rise-alone",
+    "fin_visto": "2026-11-13T18:59:45Z"
+  },
+  {
+    "clave": "steam-2860490",
+    "appid": 2860490,
+    "nombre": "ワロタ、俺の家のとなり魔王城www",
+    "descuento": 10,
+    "precio_normal": 12.49,
+    "precio": 11.24,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:27Z",
+    "vigente": false,
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "slug": "www",
+    "fin_visto": "2026-11-13T18:59:45Z"
+  },
+  {
+    "clave": "steam-4651080",
+    "appid": 4651080,
+    "nombre": "CelSector",
+    "descuento": 10,
+    "precio_normal": 9.09,
+    "precio": 8.18,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:47Z",
     "vigente": false,
     "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T07:24:41Z",
-    "slug": "9-kings",
-    "fin_visto": "2026-11-13T13:16:24Z"
+    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "slug": "celsector",
+    "fin_visto": "2026-11-13T18:59:45Z"
+  },
+  {
+    "clave": "steam-2638080",
+    "appid": 2638080,
+    "nombre": "Annihilated",
+    "descuento": 10,
+    "precio_normal": 9.55,
+    "precio": 8.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:33Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T13:10:09Z",
+    "visto_ultimo": "2026-11-13T13:16:24Z",
+    "slug": "annihilated",
+    "fin_visto": "2026-11-13T18:59:45Z"
   },
   {
     "clave": "steam-2868840",
@@ -290,27 +330,6 @@
     "visto_ultimo": "2026-11-13T01:16:44Z",
     "slug": "main-sequence",
     "fin_visto": "2026-11-13T07:24:41Z"
-  },
-  {
-    "clave": "steam-2780810",
-    "appid": 2780810,
-    "nombre": "Euro Truck Simulator 2 - Nordic Horizons",
-    "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-24T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
-    "slug": "euro-truck-simulator-2-nordic-horizons",
-    "fin_visto": "2026-11-13T01:16:44Z"
   },
   {
     "clave": "steam-3629430",
@@ -793,24 +812,5 @@
     "visto_ultimo": "2026-11-07T07:04:29Z",
     "slug": "road-rash-edicion-del-30-aniversario",
     "fin_visto": "2026-11-07T12:57:08Z"
-  },
-  {
-    "clave": "steam-1799840",
-    "appid": 1799840,
-    "nombre": "Queen's Domain",
-    "descuento": 15,
-    "precio_normal": 10.49,
-    "precio": 8.91,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-06T17:00:43Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-06T13:12:41Z",
-    "slug": "queens-domain",
-    "fin_visto": "2026-11-06T18:59:14Z"
   }
 ]
