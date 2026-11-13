@@ -550,6 +550,38 @@
       "edad": 0,
       "leido": "2026-11-06T01:17:09Z"
     },
+    "2487190": {
+      "appid": 2487190,
+      "nombre": "Main Sequence",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Indie",
+        "Simuladores",
+        "Estrategia",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Tumbling Dumpling Studio"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64-bit",
+        "Procesador: Intel Core i5-8400 or equivalent",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GTX 1050 or AMD RX 460",
+        "DirectX: Versión 12",
+        "Almacenamiento: 5 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T01:16:53Z"
+    },
     "2523740": {
       "appid": 2523740,
       "nombre": "DreamWorks Shrek 2 Remastered",
@@ -790,6 +822,36 @@
       ],
       "edad": 0,
       "leido": "2026-11-10T19:00:29Z"
+    },
+    "2784470": {
+      "appid": 2784470,
+      "nombre": "9 Kings",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Rol",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Sad Socket"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows® 10 (64-bit)",
+        "Procesador: Intel® Core™ i5-750 (quad-core) / AMD® Phenom™ II X4 965 (quad-core)",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: NVIDIA® GeForce® GT 630 (2 GB) / AMD® Radeon™ HD 6670 (2 GB)",
+        "DirectX: Versión 11",
+        "Almacenamiento: 500 MB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T01:16:52Z"
     },
     "2860490": {
       "appid": 2860490,
@@ -1384,6 +1446,38 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:21Z"
     },
+    "4493130": {
+      "appid": 4493130,
+      "nombre": "Ski-E-O! Imperio en la nieve",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Simuladores",
+        "Estrategia",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Falling Damage Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64-bit (version 2004 or later)",
+        "Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600 (6-core)",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA RTX 2060 / GTX 1660 / AMD RX 6600 / Intel Arc A750",
+        "DirectX: Versión 12",
+        "Almacenamiento: 10 GB de espacio disponible",
+        "Notas adicionales: SSD strongly recommended. Requires a GPU supporting DirectX 12 Shader Model 6.6 with 64-bit atomics."
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T01:16:53Z"
+    },
     "4530370": {
       "appid": 4530370,
       "nombre": "Football Manager 27",
@@ -1469,6 +1563,35 @@
       ],
       "edad": 0,
       "leido": "2026-11-10T19:00:29Z"
+    },
+    "4651080": {
+      "appid": 4651080,
+      "nombre": "CelSector",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción"
+      ],
+      "desarrollo": [
+        "YumamiSoft"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: 10",
+        "Procesador: Intel Core 2 Duo E4500 a 2.2GHz o AMD Athlon 64 X2 5600+ a 2.8 GHz",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)",
+        "DirectX: Versión 11",
+        "Almacenamiento: 1 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T01:16:52Z"
     },
     "4876650": {
       "appid": 4876650,

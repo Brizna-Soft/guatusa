@@ -14,7 +14,7 @@
     "termina": "2026-11-26T18:00:03Z",
     "vigente": true,
     "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
     "fin_visto": null,
     "slug": "one-more-lawn"
   },
@@ -33,9 +33,68 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
     "fin_visto": null,
     "slug": "the-elder-scrolls-v-skyrim-special-edition"
+  },
+  {
+    "clave": "steam-2784470",
+    "appid": 2784470,
+    "nombre": "9 Kings",
+    "descuento": 50,
+    "precio_normal": 9.99,
+    "precio": 4.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-26T19:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "fin_visto": null,
+    "slug": "9-kings"
+  },
+  {
+    "clave": "steam-4651080",
+    "appid": 4651080,
+    "nombre": "CelSector",
+    "descuento": 10,
+    "precio_normal": 9.09,
+    "precio": 8.18,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:47Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "fin_visto": null,
+    "slug": "celsector"
+  },
+  {
+    "clave": "steam-4493130",
+    "appid": 4493130,
+    "nombre": "Ski-E-O! Imperio en la nieve",
+    "descuento": 10,
+    "precio_normal": 10.49,
+    "precio": 9.44,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493130/93ee3271427e03b561e34ab7f1633754a0a677f5/header_spanish.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-26T18:00:19Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "fin_visto": null,
+    "slug": "ski-e-o-imperio-en-la-nieve"
   },
   {
     "clave": "steam-2536520",
@@ -52,51 +111,9 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
     "fin_visto": null,
     "slug": "diablo-ii-resurrected-infernal-edition"
-  },
-  {
-    "clave": "steam-2780810",
-    "appid": 2780810,
-    "nombre": "Euro Truck Simulator 2 - Nordic Horizons",
-    "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-24T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
-    "fin_visto": null,
-    "slug": "euro-truck-simulator-2-nordic-horizons"
-  },
-  {
-    "clave": "steam-227300",
-    "appid": 227300,
-    "nombre": "Euro Truck Simulator 2",
-    "descuento": 75,
-    "precio_normal": 10.59,
-    "precio": 2.64,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-24T17:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
-    "fin_visto": null,
-    "slug": "euro-truck-simulator-2"
   },
   {
     "clave": "steam-2584270",
@@ -113,7 +130,7 @@
     "termina": "2026-11-16T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
     "fin_visto": null,
     "slug": "mortal-shell-ii"
   },
@@ -132,9 +149,70 @@
     "termina": "2026-11-19T18:00:27Z",
     "vigente": true,
     "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
     "fin_visto": null,
     "slug": "www"
+  },
+  {
+    "clave": "steam-2487190",
+    "appid": 2487190,
+    "nombre": "Main Sequence",
+    "descuento": 20,
+    "precio_normal": 12.99,
+    "precio": 10.39,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/9f75d23dd877267e001e58afe082b7b3eaf53caa/header_alt_assets_1.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-26T18:00:28Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "fin_visto": null,
+    "slug": "main-sequence"
+  },
+  {
+    "clave": "steam-2780810",
+    "appid": 2780810,
+    "nombre": "Euro Truck Simulator 2 - Nordic Horizons",
+    "descuento": 10,
+    "precio_normal": 9.55,
+    "precio": 8.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "termina": "2026-11-24T17:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T19:00:21Z",
+    "visto_ultimo": "2026-11-12T19:02:22Z",
+    "slug": "euro-truck-simulator-2-nordic-horizons",
+    "fin_visto": "2026-11-13T01:16:44Z"
+  },
+  {
+    "clave": "steam-227300",
+    "appid": 227300,
+    "nombre": "Euro Truck Simulator 2",
+    "descuento": 75,
+    "precio_normal": 10.59,
+    "precio": 2.64,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "termina": "2026-11-24T17:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-11T13:17:08Z",
+    "visto_ultimo": "2026-11-12T19:02:22Z",
+    "slug": "euro-truck-simulator-2",
+    "fin_visto": "2026-11-13T01:16:44Z"
   },
   {
     "clave": "steam-3629430",
@@ -149,11 +227,11 @@
       "Windows"
     ],
     "termina": "2026-11-23T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-09T13:21:11Z",
     "visto_ultimo": "2026-11-12T19:02:22Z",
-    "fin_visto": null,
-    "slug": "dreadmoor"
+    "slug": "dreadmoor",
+    "fin_visto": "2026-11-13T01:16:44Z"
   },
   {
     "clave": "steam-12210",
@@ -168,11 +246,11 @@
       "Windows"
     ],
     "termina": "2026-11-19T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-06T01:17:01Z",
     "visto_ultimo": "2026-11-12T19:02:22Z",
-    "fin_visto": null,
-    "slug": "grand-theft-auto-iv-the-complete-edition"
+    "slug": "grand-theft-auto-iv-the-complete-edition",
+    "fin_visto": "2026-11-13T01:16:44Z"
   },
   {
     "clave": "steam-5175310",
