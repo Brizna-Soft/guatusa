@@ -1383,6 +1383,37 @@
       "edad": 17,
       "leido": "2026-11-02T13:14:23Z"
     },
+    "3816120": {
+      "appid": 3816120,
+      "nombre": "重生2我独自逆袭 Re2 I Rise Alone",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Rol",
+        "Simuladores",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Proudmate Entertainment"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10/Windows 11",
+        "Procesador: Intel Core i5-1155G7 and above processors",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: integrated graphics",
+        "DirectX: Versión 11",
+        "Almacenamiento: 110 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T13:16:26Z"
+    },
     "4312190": {
       "appid": 4312190,
       "nombre": "CRACK",
