@@ -885,6 +885,36 @@
       "edad": 0,
       "leido": "2026-11-12T19:02:30Z"
     },
+    "2868840": {
+      "appid": 2868840,
+      "nombre": "Slay the Spire 2",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Indie",
+        "Estrategia",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Mega Crit"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 (64-bit)",
+        "Procesador: Dual-core 2.0 GHz",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: DirectX 12 or Vulkan compatible, 1 GB VRAM",
+        "Almacenamiento: 4 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T07:24:48Z"
+    },
     "2912680": {
       "appid": 2912680,
       "nombre": "Quiztopia : The Ultimate Trivia",
@@ -1445,6 +1475,39 @@
       ],
       "edad": 0,
       "leido": "2026-11-01T21:45:21Z"
+    },
+    "4459590": {
+      "appid": 4459590,
+      "nombre": "Legión del azar - Slotbound",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Indie",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Optima Arch"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10 (64-bit)",
+        "Procesador: Intel Core i3-6100 / AMD Ryzen 3 1200",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: NVIDIA GTX 750 Ti / AMD Radeon HD 7850",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 2 GB de espacio disponible",
+        "Tarjeta de sonido: DirectX compatible",
+        "Compatibilidad con RV: Not supported",
+        "Notas adicionales: Internet connection required for online leaderboards."
+      ],
+      "edad": 0,
+      "leido": "2026-11-13T07:24:48Z"
     },
     "4493130": {
       "appid": 4493130,

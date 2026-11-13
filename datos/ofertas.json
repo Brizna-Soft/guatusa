@@ -1,22 +1,42 @@
 [
   {
-    "clave": "steam-5378110",
-    "appid": 5378110,
-    "nombre": "One More Lawn",
-    "descuento": 30,
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
     "precio_normal": 4.29,
-    "precio": 3.0,
+    "precio": 2.78,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-26T18:00:03Z",
+    "termina": "2026-11-23T18:00:11Z",
     "vigente": true,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
     "fin_visto": null,
-    "slug": "one-more-lawn"
+    "slug": "worst-class-ever"
+  },
+  {
+    "clave": "steam-4459590",
+    "appid": 4459590,
+    "nombre": "Legión del azar - Slotbound",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-26T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T07:24:41Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
+    "fin_visto": null,
+    "slug": "legion-del-azar-slotbound"
   },
   {
     "clave": "steam-489830",
@@ -33,9 +53,66 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
     "fin_visto": null,
     "slug": "the-elder-scrolls-v-skyrim-special-edition"
+  },
+  {
+    "clave": "steam-5378110",
+    "appid": 5378110,
+    "nombre": "One More Lawn",
+    "descuento": 30,
+    "precio_normal": 4.29,
+    "precio": 3.0,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-26T18:00:03Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
+    "fin_visto": null,
+    "slug": "one-more-lawn"
+  },
+  {
+    "clave": "steam-2536520",
+    "appid": 2536520,
+    "nombre": "Diablo II: Resurrected – Infernal Edition",
+    "descuento": 35,
+    "precio_normal": 39.99,
+    "precio": 25.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
+    "fin_visto": null,
+    "slug": "diablo-ii-resurrected-infernal-edition"
+  },
+  {
+    "clave": "steam-4651080",
+    "appid": 4651080,
+    "nombre": "CelSector",
+    "descuento": 10,
+    "precio_normal": 9.09,
+    "precio": 8.18,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:47Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
+    "fin_visto": null,
+    "slug": "celsector"
   },
   {
     "clave": "steam-2784470",
@@ -53,28 +130,49 @@
     "termina": "2026-11-26T19:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
     "fin_visto": null,
     "slug": "9-kings"
   },
   {
-    "clave": "steam-4651080",
-    "appid": 4651080,
-    "nombre": "CelSector",
+    "clave": "steam-2860490",
+    "appid": 2860490,
+    "nombre": "ワロタ、俺の家のとなり魔王城www",
     "descuento": 10,
-    "precio_normal": 9.09,
-    "precio": 8.18,
+    "precio_normal": 12.49,
+    "precio": 11.24,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-19T18:00:47Z",
+    "termina": "2026-11-19T18:00:27Z",
     "vigente": true,
-    "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
     "fin_visto": null,
-    "slug": "celsector"
+    "slug": "www"
+  },
+  {
+    "clave": "steam-227300",
+    "appid": 227300,
+    "nombre": "Euro Truck Simulator 2",
+    "descuento": 75,
+    "precio_normal": 10.59,
+    "precio": 2.64,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "termina": "2026-11-24T17:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-11T13:17:08Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
+    "fin_visto": null,
+    "slug": "euro-truck-simulator-2"
   },
   {
     "clave": "steam-4493130",
@@ -92,28 +190,30 @@
     "termina": "2026-11-26T18:00:19Z",
     "vigente": true,
     "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
     "fin_visto": null,
     "slug": "ski-e-o-imperio-en-la-nieve"
   },
   {
-    "clave": "steam-2536520",
-    "appid": 2536520,
-    "nombre": "Diablo II: Resurrected – Infernal Edition",
-    "descuento": 35,
-    "precio_normal": 39.99,
-    "precio": 25.99,
+    "clave": "steam-2868840",
+    "appid": 2868840,
+    "nombre": "Slay the Spire 2",
+    "descuento": 20,
+    "precio_normal": 11.99,
+    "precio": 9.59,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg",
     "plataformas": [
-      "Windows"
+      "Windows",
+      "macOS",
+      "Linux"
     ],
-    "termina": "2026-11-18T18:00:00Z",
+    "termina": "2026-11-26T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-13T01:16:44Z",
+    "visto_primero": "2026-11-13T07:24:41Z",
+    "visto_ultimo": "2026-11-13T07:24:41Z",
     "fin_visto": null,
-    "slug": "diablo-ii-resurrected-infernal-edition"
+    "slug": "slay-the-spire-2"
   },
   {
     "clave": "steam-2584270",
@@ -128,30 +228,11 @@
       "Windows"
     ],
     "termina": "2026-11-16T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-09T19:00:07Z",
     "visto_ultimo": "2026-11-13T01:16:44Z",
-    "fin_visto": null,
-    "slug": "mortal-shell-ii"
-  },
-  {
-    "clave": "steam-2860490",
-    "appid": 2860490,
-    "nombre": "ワロタ、俺の家のとなり魔王城www",
-    "descuento": 10,
-    "precio_normal": 12.49,
-    "precio": 11.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:27Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-13T01:16:44Z",
-    "fin_visto": null,
-    "slug": "www"
+    "slug": "mortal-shell-ii",
+    "fin_visto": "2026-11-13T07:24:41Z"
   },
   {
     "clave": "steam-2487190",
@@ -166,11 +247,11 @@
       "Windows"
     ],
     "termina": "2026-11-26T18:00:28Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-13T01:16:44Z",
     "visto_ultimo": "2026-11-13T01:16:44Z",
-    "fin_visto": null,
-    "slug": "main-sequence"
+    "slug": "main-sequence",
+    "fin_visto": "2026-11-13T07:24:41Z"
   },
   {
     "clave": "steam-2780810",
@@ -191,27 +272,6 @@
     "visto_primero": "2026-11-10T19:00:21Z",
     "visto_ultimo": "2026-11-12T19:02:22Z",
     "slug": "euro-truck-simulator-2-nordic-horizons",
-    "fin_visto": "2026-11-13T01:16:44Z"
-  },
-  {
-    "clave": "steam-227300",
-    "appid": 227300,
-    "nombre": "Euro Truck Simulator 2",
-    "descuento": 75,
-    "precio_normal": 10.59,
-    "precio": 2.64,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-24T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-12T19:02:22Z",
-    "slug": "euro-truck-simulator-2",
     "fin_visto": "2026-11-13T01:16:44Z"
   },
   {
@@ -251,25 +311,6 @@
     "visto_ultimo": "2026-11-12T19:02:22Z",
     "slug": "grand-theft-auto-iv-the-complete-edition",
     "fin_visto": "2026-11-13T01:16:44Z"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-12T13:20:56Z",
-    "slug": "worst-class-ever",
-    "fin_visto": "2026-11-12T19:02:22Z"
   },
   {
     "clave": "steam-2638080",
@@ -752,64 +793,5 @@
     "visto_ultimo": "2026-11-06T13:12:41Z",
     "slug": "queens-domain",
     "fin_visto": "2026-11-06T18:59:14Z"
-  },
-  {
-    "clave": "steam-3727090",
-    "appid": 3727090,
-    "nombre": "Horses of Hoofprint Bay",
-    "descuento": 15,
-    "precio_normal": 14.85,
-    "precio": 12.62,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727090/05ecc629bbeefe5b64ea3acc33da82009bccf968/header.jpg",
-    "plataformas": [
-      "Windows",
-      "Linux"
-    ],
-    "termina": "2026-11-11T18:00:30Z",
-    "vigente": false,
-    "visto_primero": "2026-11-04T19:03:15Z",
-    "visto_ultimo": "2026-11-05T19:01:38Z",
-    "slug": "horses-of-hoofprint-bay",
-    "fin_visto": "2026-11-06T01:17:01Z"
-  },
-  {
-    "clave": "steam-1677110",
-    "appid": 1677110,
-    "nombre": "Lightyear Frontier",
-    "descuento": 20,
-    "precio_normal": 14.99,
-    "precio": 11.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-12T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-04T19:03:15Z",
-    "visto_ultimo": "2026-11-05T19:01:38Z",
-    "slug": "lightyear-frontier",
-    "fin_visto": "2026-11-06T01:17:01Z"
-  },
-  {
-    "clave": "steam-3204330",
-    "appid": 3204330,
-    "nombre": "Condado de la Fortuna",
-    "descuento": 10,
-    "precio_normal": 12.49,
-    "precio": 11.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204330/9dadd57d15c1c9bb1fb93cb56cfd9bf6d4d4b76d/header_alt_assets_3_spanish.jpg",
-    "plataformas": [
-      "Windows",
-      "Linux"
-    ],
-    "termina": "2026-11-15T18:00:44Z",
-    "vigente": false,
-    "visto_primero": "2026-11-05T19:01:38Z",
-    "visto_ultimo": "2026-11-05T19:01:38Z",
-    "slug": "condado-de-la-fortuna",
-    "fin_visto": "2026-11-06T01:17:01Z"
   }
 ]
