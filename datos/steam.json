@@ -460,6 +460,41 @@
       "edad": 0,
       "leido": "2026-11-03T18:59:30Z"
     },
+    "2406770": {
+      "appid": 2406770,
+      "nombre": "Bodycam",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Indie",
+        "Multijugador masivo",
+        "Simuladores",
+        "Estrategia",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Reissad"
+      ],
+      "anio": 2024,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10/11",
+        "Procesador: AMD Ryzen 7 3700X, Intel Core i7-9700K",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: AMD Radeon RX 5700 (8 GB), NVIDIA GeForce RTX 2070 (8 GB)",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 50 GB de espacio disponible",
+        "Notas adicionales: SSD recomendado"
+      ],
+      "edad": 0,
+      "leido": "2026-11-14T01:08:45Z"
+    },
     "2411200": {
       "appid": 2411200,
       "nombre": "Underkeep",
@@ -1221,6 +1256,35 @@
       ],
       "edad": 0,
       "leido": "2026-11-04T01:11:25Z"
+    },
+    "3687090": {
+      "appid": 3687090,
+      "nombre": "Dice Hoarder",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Indie"
+      ],
+      "desarrollo": [
+        "DieCorp Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10 64-bit",
+        "Procesador: Intel Core i5-8400",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 1060 6GB",
+        "DirectX: Versión 12",
+        "Almacenamiento: 4 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-14T01:08:45Z"
     },
     "3727090": {
       "appid": 3727090,
