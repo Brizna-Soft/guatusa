@@ -14,9 +14,28 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
     "fin_visto": null,
     "slug": "bodycam"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-5185890",
@@ -33,66 +52,9 @@
     "termina": "2026-11-20T18:00:06Z",
     "vigente": true,
     "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
     "fin_visto": null,
     "slug": "zombies-arent-real"
-  },
-  {
-    "clave": "steam-3687090",
-    "appid": 3687090,
-    "nombre": "Dice Hoarder",
-    "descuento": 10,
-    "precio_normal": 3.69,
-    "precio": 3.32,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:48Z",
-    "vigente": true,
-    "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
-    "fin_visto": null,
-    "slug": "dice-hoarder"
-  },
-  {
-    "clave": "steam-489830",
-    "appid": 489830,
-    "nombre": "The Elder Scrolls V: Skyrim Special Edition",
-    "descuento": 80,
-    "precio_normal": 23.99,
-    "precio": 4.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
-    "fin_visto": null,
-    "slug": "the-elder-scrolls-v-skyrim-special-edition"
-  },
-  {
-    "clave": "steam-5378110",
-    "appid": 5378110,
-    "nombre": "One More Lawn",
-    "descuento": 30,
-    "precio_normal": 4.29,
-    "precio": 3.0,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/13e611ebe83aeaf0ebc0a23354e75cd2670c50ac/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-26T18:00:03Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
-    "fin_visto": null,
-    "slug": "one-more-lawn"
   },
   {
     "clave": "steam-2536520",
@@ -109,9 +71,28 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
     "fin_visto": null,
     "slug": "diablo-ii-resurrected-infernal-edition"
+  },
+  {
+    "clave": "steam-489830",
+    "appid": 489830,
+    "nombre": "The Elder Scrolls V: Skyrim Special Edition",
+    "descuento": 80,
+    "precio_normal": 23.99,
+    "precio": 4.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
+    "fin_visto": null,
+    "slug": "the-elder-scrolls-v-skyrim-special-edition"
   },
   {
     "clave": "steam-4459590",
@@ -129,28 +110,66 @@
     "termina": "2026-11-26T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
     "fin_visto": null,
     "slug": "legion-del-azar-slotbound"
   },
   {
-    "clave": "steam-2584270",
-    "appid": 2584270,
-    "nombre": "Mortal Shell II",
-    "descuento": 25,
-    "precio_normal": 34.99,
-    "precio": 26.24,
+    "clave": "steam-5378110",
+    "appid": 5378110,
+    "nombre": "One More Lawn",
+    "descuento": 30,
+    "precio_normal": 4.29,
+    "precio": 3.0,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/13e611ebe83aeaf0ebc0a23354e75cd2670c50ac/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-16T18:00:00Z",
+    "termina": "2026-11-26T18:00:03Z",
     "vigente": true,
-    "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
     "fin_visto": null,
-    "slug": "mortal-shell-ii"
+    "slug": "one-more-lawn"
+  },
+  {
+    "clave": "steam-2860490",
+    "appid": 2860490,
+    "nombre": "ワロタ、俺の家のとなり魔王城www",
+    "descuento": 10,
+    "precio_normal": 12.49,
+    "precio": 11.24,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:27Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
+    "fin_visto": null,
+    "slug": "www"
+  },
+  {
+    "clave": "steam-2638080",
+    "appid": 2638080,
+    "nombre": "Annihilated",
+    "descuento": 10,
+    "precio_normal": 9.55,
+    "precio": 8.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T13:10:09Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
+    "fin_visto": null,
+    "slug": "annihilated"
   },
   {
     "clave": "steam-3527290",
@@ -167,9 +186,68 @@
     "termina": "2026-11-15T10:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
     "fin_visto": null,
     "slug": "peak"
+  },
+  {
+    "clave": "steam-2868840",
+    "appid": 2868840,
+    "nombre": "Slay the Spire 2",
+    "descuento": 20,
+    "precio_normal": 11.99,
+    "precio": 9.59,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "termina": "2026-11-26T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T07:24:41Z",
+    "visto_ultimo": "2026-11-14T07:08:22Z",
+    "fin_visto": null,
+    "slug": "slay-the-spire-2"
+  },
+  {
+    "clave": "steam-3687090",
+    "appid": 3687090,
+    "nombre": "Dice Hoarder",
+    "descuento": 10,
+    "precio_normal": 3.69,
+    "precio": 3.32,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:48Z",
+    "vigente": false,
+    "visto_primero": "2026-11-14T01:08:37Z",
+    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "slug": "dice-hoarder",
+    "fin_visto": "2026-11-14T07:08:22Z"
+  },
+  {
+    "clave": "steam-2584270",
+    "appid": 2584270,
+    "nombre": "Mortal Shell II",
+    "descuento": 25,
+    "precio_normal": 34.99,
+    "precio": 26.24,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-16T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-09T19:00:07Z",
+    "visto_ultimo": "2026-11-14T01:08:37Z",
+    "slug": "mortal-shell-ii",
+    "fin_visto": "2026-11-14T07:08:22Z"
   },
   {
     "clave": "steam-2784470",
@@ -185,11 +263,11 @@
       "macOS"
     ],
     "termina": "2026-11-26T19:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-13T01:16:44Z",
     "visto_ultimo": "2026-11-14T01:08:37Z",
-    "fin_visto": null,
-    "slug": "9-kings"
+    "slug": "9-kings",
+    "fin_visto": "2026-11-14T07:08:22Z"
   },
   {
     "clave": "steam-227300",
@@ -254,25 +332,6 @@
     "fin_visto": "2026-11-14T01:08:37Z"
   },
   {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "slug": "worst-class-ever",
-    "fin_visto": "2026-11-13T18:59:45Z"
-  },
-  {
     "clave": "steam-3816120",
     "appid": 3816120,
     "nombre": "重生2我独自逆袭 Re2 I Rise Alone",
@@ -289,25 +348,6 @@
     "visto_primero": "2026-11-13T13:16:24Z",
     "visto_ultimo": "2026-11-13T13:16:24Z",
     "slug": "2-re2-i-rise-alone",
-    "fin_visto": "2026-11-13T18:59:45Z"
-  },
-  {
-    "clave": "steam-2860490",
-    "appid": 2860490,
-    "nombre": "ワロタ、俺の家のとなり魔王城www",
-    "descuento": 10,
-    "precio_normal": 12.49,
-    "precio": 11.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:27Z",
-    "vigente": false,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "slug": "www",
     "fin_visto": "2026-11-13T18:59:45Z"
   },
   {
@@ -328,46 +368,6 @@
     "visto_ultimo": "2026-11-13T13:16:24Z",
     "slug": "celsector",
     "fin_visto": "2026-11-13T18:59:45Z"
-  },
-  {
-    "clave": "steam-2638080",
-    "appid": 2638080,
-    "nombre": "Annihilated",
-    "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:33Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "slug": "annihilated",
-    "fin_visto": "2026-11-13T18:59:45Z"
-  },
-  {
-    "clave": "steam-2868840",
-    "appid": 2868840,
-    "nombre": "Slay the Spire 2",
-    "descuento": 20,
-    "precio_normal": 11.99,
-    "precio": 9.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-26T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-13T07:24:41Z",
-    "slug": "slay-the-spire-2",
-    "fin_visto": "2026-11-13T13:16:24Z"
   },
   {
     "clave": "steam-2487190",
