@@ -14,67 +14,9 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-14T12:58:02Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
     "fin_visto": null,
     "slug": "bodycam"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-14T12:58:02Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
-  },
-  {
-    "clave": "steam-2536520",
-    "appid": 2536520,
-    "nombre": "Diablo II: Resurrected – Infernal Edition",
-    "descuento": 35,
-    "precio_normal": 39.99,
-    "precio": 25.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-14T12:58:02Z",
-    "fin_visto": null,
-    "slug": "diablo-ii-resurrected-infernal-edition"
-  },
-  {
-    "clave": "steam-4459590",
-    "appid": 4459590,
-    "nombre": "Legión del azar - Slotbound",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-26T18:00:33Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-14T12:58:02Z",
-    "fin_visto": null,
-    "slug": "legion-del-azar-slotbound"
   },
   {
     "clave": "steam-5185890",
@@ -91,7 +33,7 @@
     "termina": "2026-11-20T18:00:06Z",
     "vigente": true,
     "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-14T12:58:02Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
     "fin_visto": null,
     "slug": "zombies-arent-real"
   },
@@ -112,7 +54,7 @@
     "termina": "2026-11-24T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-14T12:58:02Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
     "fin_visto": null,
     "slug": "euro-truck-simulator-2"
   },
@@ -131,9 +73,105 @@
     "termina": "2026-11-18T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-14T12:58:02Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
     "fin_visto": null,
     "slug": "the-elder-scrolls-v-skyrim-special-edition"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
+  },
+  {
+    "clave": "steam-4459590",
+    "appid": 4459590,
+    "nombre": "Legión del azar - Slotbound",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-26T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T07:24:41Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
+    "fin_visto": null,
+    "slug": "legion-del-azar-slotbound"
+  },
+  {
+    "clave": "steam-3527290",
+    "appid": 3527290,
+    "nombre": "PEAK",
+    "descuento": 38,
+    "precio_normal": 3.99,
+    "precio": 2.47,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-15T10:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
+    "fin_visto": null,
+    "slug": "peak"
+  },
+  {
+    "clave": "steam-5378110",
+    "appid": 5378110,
+    "nombre": "One More Lawn",
+    "descuento": 30,
+    "precio_normal": 4.29,
+    "precio": 3.0,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/13e611ebe83aeaf0ebc0a23354e75cd2670c50ac/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-26T18:00:03Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
+    "fin_visto": null,
+    "slug": "one-more-lawn"
+  },
+  {
+    "clave": "steam-2536520",
+    "appid": 2536520,
+    "nombre": "Diablo II: Resurrected – Infernal Edition",
+    "descuento": 35,
+    "precio_normal": 39.99,
+    "precio": 25.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-14T18:50:58Z",
+    "fin_visto": null,
+    "slug": "diablo-ii-resurrected-infernal-edition"
   },
   {
     "clave": "steam-2584270",
@@ -148,11 +186,11 @@
       "Windows"
     ],
     "termina": "2026-11-16T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-09T19:00:07Z",
     "visto_ultimo": "2026-11-14T12:58:02Z",
-    "fin_visto": null,
-    "slug": "mortal-shell-ii"
+    "slug": "mortal-shell-ii",
+    "fin_visto": "2026-11-14T18:50:58Z"
   },
   {
     "clave": "steam-2860490",
@@ -167,11 +205,11 @@
       "Windows"
     ],
     "termina": "2026-11-19T18:00:27Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-12T19:02:22Z",
     "visto_ultimo": "2026-11-14T12:58:02Z",
-    "fin_visto": null,
-    "slug": "www"
+    "slug": "www",
+    "fin_visto": "2026-11-14T18:50:58Z"
   },
   {
     "clave": "steam-2868840",
@@ -188,30 +226,11 @@
       "Linux"
     ],
     "termina": "2026-11-26T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-13T07:24:41Z",
     "visto_ultimo": "2026-11-14T12:58:02Z",
-    "fin_visto": null,
-    "slug": "slay-the-spire-2"
-  },
-  {
-    "clave": "steam-5378110",
-    "appid": 5378110,
-    "nombre": "One More Lawn",
-    "descuento": 30,
-    "precio_normal": 4.29,
-    "precio": 3.0,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/13e611ebe83aeaf0ebc0a23354e75cd2670c50ac/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-26T18:00:03Z",
-    "vigente": false,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-14T07:08:22Z",
-    "slug": "one-more-lawn",
-    "fin_visto": "2026-11-14T12:58:02Z"
+    "slug": "slay-the-spire-2",
+    "fin_visto": "2026-11-14T18:50:58Z"
   },
   {
     "clave": "steam-2638080",
@@ -230,25 +249,6 @@
     "visto_primero": "2026-11-10T13:10:09Z",
     "visto_ultimo": "2026-11-14T07:08:22Z",
     "slug": "annihilated",
-    "fin_visto": "2026-11-14T12:58:02Z"
-  },
-  {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T10:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-14T07:08:22Z",
-    "slug": "peak",
     "fin_visto": "2026-11-14T12:58:02Z"
   },
   {
