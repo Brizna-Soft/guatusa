@@ -1670,6 +1670,36 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:21Z"
     },
+    "4444800": {
+      "appid": 4444800,
+      "nombre": "Obey Me! Sinner's Choice: Lucifer",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Frontwing"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Microsoft Windows 11",
+        "Procesador: Intel Core i3-10100Y / AMD Ryzen 3 3250U or above",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: Intel HD Graphics 615 / NVIDIA GeForce GT 1030 / AMD Radeon Pro 555 or above",
+        "DirectX: Versión 11",
+        "Tarjeta de sonido: A sound card supporting DirectSound is required.",
+        "Notas adicionales: A pointing device is required."
+      ],
+      "edad": 0,
+      "leido": "2026-11-16T15:13:06Z"
+    },
     "4459590": {
       "appid": 4459590,
       "nombre": "Legión del azar - Slotbound",
@@ -2068,6 +2098,37 @@
       ],
       "edad": 0,
       "leido": "2026-11-13T18:59:52Z"
+    },
+    "5200620": {
+      "appid": 5200620,
+      "nombre": "Dungeonbound",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Indie",
+        "Rol",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "louidev"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10 (64 bits)",
+        "Procesador: Doble núcleo a 2,0 GHz o superior",
+        "Memoria: 2 GB de RAM",
+        "Gráficos: Gráficos integrados (p. ej., Intel HD Graphics) o equivalente. No se necesita GPU dedicada",
+        "DirectX: Versión 10",
+        "Almacenamiento: 300 MB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-16T15:13:06Z"
     },
     "5266240": {
       "appid": 5266240,
