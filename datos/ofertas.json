@@ -14,7 +14,7 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
     "fin_visto": null,
     "slug": "bodycam"
   },
@@ -34,28 +34,85 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
   },
   {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
+    "clave": "steam-5037200",
+    "appid": 5037200,
+    "nombre": "just volleyball",
+    "descuento": 38,
+    "precio_normal": 4.59,
+    "precio": 2.84,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-23T18:00:11Z",
+    "termina": "2026-11-24T18:00:18Z",
     "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "visto_primero": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
     "fin_visto": null,
-    "slug": "worst-class-ever"
+    "slug": "just-volleyball"
+  },
+  {
+    "clave": "steam-2321960",
+    "appid": 2321960,
+    "nombre": "Spirit Crossing",
+    "descuento": 10,
+    "precio_normal": 14.49,
+    "precio": 13.04,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:46Z",
+    "vigente": true,
+    "visto_primero": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "fin_visto": null,
+    "slug": "spirit-crossing"
+  },
+  {
+    "clave": "steam-5185890",
+    "appid": 5185890,
+    "nombre": "Zombies Aren't Real",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:06Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T18:59:45Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "fin_visto": null,
+    "slug": "zombies-arent-real"
+  },
+  {
+    "clave": "steam-5200620",
+    "appid": 5200620,
+    "nombre": "Dungeonbound",
+    "descuento": 10,
+    "precio_normal": 6.39,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:28Z",
+    "vigente": true,
+    "visto_primero": "2026-11-16T15:12:57Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "fin_visto": null,
+    "slug": "dungeonbound"
   },
   {
     "clave": "steam-4459590",
@@ -73,66 +130,29 @@
     "termina": "2026-11-26T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
     "fin_visto": null,
     "slug": "legion-del-azar-slotbound"
   },
   {
-    "clave": "steam-2584270",
-    "appid": 2584270,
-    "nombre": "Mortal Shell II",
-    "descuento": 25,
-    "precio_normal": 34.99,
-    "precio": 26.24,
+    "clave": "steam-4171850",
+    "appid": 4171850,
+    "nombre": "Trees Hate You",
+    "descuento": 13,
+    "precio_normal": 4.59,
+    "precio": 3.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg",
     "plataformas": [
-      "Windows"
+      "Windows",
+      "Linux"
     ],
-    "termina": "2026-11-16T18:00:00Z",
+    "termina": "2026-11-23T18:00:02Z",
     "vigente": true,
-    "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "visto_primero": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
     "fin_visto": null,
-    "slug": "mortal-shell-ii"
-  },
-  {
-    "clave": "steam-5200620",
-    "appid": 5200620,
-    "nombre": "Dungeonbound",
-    "descuento": 10,
-    "precio_normal": 6.39,
-    "precio": 5.75,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:28Z",
-    "vigente": true,
-    "visto_primero": "2026-11-16T15:12:57Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
-    "fin_visto": null,
-    "slug": "dungeonbound"
-  },
-  {
-    "clave": "steam-5185890",
-    "appid": 5185890,
-    "nombre": "Zombies Aren't Real",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:06Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
-    "fin_visto": null,
-    "slug": "zombies-arent-real"
+    "slug": "trees-hate-you"
   },
   {
     "clave": "steam-227300",
@@ -151,9 +171,47 @@
     "termina": "2026-11-24T17:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "visto_ultimo": "2026-11-16T19:02:15Z",
     "fin_visto": null,
     "slug": "euro-truck-simulator-2"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "slug": "worst-class-ever",
+    "fin_visto": "2026-11-16T19:02:15Z"
+  },
+  {
+    "clave": "steam-2584270",
+    "appid": 2584270,
+    "nombre": "Mortal Shell II",
+    "descuento": 25,
+    "precio_normal": 34.99,
+    "precio": 26.24,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-16T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-09T19:00:07Z",
+    "visto_ultimo": "2026-11-16T15:12:57Z",
+    "slug": "mortal-shell-ii",
+    "fin_visto": "2026-11-16T19:02:15Z"
   },
   {
     "clave": "steam-4444800",
@@ -168,11 +226,11 @@
       "Windows"
     ],
     "termina": "2026-11-22T18:00:08Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-16T15:12:57Z",
     "visto_ultimo": "2026-11-16T15:12:57Z",
-    "fin_visto": null,
-    "slug": "obey-me-sinners-choice-lucifer"
+    "slug": "obey-me-sinners-choice-lucifer",
+    "fin_visto": "2026-11-16T19:02:15Z"
   },
   {
     "clave": "steam-266410",
@@ -791,83 +849,5 @@
     "visto_ultimo": "2026-11-10T01:09:14Z",
     "slug": "go-next",
     "fin_visto": "2026-11-10T07:16:36Z"
-  },
-  {
-    "clave": "steam-3768760",
-    "appid": 3768760,
-    "nombre": "007 First Light",
-    "descuento": 40,
-    "precio_normal": 45.99,
-    "precio": 27.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-09T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-03T01:09:24Z",
-    "visto_ultimo": "2026-11-09T13:21:11Z",
-    "slug": "007-first-light",
-    "fin_visto": "2026-11-09T19:00:07Z"
-  },
-  {
-    "clave": "steam-3241660",
-    "appid": 3241660,
-    "nombre": "R.E.P.O.",
-    "descuento": 35,
-    "precio_normal": 4.99,
-    "precio": 3.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-09T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-09T13:21:11Z",
-    "slug": "r-e-p-o",
-    "fin_visto": "2026-11-09T19:00:07Z"
-  },
-  {
-    "clave": "steam-252490",
-    "appid": 252490,
-    "nombre": "Rust",
-    "descuento": 50,
-    "precio_normal": 18.99,
-    "precio": 9.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-09T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-02T19:00:37Z",
-    "visto_ultimo": "2026-11-09T13:21:11Z",
-    "slug": "rust",
-    "fin_visto": "2026-11-09T19:00:07Z"
-  },
-  {
-    "clave": "steam-275850",
-    "appid": 275850,
-    "nombre": "No Man's Sky",
-    "descuento": 60,
-    "precio_normal": 26.99,
-    "precio": 10.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-09T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-04T01:11:15Z",
-    "visto_ultimo": "2026-11-09T13:21:11Z",
-    "slug": "no-mans-sky",
-    "fin_visto": "2026-11-09T19:00:07Z"
   }
 ]

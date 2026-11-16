@@ -460,6 +460,41 @@
       "edad": 0,
       "leido": "2026-11-03T18:59:30Z"
     },
+    "2321960": {
+      "appid": 2321960,
+      "nombre": "Spirit Crossing",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Casual",
+        "Indie",
+        "Multijugador masivo",
+        "Rol",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "Spry Fox"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 22H2",
+        "Procesador: Core i3-8100 / Ryzen 3 3100",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: GTX 1050 / RX 560 / Iris Xe / Vega 8",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 3 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-16T19:02:18Z"
+    },
     "2406770": {
       "appid": 2406770,
       "nombre": "Bodycam",
@@ -1577,6 +1612,31 @@
       "edad": 0,
       "leido": "2026-11-13T13:16:26Z"
     },
+    "4171850": {
+      "appid": 4171850,
+      "nombre": "Trees Hate You",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Indie"
+      ],
+      "desarrollo": [
+        "Tykenn"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10 o superior",
+        "Almacenamiento: 1 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-16T19:02:18Z"
+    },
     "4312190": {
       "appid": 4312190,
       "nombre": "CRACK",
@@ -1935,6 +1995,39 @@
       ],
       "edad": 17,
       "leido": "2026-11-12T01:20:50Z"
+    },
+    "5037200": {
+      "appid": 5037200,
+      "nombre": "just volleyball",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Casual",
+        "Indie",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "temkosoft"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64-bit",
+        "Procesador: Intel Core i5-7600 or equivalent",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Intel HD Graphics 630 or equivalent (OpenGL 3.3)",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 500 MB de espacio disponible",
+        "Notas adicionales: In the case of issues on certain hardware, try the launch options provided. Total storage use increases with saved replay files."
+      ],
+      "edad": 0,
+      "leido": "2026-11-16T19:02:17Z"
     },
     "5064170": {
       "appid": 5064170,
