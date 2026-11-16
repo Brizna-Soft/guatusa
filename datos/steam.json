@@ -800,6 +800,38 @@
       "edad": 0,
       "leido": "2026-11-10T13:10:12Z"
     },
+    "2680010": {
+      "appid": 2680010,
+      "nombre": "The First Berserker: Khazan",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Neople"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64bit 22H2",
+        "Procesador: Intel Core i3-6300 or AMD Ryzen 3 1200",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: GeForce GTX 970 or Radeon RX 580 or Arc A580",
+        "DirectX: Versión 11",
+        "Almacenamiento: 70 GB de espacio disponible",
+        "Notas adicionales: Requires SSD, 1080p resolution 30fps with low graphics options"
+      ],
+      "edad": 17,
+      "leido": "2026-11-16T01:31:37Z"
+    },
     "275850": {
       "appid": 275850,
       "nombre": "No Man's Sky",
