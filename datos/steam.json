@@ -800,6 +800,41 @@
       "edad": 0,
       "leido": "2026-11-10T13:10:12Z"
     },
+    "266410": {
+      "appid": 266410,
+      "nombre": "iRacing",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Multijugador masivo",
+        "Carreras",
+        "Simuladores",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "iRacing.com Motorsport Simulations",
+        "iRacing"
+      ],
+      "anio": 2015,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 11 64-Bit",
+        "Procesador: 4 core CPU or better – Some Examples (but not limited to): Intel Core i5-6600, Intel Core i7-4790, AMD Ryzen 3 4300G",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: A gaming graphics card with at least 6GB of DEDICATED memory – Some examples (but not limited to): Nvidia GeForce GTX 1070, RX 5600XT",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 25 GB de espacio disponible",
+        "Compatibilidad con RV: iRacing supports the optional use of virtual reality headsets!"
+      ],
+      "edad": 0,
+      "leido": "2026-11-16T08:53:35Z"
+    },
     "2680010": {
       "appid": 2680010,
       "nombre": "The First Berserker: Khazan",
@@ -1159,6 +1194,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-11T19:04:08Z"
+    },
+    "3321460": {
+      "appid": 3321460,
+      "nombre": "Crimson Desert Enhanced",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Pearl Abyss"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64-bit",
+        "Procesador: Ryzen 5 2600X / i5-8500",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: RX 5500 XT / GTX 1060",
+        "DirectX: Versión 12",
+        "Almacenamiento: 180 GB de espacio disponible",
+        "Tarjeta de sonido: Windows Compatible Audio Device",
+        "Notas adicionales: Requiere SSD."
+      ],
+      "edad": 0,
+      "leido": "2026-11-16T08:53:35Z"
     },
     "3527290": {
       "appid": 3527290,
