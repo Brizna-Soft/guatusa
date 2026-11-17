@@ -14,9 +14,49 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
     "fin_visto": null,
     "slug": "bodycam"
+  },
+  {
+    "clave": "steam-3218350",
+    "appid": 3218350,
+    "nombre": "Melvor Idle 2: A RuneScape Adventure",
+    "descuento": 10,
+    "precio_normal": 8.09,
+    "precio": 7.28,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "termina": "2026-11-24T18:00:44Z",
+    "vigente": true,
+    "visto_primero": "2026-11-17T13:16:57Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
+    "fin_visto": null,
+    "slug": "melvor-idle-2-a-runescape-adventure"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-1771300",
@@ -33,7 +73,7 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
     "fin_visto": null,
     "slug": "kingdom-come-deliverance-ii"
   },
@@ -53,66 +93,9 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
-  },
-  {
-    "clave": "steam-5037200",
-    "appid": 5037200,
-    "nombre": "just volleyball",
-    "descuento": 38,
-    "precio_normal": 4.59,
-    "precio": 2.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-24T18:00:18Z",
-    "vigente": true,
-    "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
-    "fin_visto": null,
-    "slug": "just-volleyball"
-  },
-  {
-    "clave": "steam-5185890",
-    "appid": 5185890,
-    "nombre": "Zombies Aren't Real",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:06Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
-    "fin_visto": null,
-    "slug": "zombies-arent-real"
-  },
-  {
-    "clave": "steam-2536520",
-    "appid": 2536520,
-    "nombre": "Diablo II: Resurrected – Infernal Edition",
-    "descuento": 35,
-    "precio_normal": 39.99,
-    "precio": 25.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
-    "fin_visto": null,
-    "slug": "diablo-ii-resurrected-infernal-edition"
   },
   {
     "clave": "steam-4459590",
@@ -130,28 +113,66 @@
     "termina": "2026-11-26T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
     "fin_visto": null,
     "slug": "legion-del-azar-slotbound"
   },
   {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
+    "clave": "steam-5185890",
+    "appid": 5185890,
+    "nombre": "Zombies Aren't Real",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-23T18:00:11Z",
+    "termina": "2026-11-20T18:00:06Z",
     "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
+    "visto_primero": "2026-11-13T18:59:45Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
     "fin_visto": null,
-    "slug": "worst-class-ever"
+    "slug": "zombies-arent-real"
+  },
+  {
+    "clave": "steam-5037200",
+    "appid": 5037200,
+    "nombre": "just volleyball",
+    "descuento": 38,
+    "precio_normal": 4.59,
+    "precio": 2.84,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-24T18:00:18Z",
+    "vigente": true,
+    "visto_primero": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
+    "fin_visto": null,
+    "slug": "just-volleyball"
+  },
+  {
+    "clave": "steam-2536520",
+    "appid": 2536520,
+    "nombre": "Diablo II: Resurrected – Infernal Edition",
+    "descuento": 35,
+    "precio_normal": 39.99,
+    "precio": 25.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
+    "fin_visto": null,
+    "slug": "diablo-ii-resurrected-infernal-edition"
   },
   {
     "clave": "steam-5200620",
@@ -169,7 +190,7 @@
     "termina": "2026-11-30T18:00:28Z",
     "vigente": true,
     "visto_primero": "2026-11-16T15:12:57Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
+    "visto_ultimo": "2026-11-17T13:16:57Z",
     "fin_visto": null,
     "slug": "dungeonbound"
   },
@@ -186,11 +207,11 @@
       "Windows"
     ],
     "termina": "2026-11-23T18:00:46Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-16T19:02:15Z",
     "visto_ultimo": "2026-11-17T07:27:40Z",
-    "fin_visto": null,
-    "slug": "spirit-crossing"
+    "slug": "spirit-crossing",
+    "fin_visto": "2026-11-17T13:16:57Z"
   },
   {
     "clave": "steam-5378110",
@@ -811,24 +832,5 @@
     "visto_ultimo": "2026-11-10T13:10:09Z",
     "slug": "football-manager-27",
     "fin_visto": "2026-11-10T19:00:21Z"
-  },
-  {
-    "clave": "steam-3751950",
-    "appid": 3751950,
-    "nombre": "Assassin's Creed Black Flag Resynced",
-    "descuento": 25,
-    "precio_normal": 47.99,
-    "precio": 35.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-10T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T22:45:02Z",
-    "visto_ultimo": "2026-11-10T07:16:36Z",
-    "slug": "assassins-creed-black-flag-resynced",
-    "fin_visto": "2026-11-10T13:10:09Z"
   }
 ]

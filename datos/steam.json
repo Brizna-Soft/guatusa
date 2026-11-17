@@ -1172,6 +1172,38 @@
       "edad": 0,
       "leido": "2026-11-05T19:01:49Z"
     },
+    "3218350": {
+      "appid": 3218350,
+      "nombre": "Melvor Idle 2: A RuneScape Adventure",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Indie",
+        "Rol",
+        "Acceso anticipado"
+      ],
+      "desarrollo": [
+        "Games by Malcs"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 7 and later",
+        "Procesador: An Intel Pentium 4 processor or later that's SSE2 capable",
+        "Memoria: 1 GB de RAM",
+        "Gráficos: Integrated Graphics",
+        "Almacenamiento: 2 GB de espacio disponible",
+        "Tarjeta de sonido: Optional."
+      ],
+      "edad": 0,
+      "leido": "2026-11-17T13:16:59Z"
+    },
     "3240220": {
       "appid": 3240220,
       "nombre": "Grand Theft Auto V Enhanced",
