@@ -14,7 +14,7 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
     "fin_visto": null,
     "slug": "bodycam"
   },
@@ -34,7 +34,7 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
   },
@@ -53,28 +53,28 @@
     "termina": "2026-11-24T18:00:18Z",
     "vigente": true,
     "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
     "fin_visto": null,
     "slug": "just-volleyball"
   },
   {
-    "clave": "steam-2321960",
-    "appid": 2321960,
-    "nombre": "Spirit Crossing",
-    "descuento": 10,
-    "precio_normal": 14.49,
-    "precio": 13.04,
+    "clave": "steam-1771300",
+    "appid": 1771300,
+    "nombre": "Kingdom Come: Deliverance II",
+    "descuento": 67,
+    "precio_normal": 44.99,
+    "precio": 14.84,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-23T18:00:46Z",
+    "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "visto_primero": "2026-11-17T01:18:49Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
     "fin_visto": null,
-    "slug": "spirit-crossing"
+    "slug": "kingdom-come-deliverance-ii"
   },
   {
     "clave": "steam-5185890",
@@ -91,9 +91,28 @@
     "termina": "2026-11-20T18:00:06Z",
     "vigente": true,
     "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
     "fin_visto": null,
     "slug": "zombies-arent-real"
+  },
+  {
+    "clave": "steam-2321960",
+    "appid": 2321960,
+    "nombre": "Spirit Crossing",
+    "descuento": 10,
+    "precio_normal": 14.49,
+    "precio": 13.04,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:46Z",
+    "vigente": true,
+    "visto_primero": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
+    "fin_visto": null,
+    "slug": "spirit-crossing"
   },
   {
     "clave": "steam-5200620",
@@ -110,9 +129,28 @@
     "termina": "2026-11-30T18:00:28Z",
     "vigente": true,
     "visto_primero": "2026-11-16T15:12:57Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
     "fin_visto": null,
     "slug": "dungeonbound"
+  },
+  {
+    "clave": "steam-5378110",
+    "appid": 5378110,
+    "nombre": "One More Lawn",
+    "descuento": 30,
+    "precio_normal": 4.29,
+    "precio": 3.0,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/13e611ebe83aeaf0ebc0a23354e75cd2670c50ac/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-26T18:00:03Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T19:02:22Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
+    "fin_visto": null,
+    "slug": "one-more-lawn"
   },
   {
     "clave": "steam-4459590",
@@ -130,9 +168,28 @@
     "termina": "2026-11-26T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
     "fin_visto": null,
     "slug": "legion-del-azar-slotbound"
+  },
+  {
+    "clave": "steam-489830",
+    "appid": 489830,
+    "nombre": "The Elder Scrolls V: Skyrim Special Edition",
+    "descuento": 80,
+    "precio_normal": 23.99,
+    "precio": 4.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-17T01:18:49Z",
+    "fin_visto": null,
+    "slug": "the-elder-scrolls-v-skyrim-special-edition"
   },
   {
     "clave": "steam-4171850",
@@ -148,11 +205,11 @@
       "Linux"
     ],
     "termina": "2026-11-23T18:00:02Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-16T19:02:15Z",
     "visto_ultimo": "2026-11-16T19:02:15Z",
-    "fin_visto": null,
-    "slug": "trees-hate-you"
+    "slug": "trees-hate-you",
+    "fin_visto": "2026-11-17T01:18:49Z"
   },
   {
     "clave": "steam-227300",
@@ -169,11 +226,11 @@
       "Linux"
     ],
     "termina": "2026-11-24T17:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-11T13:17:08Z",
     "visto_ultimo": "2026-11-16T19:02:15Z",
-    "fin_visto": null,
-    "slug": "euro-truck-simulator-2"
+    "slug": "euro-truck-simulator-2",
+    "fin_visto": "2026-11-17T01:18:49Z"
   },
   {
     "clave": "steam-5175310",
@@ -252,25 +309,6 @@
     "fin_visto": "2026-11-16T15:12:57Z"
   },
   {
-    "clave": "steam-489830",
-    "appid": 489830,
-    "nombre": "The Elder Scrolls V: Skyrim Special Edition",
-    "descuento": 80,
-    "precio_normal": 23.99,
-    "precio": 4.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-16T08:53:27Z",
-    "slug": "the-elder-scrolls-v-skyrim-special-edition",
-    "fin_visto": "2026-11-16T15:12:57Z"
-  },
-  {
     "clave": "steam-2536520",
     "appid": 2536520,
     "nombre": "Diablo II: Resurrected – Infernal Edition",
@@ -288,25 +326,6 @@
     "visto_ultimo": "2026-11-16T08:53:27Z",
     "slug": "diablo-ii-resurrected-infernal-edition",
     "fin_visto": "2026-11-16T15:12:57Z"
-  },
-  {
-    "clave": "steam-5378110",
-    "appid": 5378110,
-    "nombre": "One More Lawn",
-    "descuento": 30,
-    "precio_normal": 4.29,
-    "precio": 3.0,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/13e611ebe83aeaf0ebc0a23354e75cd2670c50ac/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-26T18:00:03Z",
-    "vigente": false,
-    "visto_primero": "2026-11-12T19:02:22Z",
-    "visto_ultimo": "2026-11-16T01:31:30Z",
-    "slug": "one-more-lawn",
-    "fin_visto": "2026-11-16T08:53:27Z"
   },
   {
     "clave": "steam-2680010",

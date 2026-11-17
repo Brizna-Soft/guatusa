@@ -215,6 +215,37 @@
       "edad": 0,
       "leido": "2026-11-04T19:03:24Z"
     },
+    "1771300": {
+      "appid": 1771300,
+      "nombre": "Kingdom Come: Deliverance II",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Warhorse Studios"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64-bit (or newer)",
+        "Procesador: Intel Core i5-8400, AMD Ryzen 5 2600",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 1060 (6GB), AMD Radeon RX 580",
+        "Almacenamiento: 100 GB de espacio disponible",
+        "Notas adicionales: SSD required"
+      ],
+      "edad": 18,
+      "leido": "2026-11-17T01:18:57Z"
+    },
     "1796580": {
       "appid": 1796580,
       "nombre": "Sorry We're Closed",

@@ -37,7 +37,7 @@
         "tamano": 108216769
       }
     ],
-    "leido": "2026-11-16T15:13:02Z"
+    "leido": "2026-11-17T01:18:54Z"
   },
   "Anuken/Mindustry": {
     "repo": "Anuken/Mindustry",
@@ -67,7 +67,7 @@
         "tamano": 19453000
       }
     ],
-    "leido": "2026-11-16T15:13:02Z"
+    "leido": "2026-11-17T01:18:53Z"
   },
   "audacity/audacity": {
     "repo": "audacity/audacity",
@@ -132,7 +132,7 @@
         "tamano": 1632
       }
     ],
-    "leido": "2026-11-16T15:13:03Z"
+    "leido": "2026-11-17T01:18:55Z"
   },
   "Brizna-Soft/atarraya": {
     "repo": "Brizna-Soft/atarraya",
@@ -152,7 +152,7 @@
         "tamano": 89
       }
     ],
-    "leido": "2026-11-16T15:13:00Z"
+    "leido": "2026-11-17T01:18:52Z"
   },
   "Brizna-Soft/chachalaca": {
     "repo": "Brizna-Soft/chachalaca",
@@ -172,7 +172,7 @@
         "tamano": 91
       }
     ],
-    "leido": "2026-11-16T15:13:01Z"
+    "leido": "2026-11-17T01:18:53Z"
   },
   "Brizna-Soft/guara": {
     "repo": "Brizna-Soft/guara",
@@ -192,7 +192,7 @@
         "tamano": 86
       }
     ],
-    "leido": "2026-11-16T15:13:01Z"
+    "leido": "2026-11-17T01:18:52Z"
   },
   "Brizna-Soft/hntorrent-descargas": {
     "repo": "Brizna-Soft/hntorrent-descargas",
@@ -232,7 +232,7 @@
         "tamano": 179
       }
     ],
-    "leido": "2026-11-16T15:13:01Z"
+    "leido": "2026-11-17T01:18:53Z"
   },
   "Brizna-Soft/jicaro": {
     "repo": "Brizna-Soft/jicaro",
@@ -257,7 +257,7 @@
         "tamano": 87
       }
     ],
-    "leido": "2026-11-16T15:13:00Z"
+    "leido": "2026-11-17T01:18:52Z"
   },
   "Brizna-Soft/mapache": {
     "repo": "Brizna-Soft/mapache",
@@ -277,7 +277,7 @@
         "tamano": 88
       }
     ],
-    "leido": "2026-11-16T15:13:00Z"
+    "leido": "2026-11-17T01:18:52Z"
   },
   "Brizna-Soft/mosquitero": {
     "repo": "Brizna-Soft/mosquitero",
@@ -307,7 +307,7 @@
         "tamano": 95
       }
     ],
-    "leido": "2026-11-16T15:13:01Z"
+    "leido": "2026-11-17T01:18:52Z"
   },
   "endless-sky/endless-sky": {
     "repo": "endless-sky/endless-sky",
@@ -347,7 +347,7 @@
         "tamano": 364425528
       }
     ],
-    "leido": "2026-11-16T15:13:02Z"
+    "leido": "2026-11-17T01:18:54Z"
   },
   "HandBrake/HandBrake": {
     "repo": "HandBrake/HandBrake",
@@ -487,7 +487,7 @@
         "tamano": 566
       }
     ],
-    "leido": "2026-11-16T15:13:04Z"
+    "leido": "2026-11-17T01:18:55Z"
   },
   "keepassxreboot/keepassxc": {
     "repo": "keepassxreboot/keepassxc",
@@ -752,7 +752,7 @@
         "tamano": 488
       }
     ],
-    "leido": "2026-11-16T15:13:03Z"
+    "leido": "2026-11-17T01:18:55Z"
   },
   "kovidgoyal/calibre": {
     "repo": "kovidgoyal/calibre",
@@ -792,7 +792,7 @@
         "tamano": 259196168
       }
     ],
-    "leido": "2026-11-16T15:13:04Z"
+    "leido": "2026-11-17T01:18:56Z"
   },
   "luanti-org/luanti": {
     "repo": "luanti-org/luanti",
@@ -847,7 +847,7 @@
         "tamano": 14346225
       }
     ],
-    "leido": "2026-11-16T15:13:02Z"
+    "leido": "2026-11-17T01:18:53Z"
   },
   "microsoft/PowerToys": {
     "repo": "microsoft/PowerToys",
@@ -892,77 +892,72 @@
         "tamano": 450272344
       }
     ],
-    "leido": "2026-11-16T15:13:04Z"
+    "leido": "2026-11-17T01:18:56Z"
   },
   "mltframework/shotcut": {
     "repo": "mltframework/shotcut",
-    "etiqueta": "v26.9.27",
-    "version": "26.9.27",
-    "fecha": "2026-09-28T00:29:29Z",
-    "url": "https://github.com/mltframework/shotcut/releases/tag/v26.9.27",
+    "etiqueta": "v26.11.15",
+    "version": "26.11.15",
+    "fecha": "2026-11-16T21:01:18Z",
+    "url": "https://github.com/mltframework/shotcut/releases/tag/v26.11.15",
     "archivos": [
       {
         "nombre": "md5sums.txt",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/md5sums.txt",
-        "tamano": 702
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/md5sums.txt",
+        "tamano": 579
       },
       {
         "nombre": "sha256sums.txt",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/sha256sums.txt",
-        "tamano": 1054
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/sha256sums.txt",
+        "tamano": 867
       },
       {
-        "nombre": "shotcut-linux-x86_64-26.10.3.AppImage",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.10.3.AppImage",
-        "tamano": 216024256
+        "nombre": "shotcut-linux-x86_64-26.11.15.AppImage",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-linux-x86_64-26.11.15.AppImage",
+        "tamano": 216413376
       },
       {
-        "nombre": "shotcut-linux-x86_64-26.9.27.AppImage",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.9.27.AppImage",
-        "tamano": 217801920
+        "nombre": "shotcut-linux-x86_64-26.11.15.txz",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-linux-x86_64-26.11.15.txz",
+        "tamano": 153944796
       },
       {
-        "nombre": "shotcut-linux-x86_64-26.9.27.txz",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-linux-x86_64-26.9.27.txz",
-        "tamano": 153652280
+        "nombre": "shotcut-macos-26.11.15.dmg",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-macos-26.11.15.dmg",
+        "tamano": 211234714
       },
       {
-        "nombre": "shotcut-macos-26.9.27.dmg",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-macos-26.9.27.dmg",
-        "tamano": 210131979
+        "nombre": "shotcut-macos-unsigned-26.11.15.dmg",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-macos-unsigned-26.11.15.dmg",
+        "tamano": 299166847
       },
       {
-        "nombre": "shotcut-macos-26.9.28.dmg",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-macos-26.9.28.dmg",
-        "tamano": 210616938
+        "nombre": "shotcut-src-26.11.15.txz",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-src-26.11.15.txz",
+        "tamano": 311724724
       },
       {
-        "nombre": "shotcut-src-26.9.27.txz",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-src-26.9.27.txz",
-        "tamano": 312694812
+        "nombre": "shotcut-win64-26.11.15.exe",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-win64-26.11.15.exe",
+        "tamano": 142844768
       },
       {
-        "nombre": "shotcut-win64-26.9.27.exe",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win64-26.9.27.exe",
-        "tamano": 152926384
+        "nombre": "shotcut-win64-26.11.15.zip",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-win64-26.11.15.zip",
+        "tamano": 196097953
       },
       {
-        "nombre": "shotcut-win64-26.9.27.zip",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win64-26.9.27.zip",
-        "tamano": 213335062
+        "nombre": "shotcut-win_ARM-26.11.15.exe",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-win_ARM-26.11.15.exe",
+        "tamano": 118927440
       },
       {
-        "nombre": "shotcut-win_ARM-26.9.27.exe",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win_ARM-26.9.27.exe",
-        "tamano": 117265384
-      },
-      {
-        "nombre": "shotcut-win_ARM-26.9.27.zip",
-        "url": "https://github.com/mltframework/shotcut/releases/download/v26.9.27/shotcut-win_ARM-26.9.27.zip",
-        "tamano": 159418949
+        "nombre": "shotcut-win_ARM-26.11.15.zip",
+        "url": "https://github.com/mltframework/shotcut/releases/download/v26.11.15/shotcut-win_ARM-26.11.15.zip",
+        "tamano": 158283009
       }
     ],
-    "leido": "2026-11-16T15:13:04Z"
+    "leido": "2026-11-17T01:18:55Z"
   },
   "notepad-plus-plus/notepad-plus-plus": {
     "repo": "notepad-plus-plus/notepad-plus-plus",
@@ -1112,7 +1107,7 @@
         "tamano": 594
       }
     ],
-    "leido": "2026-11-16T15:13:04Z"
+    "leido": "2026-11-17T01:18:56Z"
   },
   "obsproject/obs-studio": {
     "repo": "obsproject/obs-studio",
@@ -1182,7 +1177,7 @@
         "tamano": 223786669
       }
     ],
-    "leido": "2026-11-16T15:13:03Z"
+    "leido": "2026-11-17T01:18:55Z"
   },
   "OpenTTD/OpenTTD": {
     "repo": "OpenTTD/OpenTTD",
@@ -1191,7 +1186,7 @@
     "fecha": "2026-04-04T19:56:48Z",
     "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3",
     "archivos": [],
-    "leido": "2026-11-16T15:13:02Z"
+    "leido": "2026-11-17T01:18:53Z"
   },
   "pbatard/rufus": {
     "repo": "pbatard/rufus",
@@ -1236,7 +1231,7 @@
         "tamano": 256
       }
     ],
-    "leido": "2026-11-16T15:13:04Z"
+    "leido": "2026-11-17T01:18:56Z"
   },
   "ShareX/ShareX": {
     "repo": "ShareX/ShareX",
@@ -1256,7 +1251,7 @@
         "tamano": 145391368
       }
     ],
-    "leido": "2026-11-16T15:13:04Z"
+    "leido": "2026-11-17T01:18:56Z"
   },
   "SuperTux/supertux": {
     "repo": "SuperTux/supertux",
@@ -1341,7 +1336,7 @@
         "tamano": 277928552
       }
     ],
-    "leido": "2026-11-16T15:13:03Z"
+    "leido": "2026-11-17T01:18:55Z"
   },
   "supertuxkart/stk-code": {
     "repo": "supertuxkart/stk-code",
@@ -1416,7 +1411,7 @@
         "tamano": 183727403
       }
     ],
-    "leido": "2026-11-16T15:13:01Z"
+    "leido": "2026-11-17T01:18:53Z"
   },
   "Warzone2100/warzone2100": {
     "repo": "Warzone2100/warzone2100",
@@ -1516,7 +1511,7 @@
         "tamano": 393747010
       }
     ],
-    "leido": "2026-11-16T15:13:03Z"
+    "leido": "2026-11-17T01:18:54Z"
   },
   "yairm210/Unciv": {
     "repo": "yairm210/Unciv",
@@ -1561,6 +1556,6 @@
         "tamano": 22840477
       }
     ],
-    "leido": "2026-11-16T15:13:03Z"
+    "leido": "2026-11-17T01:18:54Z"
   }
 }
