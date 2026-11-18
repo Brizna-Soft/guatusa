@@ -1140,6 +1140,38 @@
       "edad": 0,
       "leido": "2026-11-12T19:02:29Z"
     },
+    "311210": {
+      "appid": 311210,
+      "nombre": "Call of Duty®: Black Ops III",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Treyarch",
+        "Aspyr (Mac)"
+      ],
+      "anio": 2015,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit",
+        "Procesador: Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 810 @ 2.60 GHz",
+        "Memoria: 6 GB de RAM",
+        "Gráficos: NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 100 GB de espacio disponible",
+        "Tarjeta de sonido: DirectX Compatible"
+      ],
+      "edad": 17,
+      "leido": "2026-11-18T01:25:46Z"
+    },
     "3204330": {
       "appid": 3204330,
       "nombre": "Condado de la Fortuna",

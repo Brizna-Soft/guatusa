@@ -7,14 +7,14 @@
     "precio_normal": 17.99,
     "precio": 14.39,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg",
     "plataformas": [
       "Windows"
     ],
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
     "fin_visto": null,
     "slug": "bodycam"
   },
@@ -35,28 +35,9 @@
     "termina": "2026-11-24T18:00:44Z",
     "vigente": true,
     "visto_primero": "2026-11-17T13:16:57Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
     "fin_visto": null,
     "slug": "melvor-idle-2-a-runescape-adventure"
-  },
-  {
-    "clave": "steam-1771300",
-    "appid": 1771300,
-    "nombre": "Kingdom Come: Deliverance II",
-    "descuento": 67,
-    "precio_normal": 44.99,
-    "precio": 14.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
-    "fin_visto": null,
-    "slug": "kingdom-come-deliverance-ii"
   },
   {
     "clave": "steam-5185890",
@@ -73,7 +54,7 @@
     "termina": "2026-11-20T18:00:06Z",
     "vigente": true,
     "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
     "fin_visto": null,
     "slug": "zombies-arent-real"
   },
@@ -93,9 +74,48 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
+  },
+  {
+    "clave": "steam-311210",
+    "appid": 311210,
+    "nombre": "Call of Duty®: Black Ops III",
+    "descuento": 75,
+    "precio_normal": 59.99,
+    "precio": 14.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-18T01:25:39Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
+    "fin_visto": null,
+    "slug": "call-of-duty-black-ops-iii"
+  },
+  {
+    "clave": "steam-1771300",
+    "appid": 1771300,
+    "nombre": "Kingdom Come: Deliverance II",
+    "descuento": 67,
+    "precio_normal": 44.99,
+    "precio": 14.84,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-17T01:18:49Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
+    "fin_visto": null,
+    "slug": "kingdom-come-deliverance-ii"
   },
   {
     "clave": "steam-5037200",
@@ -112,28 +132,9 @@
     "termina": "2026-11-24T18:00:18Z",
     "vigente": true,
     "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
     "fin_visto": null,
     "slug": "just-volleyball"
-  },
-  {
-    "clave": "steam-2536520",
-    "appid": 2536520,
-    "nombre": "Diablo II: Resurrected – Infernal Edition",
-    "descuento": 35,
-    "precio_normal": 39.99,
-    "precio": 25.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
-    "fin_visto": null,
-    "slug": "diablo-ii-resurrected-infernal-edition"
   },
   {
     "clave": "steam-4459590",
@@ -151,9 +152,28 @@
     "termina": "2026-11-26T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
+    "visto_ultimo": "2026-11-18T01:25:39Z",
     "fin_visto": null,
     "slug": "legion-del-azar-slotbound"
+  },
+  {
+    "clave": "steam-2536520",
+    "appid": 2536520,
+    "nombre": "Diablo II: Resurrected – Infernal Edition",
+    "descuento": 35,
+    "precio_normal": 39.99,
+    "precio": 25.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-18T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-12T01:20:42Z",
+    "visto_ultimo": "2026-11-17T19:09:50Z",
+    "slug": "diablo-ii-resurrected-infernal-edition",
+    "fin_visto": "2026-11-18T01:25:39Z"
   },
   {
     "clave": "steam-489830",
@@ -168,11 +188,11 @@
       "Windows"
     ],
     "termina": "2026-11-18T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-12T01:20:42Z",
     "visto_ultimo": "2026-11-17T19:09:50Z",
-    "fin_visto": null,
-    "slug": "the-elder-scrolls-v-skyrim-special-edition"
+    "slug": "the-elder-scrolls-v-skyrim-special-edition",
+    "fin_visto": "2026-11-18T01:25:39Z"
   },
   {
     "clave": "steam-5175310",
@@ -755,24 +775,5 @@
     "visto_ultimo": "2026-11-11T13:17:08Z",
     "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
     "fin_visto": "2026-11-11T19:04:01Z"
-  },
-  {
-    "clave": "steam-2523740",
-    "appid": 2523740,
-    "nombre": "DreamWorks Shrek 2 Remastered",
-    "descuento": 10,
-    "precio_normal": 16.49,
-    "precio": 14.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523740/abfa94e9a286146554386662e218aae82716711f/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-17T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-10T19:00:21Z",
-    "slug": "dreamworks-shrek-2-remastered",
-    "fin_visto": "2026-11-11T01:11:47Z"
   }
 ]
