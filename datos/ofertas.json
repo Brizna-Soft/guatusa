@@ -14,28 +14,9 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
     "fin_visto": null,
     "slug": "bodycam"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-3218350",
@@ -54,29 +35,9 @@
     "termina": "2026-11-24T18:00:44Z",
     "vigente": true,
     "visto_primero": "2026-11-17T13:16:57Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
     "fin_visto": null,
     "slug": "melvor-idle-2-a-runescape-adventure"
-  },
-  {
-    "clave": "steam-4459590",
-    "appid": 4459590,
-    "nombre": "Legión del azar - Slotbound",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-26T18:00:33Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
-    "fin_visto": null,
-    "slug": "legion-del-azar-slotbound"
   },
   {
     "clave": "steam-3321460",
@@ -94,28 +55,9 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
-  },
-  {
-    "clave": "steam-1771300",
-    "appid": 1771300,
-    "nombre": "Kingdom Come: Deliverance II",
-    "descuento": 67,
-    "precio_normal": 44.99,
-    "precio": 14.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
-    "fin_visto": null,
-    "slug": "kingdom-come-deliverance-ii"
   },
   {
     "clave": "steam-5185890",
@@ -132,7 +74,7 @@
     "termina": "2026-11-20T18:00:06Z",
     "vigente": true,
     "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
     "fin_visto": null,
     "slug": "zombies-arent-real"
   },
@@ -152,28 +94,47 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-18T01:25:39Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
     "fin_visto": null,
     "slug": "call-of-duty-black-ops-iii"
   },
   {
-    "clave": "steam-1985810",
-    "appid": 1985810,
-    "nombre": "Call of Duty®: Black Ops Cold War",
-    "descuento": 75,
-    "precio_normal": 59.99,
-    "precio": 14.99,
+    "clave": "steam-1771300",
+    "appid": 1771300,
+    "nombre": "Kingdom Come: Deliverance II",
+    "descuento": 67,
+    "precio_normal": 44.99,
+    "precio": 14.84,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-01T18:00:00Z",
+    "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-18T13:22:42Z",
-    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "visto_primero": "2026-11-17T01:18:49Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
     "fin_visto": null,
-    "slug": "call-of-duty-black-ops-cold-war"
+    "slug": "kingdom-come-deliverance-ii"
+  },
+  {
+    "clave": "steam-12210",
+    "appid": 12210,
+    "nombre": "Grand Theft Auto IV: The Complete Edition",
+    "descuento": 70,
+    "precio_normal": 19.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "fin_visto": null,
+    "slug": "grand-theft-auto-iv-the-complete-edition"
   },
   {
     "clave": "steam-5037200",
@@ -188,11 +149,69 @@
       "Windows"
     ],
     "termina": "2026-11-24T18:00:18Z",
-    "vigente": false,
+    "vigente": true,
     "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
-    "slug": "just-volleyball",
-    "fin_visto": "2026-11-18T13:22:42Z"
+    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "fin_visto": null,
+    "slug": "just-volleyball"
+  },
+  {
+    "clave": "steam-4459590",
+    "appid": 4459590,
+    "nombre": "Legión del azar - Slotbound",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-26T18:00:33Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T07:24:41Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "fin_visto": null,
+    "slug": "legion-del-azar-slotbound"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "slug": "worst-class-ever",
+    "fin_visto": "2026-11-18T19:03:36Z"
+  },
+  {
+    "clave": "steam-1985810",
+    "appid": 1985810,
+    "nombre": "Call of Duty®: Black Ops Cold War",
+    "descuento": 75,
+    "precio_normal": 59.99,
+    "precio": 14.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-18T13:22:42Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "slug": "call-of-duty-black-ops-cold-war",
+    "fin_visto": "2026-11-18T19:03:36Z"
   },
   {
     "clave": "steam-2536520",
@@ -405,25 +424,6 @@
     "visto_primero": "2026-11-16T01:31:30Z",
     "visto_ultimo": "2026-11-16T01:31:30Z",
     "slug": "the-first-berserker-khazan",
-    "fin_visto": "2026-11-16T08:53:27Z"
-  },
-  {
-    "clave": "steam-12210",
-    "appid": 12210,
-    "nombre": "Grand Theft Auto IV: The Complete Edition",
-    "descuento": 70,
-    "precio_normal": 19.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-16T01:31:30Z",
-    "slug": "grand-theft-auto-iv-the-complete-edition",
     "fin_visto": "2026-11-16T08:53:27Z"
   },
   {
