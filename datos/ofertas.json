@@ -14,9 +14,28 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
     "fin_visto": null,
     "slug": "bodycam"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-3218350",
@@ -35,68 +54,9 @@
     "termina": "2026-11-24T18:00:44Z",
     "vigente": true,
     "visto_primero": "2026-11-17T13:16:57Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
     "fin_visto": null,
     "slug": "melvor-idle-2-a-runescape-adventure"
-  },
-  {
-    "clave": "steam-311210",
-    "appid": 311210,
-    "nombre": "Call of Duty®: Black Ops III",
-    "descuento": 75,
-    "precio_normal": 59.99,
-    "precio": 14.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-18T01:25:39Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
-    "fin_visto": null,
-    "slug": "call-of-duty-black-ops-iii"
-  },
-  {
-    "clave": "steam-3321460",
-    "appid": 3321460,
-    "nombre": "Crimson Desert Enhanced",
-    "descuento": 20,
-    "precio_normal": 69.99,
-    "precio": 55.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-30T08:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
-    "fin_visto": null,
-    "slug": "crimson-desert-enhanced"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-4459590",
@@ -114,28 +74,29 @@
     "termina": "2026-11-26T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
     "fin_visto": null,
     "slug": "legion-del-azar-slotbound"
   },
   {
-    "clave": "steam-5185890",
-    "appid": 5185890,
-    "nombre": "Zombies Aren't Real",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
+    "clave": "steam-3321460",
+    "appid": 3321460,
+    "nombre": "Crimson Desert Enhanced",
+    "descuento": 20,
+    "precio_normal": 69.99,
+    "precio": 55.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
     "plataformas": [
-      "Windows"
+      "Windows",
+      "macOS"
     ],
-    "termina": "2026-11-20T18:00:06Z",
+    "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
+    "visto_primero": "2026-11-16T08:53:27Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
     "fin_visto": null,
-    "slug": "zombies-arent-real"
+    "slug": "crimson-desert-enhanced"
   },
   {
     "clave": "steam-1771300",
@@ -152,9 +113,67 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-18T07:26:43Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
     "fin_visto": null,
     "slug": "kingdom-come-deliverance-ii"
+  },
+  {
+    "clave": "steam-5185890",
+    "appid": 5185890,
+    "nombre": "Zombies Aren't Real",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:06Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T18:59:45Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "fin_visto": null,
+    "slug": "zombies-arent-real"
+  },
+  {
+    "clave": "steam-311210",
+    "appid": 311210,
+    "nombre": "Call of Duty®: Black Ops III",
+    "descuento": 75,
+    "precio_normal": 59.99,
+    "precio": 14.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-18T01:25:39Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "fin_visto": null,
+    "slug": "call-of-duty-black-ops-iii"
+  },
+  {
+    "clave": "steam-1985810",
+    "appid": 1985810,
+    "nombre": "Call of Duty®: Black Ops Cold War",
+    "descuento": 75,
+    "precio_normal": 59.99,
+    "precio": 14.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-18T13:22:42Z",
+    "visto_ultimo": "2026-11-18T13:22:42Z",
+    "fin_visto": null,
+    "slug": "call-of-duty-black-ops-cold-war"
   },
   {
     "clave": "steam-5037200",
@@ -169,11 +188,11 @@
       "Windows"
     ],
     "termina": "2026-11-24T18:00:18Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-16T19:02:15Z",
     "visto_ultimo": "2026-11-18T07:26:43Z",
-    "fin_visto": null,
-    "slug": "just-volleyball"
+    "slug": "just-volleyball",
+    "fin_visto": "2026-11-18T13:22:42Z"
   },
   {
     "clave": "steam-2536520",

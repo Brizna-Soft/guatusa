@@ -309,6 +309,41 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:24Z"
     },
+    "1985810": {
+      "appid": 1985810,
+      "nombre": "Call of Duty®: Black Ops Cold War",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción"
+      ],
+      "desarrollo": [
+        "Treyarch",
+        "Raven Software",
+        "High Moon Studios",
+        "Beenox",
+        "Activision Shanghai",
+        "Sledgehammer Games"
+      ],
+      "anio": 2023,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows® 10 a 64 bits (versión 1803 o superior)",
+        "Procesador: Intel® Core™ i3-4340 o AMD FX-6300*",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA® GeForce® GTX 670/NVIDIA® GeForce® GTX 1650 o AMD Radeon™ HD 7950 - Sistema compatible con DirectX 12.0",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 175 GB de espacio disponible"
+      ],
+      "edad": 18,
+      "leido": "2026-11-18T13:22:46Z"
+    },
     "2015240": {
       "appid": 2015240,
       "nombre": "Dwarven Realms",
