@@ -1,5 +1,43 @@
 [
   {
+    "clave": "steam-2909400",
+    "appid": 2909400,
+    "nombre": "FINAL FANTASY VII REBIRTH",
+    "descuento": 85,
+    "precio_normal": 39.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-rebirth"
+  },
+  {
+    "clave": "steam-1462040",
+    "appid": 1462040,
+    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descuento": 82,
+    "precio_normal": 31.99,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-remake-intergrade"
+  },
+  {
     "clave": "steam-2406770",
     "appid": 2406770,
     "nombre": "Bodycam",
@@ -14,7 +52,7 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
     "fin_visto": null,
     "slug": "bodycam"
   },
@@ -35,9 +73,28 @@
     "termina": "2026-11-24T18:00:44Z",
     "vigente": true,
     "visto_primero": "2026-11-17T13:16:57Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
     "fin_visto": null,
     "slug": "melvor-idle-2-a-runescape-adventure"
+  },
+  {
+    "clave": "steam-5185890",
+    "appid": 5185890,
+    "nombre": "Zombies Aren't Real",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:06Z",
+    "vigente": true,
+    "visto_primero": "2026-11-13T18:59:45Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
+    "fin_visto": null,
+    "slug": "zombies-arent-real"
   },
   {
     "clave": "steam-3321460",
@@ -55,28 +112,9 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
-  },
-  {
-    "clave": "steam-5185890",
-    "appid": 5185890,
-    "nombre": "Zombies Aren't Real",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:06Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
-    "fin_visto": null,
-    "slug": "zombies-arent-real"
   },
   {
     "clave": "steam-311210",
@@ -94,28 +132,9 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-18T01:25:39Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
     "fin_visto": null,
     "slug": "call-of-duty-black-ops-iii"
-  },
-  {
-    "clave": "steam-1771300",
-    "appid": 1771300,
-    "nombre": "Kingdom Come: Deliverance II",
-    "descuento": 67,
-    "precio_normal": 44.99,
-    "precio": 14.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
-    "fin_visto": null,
-    "slug": "kingdom-come-deliverance-ii"
   },
   {
     "clave": "steam-12210",
@@ -132,7 +151,7 @@
     "termina": "2026-11-19T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-iv-the-complete-edition"
   },
@@ -151,9 +170,28 @@
     "termina": "2026-11-24T18:00:18Z",
     "vigente": true,
     "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "visto_ultimo": "2026-11-19T01:21:22Z",
     "fin_visto": null,
     "slug": "just-volleyball"
+  },
+  {
+    "clave": "steam-1771300",
+    "appid": 1771300,
+    "nombre": "Kingdom Come: Deliverance II",
+    "descuento": 67,
+    "precio_normal": 44.99,
+    "precio": 14.84,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-17T01:18:49Z",
+    "visto_ultimo": "2026-11-18T19:03:36Z",
+    "slug": "kingdom-come-deliverance-ii",
+    "fin_visto": "2026-11-19T01:21:22Z"
   },
   {
     "clave": "steam-4459590",
@@ -169,11 +207,11 @@
       "macOS"
     ],
     "termina": "2026-11-26T18:00:33Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-13T07:24:41Z",
     "visto_ultimo": "2026-11-18T19:03:36Z",
-    "fin_visto": null,
-    "slug": "legion-del-azar-slotbound"
+    "slug": "legion-del-azar-slotbound",
+    "fin_visto": "2026-11-19T01:21:22Z"
   },
   {
     "clave": "steam-5175310",
@@ -736,63 +774,5 @@
     "visto_ultimo": "2026-11-12T01:20:42Z",
     "slug": "casualties-unknown",
     "fin_visto": "2026-11-12T07:28:13Z"
-  },
-  {
-    "clave": "steam-3285880",
-    "appid": 3285880,
-    "nombre": "MONOMOON",
-    "descuento": 10,
-    "precio_normal": 6.49,
-    "precio": 5.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285880/d47979f80e7e19ff0ffca75f42ba98a6238a3ce4/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:18Z",
-    "vigente": false,
-    "visto_primero": "2026-11-11T19:04:01Z",
-    "visto_ultimo": "2026-11-11T19:04:01Z",
-    "slug": "monomoon",
-    "fin_visto": "2026-11-12T01:20:42Z"
-  },
-  {
-    "clave": "steam-4876650",
-    "appid": 4876650,
-    "nombre": "Nunca ordenes por color",
-    "descuento": 20,
-    "precio_normal": 5.99,
-    "precio": 4.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/6576cd2be946f03e6b3af445f785433662a3842a/header_spanish.jpg",
-    "plataformas": [
-      "Windows",
-      "Linux"
-    ],
-    "termina": "2026-11-17T18:00:32Z",
-    "vigente": false,
-    "visto_primero": "2026-11-11T01:11:47Z",
-    "visto_ultimo": "2026-11-11T19:04:01Z",
-    "slug": "nunca-ordenes-por-color",
-    "fin_visto": "2026-11-12T01:20:42Z"
-  },
-  {
-    "clave": "steam-4348910",
-    "appid": 4348910,
-    "nombre": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-    "descuento": 10,
-    "precio_normal": 8.99,
-    "precio": 8.09,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/66ad13c91ba06d7f0aa11b9fe0e53c3fe15bb9c3/header_alt_assets_3_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-11T17:00:39Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-11T13:17:08Z",
-    "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
-    "fin_visto": "2026-11-11T19:04:01Z"
   }
 ]

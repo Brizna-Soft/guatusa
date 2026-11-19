@@ -37,37 +37,37 @@
         "tamano": 108216769
       }
     ],
-    "leido": "2026-11-18T19:03:40Z"
+    "leido": "2026-11-19T01:21:25Z"
   },
   "Anuken/Mindustry": {
     "repo": "Anuken/Mindustry",
-    "etiqueta": "v160.7",
-    "version": "160.7",
-    "fecha": "2026-10-08T00:20:39Z",
-    "url": "https://github.com/Anuken/Mindustry/releases/tag/v160.7",
+    "etiqueta": "v160.8",
+    "version": "160.8",
+    "fecha": "2026-11-18T20:23:09Z",
+    "url": "https://github.com/Anuken/Mindustry/releases/tag/v160.8",
     "archivos": [
       {
         "nombre": "assets.jar",
-        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.7/assets.jar",
-        "tamano": 35390558
+        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.8/assets.jar",
+        "tamano": 35388104
       },
       {
         "nombre": "dependencies.jar",
-        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.7/dependencies.jar",
-        "tamano": 15442202
+        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.8/dependencies.jar",
+        "tamano": 15344152
       },
       {
         "nombre": "Mindustry.jar",
-        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.7/Mindustry.jar",
-        "tamano": 88677884
+        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.8/Mindustry.jar",
+        "tamano": 88583367
       },
       {
         "nombre": "server-release.jar",
-        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.7/server-release.jar",
-        "tamano": 19453000
+        "url": "https://github.com/Anuken/Mindustry/releases/download/v160.8/server-release.jar",
+        "tamano": 19353710
       }
     ],
-    "leido": "2026-11-18T19:03:40Z"
+    "leido": "2026-11-19T01:21:25Z"
   },
   "audacity/audacity": {
     "repo": "audacity/audacity",
@@ -132,7 +132,7 @@
         "tamano": 1632
       }
     ],
-    "leido": "2026-11-18T19:03:41Z"
+    "leido": "2026-11-19T01:21:27Z"
   },
   "Brizna-Soft/atarraya": {
     "repo": "Brizna-Soft/atarraya",
@@ -152,7 +152,7 @@
         "tamano": 89
       }
     ],
-    "leido": "2026-11-18T19:03:38Z"
+    "leido": "2026-11-19T01:21:24Z"
   },
   "Brizna-Soft/chachalaca": {
     "repo": "Brizna-Soft/chachalaca",
@@ -172,7 +172,7 @@
         "tamano": 91
       }
     ],
-    "leido": "2026-11-18T19:03:39Z"
+    "leido": "2026-11-19T01:21:25Z"
   },
   "Brizna-Soft/guara": {
     "repo": "Brizna-Soft/guara",
@@ -192,7 +192,7 @@
         "tamano": 86
       }
     ],
-    "leido": "2026-11-18T19:03:39Z"
+    "leido": "2026-11-19T01:21:24Z"
   },
   "Brizna-Soft/hntorrent-descargas": {
     "repo": "Brizna-Soft/hntorrent-descargas",
@@ -232,7 +232,7 @@
         "tamano": 179
       }
     ],
-    "leido": "2026-11-18T19:03:39Z"
+    "leido": "2026-11-19T01:21:25Z"
   },
   "Brizna-Soft/jicaro": {
     "repo": "Brizna-Soft/jicaro",
@@ -257,7 +257,7 @@
         "tamano": 87
       }
     ],
-    "leido": "2026-11-18T19:03:39Z"
+    "leido": "2026-11-19T01:21:24Z"
   },
   "Brizna-Soft/mapache": {
     "repo": "Brizna-Soft/mapache",
@@ -277,7 +277,7 @@
         "tamano": 88
       }
     ],
-    "leido": "2026-11-18T19:03:39Z"
+    "leido": "2026-11-19T01:21:24Z"
   },
   "Brizna-Soft/mosquitero": {
     "repo": "Brizna-Soft/mosquitero",
@@ -307,7 +307,7 @@
         "tamano": 95
       }
     ],
-    "leido": "2026-11-18T19:03:39Z"
+    "leido": "2026-11-19T01:21:24Z"
   },
   "endless-sky/endless-sky": {
     "repo": "endless-sky/endless-sky",
@@ -347,7 +347,7 @@
         "tamano": 364425528
       }
     ],
-    "leido": "2026-11-18T19:03:40Z"
+    "leido": "2026-11-19T01:21:26Z"
   },
   "HandBrake/HandBrake": {
     "repo": "HandBrake/HandBrake",
@@ -487,7 +487,7 @@
         "tamano": 566
       }
     ],
-    "leido": "2026-11-18T19:03:42Z"
+    "leido": "2026-11-19T01:21:27Z"
   },
   "keepassxreboot/keepassxc": {
     "repo": "keepassxreboot/keepassxc",
@@ -752,7 +752,7 @@
         "tamano": 488
       }
     ],
-    "leido": "2026-11-18T19:03:41Z"
+    "leido": "2026-11-19T01:21:26Z"
   },
   "kovidgoyal/calibre": {
     "repo": "kovidgoyal/calibre",
@@ -792,7 +792,7 @@
         "tamano": 259196168
       }
     ],
-    "leido": "2026-11-18T19:03:42Z"
+    "leido": "2026-11-19T01:21:27Z"
   },
   "luanti-org/luanti": {
     "repo": "luanti-org/luanti",
@@ -847,7 +847,7 @@
         "tamano": 14346225
       }
     ],
-    "leido": "2026-11-18T19:03:40Z"
+    "leido": "2026-11-19T01:21:25Z"
   },
   "microsoft/PowerToys": {
     "repo": "microsoft/PowerToys",
@@ -892,7 +892,7 @@
         "tamano": 450272344
       }
     ],
-    "leido": "2026-11-18T19:03:42Z"
+    "leido": "2026-11-19T01:21:28Z"
   },
   "mltframework/shotcut": {
     "repo": "mltframework/shotcut",
@@ -957,7 +957,7 @@
         "tamano": 158283009
       }
     ],
-    "leido": "2026-11-18T19:03:41Z"
+    "leido": "2026-11-19T01:21:27Z"
   },
   "notepad-plus-plus/notepad-plus-plus": {
     "repo": "notepad-plus-plus/notepad-plus-plus",
@@ -1107,7 +1107,7 @@
         "tamano": 594
       }
     ],
-    "leido": "2026-11-18T19:03:42Z"
+    "leido": "2026-11-19T01:21:28Z"
   },
   "obsproject/obs-studio": {
     "repo": "obsproject/obs-studio",
@@ -1177,7 +1177,7 @@
         "tamano": 223786669
       }
     ],
-    "leido": "2026-11-18T19:03:41Z"
+    "leido": "2026-11-19T01:21:27Z"
   },
   "OpenTTD/OpenTTD": {
     "repo": "OpenTTD/OpenTTD",
@@ -1186,7 +1186,7 @@
     "fecha": "2026-04-04T19:56:48Z",
     "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3",
     "archivos": [],
-    "leido": "2026-11-18T19:03:40Z"
+    "leido": "2026-11-19T01:21:25Z"
   },
   "pbatard/rufus": {
     "repo": "pbatard/rufus",
@@ -1231,7 +1231,7 @@
         "tamano": 256
       }
     ],
-    "leido": "2026-11-18T19:03:42Z"
+    "leido": "2026-11-19T01:21:28Z"
   },
   "ShareX/ShareX": {
     "repo": "ShareX/ShareX",
@@ -1251,7 +1251,7 @@
         "tamano": 145391368
       }
     ],
-    "leido": "2026-11-18T19:03:42Z"
+    "leido": "2026-11-19T01:21:28Z"
   },
   "SuperTux/supertux": {
     "repo": "SuperTux/supertux",
@@ -1336,7 +1336,7 @@
         "tamano": 277928552
       }
     ],
-    "leido": "2026-11-18T19:03:41Z"
+    "leido": "2026-11-19T01:21:26Z"
   },
   "supertuxkart/stk-code": {
     "repo": "supertuxkart/stk-code",
@@ -1411,7 +1411,7 @@
         "tamano": 183727403
       }
     ],
-    "leido": "2026-11-18T19:03:40Z"
+    "leido": "2026-11-19T01:21:25Z"
   },
   "Warzone2100/warzone2100": {
     "repo": "Warzone2100/warzone2100",
@@ -1511,7 +1511,7 @@
         "tamano": 393747010
       }
     ],
-    "leido": "2026-11-18T19:03:40Z"
+    "leido": "2026-11-19T01:21:26Z"
   },
   "yairm210/Unciv": {
     "repo": "yairm210/Unciv",
@@ -1556,6 +1556,6 @@
         "tamano": 22840479
       }
     ],
-    "leido": "2026-11-18T19:03:41Z"
+    "leido": "2026-11-19T01:21:26Z"
   }
 }

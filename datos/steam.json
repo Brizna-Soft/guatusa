@@ -188,6 +188,38 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:20Z"
     },
+    "1462040": {
+      "appid": 1462040,
+      "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Square Enix"
+      ],
+      "anio": 2022,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows® 10 64-bit (ver. 2004 or later)",
+        "Procesador: AMD FX-8350 / Intel® Core™ i5-3330",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: AMD Radeon™ RX 480 / NVIDIA® GeForce® GTX 780 / 3GB VRAM required",
+        "DirectX: Versión 12",
+        "Almacenamiento: 100 GB de espacio disponible",
+        "Notas adicionales: Assuming a Resolution of 1920 x 1080"
+      ],
+      "edad": 0,
+      "leido": "2026-11-19T01:21:30Z"
+    },
     "1677110": {
       "appid": 1677110,
       "nombre": "Lightyear Frontier",
@@ -1117,6 +1149,37 @@
       ],
       "edad": 0,
       "leido": "2026-11-13T07:24:48Z"
+    },
+    "2909400": {
+      "appid": 2909400,
+      "nombre": "FINAL FANTASY VII REBIRTH",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Square Enix"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows® 10 64-bit",
+        "Procesador: AMD Ryzen™ 5 1400 / Intel® Core™ i3-8100",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: AMD Radeon™ RX 6600 (RX 6600 or above required) / Intel® Arc™ A580 / NVIDIA® GeForce® RTX 2060 (RTX series required)",
+        "DirectX: Versión 12",
+        "Almacenamiento: 155 GB de espacio disponible"
+      ],
+      "edad": 13,
+      "leido": "2026-11-19T01:21:29Z"
     },
     "2912680": {
       "appid": 2912680,
