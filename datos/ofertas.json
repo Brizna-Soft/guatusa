@@ -14,7 +14,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "visto_ultimo": "2026-11-19T19:07:48Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-rebirth"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "visto_ultimo": "2026-11-19T19:07:48Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-remake-intergrade"
   },
@@ -52,47 +52,9 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "visto_ultimo": "2026-11-19T19:07:48Z",
     "fin_visto": null,
     "slug": "bodycam"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
-  },
-  {
-    "clave": "steam-12210",
-    "appid": 12210,
-    "nombre": "Grand Theft Auto IV: The Complete Edition",
-    "descuento": 70,
-    "precio_normal": 19.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
-    "fin_visto": null,
-    "slug": "grand-theft-auto-iv-the-complete-edition"
   },
   {
     "clave": "steam-3321460",
@@ -110,7 +72,7 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "visto_ultimo": "2026-11-19T19:07:48Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
   },
@@ -129,48 +91,9 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "visto_ultimo": "2026-11-19T19:07:48Z",
     "fin_visto": null,
     "slug": "kingdom-come-deliverance-ii"
-  },
-  {
-    "clave": "steam-4459590",
-    "appid": 4459590,
-    "nombre": "Legión del azar - Slotbound",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-26T18:00:33Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
-    "fin_visto": null,
-    "slug": "legion-del-azar-slotbound"
-  },
-  {
-    "clave": "steam-524220",
-    "appid": 524220,
-    "nombre": "NieR:Automata™",
-    "descuento": 60,
-    "precio_normal": 31.99,
-    "precio": 12.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T13:25:58Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
-    "fin_visto": null,
-    "slug": "nier-automata"
   },
   {
     "clave": "steam-5185890",
@@ -185,11 +108,11 @@
       "Windows"
     ],
     "termina": "2026-11-20T18:00:06Z",
-    "vigente": false,
+    "vigente": true,
     "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
-    "slug": "zombies-arent-real",
-    "fin_visto": "2026-11-19T13:25:58Z"
+    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "fin_visto": null,
+    "slug": "zombies-arent-real"
   },
   {
     "clave": "steam-3218350",
@@ -206,11 +129,30 @@
       "Linux"
     ],
     "termina": "2026-11-24T18:00:44Z",
-    "vigente": false,
+    "vigente": true,
     "visto_primero": "2026-11-17T13:16:57Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
-    "slug": "melvor-idle-2-a-runescape-adventure",
-    "fin_visto": "2026-11-19T13:25:58Z"
+    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "fin_visto": null,
+    "slug": "melvor-idle-2-a-runescape-adventure"
+  },
+  {
+    "clave": "steam-2215430",
+    "appid": 2215430,
+    "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+    "descuento": 50,
+    "precio_normal": 49.99,
+    "precio": 24.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T19:07:48Z",
+    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "fin_visto": null,
+    "slug": "ghost-of-tsushima-version-del-director"
   },
   {
     "clave": "steam-311210",
@@ -226,11 +168,88 @@
       "macOS"
     ],
     "termina": "2026-12-01T18:00:00Z",
-    "vigente": false,
+    "vigente": true,
     "visto_primero": "2026-11-18T01:25:39Z",
-    "visto_ultimo": "2026-11-19T01:21:22Z",
-    "slug": "call-of-duty-black-ops-iii",
-    "fin_visto": "2026-11-19T07:26:19Z"
+    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "fin_visto": null,
+    "slug": "call-of-duty-black-ops-iii"
+  },
+  {
+    "clave": "steam-524220",
+    "appid": 524220,
+    "nombre": "NieR:Automata™",
+    "descuento": 60,
+    "precio_normal": 31.99,
+    "precio": 12.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T13:25:58Z",
+    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "fin_visto": null,
+    "slug": "nier-automata"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "slug": "worst-class-ever",
+    "fin_visto": "2026-11-19T19:07:48Z"
+  },
+  {
+    "clave": "steam-12210",
+    "appid": 12210,
+    "nombre": "Grand Theft Auto IV: The Complete Edition",
+    "descuento": 70,
+    "precio_normal": 19.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "slug": "grand-theft-auto-iv-the-complete-edition",
+    "fin_visto": "2026-11-19T19:07:48Z"
+  },
+  {
+    "clave": "steam-4459590",
+    "appid": 4459590,
+    "nombre": "Legión del azar - Slotbound",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-26T18:00:33Z",
+    "vigente": false,
+    "visto_primero": "2026-11-13T07:24:41Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "slug": "legion-del-azar-slotbound",
+    "fin_visto": "2026-11-19T19:07:48Z"
   },
   {
     "clave": "steam-5037200",
@@ -735,25 +754,5 @@
     "visto_ultimo": "2026-11-12T19:02:22Z",
     "slug": "dreadmoor",
     "fin_visto": "2026-11-13T01:16:44Z"
-  },
-  {
-    "clave": "steam-4618570",
-    "appid": 4618570,
-    "nombre": "Booster Pack Heroes",
-    "descuento": 30,
-    "precio_normal": 5.69,
-    "precio": 3.98,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-24T18:00:05Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-12T13:20:56Z",
-    "slug": "booster-pack-heroes",
-    "fin_visto": "2026-11-12T19:02:22Z"
   }
 ]

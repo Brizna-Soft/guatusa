@@ -341,6 +341,36 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:24Z"
     },
+    "1933370": {
+      "appid": 1933370,
+      "nombre": "Mark of the Deep",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
+      "desarrollo": [
+        "Mad Mimic"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10+",
+        "Procesador: Dual Core 2.4 GHz",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: 1GB VRAM / DirectX 10+ support",
+        "DirectX: Versión 10",
+        "Almacenamiento: 5 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-19T19:07:56Z"
+    },
     "1985810": {
       "appid": 1985810,
       "nombre": "Call of Duty®: Black Ops Cold War",
@@ -461,6 +491,37 @@
       ],
       "edad": 0,
       "leido": "2026-11-02T07:32:38Z"
+    },
+    "2215430": {
+      "appid": 2215430,
+      "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Sucker Punch Productions",
+        "Nixxes Software"
+      ],
+      "anio": 2024,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10",
+        "Procesador: Intel Core i3-7100 or AMD Ryzen 3 1200",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 960 or AMD Radeon RX 5500 XT",
+        "Almacenamiento: 75 GB de espacio disponible",
+        "Notas adicionales: SSD Recommended"
+      ],
+      "edad": 17,
+      "leido": "2026-11-19T19:07:56Z"
     },
     "2223980": {
       "appid": 2223980,
@@ -2663,6 +2724,10 @@
     "mafiahotel": {
       "appid": 5090990,
       "leido": "2026-11-01T21:45:08Z"
+    },
+    "markofthedeep": {
+      "appid": 1933370,
+      "leido": "2026-11-19T19:07:48Z"
     },
     "quiztopiatheultimatetrivia": {
       "appid": 2912680,
