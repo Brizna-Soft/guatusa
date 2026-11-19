@@ -14,7 +14,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-rebirth"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-remake-intergrade"
   },
@@ -52,9 +52,47 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
     "fin_visto": null,
     "slug": "bodycam"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
+  },
+  {
+    "clave": "steam-12210",
+    "appid": 12210,
+    "nombre": "Grand Theft Auto IV: The Complete Edition",
+    "descuento": 70,
+    "precio_normal": 19.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-19T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-06T01:17:01Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "fin_visto": null,
+    "slug": "grand-theft-auto-iv-the-complete-edition"
   },
   {
     "clave": "steam-3321460",
@@ -72,66 +110,28 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
   },
   {
-    "clave": "steam-12210",
-    "appid": 12210,
-    "nombre": "Grand Theft Auto IV: The Complete Edition",
-    "descuento": 70,
-    "precio_normal": 19.99,
-    "precio": 5.99,
+    "clave": "steam-1771300",
+    "appid": 1771300,
+    "nombre": "Kingdom Come: Deliverance II",
+    "descuento": 67,
+    "precio_normal": 44.99,
+    "precio": 14.84,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-19T18:00:00Z",
+    "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
+    "visto_primero": "2026-11-17T01:18:49Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
     "fin_visto": null,
-    "slug": "grand-theft-auto-iv-the-complete-edition"
-  },
-  {
-    "clave": "steam-5185890",
-    "appid": 5185890,
-    "nombre": "Zombies Aren't Real",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:06Z",
-    "vigente": true,
-    "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
-    "fin_visto": null,
-    "slug": "zombies-arent-real"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
+    "slug": "kingdom-come-deliverance-ii"
   },
   {
     "clave": "steam-4459590",
@@ -149,9 +149,47 @@
     "termina": "2026-11-26T18:00:33Z",
     "vigente": true,
     "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-19T07:26:19Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
     "fin_visto": null,
     "slug": "legion-del-azar-slotbound"
+  },
+  {
+    "clave": "steam-524220",
+    "appid": 524220,
+    "nombre": "NieR:Automata™",
+    "descuento": 60,
+    "precio_normal": 31.99,
+    "precio": 12.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T13:25:58Z",
+    "visto_ultimo": "2026-11-19T13:25:58Z",
+    "fin_visto": null,
+    "slug": "nier-automata"
+  },
+  {
+    "clave": "steam-5185890",
+    "appid": 5185890,
+    "nombre": "Zombies Aren't Real",
+    "descuento": 10,
+    "precio_normal": 5.69,
+    "precio": 5.12,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T18:00:06Z",
+    "vigente": false,
+    "visto_primero": "2026-11-13T18:59:45Z",
+    "visto_ultimo": "2026-11-19T07:26:19Z",
+    "slug": "zombies-arent-real",
+    "fin_visto": "2026-11-19T13:25:58Z"
   },
   {
     "clave": "steam-3218350",
@@ -168,11 +206,11 @@
       "Linux"
     ],
     "termina": "2026-11-24T18:00:44Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-17T13:16:57Z",
     "visto_ultimo": "2026-11-19T07:26:19Z",
-    "fin_visto": null,
-    "slug": "melvor-idle-2-a-runescape-adventure"
+    "slug": "melvor-idle-2-a-runescape-adventure",
+    "fin_visto": "2026-11-19T13:25:58Z"
   },
   {
     "clave": "steam-311210",
@@ -212,25 +250,6 @@
     "visto_ultimo": "2026-11-19T01:21:22Z",
     "slug": "just-volleyball",
     "fin_visto": "2026-11-19T07:26:19Z"
-  },
-  {
-    "clave": "steam-1771300",
-    "appid": 1771300,
-    "nombre": "Kingdom Come: Deliverance II",
-    "descuento": 67,
-    "precio_normal": 44.99,
-    "precio": 14.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-18T19:03:36Z",
-    "slug": "kingdom-come-deliverance-ii",
-    "fin_visto": "2026-11-19T01:21:22Z"
   },
   {
     "clave": "steam-1985810",
@@ -736,43 +755,5 @@
     "visto_ultimo": "2026-11-12T13:20:56Z",
     "slug": "booster-pack-heroes",
     "fin_visto": "2026-11-12T19:02:22Z"
-  },
-  {
-    "clave": "steam-3669620",
-    "appid": 3669620,
-    "nombre": "Warhammer Survivors",
-    "descuento": 10,
-    "precio_normal": 4.99,
-    "precio": 4.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-17T18:00:59Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
-    "slug": "warhammer-survivors",
-    "fin_visto": "2026-11-12T07:28:13Z"
-  },
-  {
-    "clave": "steam-4576490",
-    "appid": 4576490,
-    "nombre": "Casualties: Unknown",
-    "descuento": 15,
-    "precio_normal": 12.49,
-    "precio": 10.61,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:23Z",
-    "vigente": false,
-    "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-12T01:20:42Z",
-    "slug": "casualties-unknown",
-    "fin_visto": "2026-11-12T07:28:13Z"
   }
 ]

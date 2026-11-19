@@ -2416,6 +2416,38 @@
       "edad": 0,
       "leido": "2026-11-16T15:13:06Z"
     },
+    "524220": {
+      "appid": 524220,
+      "nombre": "NieR:Automata™",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Square Enix",
+        "PlatinumGames Inc."
+      ],
+      "anio": 2017,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 7 /8.1 /10 64bit",
+        "Procesador: Intel Core i3 2100 or AMD A8-6500",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 770 VRAM 2GB or AMD Radeon R9 270X VRAM 2GB",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 50 GB de espacio disponible",
+        "Tarjeta de sonido: DirectX® 11 supported"
+      ],
+      "edad": 0,
+      "leido": "2026-11-19T13:26:01Z"
+    },
     "5266240": {
       "appid": 5266240,
       "nombre": "Potato Please",
