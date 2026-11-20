@@ -122,6 +122,35 @@
       "edad": 17,
       "leido": "2026-11-06T01:17:09Z"
     },
+    "1238810": {
+      "appid": 1238810,
+      "nombre": "Battlefield™ V",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción"
+      ],
+      "desarrollo": [
+        "DICE"
+      ],
+      "anio": 2020,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: 64-bit Windows 10",
+        "Procesador: AMD FX-8350/ Core i5 6600K",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GeForce® GTX 1050 / NVIDIA GeForce® GTX 660 2GB or AMD Radeon™ RX 560 / HD 7850 2GB",
+        "DirectX: Versión 11",
+        "Almacenamiento: 50 GB de espacio disponible"
+      ],
+      "edad": 17,
+      "leido": "2026-11-20T13:21:34Z"
+    },
     "1304930": {
       "appid": 1304930,
       "nombre": "The Outlast Trials",
