@@ -37,7 +37,7 @@
         "tamano": 108216769
       }
     ],
-    "leido": "2026-11-20T07:25:49Z"
+    "leido": "2026-11-20T19:08:05Z"
   },
   "Anuken/Mindustry": {
     "repo": "Anuken/Mindustry",
@@ -67,7 +67,7 @@
         "tamano": 19353710
       }
     ],
-    "leido": "2026-11-20T07:25:49Z"
+    "leido": "2026-11-20T19:08:05Z"
   },
   "audacity/audacity": {
     "repo": "audacity/audacity",
@@ -132,7 +132,7 @@
         "tamano": 1632
       }
     ],
-    "leido": "2026-11-20T07:25:51Z"
+    "leido": "2026-11-20T19:08:07Z"
   },
   "Brizna-Soft/atarraya": {
     "repo": "Brizna-Soft/atarraya",
@@ -152,7 +152,7 @@
         "tamano": 89
       }
     ],
-    "leido": "2026-11-20T07:25:47Z"
+    "leido": "2026-11-20T19:08:03Z"
   },
   "Brizna-Soft/chachalaca": {
     "repo": "Brizna-Soft/chachalaca",
@@ -172,7 +172,7 @@
         "tamano": 91
       }
     ],
-    "leido": "2026-11-20T07:25:48Z"
+    "leido": "2026-11-20T19:08:04Z"
   },
   "Brizna-Soft/guara": {
     "repo": "Brizna-Soft/guara",
@@ -192,7 +192,7 @@
         "tamano": 86
       }
     ],
-    "leido": "2026-11-20T07:25:48Z"
+    "leido": "2026-11-20T19:08:04Z"
   },
   "Brizna-Soft/hntorrent-descargas": {
     "repo": "Brizna-Soft/hntorrent-descargas",
@@ -232,7 +232,7 @@
         "tamano": 179
       }
     ],
-    "leido": "2026-11-20T07:25:48Z"
+    "leido": "2026-11-20T19:08:04Z"
   },
   "Brizna-Soft/jicaro": {
     "repo": "Brizna-Soft/jicaro",
@@ -257,7 +257,7 @@
         "tamano": 87
       }
     ],
-    "leido": "2026-11-20T07:25:48Z"
+    "leido": "2026-11-20T19:08:03Z"
   },
   "Brizna-Soft/mapache": {
     "repo": "Brizna-Soft/mapache",
@@ -277,7 +277,7 @@
         "tamano": 88
       }
     ],
-    "leido": "2026-11-20T07:25:48Z"
+    "leido": "2026-11-20T19:08:03Z"
   },
   "Brizna-Soft/mosquitero": {
     "repo": "Brizna-Soft/mosquitero",
@@ -307,7 +307,7 @@
         "tamano": 95
       }
     ],
-    "leido": "2026-11-20T07:25:48Z"
+    "leido": "2026-11-20T19:08:04Z"
   },
   "endless-sky/endless-sky": {
     "repo": "endless-sky/endless-sky",
@@ -347,7 +347,7 @@
         "tamano": 364425528
       }
     ],
-    "leido": "2026-11-20T07:25:50Z"
+    "leido": "2026-11-20T19:08:06Z"
   },
   "HandBrake/HandBrake": {
     "repo": "HandBrake/HandBrake",
@@ -487,7 +487,7 @@
         "tamano": 566
       }
     ],
-    "leido": "2026-11-20T07:25:51Z"
+    "leido": "2026-11-20T19:08:07Z"
   },
   "keepassxreboot/keepassxc": {
     "repo": "keepassxreboot/keepassxc",
@@ -752,7 +752,7 @@
         "tamano": 488
       }
     ],
-    "leido": "2026-11-20T07:25:50Z"
+    "leido": "2026-11-20T19:08:06Z"
   },
   "kovidgoyal/calibre": {
     "repo": "kovidgoyal/calibre",
@@ -792,7 +792,7 @@
         "tamano": 259196168
       }
     ],
-    "leido": "2026-11-20T07:25:51Z"
+    "leido": "2026-11-20T19:08:07Z"
   },
   "luanti-org/luanti": {
     "repo": "luanti-org/luanti",
@@ -847,7 +847,7 @@
         "tamano": 14346225
       }
     ],
-    "leido": "2026-11-20T07:25:49Z"
+    "leido": "2026-11-20T19:08:05Z"
   },
   "microsoft/PowerToys": {
     "repo": "microsoft/PowerToys",
@@ -892,7 +892,7 @@
         "tamano": 450272344
       }
     ],
-    "leido": "2026-11-20T07:25:52Z"
+    "leido": "2026-11-20T19:08:08Z"
   },
   "mltframework/shotcut": {
     "repo": "mltframework/shotcut",
@@ -957,7 +957,7 @@
         "tamano": 158283009
       }
     ],
-    "leido": "2026-11-20T07:25:51Z"
+    "leido": "2026-11-20T19:08:07Z"
   },
   "notepad-plus-plus/notepad-plus-plus": {
     "repo": "notepad-plus-plus/notepad-plus-plus",
@@ -1107,77 +1107,77 @@
         "tamano": 594
       }
     ],
-    "leido": "2026-11-20T07:25:52Z"
+    "leido": "2026-11-20T19:08:08Z"
   },
   "obsproject/obs-studio": {
     "repo": "obsproject/obs-studio",
-    "etiqueta": "33.0.1",
-    "version": "33.0.1",
-    "fecha": "2026-10-29T21:52:01Z",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.1",
+    "etiqueta": "33.0.2",
+    "version": "33.0.2",
+    "fecha": "2026-11-20T15:00:26Z",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.2",
     "archivos": [
       {
-        "nombre": "OBS-Studio-33.0.1-macOS-Apple-dSYMs.tar.xz",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple-dSYMs.tar.xz",
-        "tamano": 39297936
+        "nombre": "OBS-Studio-33.0.2-macOS-Apple-dSYMs.tar.xz",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Apple-dSYMs.tar.xz",
+        "tamano": 39285576
       },
       {
-        "nombre": "OBS-Studio-33.0.1-macOS-Apple.dmg",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Apple.dmg",
-        "tamano": 209628971
+        "nombre": "OBS-Studio-33.0.2-macOS-Apple.dmg",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Apple.dmg",
+        "tamano": 209592273
       },
       {
-        "nombre": "OBS-Studio-33.0.1-macOS-Intel-dSYMs.tar.xz",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel-dSYMs.tar.xz",
-        "tamano": 39994976
+        "nombre": "OBS-Studio-33.0.2-macOS-Intel-dSYMs.tar.xz",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Intel-dSYMs.tar.xz",
+        "tamano": 39991216
       },
       {
-        "nombre": "OBS-Studio-33.0.1-macOS-Intel.dmg",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-macOS-Intel.dmg",
-        "tamano": 221903179
+        "nombre": "OBS-Studio-33.0.2-macOS-Intel.dmg",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-macOS-Intel.dmg",
+        "tamano": 221815559
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Sources.tar.gz",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Sources.tar.gz",
-        "tamano": 16719400
+        "nombre": "OBS-Studio-33.0.2-Sources.tar.gz",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Sources.tar.gz",
+        "tamano": 16711822
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Ubuntu-26.04-x86_64-dbsym.ddeb",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64-dbsym.ddeb",
-        "tamano": 382267440
+        "nombre": "OBS-Studio-33.0.2-Ubuntu-26.04-x86_64-dbsym.ddeb",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Ubuntu-26.04-x86_64-dbsym.ddeb",
+        "tamano": 382261740
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Ubuntu-26.04-x86_64.deb",
-        "tamano": 159354224
+        "nombre": "OBS-Studio-33.0.2-Ubuntu-26.04-x86_64.deb",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Ubuntu-26.04-x86_64.deb",
+        "tamano": 159285590
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Windows-arm64-PDBs.zip",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64-PDBs.zip",
-        "tamano": 59758532
+        "nombre": "OBS-Studio-33.0.2-Windows-arm64-PDBs.zip",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-arm64-PDBs.zip",
+        "tamano": 59944043
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Windows-arm64.zip",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-arm64.zip",
-        "tamano": 200182561
+        "nombre": "OBS-Studio-33.0.2-Windows-arm64.zip",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-arm64.zip",
+        "tamano": 210103375
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Windows-x64-Installer.exe",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-Installer.exe",
-        "tamano": 186662440
+        "nombre": "OBS-Studio-33.0.2-Windows-x64-Installer.exe",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-x64-Installer.exe",
+        "tamano": 194122376
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Windows-x64-PDBs.zip",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64-PDBs.zip",
-        "tamano": 65912719
+        "nombre": "OBS-Studio-33.0.2-Windows-x64-PDBs.zip",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-x64-PDBs.zip",
+        "tamano": 66362215
       },
       {
-        "nombre": "OBS-Studio-33.0.1-Windows-x64.zip",
-        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.1/OBS-Studio-33.0.1-Windows-x64.zip",
-        "tamano": 223786669
+        "nombre": "OBS-Studio-33.0.2-Windows-x64.zip",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.2/OBS-Studio-33.0.2-Windows-x64.zip",
+        "tamano": 236160842
       }
     ],
-    "leido": "2026-11-20T07:25:51Z"
+    "leido": "2026-11-20T19:08:07Z"
   },
   "OpenTTD/OpenTTD": {
     "repo": "OpenTTD/OpenTTD",
@@ -1186,7 +1186,7 @@
     "fecha": "2026-04-04T19:56:48Z",
     "url": "https://github.com/OpenTTD/OpenTTD/releases/tag/15.3",
     "archivos": [],
-    "leido": "2026-11-20T07:25:49Z"
+    "leido": "2026-11-20T19:08:05Z"
   },
   "pbatard/rufus": {
     "repo": "pbatard/rufus",
@@ -1231,7 +1231,7 @@
         "tamano": 256
       }
     ],
-    "leido": "2026-11-20T07:25:52Z"
+    "leido": "2026-11-20T19:08:08Z"
   },
   "ShareX/ShareX": {
     "repo": "ShareX/ShareX",
@@ -1251,7 +1251,7 @@
         "tamano": 145391368
       }
     ],
-    "leido": "2026-11-20T07:25:52Z"
+    "leido": "2026-11-20T19:08:08Z"
   },
   "SuperTux/supertux": {
     "repo": "SuperTux/supertux",
@@ -1336,7 +1336,7 @@
         "tamano": 277928552
       }
     ],
-    "leido": "2026-11-20T07:25:50Z"
+    "leido": "2026-11-20T19:08:06Z"
   },
   "supertuxkart/stk-code": {
     "repo": "supertuxkart/stk-code",
@@ -1411,7 +1411,7 @@
         "tamano": 183727403
       }
     ],
-    "leido": "2026-11-20T07:25:49Z"
+    "leido": "2026-11-20T19:08:04Z"
   },
   "Warzone2100/warzone2100": {
     "repo": "Warzone2100/warzone2100",
@@ -1511,7 +1511,7 @@
         "tamano": 393747010
       }
     ],
-    "leido": "2026-11-20T07:25:50Z"
+    "leido": "2026-11-20T19:08:06Z"
   },
   "yairm210/Unciv": {
     "repo": "yairm210/Unciv",
@@ -1556,6 +1556,6 @@
         "tamano": 22840479
       }
     ],
-    "leido": "2026-11-20T07:25:50Z"
+    "leido": "2026-11-20T19:08:06Z"
   }
 }

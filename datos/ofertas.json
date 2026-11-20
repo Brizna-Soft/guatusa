@@ -14,7 +14,7 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
     "slug": "it-takes-two"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
   },
@@ -52,47 +52,9 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
     "slug": "bodycam"
-  },
-  {
-    "clave": "steam-2909400",
-    "appid": 2909400,
-    "nombre": "FINAL FANTASY VII REBIRTH",
-    "descuento": 85,
-    "precio_normal": 39.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
-    "fin_visto": null,
-    "slug": "final-fantasy-vii-rebirth"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-1817070",
@@ -109,28 +71,28 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
     "slug": "marvels-spider-man-remastered"
   },
   {
-    "clave": "steam-1462040",
-    "appid": 1462040,
-    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "descuento": 82,
-    "precio_normal": 31.99,
-    "precio": 5.75,
+    "clave": "steam-2909400",
+    "appid": 2909400,
+    "nombre": "FINAL FANTASY VII REBIRTH",
+    "descuento": 85,
+    "precio_normal": 39.99,
+    "precio": 5.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
     "plataformas": [
       "Windows"
     ],
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
-    "slug": "final-fantasy-vii-remake-intergrade"
+    "slug": "final-fantasy-vii-rebirth"
   },
   {
     "clave": "steam-1593500",
@@ -147,9 +109,48 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
     "slug": "god-of-war"
+  },
+  {
+    "clave": "steam-1462040",
+    "appid": 1462040,
+    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descuento": 82,
+    "precio_normal": 31.99,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-remake-intergrade"
+  },
+  {
+    "clave": "steam-3321460",
+    "appid": 3321460,
+    "nombre": "Crimson Desert Enhanced",
+    "descuento": 20,
+    "precio_normal": 69.99,
+    "precio": 55.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-30T08:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-16T08:53:27Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "fin_visto": null,
+    "slug": "crimson-desert-enhanced"
   },
   {
     "clave": "steam-2531310",
@@ -166,28 +167,28 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
     "slug": "the-last-of-us-parte-ii-remastered"
   },
   {
-    "clave": "steam-1238810",
-    "appid": 1238810,
-    "nombre": "Battlefield™ V",
-    "descuento": 95,
+    "clave": "steam-2075800",
+    "appid": 2075800,
+    "nombre": "STAR WARS Zero Company™",
+    "descuento": 20,
     "precio_normal": 49.99,
-    "precio": 2.49,
+    "precio": 39.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
     "plataformas": [
       "Windows"
     ],
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-20T13:21:29Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
-    "slug": "battlefield-v"
+    "slug": "star-wars-zero-company"
   },
   {
     "clave": "steam-4080220",
@@ -204,48 +205,47 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
     "fin_visto": null,
     "slug": "ea-sports-fc-27"
   },
   {
-    "clave": "steam-3321460",
-    "appid": 3321460,
-    "nombre": "Crimson Desert Enhanced",
-    "descuento": 20,
-    "precio_normal": 69.99,
-    "precio": 55.99,
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
     "plataformas": [
-      "Windows",
-      "macOS"
+      "Windows"
     ],
-    "termina": "2026-11-30T08:00:00Z",
+    "termina": "2026-11-23T18:00:11Z",
     "vigente": false,
-    "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-20T07:25:45Z",
-    "slug": "crimson-desert-enhanced",
-    "fin_visto": "2026-11-20T13:21:29Z"
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "slug": "worst-class-ever",
+    "fin_visto": "2026-11-20T19:08:00Z"
   },
   {
-    "clave": "steam-2075800",
-    "appid": 2075800,
-    "nombre": "STAR WARS Zero Company™",
-    "descuento": 20,
+    "clave": "steam-1238810",
+    "appid": 1238810,
+    "nombre": "Battlefield™ V",
+    "descuento": 95,
     "precio_normal": 49.99,
-    "precio": 39.99,
+    "precio": 2.49,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
     "plataformas": [
       "Windows"
     ],
     "termina": "2026-12-03T18:00:00Z",
     "vigente": false,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T07:25:45Z",
-    "slug": "star-wars-zero-company",
-    "fin_visto": "2026-11-20T13:21:29Z"
+    "visto_primero": "2026-11-20T13:21:29Z",
+    "visto_ultimo": "2026-11-20T13:21:29Z",
+    "slug": "battlefield-v",
+    "fin_visto": "2026-11-20T19:08:00Z"
   },
   {
     "clave": "steam-1771300",
@@ -811,43 +811,5 @@
     "visto_ultimo": "2026-11-13T18:59:45Z",
     "slug": "euro-truck-simulator-2-nordic-horizons",
     "fin_visto": "2026-11-14T01:08:37Z"
-  },
-  {
-    "clave": "steam-3816120",
-    "appid": 3816120,
-    "nombre": "重生2我独自逆袭 Re2 I Rise Alone",
-    "descuento": 20,
-    "precio_normal": 8.99,
-    "precio": 7.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/984b15718fc643fbb82a97c5e43201a52bd4ee32/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-27T18:00:02Z",
-    "vigente": false,
-    "visto_primero": "2026-11-13T13:16:24Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "slug": "2-re2-i-rise-alone",
-    "fin_visto": "2026-11-13T18:59:45Z"
-  },
-  {
-    "clave": "steam-4651080",
-    "appid": 4651080,
-    "nombre": "CelSector",
-    "descuento": 10,
-    "precio_normal": 9.09,
-    "precio": 8.18,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:47Z",
-    "vigente": false,
-    "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T13:16:24Z",
-    "slug": "celsector",
-    "fin_visto": "2026-11-13T18:59:45Z"
   }
 ]
