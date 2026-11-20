@@ -188,6 +188,37 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:20Z"
     },
+    "1426210": {
+      "appid": 1426210,
+      "nombre": "It Takes Two",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Hazelight Studios"
+      ],
+      "anio": 2021,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 8.1 64-bit or Windows 10 64-bit",
+        "Procesador: Intel Core i3-2100T or AMD FX 6100",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GeForce GTX 660 or AMD R7 260x",
+        "DirectX: Versión 11",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 50 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-20T01:15:33Z"
+    },
     "1462040": {
       "appid": 1462040,
       "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
@@ -219,6 +250,39 @@
       ],
       "edad": 0,
       "leido": "2026-11-19T01:21:30Z"
+    },
+    "1593500": {
+      "appid": 1593500,
+      "nombre": "God of War",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Santa Monica Studio",
+        "Jetpack Interactive"
+      ],
+      "anio": 2022,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10",
+        "Procesador: Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)",
+        "DirectX: Versión 11",
+        "Almacenamiento: 70 GB de espacio disponible",
+        "Notas adicionales: DirectX feature level 11_1 required"
+      ],
+      "edad": 17,
+      "leido": "2026-11-20T01:15:34Z"
     },
     "1677110": {
       "appid": 1677110,
@@ -340,6 +404,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-01T21:45:24Z"
+    },
+    "1817070": {
+      "appid": 1817070,
+      "nombre": "Marvel’s Spider-Man Remastered",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "desarrollo": [
+        "Insomniac Games",
+        "Nixxes Software"
+      ],
+      "anio": 2022,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64-bit",
+        "Procesador: Intel Core i3-4160, 3.6 GHz or AMD equivalent",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GTX 950 or AMD Radeon RX 470",
+        "DirectX: Versión 12",
+        "Almacenamiento: 75 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-20T01:15:33Z"
     },
     "1933370": {
       "appid": 1933370,
@@ -491,6 +587,40 @@
       ],
       "edad": 0,
       "leido": "2026-11-02T07:32:38Z"
+    },
+    "2075800": {
+      "appid": 2075800,
+      "nombre": "STAR WARS Zero Company™",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Rol",
+        "Simuladores",
+        "Deportes",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Bit Reactor"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: 64 bit Windows 10/11 (Windows 11 Recommended)",
+        "Procesador: Intel Core i5-8400 or Ryzen 5 2600X",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: Nvidia GeForce GTX 1080, Radeon RX 5600 XT, or Intel ARC B580",
+        "DirectX: Versión 12",
+        "Almacenamiento: 50 GB de espacio disponible",
+        "Notas adicionales: Resolution: 1920x1080 FPS: 30 Graphics Settings Preset: Low"
+      ],
+      "edad": 0,
+      "leido": "2026-11-20T01:15:33Z"
     },
     "2215430": {
       "appid": 2215430,
@@ -874,6 +1004,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-02T19:00:46Z"
+    },
+    "2531310": {
+      "appid": 2531310,
+      "nombre": "The Last of Us™ Parte II Remastered",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Naughty Dog LLC",
+        "Nixxes Software",
+        "Iron Galaxy Studios"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10/11 64-bit (version 1909 or higher)",
+        "Procesador: Intel Core i3-8100, AMD Ryzen 3 1300X",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 1650, AMD Radeon RX 5500XT",
+        "Almacenamiento: 150 GB de espacio disponible",
+        "Notas adicionales: SSD Required"
+      ],
+      "edad": 17,
+      "leido": "2026-11-20T01:15:34Z"
     },
     "2536520": {
       "appid": 2536520,
@@ -1865,6 +2027,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-13T13:16:26Z"
+    },
+    "4080220": {
+      "appid": 4080220,
+      "nombre": "EA SPORTS FC™ 27",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Simuladores",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "EA CANADA",
+        "EA Romania"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10/11 - 64-Bit (Latest Update).",
+        "Procesador: AMD Ryzen 5 1600 or Intel Core i5 6600k",
+        "Memoria: DDR4 Dual Channel 8 GB de RAM",
+        "Gráficos: AMD RX 570 or Nvidia GTX 1050 Ti",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 100 GB de espacio disponible",
+        "Notas adicionales: Estimated performance when set to \"\"Low\"\" preset: 1280x720 @ 60 FPS SSD Recommended"
+      ],
+      "edad": 0,
+      "leido": "2026-11-20T01:15:35Z"
     },
     "4171850": {
       "appid": 4171850,

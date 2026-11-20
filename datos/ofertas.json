@@ -1,5 +1,24 @@
 [
   {
+    "clave": "steam-2215430",
+    "appid": 2215430,
+    "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+    "descuento": 50,
+    "precio_normal": 49.99,
+    "precio": 24.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T19:07:48Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "ghost-of-tsushima-version-del-director"
+  },
+  {
     "clave": "steam-2909400",
     "appid": 2909400,
     "nombre": "FINAL FANTASY VII REBIRTH",
@@ -14,28 +33,9 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-rebirth"
-  },
-  {
-    "clave": "steam-1462040",
-    "appid": 1462040,
-    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "descuento": 82,
-    "precio_normal": 31.99,
-    "precio": 5.75,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
-    "fin_visto": null,
-    "slug": "final-fantasy-vii-remake-intergrade"
   },
   {
     "clave": "steam-2406770",
@@ -52,9 +52,104 @@
     "termina": "2026-11-20T21:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
     "fin_visto": null,
     "slug": "bodycam"
+  },
+  {
+    "clave": "steam-1426210",
+    "appid": 1426210,
+    "nombre": "It Takes Two",
+    "descuento": 80,
+    "precio_normal": 39.99,
+    "precio": 7.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "it-takes-two"
+  },
+  {
+    "clave": "steam-1462040",
+    "appid": 1462040,
+    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descuento": 82,
+    "precio_normal": 31.99,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-remake-intergrade"
+  },
+  {
+    "clave": "steam-2075800",
+    "appid": 2075800,
+    "nombre": "STAR WARS Zero Company™",
+    "descuento": 20,
+    "precio_normal": 49.99,
+    "precio": 39.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "star-wars-zero-company"
+  },
+  {
+    "clave": "steam-1817070",
+    "appid": 1817070,
+    "nombre": "Marvel’s Spider-Man Remastered",
+    "descuento": 60,
+    "precio_normal": 59.99,
+    "precio": 23.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "marvels-spider-man-remastered"
+  },
+  {
+    "clave": "steam-1593500",
+    "appid": 1593500,
+    "nombre": "God of War",
+    "descuento": 60,
+    "precio_normal": 49.99,
+    "precio": 19.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "god-of-war"
   },
   {
     "clave": "steam-3321460",
@@ -72,9 +167,47 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
+  },
+  {
+    "clave": "steam-2531310",
+    "appid": 2531310,
+    "nombre": "The Last of Us™ Parte II Remastered",
+    "descuento": 33,
+    "precio_normal": 39.99,
+    "precio": 26.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "the-last-of-us-parte-ii-remastered"
+  },
+  {
+    "clave": "steam-4080220",
+    "appid": 4080220,
+    "nombre": "EA SPORTS FC™ 27",
+    "descuento": 50,
+    "precio_normal": 69.99,
+    "precio": 34.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T01:15:23Z",
+    "fin_visto": null,
+    "slug": "ea-sports-fc-27"
   },
   {
     "clave": "steam-1771300",
@@ -89,11 +222,11 @@
       "Windows"
     ],
     "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-17T01:18:49Z",
     "visto_ultimo": "2026-11-19T19:07:48Z",
-    "fin_visto": null,
-    "slug": "kingdom-come-deliverance-ii"
+    "slug": "kingdom-come-deliverance-ii",
+    "fin_visto": "2026-11-20T01:15:23Z"
   },
   {
     "clave": "steam-5185890",
@@ -108,11 +241,11 @@
       "Windows"
     ],
     "termina": "2026-11-20T18:00:06Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-13T18:59:45Z",
     "visto_ultimo": "2026-11-19T19:07:48Z",
-    "fin_visto": null,
-    "slug": "zombies-arent-real"
+    "slug": "zombies-arent-real",
+    "fin_visto": "2026-11-20T01:15:23Z"
   },
   {
     "clave": "steam-3218350",
@@ -129,30 +262,11 @@
       "Linux"
     ],
     "termina": "2026-11-24T18:00:44Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-17T13:16:57Z",
     "visto_ultimo": "2026-11-19T19:07:48Z",
-    "fin_visto": null,
-    "slug": "melvor-idle-2-a-runescape-adventure"
-  },
-  {
-    "clave": "steam-2215430",
-    "appid": 2215430,
-    "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
-    "descuento": 50,
-    "precio_normal": 49.99,
-    "precio": 24.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
-    "fin_visto": null,
-    "slug": "ghost-of-tsushima-version-del-director"
+    "slug": "melvor-idle-2-a-runescape-adventure",
+    "fin_visto": "2026-11-20T01:15:23Z"
   },
   {
     "clave": "steam-311210",
@@ -168,11 +282,11 @@
       "macOS"
     ],
     "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-18T01:25:39Z",
     "visto_ultimo": "2026-11-19T19:07:48Z",
-    "fin_visto": null,
-    "slug": "call-of-duty-black-ops-iii"
+    "slug": "call-of-duty-black-ops-iii",
+    "fin_visto": "2026-11-20T01:15:23Z"
   },
   {
     "clave": "steam-524220",
@@ -187,11 +301,11 @@
       "Windows"
     ],
     "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-19T13:25:58Z",
     "visto_ultimo": "2026-11-19T19:07:48Z",
-    "fin_visto": null,
-    "slug": "nier-automata"
+    "slug": "nier-automata",
+    "fin_visto": "2026-11-20T01:15:23Z"
   },
   {
     "clave": "steam-5175310",
