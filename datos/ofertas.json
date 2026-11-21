@@ -14,7 +14,7 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "it-takes-two"
   },
@@ -33,28 +33,9 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
-  },
-  {
-    "clave": "steam-1817070",
-    "appid": 1817070,
-    "nombre": "Marvel’s Spider-Man Remastered",
-    "descuento": 60,
-    "precio_normal": 59.99,
-    "precio": 23.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
-    "fin_visto": null,
-    "slug": "marvels-spider-man-remastered"
   },
   {
     "clave": "steam-2483190",
@@ -71,9 +52,47 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-21T01:19:22Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "forza-horizon-6"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": true,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
+    "fin_visto": null,
+    "slug": "worst-class-ever"
+  },
+  {
+    "clave": "steam-1817070",
+    "appid": 1817070,
+    "nombre": "Marvel’s Spider-Man Remastered",
+    "descuento": 60,
+    "precio_normal": 59.99,
+    "precio": 23.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
+    "fin_visto": null,
+    "slug": "marvels-spider-man-remastered"
   },
   {
     "clave": "steam-2909400",
@@ -90,7 +109,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-rebirth"
   },
@@ -109,9 +128,28 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-remake-intergrade"
+  },
+  {
+    "clave": "steam-1551360",
+    "appid": 1551360,
+    "nombre": "Forza Horizon 5",
+    "descuento": 60,
+    "precio_normal": 32.78,
+    "precio": 13.11,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
+    "fin_visto": null,
+    "slug": "forza-horizon-5"
   },
   {
     "clave": "steam-1593500",
@@ -128,7 +166,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "god-of-war"
   },
@@ -148,47 +186,9 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
-  },
-  {
-    "clave": "steam-1551360",
-    "appid": 1551360,
-    "nombre": "Forza Horizon 5",
-    "descuento": 60,
-    "precio_normal": 32.78,
-    "precio": 13.11,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-21T07:17:49Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
-    "fin_visto": null,
-    "slug": "forza-horizon-5"
-  },
-  {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:11Z",
-    "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
-    "fin_visto": null,
-    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-4080220",
@@ -205,7 +205,7 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-21T13:03:51Z",
     "fin_visto": null,
     "slug": "ea-sports-fc-27"
   },
@@ -769,24 +769,5 @@
     "visto_ultimo": "2026-11-14T12:58:02Z",
     "slug": "www",
     "fin_visto": "2026-11-14T18:50:58Z"
-  },
-  {
-    "clave": "steam-2638080",
-    "appid": 2638080,
-    "nombre": "Annihilated",
-    "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/e44c696c243b2fc64b65eb2ef439ef3535ba1e40/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:33Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T13:10:09Z",
-    "visto_ultimo": "2026-11-14T07:08:22Z",
-    "slug": "annihilated",
-    "fin_visto": "2026-11-14T12:58:02Z"
   }
 ]
