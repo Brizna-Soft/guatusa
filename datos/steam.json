@@ -280,6 +280,40 @@
       "edad": 0,
       "leido": "2026-11-19T01:21:30Z"
     },
+    "1551360": {
+      "appid": 1551360,
+      "nombre": "Forza Horizon 5",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Carreras",
+        "Simuladores",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "Playground Games"
+      ],
+      "anio": 2021,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 version 18362.0 or higher",
+        "Procesador: Intel i5-4460 or AMD Ryzen 3 1200",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVidia GTX 970, AMD RX 470, OR Intel Arc A380",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 110 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-21T07:17:52Z"
+    },
     "1593500": {
       "appid": 1593500,
       "nombre": "God of War",
