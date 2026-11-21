@@ -14,7 +14,7 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "it-takes-two"
   },
@@ -33,28 +33,9 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
-  },
-  {
-    "clave": "steam-2406770",
-    "appid": 2406770,
-    "nombre": "Bodycam",
-    "descuento": 20,
-    "precio_normal": 17.99,
-    "precio": 14.39,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T21:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
-    "fin_visto": null,
-    "slug": "bodycam"
   },
   {
     "clave": "steam-1817070",
@@ -71,7 +52,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "marvels-spider-man-remastered"
   },
@@ -90,7 +71,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-rebirth"
   },
@@ -109,7 +90,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "god-of-war"
   },
@@ -128,7 +109,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-remake-intergrade"
   },
@@ -148,9 +129,28 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
+  },
+  {
+    "clave": "steam-2483190",
+    "appid": 2483190,
+    "nombre": "Forza Horizon 6",
+    "descuento": 25,
+    "precio_normal": 48.99,
+    "precio": 36.74,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-21T01:19:22Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
+    "fin_visto": null,
+    "slug": "forza-horizon-6"
   },
   {
     "clave": "steam-2531310",
@@ -167,28 +167,28 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "the-last-of-us-parte-ii-remastered"
   },
   {
-    "clave": "steam-2075800",
-    "appid": 2075800,
-    "nombre": "STAR WARS Zero Company™",
-    "descuento": 20,
-    "precio_normal": 49.99,
-    "precio": 39.99,
+    "clave": "steam-1808500",
+    "appid": 1808500,
+    "nombre": "ARC Raiders",
+    "descuento": 50,
+    "precio_normal": 39.99,
+    "precio": 19.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-03T18:00:00Z",
+    "termina": "2026-12-03T17:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_primero": "2026-11-21T01:19:22Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
-    "slug": "star-wars-zero-company"
+    "slug": "arc-raiders"
   },
   {
     "clave": "steam-4080220",
@@ -205,9 +205,47 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "visto_ultimo": "2026-11-21T01:19:22Z",
     "fin_visto": null,
     "slug": "ea-sports-fc-27"
+  },
+  {
+    "clave": "steam-2406770",
+    "appid": 2406770,
+    "nombre": "Bodycam",
+    "descuento": 20,
+    "precio_normal": 17.99,
+    "precio": 14.39,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-20T21:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-14T01:08:37Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "slug": "bodycam",
+    "fin_visto": "2026-11-21T01:19:22Z"
+  },
+  {
+    "clave": "steam-2075800",
+    "appid": 2075800,
+    "nombre": "STAR WARS Zero Company™",
+    "descuento": 20,
+    "precio_normal": 49.99,
+    "precio": 39.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-20T19:08:00Z",
+    "slug": "star-wars-zero-company",
+    "fin_visto": "2026-11-21T01:19:22Z"
   },
   {
     "clave": "steam-5175310",
@@ -770,46 +808,5 @@
     "visto_ultimo": "2026-11-14T01:08:37Z",
     "slug": "9-kings",
     "fin_visto": "2026-11-14T07:08:22Z"
-  },
-  {
-    "clave": "steam-4493130",
-    "appid": 4493130,
-    "nombre": "Ski-E-O! Imperio en la nieve",
-    "descuento": 10,
-    "precio_normal": 10.49,
-    "precio": 9.44,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493130/93ee3271427e03b561e34ab7f1633754a0a677f5/header_spanish.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-26T18:00:19Z",
-    "vigente": false,
-    "visto_primero": "2026-11-13T01:16:44Z",
-    "visto_ultimo": "2026-11-13T18:59:45Z",
-    "slug": "ski-e-o-imperio-en-la-nieve",
-    "fin_visto": "2026-11-14T01:08:37Z"
-  },
-  {
-    "clave": "steam-2780810",
-    "appid": 2780810,
-    "nombre": "Euro Truck Simulator 2 - Nordic Horizons",
-    "descuento": 10,
-    "precio_normal": 9.55,
-    "precio": 8.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-24T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-10T19:00:21Z",
-    "visto_ultimo": "2026-11-13T18:59:45Z",
-    "slug": "euro-truck-simulator-2-nordic-horizons",
-    "fin_visto": "2026-11-14T01:08:37Z"
   }
 ]

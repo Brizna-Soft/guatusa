@@ -434,6 +434,34 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:24Z"
     },
+    "1808500": {
+      "appid": 1808500,
+      "nombre": "ARC Raiders",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción"
+      ],
+      "desarrollo": [
+        "Embark Studios"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10 or later 64-bit (latest update)",
+        "Procesador: Intel Core i5-6600K or AMD Ryzen R5 1600 processor",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580 or Intel Arc A380",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet"
+      ],
+      "edad": 0,
+      "leido": "2026-11-21T01:19:30Z"
+    },
     "1817070": {
       "appid": 1817070,
       "nombre": "Marvel’s Spider-Man Remastered",
@@ -937,6 +965,39 @@
       ],
       "edad": 0,
       "leido": "2026-11-06T01:17:09Z"
+    },
+    "2483190": {
+      "appid": 2483190,
+      "nombre": "Forza Horizon 6",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Carreras",
+        "Simuladores",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "Playground Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 22H2 (version 19045) or higher",
+        "Procesador: Intel i5-8400 OR AMD Ryzen 5 1600",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: Nvidia GTX 1650 OR AMD RX 6500 XT OR Intel Arc A380",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 167 GB de espacio disponible",
+        "Notas adicionales: SSD Required"
+      ],
+      "edad": 0,
+      "leido": "2026-11-21T01:19:30Z"
     },
     "2487190": {
       "appid": 2487190,
