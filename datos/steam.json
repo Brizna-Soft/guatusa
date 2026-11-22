@@ -937,6 +937,36 @@
       "edad": 0,
       "leido": "2026-11-05T19:01:48Z"
     },
+    "2420110": {
+      "appid": 2420110,
+      "nombre": "Horizon Forbidden West™ Complete Edition",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Guerrilla",
+        "Nixxes Software"
+      ],
+      "anio": 2024,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10 64-bit (version 1909 or higher)",
+        "Procesador: Intel Core i3-8100 or AMD Ryzen 3 1300X",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 1650 4GB or AMD Radeon RX 5500XT 4GB",
+        "Almacenamiento: 150 GB de espacio disponible",
+        "Notas adicionales: 150GB SSD Space"
+      ],
+      "edad": 13,
+      "leido": "2026-11-22T01:15:43Z"
+    },
     "2440760": {
       "appid": 2440760,
       "nombre": "GRAVHOUNDS",
