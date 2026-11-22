@@ -14,7 +14,7 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "it-takes-two"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
   },
@@ -52,28 +52,28 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "marvels-spider-man-remastered"
   },
   {
-    "clave": "steam-1462040",
-    "appid": 1462040,
-    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "descuento": 82,
-    "precio_normal": 31.99,
-    "precio": 5.75,
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-02T18:00:00Z",
+    "termina": "2026-11-23T18:00:11Z",
     "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
-    "slug": "final-fantasy-vii-remake-intergrade"
+    "slug": "worst-class-ever"
   },
   {
     "clave": "steam-2909400",
@@ -90,7 +90,7 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-rebirth"
   },
@@ -109,9 +109,28 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-21T01:19:22Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "forza-horizon-6"
+  },
+  {
+    "clave": "steam-1462040",
+    "appid": 1462040,
+    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descuento": 82,
+    "precio_normal": 31.99,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-remake-intergrade"
   },
   {
     "clave": "steam-3321460",
@@ -129,28 +148,9 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
-  },
-  {
-    "clave": "steam-1551360",
-    "appid": 1551360,
-    "nombre": "Forza Horizon 5",
-    "descuento": 60,
-    "precio_normal": 32.78,
-    "precio": 13.11,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-21T07:17:49Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
-    "fin_visto": null,
-    "slug": "forza-horizon-5"
   },
   {
     "clave": "steam-1593500",
@@ -167,28 +167,28 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "god-of-war"
   },
   {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
+    "clave": "steam-1551360",
+    "appid": 1551360,
+    "nombre": "Forza Horizon 5",
+    "descuento": 60,
+    "precio_normal": 32.78,
+    "precio": 13.11,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-23T18:00:11Z",
+    "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_primero": "2026-11-21T07:17:49Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
-    "slug": "worst-class-ever"
+    "slug": "forza-horizon-5"
   },
   {
     "clave": "steam-4080220",
@@ -205,7 +205,7 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-22T07:18:35Z",
+    "visto_ultimo": "2026-11-22T13:01:53Z",
     "fin_visto": null,
     "slug": "ea-sports-fc-27"
   },
@@ -729,45 +729,5 @@
     "visto_ultimo": "2026-11-15T12:59:44Z",
     "slug": "potato-please",
     "fin_visto": "2026-11-15T18:52:36Z"
-  },
-  {
-    "clave": "steam-3527290",
-    "appid": 3527290,
-    "nombre": "PEAK",
-    "descuento": 38,
-    "precio_normal": 3.99,
-    "precio": 2.47,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-15T10:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-15T07:11:34Z",
-    "slug": "peak",
-    "fin_visto": "2026-11-15T12:59:44Z"
-  },
-  {
-    "clave": "steam-2868840",
-    "appid": 2868840,
-    "nombre": "Slay the Spire 2",
-    "descuento": 20,
-    "precio_normal": 11.99,
-    "precio": 9.59,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-26T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-15T07:11:34Z",
-    "slug": "slay-the-spire-2",
-    "fin_visto": "2026-11-15T12:59:44Z"
   }
 ]
