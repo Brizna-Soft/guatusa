@@ -16,7 +16,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "lonesome-village"
   },
@@ -37,7 +37,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "mark-of-the-deep"
   },
@@ -58,7 +58,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-17T19:09:50Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "contractor-the-clean-up-part-2"
   },
@@ -79,30 +79,9 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "my-darkest-witch"
-  },
-  {
-    "clave": "gp-3830",
-    "id": 3830,
-    "nombre": "Free itch.io Games Bundle",
-    "tienda": "itch",
-    "tienda_texto": "",
-    "plataformas": "PC, Itch.io, DRM-Free",
-    "valor": 384.0,
-    "imagen": "https://www.gamerpower.com/offers/1b/6ae264e50edb5.jpg",
-    "url": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
-    "url_fuente": "https://www.gamerpower.com/free-itch-io-games-bundle",
-    "publicado": "2026-10-28T23:11:01Z",
-    "termina": "2026-11-23T05:59:00Z",
-    "es_clave": false,
-    "es_paquete": true,
-    "vigente": true,
-    "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
-    "fin_visto": null,
-    "slug": "free-itch-io-games-bundle"
   },
   {
     "clave": "gp-3340",
@@ -121,7 +100,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "ancient-evil"
   },
@@ -142,7 +121,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "last-room"
   },
@@ -163,7 +142,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "best-plumber"
   },
@@ -184,7 +163,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "sausage-hunter"
   },
@@ -205,7 +184,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "battle-ram"
   },
@@ -226,7 +205,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "leaper"
   },
@@ -247,7 +226,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "dwarven-realms"
   },
@@ -268,7 +247,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "gigabash"
   },
@@ -289,7 +268,7 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "sharknado-vr"
   },
@@ -310,9 +289,30 @@
     "es_paquete": false,
     "vigente": true,
     "visto_primero": "2026-11-01T21:42:17Z",
-    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "visto_ultimo": "2026-11-23T01:22:31Z",
     "fin_visto": null,
     "slug": "dual-chroma-academy-carols"
+  },
+  {
+    "clave": "gp-3830",
+    "id": 3830,
+    "nombre": "Free itch.io Games Bundle",
+    "tienda": "itch",
+    "tienda_texto": "",
+    "plataformas": "PC, Itch.io, DRM-Free",
+    "valor": 384.0,
+    "imagen": "https://www.gamerpower.com/offers/1b/6ae264e50edb5.jpg",
+    "url": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
+    "url_fuente": "https://www.gamerpower.com/free-itch-io-games-bundle",
+    "publicado": "2026-10-28T23:11:01Z",
+    "termina": "2026-11-23T05:59:00Z",
+    "es_clave": false,
+    "es_paquete": true,
+    "vigente": false,
+    "visto_primero": "2026-11-01T21:42:17Z",
+    "visto_ultimo": "2026-11-22T18:56:37Z",
+    "slug": "free-itch-io-games-bundle",
+    "fin_visto": "2026-11-23T01:22:31Z"
   },
   {
     "clave": "gp-3850",
