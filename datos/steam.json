@@ -679,6 +679,37 @@
       "edad": 0,
       "leido": "2026-11-02T07:32:38Z"
     },
+    "2052410": {
+      "appid": 2052410,
+      "nombre": "WITCH ON THE HOLY NIGHT",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura"
+      ],
+      "desarrollo": [
+        "TYPE-MOON",
+        "Lasengle Inc.",
+        "Hunex"
+      ],
+      "anio": 2023,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10(64bit)",
+        "Procesador: The 4th generation Intel® Core™ processor",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Intel HD Graphics",
+        "DirectX: Versión 11",
+        "Almacenamiento: 17 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-23T13:29:06Z"
+    },
     "2075800": {
       "appid": 2075800,
       "nombre": "STAR WARS Zero Company™",
