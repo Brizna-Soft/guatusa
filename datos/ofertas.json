@@ -1,5 +1,24 @@
 [
   {
+    "clave": "steam-3240220",
+    "appid": 3240220,
+    "nombre": "Grand Theft Auto V Enhanced",
+    "descuento": 56,
+    "precio_normal": 44.99,
+    "precio": 19.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "fin_visto": null,
+    "slug": "grand-theft-auto-v-enhanced"
+  },
+  {
     "clave": "steam-1426210",
     "appid": 1426210,
     "nombre": "It Takes Two",
@@ -14,28 +33,28 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
     "fin_visto": null,
     "slug": "it-takes-two"
   },
   {
-    "clave": "steam-5175310",
-    "appid": 5175310,
-    "nombre": "Worst Class Ever",
-    "descuento": 35,
-    "precio_normal": 4.29,
-    "precio": 2.78,
+    "clave": "steam-1174180",
+    "appid": 1174180,
+    "nombre": "Red Dead Redemption 2",
+    "descuento": 75,
+    "precio_normal": 59.99,
+    "precio": 14.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-11-23T18:00:11Z",
+    "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-10T07:16:36Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
     "fin_visto": null,
-    "slug": "worst-class-ever"
+    "slug": "red-dead-redemption-2"
   },
   {
     "clave": "steam-2215430",
@@ -52,66 +71,9 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
-  },
-  {
-    "clave": "steam-1462040",
-    "appid": 1462040,
-    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "descuento": 82,
-    "precio_normal": 31.99,
-    "precio": 5.75,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
-    "fin_visto": null,
-    "slug": "final-fantasy-vii-remake-intergrade"
-  },
-  {
-    "clave": "steam-2909400",
-    "appid": 2909400,
-    "nombre": "FINAL FANTASY VII REBIRTH",
-    "descuento": 85,
-    "precio_normal": 39.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
-    "fin_visto": null,
-    "slug": "final-fantasy-vii-rebirth"
-  },
-  {
-    "clave": "steam-2483190",
-    "appid": 2483190,
-    "nombre": "Forza Horizon 6",
-    "descuento": 25,
-    "precio_normal": 48.99,
-    "precio": 36.74,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-21T01:19:22Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
-    "fin_visto": null,
-    "slug": "forza-horizon-6"
   },
   {
     "clave": "steam-3321460",
@@ -129,9 +91,85 @@
     "termina": "2026-11-30T08:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
     "fin_visto": null,
     "slug": "crimson-desert-enhanced"
+  },
+  {
+    "clave": "steam-2483190",
+    "appid": 2483190,
+    "nombre": "Forza Horizon 6",
+    "descuento": 25,
+    "precio_normal": 48.99,
+    "precio": 36.74,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-21T01:19:22Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "fin_visto": null,
+    "slug": "forza-horizon-6"
+  },
+  {
+    "clave": "steam-2909400",
+    "appid": 2909400,
+    "nombre": "FINAL FANTASY VII REBIRTH",
+    "descuento": 85,
+    "precio_normal": 39.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-rebirth"
+  },
+  {
+    "clave": "steam-5303130",
+    "appid": 5303130,
+    "nombre": "Workers & Resources: Soviet Republic - Space Program",
+    "descuento": 10,
+    "precio_normal": 9.99,
+    "precio": 8.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303130/3b11896954569cea4efc567b637807ca1b338683/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:04Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "fin_visto": null,
+    "slug": "workers-y-resources-soviet-republic-space-program"
+  },
+  {
+    "clave": "steam-1462040",
+    "appid": 1462040,
+    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descuento": 82,
+    "precio_normal": 31.99,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-remake-intergrade"
   },
   {
     "clave": "steam-1817070",
@@ -148,28 +186,9 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
     "fin_visto": null,
     "slug": "marvels-spider-man-remastered"
-  },
-  {
-    "clave": "steam-2052410",
-    "appid": 2052410,
-    "nombre": "WITCH ON THE HOLY NIGHT",
-    "descuento": 50,
-    "precio_normal": 26.99,
-    "precio": 13.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T15:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-23T13:29:03Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
-    "fin_visto": null,
-    "slug": "witch-on-the-holy-night"
   },
   {
     "clave": "steam-4080220",
@@ -186,9 +205,66 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
     "fin_visto": null,
     "slug": "ea-sports-fc-27"
+  },
+  {
+    "clave": "steam-4435490",
+    "appid": 4435490,
+    "nombre": "Call of Duty®: Modern Warfare® 4",
+    "descuento": 15,
+    "precio_normal": 69.99,
+    "precio": 59.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "fin_visto": null,
+    "slug": "call-of-duty-modern-warfare-4"
+  },
+  {
+    "clave": "steam-5175310",
+    "appid": 5175310,
+    "nombre": "Worst Class Ever",
+    "descuento": 35,
+    "precio_normal": 4.29,
+    "precio": 2.78,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/a53c176293212f69941c443bf595238853135ae3/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-23T18:00:11Z",
+    "vigente": false,
+    "visto_primero": "2026-11-10T07:16:36Z",
+    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "slug": "worst-class-ever",
+    "fin_visto": "2026-11-23T19:10:27Z"
+  },
+  {
+    "clave": "steam-2052410",
+    "appid": 2052410,
+    "nombre": "WITCH ON THE HOLY NIGHT",
+    "descuento": 50,
+    "precio_normal": 26.99,
+    "precio": 13.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T15:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-23T13:29:03Z",
+    "visto_ultimo": "2026-11-23T13:29:03Z",
+    "slug": "witch-on-the-holy-night",
+    "fin_visto": "2026-11-23T19:10:27Z"
   },
   {
     "clave": "steam-1593500",
@@ -653,62 +729,5 @@
     "visto_ultimo": "2026-11-16T19:02:15Z",
     "slug": "euro-truck-simulator-2",
     "fin_visto": "2026-11-17T01:18:49Z"
-  },
-  {
-    "clave": "steam-2584270",
-    "appid": 2584270,
-    "nombre": "Mortal Shell II",
-    "descuento": 25,
-    "precio_normal": 34.99,
-    "precio": 26.24,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-16T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-09T19:00:07Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
-    "slug": "mortal-shell-ii",
-    "fin_visto": "2026-11-16T19:02:15Z"
-  },
-  {
-    "clave": "steam-4444800",
-    "appid": 4444800,
-    "nombre": "Obey Me! Sinner's Choice: Lucifer",
-    "descuento": 10,
-    "precio_normal": 14.49,
-    "precio": 13.04,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444800/a78a93680ac92f994b0cc2574f539aa29d33fcb2/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-22T18:00:08Z",
-    "vigente": false,
-    "visto_primero": "2026-11-16T15:12:57Z",
-    "visto_ultimo": "2026-11-16T15:12:57Z",
-    "slug": "obey-me-sinners-choice-lucifer",
-    "fin_visto": "2026-11-16T19:02:15Z"
-  },
-  {
-    "clave": "steam-266410",
-    "appid": 266410,
-    "nombre": "iRacing",
-    "descuento": 60,
-    "precio_normal": 6.37,
-    "precio": 2.54,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-16T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-16T08:53:27Z",
-    "slug": "iracing",
-    "fin_visto": "2026-11-16T15:12:57Z"
   }
 ]

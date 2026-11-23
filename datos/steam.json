@@ -60,6 +60,37 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:15Z"
     },
+    "1174180": {
+      "appid": 1174180,
+      "nombre": "Red Dead Redemption 2",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Rockstar Games"
+      ],
+      "anio": 2019,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 - 64-bit",
+        "Procesador: Intel® Core™ i5-2500K / AMD FX-6300",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 150 GB de espacio disponible",
+        "Tarjeta de sonido: Direct X Compatible"
+      ],
+      "edad": 17,
+      "leido": "2026-11-23T19:10:37Z"
+    },
     "1211600": {
       "appid": 1211600,
       "nombre": "ZED ZONE",
@@ -2363,6 +2394,43 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:21Z"
     },
+    "4435490": {
+      "appid": 4435490,
+      "nombre": "Call of Duty®: Modern Warfare® 4",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción"
+      ],
+      "desarrollo": [
+        "Infinity Ward",
+        "Beenox",
+        "Digital Legends",
+        "Activision Shanghai",
+        "Raven Software",
+        "Treyarch",
+        "Sledgehammer Games",
+        "High Moon Studios"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows® 10 64 Bit (última actualización)*",
+        "Procesador: AMD Ryzen™ 5 1400 o Intel® Core™ i5-6600",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 o Intel® Arc™ A580",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 115 GB de espacio disponible",
+        "Tarjeta de sonido: Compatible con DirectX"
+      ],
+      "edad": 17,
+      "leido": "2026-11-23T19:10:38Z"
+    },
     "4444800": {
       "appid": 4444800,
       "nombre": "Obey Me! Sinner's Choice: Lucifer",
@@ -2917,6 +2985,30 @@
       ],
       "edad": 0,
       "leido": "2026-11-03T18:59:30Z"
+    },
+    "5303130": {
+      "appid": 5303130,
+      "nombre": "Workers & Resources: Soviet Republic - Space Program",
+      "tipo": "dlc",
+      "gratis": false,
+      "generos": [
+        "Simuladores",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "3Division"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      "edad": 0,
+      "leido": "2026-11-23T19:10:37Z"
     },
     "5378110": {
       "appid": 5378110,
