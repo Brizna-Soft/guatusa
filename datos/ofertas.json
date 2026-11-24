@@ -1,5 +1,43 @@
 [
   {
+    "clave": "steam-1174180",
+    "appid": 1174180,
+    "nombre": "Red Dead Redemption 2",
+    "descuento": 75,
+    "precio_normal": 59.99,
+    "precio": 14.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
+    "fin_visto": null,
+    "slug": "red-dead-redemption-2"
+  },
+  {
+    "clave": "steam-3768760",
+    "appid": 3768760,
+    "nombre": "007 First Light",
+    "descuento": 50,
+    "precio_normal": 39.99,
+    "precio": 19.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
+    "fin_visto": null,
+    "slug": "007-first-light"
+  },
+  {
     "clave": "steam-3240220",
     "appid": 3240220,
     "nombre": "Grand Theft Auto V Enhanced",
@@ -14,9 +52,48 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
+  },
+  {
+    "clave": "steam-1086940",
+    "appid": 1086940,
+    "nombre": "Baldur's Gate 3",
+    "descuento": 30,
+    "precio_normal": 34.99,
+    "precio": 24.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
+    "fin_visto": null,
+    "slug": "baldurs-gate-3"
+  },
+  {
+    "clave": "steam-1222140",
+    "appid": 1222140,
+    "nombre": "Detroit: Become Human",
+    "descuento": 90,
+    "precio_normal": 31.99,
+    "precio": 3.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
+    "fin_visto": null,
+    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-1426210",
@@ -33,28 +110,9 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
     "fin_visto": null,
     "slug": "it-takes-two"
-  },
-  {
-    "clave": "steam-1174180",
-    "appid": 1174180,
-    "nombre": "Red Dead Redemption 2",
-    "descuento": 75,
-    "precio_normal": 59.99,
-    "precio": 14.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
-    "fin_visto": null,
-    "slug": "red-dead-redemption-2"
   },
   {
     "clave": "steam-2215430",
@@ -71,48 +129,47 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
   },
   {
-    "clave": "steam-3321460",
-    "appid": 3321460,
-    "nombre": "Crimson Desert Enhanced",
+    "clave": "steam-3751260",
+    "appid": 3751260,
+    "nombre": "The Blood of Dawnwalker",
     "descuento": 20,
-    "precio_normal": 69.99,
-    "precio": 55.99,
+    "precio_normal": 55.99,
+    "precio": 44.79,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-30T08:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
-    "fin_visto": null,
-    "slug": "crimson-desert-enhanced"
-  },
-  {
-    "clave": "steam-2483190",
-    "appid": 2483190,
-    "nombre": "Forza Horizon 6",
-    "descuento": 25,
-    "precio_normal": 48.99,
-    "precio": 36.74,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/271be7cf94369ac7920a76d64e91fe19212bd93c/header_alt_assets_1_spanish.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-03T18:00:00Z",
+    "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-21T01:19:22Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
     "fin_visto": null,
-    "slug": "forza-horizon-6"
+    "slug": "the-blood-of-dawnwalker"
+  },
+  {
+    "clave": "steam-2001120",
+    "appid": 2001120,
+    "nombre": "Split Fiction",
+    "descuento": 40,
+    "precio_normal": 49.99,
+    "precio": 29.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
+    "fin_visto": null,
+    "slug": "split-fiction"
   },
   {
     "clave": "steam-2909400",
@@ -129,85 +186,9 @@
     "termina": "2026-12-02T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
     "fin_visto": null,
     "slug": "final-fantasy-vii-rebirth"
-  },
-  {
-    "clave": "steam-5303130",
-    "appid": 5303130,
-    "nombre": "Workers & Resources: Soviet Republic - Space Program",
-    "descuento": 10,
-    "precio_normal": 9.99,
-    "precio": 8.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303130/3b11896954569cea4efc567b637807ca1b338683/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:04Z",
-    "vigente": true,
-    "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
-    "fin_visto": null,
-    "slug": "workers-y-resources-soviet-republic-space-program"
-  },
-  {
-    "clave": "steam-1462040",
-    "appid": 1462040,
-    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "descuento": 82,
-    "precio_normal": 31.99,
-    "precio": 5.75,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
-    "fin_visto": null,
-    "slug": "final-fantasy-vii-remake-intergrade"
-  },
-  {
-    "clave": "steam-1817070",
-    "appid": 1817070,
-    "nombre": "Marvel’s Spider-Man Remastered",
-    "descuento": 60,
-    "precio_normal": 59.99,
-    "precio": 23.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
-    "fin_visto": null,
-    "slug": "marvels-spider-man-remastered"
-  },
-  {
-    "clave": "steam-4080220",
-    "appid": 4080220,
-    "nombre": "EA SPORTS FC™ 27",
-    "descuento": 50,
-    "precio_normal": 69.99,
-    "precio": 34.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
-    "fin_visto": null,
-    "slug": "ea-sports-fc-27"
   },
   {
     "clave": "steam-4435490",
@@ -224,9 +205,124 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-24T01:19:48Z",
     "fin_visto": null,
     "slug": "call-of-duty-modern-warfare-4"
+  },
+  {
+    "clave": "steam-3321460",
+    "appid": 3321460,
+    "nombre": "Crimson Desert Enhanced",
+    "descuento": 20,
+    "precio_normal": 69.99,
+    "precio": 55.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-30T08:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-16T08:53:27Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "slug": "crimson-desert-enhanced",
+    "fin_visto": "2026-11-24T01:19:48Z"
+  },
+  {
+    "clave": "steam-2483190",
+    "appid": 2483190,
+    "nombre": "Forza Horizon 6",
+    "descuento": 25,
+    "precio_normal": 48.99,
+    "precio": 36.74,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-21T01:19:22Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "slug": "forza-horizon-6",
+    "fin_visto": "2026-11-24T01:19:48Z"
+  },
+  {
+    "clave": "steam-5303130",
+    "appid": 5303130,
+    "nombre": "Workers & Resources: Soviet Republic - Space Program",
+    "descuento": 10,
+    "precio_normal": 9.99,
+    "precio": 8.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303130/3b11896954569cea4efc567b637807ca1b338683/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:04Z",
+    "vigente": false,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "slug": "workers-y-resources-soviet-republic-space-program",
+    "fin_visto": "2026-11-24T01:19:48Z"
+  },
+  {
+    "clave": "steam-1462040",
+    "appid": 1462040,
+    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descuento": 82,
+    "precio_normal": 31.99,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "slug": "final-fantasy-vii-remake-intergrade",
+    "fin_visto": "2026-11-24T01:19:48Z"
+  },
+  {
+    "clave": "steam-1817070",
+    "appid": 1817070,
+    "nombre": "Marvel’s Spider-Man Remastered",
+    "descuento": 60,
+    "precio_normal": 59.99,
+    "precio": 23.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "slug": "marvels-spider-man-remastered",
+    "fin_visto": "2026-11-24T01:19:48Z"
+  },
+  {
+    "clave": "steam-4080220",
+    "appid": 4080220,
+    "nombre": "EA SPORTS FC™ 27",
+    "descuento": 50,
+    "precio_normal": 69.99,
+    "precio": 34.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-23T19:10:27Z",
+    "slug": "ea-sports-fc-27",
+    "fin_visto": "2026-11-24T01:19:48Z"
   },
   {
     "clave": "steam-5175310",
@@ -688,46 +784,5 @@
     "visto_ultimo": "2026-11-17T01:18:49Z",
     "slug": "one-more-lawn",
     "fin_visto": "2026-11-17T07:27:40Z"
-  },
-  {
-    "clave": "steam-4171850",
-    "appid": 4171850,
-    "nombre": "Trees Hate You",
-    "descuento": 13,
-    "precio_normal": 4.59,
-    "precio": 3.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/4550c09c2fa41435b7b695f31460bea297d4ce15/header.jpg",
-    "plataformas": [
-      "Windows",
-      "Linux"
-    ],
-    "termina": "2026-11-23T18:00:02Z",
-    "vigente": false,
-    "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
-    "slug": "trees-hate-you",
-    "fin_visto": "2026-11-17T01:18:49Z"
-  },
-  {
-    "clave": "steam-227300",
-    "appid": 227300,
-    "nombre": "Euro Truck Simulator 2",
-    "descuento": 75,
-    "precio_normal": 10.59,
-    "precio": 2.64,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-24T17:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-11T13:17:08Z",
-    "visto_ultimo": "2026-11-16T19:02:15Z",
-    "slug": "euro-truck-simulator-2",
-    "fin_visto": "2026-11-17T01:18:49Z"
   }
 ]

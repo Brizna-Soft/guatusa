@@ -60,6 +60,38 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:15Z"
     },
+    "1086940": {
+      "appid": 1086940,
+      "nombre": "Baldur's Gate 3",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Rol",
+        "Estrategia"
+      ],
+      "desarrollo": [
+        "Larian Studios"
+      ],
+      "anio": 2023,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 64-bit",
+        "Procesador: Intel I5 4690 / AMD FX 8350 / Snapdragon X Elite",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GTX 970 / RX 480 / Intel Arc A380 / Qualcomm Adreno X1 (4GB+ of VRAM)",
+        "DirectX: Versión 11",
+        "Almacenamiento: 150 GB de espacio disponible",
+        "Notas adicionales: SSD required"
+      ],
+      "edad": 17,
+      "leido": "2026-11-24T01:19:56Z"
+    },
     "1174180": {
       "appid": 1174180,
       "nombre": "Red Dead Redemption 2",
@@ -152,6 +184,35 @@
       ],
       "edad": 17,
       "leido": "2026-11-06T01:17:09Z"
+    },
+    "1222140": {
+      "appid": 1222140,
+      "nombre": "Detroit: Become Human",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Quantic Dream"
+      ],
+      "anio": 2020,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 (64 bit)",
+        "Procesador: Intel Core i5-2300 @ 2.8 GHz or AMD Ryzen 3 1200 @ 3.1GHz or AMD FX-8350 @ 4.2GHz",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Nvidia GeForce GTX 780 or AMD HD 7950 with 3GB VRAM minimum (Support of Vulkan 1.1 required)",
+        "Almacenamiento: 55 GB de espacio disponible"
+      ],
+      "edad": 17,
+      "leido": "2026-11-24T01:19:56Z"
     },
     "1238810": {
       "appid": 1238810,
@@ -623,6 +684,38 @@
       ],
       "edad": 18,
       "leido": "2026-11-18T13:22:46Z"
+    },
+    "2001120": {
+      "appid": 2001120,
+      "nombre": "Split Fiction",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "Hazelight Studios"
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": false
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: 64 bit Windows 10/11",
+        "Procesador: Intel Core i5-6600K or AMD Ryzen 5 2600X",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 970 - 4GB or Radeon RX 470 - 4GB",
+        "DirectX: Versión 12",
+        "Red: Conexión de banda ancha a Internet",
+        "Almacenamiento: 85 GB de espacio disponible",
+        "Notas adicionales: Resolution: 1920x1080 Native FPS: 30 Graphics Settings Preset: Low"
+      ],
+      "edad": 0,
+      "leido": "2026-11-24T01:19:58Z"
     },
     "2015240": {
       "appid": 2015240,
@@ -2077,6 +2170,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-04T19:03:24Z"
+    },
+    "3751260": {
+      "appid": 3751260,
+      "nombre": "The Blood of Dawnwalker",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Rebel Wolves"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10, DirectX12",
+        "Procesador: Intel Core i5-11400F / AMD Ryzen 7 2700X",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA GTX 1060 / Radeon RX 580",
+        "DirectX: Versión 12",
+        "Almacenamiento: 60 GB de espacio disponible",
+        "Notas adicionales: VRAM: 6GB // Storage on SSD"
+      ],
+      "edad": 17,
+      "leido": "2026-11-24T01:19:57Z"
     },
     "3751950": {
       "appid": 3751950,
