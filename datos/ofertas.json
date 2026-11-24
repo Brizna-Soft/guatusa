@@ -14,7 +14,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
   },
@@ -52,7 +52,7 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "it-takes-two"
   },
@@ -71,9 +71,28 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "007-first-light"
+  },
+  {
+    "clave": "steam-1222140",
+    "appid": 1222140,
+    "nombre": "Detroit: Become Human",
+    "descuento": 90,
+    "precio_normal": 31.99,
+    "precio": 3.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
+    "fin_visto": null,
+    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-1086940",
@@ -91,28 +110,9 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
-  },
-  {
-    "clave": "steam-1222140",
-    "appid": 1222140,
-    "nombre": "Detroit: Become Human",
-    "descuento": 90,
-    "precio_normal": 31.99,
-    "precio": 3.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
-    "fin_visto": null,
-    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-2001120",
@@ -129,28 +129,28 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "split-fiction"
   },
   {
-    "clave": "steam-2909400",
-    "appid": 2909400,
-    "nombre": "FINAL FANTASY VII REBIRTH",
-    "descuento": 85,
-    "precio_normal": 39.99,
-    "precio": 5.99,
+    "clave": "steam-3751260",
+    "appid": 3751260,
+    "nombre": "The Blood of Dawnwalker",
+    "descuento": 20,
+    "precio_normal": 55.99,
+    "precio": 44.79,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/271be7cf94369ac7920a76d64e91fe19212bd93c/header_alt_assets_1_spanish.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-02T18:00:00Z",
+    "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
-    "slug": "final-fantasy-vii-rebirth"
+    "slug": "the-blood-of-dawnwalker"
   },
   {
     "clave": "steam-2215430",
@@ -167,28 +167,28 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
   },
   {
-    "clave": "steam-1462040",
-    "appid": 1462040,
-    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "descuento": 82,
-    "precio_normal": 31.99,
-    "precio": 5.75,
+    "clave": "steam-4498140",
+    "appid": 4498140,
+    "nombre": "天坑追匪",
+    "descuento": 20,
+    "precio_normal": 7.29,
+    "precio": 5.83,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498140/ec79fc90eecd157f34cec0fda4baf79ffe242cba/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-02T18:00:00Z",
+    "termina": "2026-12-07T18:00:19Z",
     "vigente": true,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_primero": "2026-11-24T13:25:12Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
-    "slug": "final-fantasy-vii-remake-intergrade"
+    "slug": "sin-nombre"
   },
   {
     "clave": "steam-4435490",
@@ -205,28 +205,47 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "visto_ultimo": "2026-11-24T13:25:12Z",
     "fin_visto": null,
     "slug": "call-of-duty-modern-warfare-4"
   },
   {
-    "clave": "steam-3751260",
-    "appid": 3751260,
-    "nombre": "The Blood of Dawnwalker",
-    "descuento": 20,
-    "precio_normal": 55.99,
-    "precio": 44.79,
+    "clave": "steam-2909400",
+    "appid": 2909400,
+    "nombre": "FINAL FANTASY VII REBIRTH",
+    "descuento": 85,
+    "precio_normal": 39.99,
+    "precio": 5.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/271be7cf94369ac7920a76d64e91fe19212bd93c/header_alt_assets_1_spanish.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-07T18:00:00Z",
+    "termina": "2026-12-02T18:00:00Z",
     "vigente": false,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T01:19:48Z",
-    "slug": "the-blood-of-dawnwalker",
-    "fin_visto": "2026-11-24T07:28:14Z"
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "slug": "final-fantasy-vii-rebirth",
+    "fin_visto": "2026-11-24T13:25:12Z"
+  },
+  {
+    "clave": "steam-1462040",
+    "appid": 1462040,
+    "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "descuento": 82,
+    "precio_normal": 31.99,
+    "precio": 5.75,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-24T07:28:14Z",
+    "slug": "final-fantasy-vii-remake-intergrade",
+    "fin_visto": "2026-11-24T13:25:12Z"
   },
   {
     "clave": "steam-3321460",
@@ -746,24 +765,5 @@
     "visto_ultimo": "2026-11-17T13:16:57Z",
     "slug": "dungeonbound",
     "fin_visto": "2026-11-17T19:09:50Z"
-  },
-  {
-    "clave": "steam-2321960",
-    "appid": 2321960,
-    "nombre": "Spirit Crossing",
-    "descuento": 10,
-    "precio_normal": 14.49,
-    "precio": 13.04,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-23T18:00:46Z",
-    "vigente": false,
-    "visto_primero": "2026-11-16T19:02:15Z",
-    "visto_ultimo": "2026-11-17T07:27:40Z",
-    "slug": "spirit-crossing",
-    "fin_visto": "2026-11-17T13:16:57Z"
   }
 ]

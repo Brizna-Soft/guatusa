@@ -2651,6 +2651,38 @@
       "edad": 0,
       "leido": "2026-11-13T01:16:53Z"
     },
+    "4498140": {
+      "appid": 4498140,
+      "nombre": "天坑追匪",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Aventura",
+        "Indie",
+        "Rol",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "浙江华智数媒传媒股份有限公司",
+        "Liquid Meow"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": false,
+        "audio_es": false,
+        "latino": false
+      },
+      "requisitos": [
+        "SO: Windows 10",
+        "Procesador: Intel Core i3 / AMD equivalent",
+        "Memoria: 4 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 760 / AMD Radeon R9 280X",
+        "DirectX: Versión 11",
+        "Almacenamiento: 30 GB de espacio disponible"
+      ],
+      "edad": 0,
+      "leido": "2026-11-24T13:25:14Z"
+    },
     "4530370": {
       "appid": 4530370,
       "nombre": "Football Manager 27",
