@@ -14,7 +14,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
   },
@@ -33,28 +33,9 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
-  },
-  {
-    "clave": "steam-3768760",
-    "appid": 3768760,
-    "nombre": "007 First Light",
-    "descuento": 50,
-    "precio_normal": 39.99,
-    "precio": 19.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
-    "fin_visto": null,
-    "slug": "007-first-light"
   },
   {
     "clave": "steam-1086940",
@@ -72,28 +53,9 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
-  },
-  {
-    "clave": "steam-1222140",
-    "appid": 1222140,
-    "nombre": "Detroit: Become Human",
-    "descuento": 90,
-    "precio_normal": 31.99,
-    "precio": 3.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
-    "fin_visto": null,
-    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-1426210",
@@ -110,9 +72,85 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
     "fin_visto": null,
     "slug": "it-takes-two"
+  },
+  {
+    "clave": "steam-3768760",
+    "appid": 3768760,
+    "nombre": "007 First Light",
+    "descuento": 50,
+    "precio_normal": 39.99,
+    "precio": 19.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
+    "fin_visto": null,
+    "slug": "007-first-light"
+  },
+  {
+    "clave": "steam-1222140",
+    "appid": 1222140,
+    "nombre": "Detroit: Become Human",
+    "descuento": 90,
+    "precio_normal": 31.99,
+    "precio": 3.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
+    "fin_visto": null,
+    "slug": "detroit-become-human"
+  },
+  {
+    "clave": "steam-2001120",
+    "appid": 2001120,
+    "nombre": "Split Fiction",
+    "descuento": 40,
+    "precio_normal": 49.99,
+    "precio": 29.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
+    "fin_visto": null,
+    "slug": "split-fiction"
+  },
+  {
+    "clave": "steam-2215430",
+    "appid": 2215430,
+    "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+    "descuento": 50,
+    "precio_normal": 49.99,
+    "precio": 24.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T19:07:48Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
+    "fin_visto": null,
+    "slug": "ghost-of-tsushima-version-del-director"
   },
   {
     "clave": "steam-5527800",
@@ -130,28 +168,9 @@
     "termina": "2026-12-08T18:00:24Z",
     "vigente": true,
     "visto_primero": "2026-11-25T01:25:36Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
     "fin_visto": null,
     "slug": "no-asteroids"
-  },
-  {
-    "clave": "steam-2001120",
-    "appid": 2001120,
-    "nombre": "Split Fiction",
-    "descuento": 40,
-    "precio_normal": 49.99,
-    "precio": 29.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
-    "fin_visto": null,
-    "slug": "split-fiction"
   },
   {
     "clave": "steam-2183900",
@@ -168,28 +187,9 @@
     "termina": "2026-12-04T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-25T01:25:36Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
     "fin_visto": null,
     "slug": "warhammer-40-000-space-marine-2"
-  },
-  {
-    "clave": "steam-2215430",
-    "appid": 2215430,
-    "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
-    "descuento": 50,
-    "precio_normal": 49.99,
-    "precio": 24.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
-    "fin_visto": null,
-    "slug": "ghost-of-tsushima-version-del-director"
   },
   {
     "clave": "steam-4435490",
@@ -206,7 +206,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T07:31:31Z",
     "fin_visto": null,
     "slug": "call-of-duty-modern-warfare-4"
   },
@@ -746,43 +746,5 @@
     "visto_ultimo": "2026-11-18T13:22:42Z",
     "slug": "call-of-duty-black-ops-cold-war",
     "fin_visto": "2026-11-18T19:03:36Z"
-  },
-  {
-    "clave": "steam-2536520",
-    "appid": 2536520,
-    "nombre": "Diablo II: Resurrected – Infernal Edition",
-    "descuento": 35,
-    "precio_normal": 39.99,
-    "precio": 25.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
-    "slug": "diablo-ii-resurrected-infernal-edition",
-    "fin_visto": "2026-11-18T01:25:39Z"
-  },
-  {
-    "clave": "steam-489830",
-    "appid": 489830,
-    "nombre": "The Elder Scrolls V: Skyrim Special Edition",
-    "descuento": 80,
-    "precio_normal": 23.99,
-    "precio": 4.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-18T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-12T01:20:42Z",
-    "visto_ultimo": "2026-11-17T19:09:50Z",
-    "slug": "the-elder-scrolls-v-skyrim-special-edition",
-    "fin_visto": "2026-11-18T01:25:39Z"
   }
 ]
