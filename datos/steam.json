@@ -868,6 +868,38 @@
       "edad": 0,
       "leido": "2026-11-20T01:15:33Z"
     },
+    "2183900": {
+      "appid": 2183900,
+      "nombre": "Warhammer 40,000: Space Marine 2",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "desarrollo": [
+        "Saber Interactive"
+      ],
+      "anio": 2024,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 (1903 min)/11 64-bit",
+        "Procesador: AMD Ryzen 5 2600X / Intel Core i5-8600K",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: 6 GB VRAM, AMD Radeon RX 580 / Nvidia GeForce GTX 1060",
+        "DirectX: Versión 12",
+        "Almacenamiento: 75 GB de espacio disponible",
+        "Notas adicionales: SSD required. 30 FPS in 1920x1080 with \"Low\" preset."
+      ],
+      "edad": 17,
+      "leido": "2026-11-25T01:25:45Z"
+    },
     "2215430": {
       "appid": 2215430,
       "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
@@ -3198,6 +3230,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-12T19:02:30Z"
+    },
+    "5527800": {
+      "appid": 5527800,
+      "nombre": "No Asteroids",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
+      "desarrollo": [
+        "Unruled Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 10 (64 bits)",
+        "Procesador: 4 núcleos: Intel Core i5-7400 / AMD Ryzen 3 1200",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Tarjeta compatible con DirectX 11 y 2 GB de memoria de vídeo: GeForce GTX 1050 / Radeon RX 560 / Intel Iris Xe",
+        "DirectX: Versión 11",
+        "Almacenamiento: 1 GB de espacio disponible",
+        "Notas adicionales: Ratón y teclado o mando. El cooperativo online requiere conexión a internet."
+      ],
+      "edad": 0,
+      "leido": "2026-11-25T01:25:44Z"
     },
     "648800": {
       "appid": 648800,

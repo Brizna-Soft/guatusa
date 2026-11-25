@@ -14,7 +14,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
   },
@@ -52,7 +52,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -72,7 +72,7 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
   },
@@ -91,7 +91,7 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "detroit-become-human"
   },
@@ -110,9 +110,29 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "it-takes-two"
+  },
+  {
+    "clave": "steam-5527800",
+    "appid": 5527800,
+    "nombre": "No Asteroids",
+    "descuento": 20,
+    "precio_normal": 4.59,
+    "precio": 3.67,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-12-08T18:00:24Z",
+    "vigente": true,
+    "visto_primero": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
+    "fin_visto": null,
+    "slug": "no-asteroids"
   },
   {
     "clave": "steam-2001120",
@@ -129,28 +149,28 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "split-fiction"
   },
   {
-    "clave": "steam-3751260",
-    "appid": 3751260,
-    "nombre": "The Blood of Dawnwalker",
-    "descuento": 20,
-    "precio_normal": 55.99,
-    "precio": 44.79,
+    "clave": "steam-2183900",
+    "appid": 2183900,
+    "nombre": "Warhammer 40,000: Space Marine 2",
+    "descuento": 75,
+    "precio_normal": 34.99,
+    "precio": 8.74,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/271be7cf94369ac7920a76d64e91fe19212bd93c/header_alt_assets_1_spanish.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-07T18:00:00Z",
+    "termina": "2026-12-04T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_primero": "2026-11-25T01:25:36Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
-    "slug": "the-blood-of-dawnwalker"
+    "slug": "warhammer-40-000-space-marine-2"
   },
   {
     "clave": "steam-2215430",
@@ -167,29 +187,9 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
-  },
-  {
-    "clave": "steam-3321460",
-    "appid": 3321460,
-    "nombre": "Crimson Desert Enhanced",
-    "descuento": 20,
-    "precio_normal": 69.99,
-    "precio": 55.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-30T08:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
-    "fin_visto": null,
-    "slug": "crimson-desert-enhanced"
   },
   {
     "clave": "steam-4435490",
@@ -206,9 +206,48 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "visto_ultimo": "2026-11-25T01:25:36Z",
     "fin_visto": null,
     "slug": "call-of-duty-modern-warfare-4"
+  },
+  {
+    "clave": "steam-3751260",
+    "appid": 3751260,
+    "nombre": "The Blood of Dawnwalker",
+    "descuento": 20,
+    "precio_normal": 55.99,
+    "precio": 44.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/271be7cf94369ac7920a76d64e91fe19212bd93c/header_alt_assets_1_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "slug": "the-blood-of-dawnwalker",
+    "fin_visto": "2026-11-25T01:25:36Z"
+  },
+  {
+    "clave": "steam-3321460",
+    "appid": 3321460,
+    "nombre": "Crimson Desert Enhanced",
+    "descuento": 20,
+    "precio_normal": 69.99,
+    "precio": 55.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-30T08:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-16T08:53:27Z",
+    "visto_ultimo": "2026-11-24T19:07:57Z",
+    "slug": "crimson-desert-enhanced",
+    "fin_visto": "2026-11-25T01:25:36Z"
   },
   {
     "clave": "steam-4080220",
@@ -223,11 +262,11 @@
       "Windows"
     ],
     "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-20T01:15:23Z",
     "visto_ultimo": "2026-11-24T19:07:57Z",
-    "fin_visto": null,
-    "slug": "ea-sports-fc-27"
+    "slug": "ea-sports-fc-27",
+    "fin_visto": "2026-11-25T01:25:36Z"
   },
   {
     "clave": "steam-4498140",
@@ -745,25 +784,5 @@
     "visto_ultimo": "2026-11-17T19:09:50Z",
     "slug": "the-elder-scrolls-v-skyrim-special-edition",
     "fin_visto": "2026-11-18T01:25:39Z"
-  },
-  {
-    "clave": "steam-5200620",
-    "appid": 5200620,
-    "nombre": "Dungeonbound",
-    "descuento": 10,
-    "precio_normal": 6.39,
-    "precio": 5.75,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-30T18:00:28Z",
-    "vigente": false,
-    "visto_primero": "2026-11-16T15:12:57Z",
-    "visto_ultimo": "2026-11-17T13:16:57Z",
-    "slug": "dungeonbound",
-    "fin_visto": "2026-11-17T19:09:50Z"
   }
 ]
