@@ -14,7 +14,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
   },
@@ -33,48 +33,9 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
-  },
-  {
-    "clave": "steam-1086940",
-    "appid": 1086940,
-    "nombre": "Baldur's Gate 3",
-    "descuento": 30,
-    "precio_normal": 34.99,
-    "precio": 24.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
-    "fin_visto": null,
-    "slug": "baldurs-gate-3"
-  },
-  {
-    "clave": "steam-1426210",
-    "appid": 1426210,
-    "nombre": "It Takes Two",
-    "descuento": 80,
-    "precio_normal": 39.99,
-    "precio": 7.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
-    "fin_visto": null,
-    "slug": "it-takes-two"
   },
   {
     "clave": "steam-3768760",
@@ -91,7 +52,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -110,28 +71,48 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "detroit-become-human"
   },
   {
-    "clave": "steam-2001120",
-    "appid": 2001120,
-    "nombre": "Split Fiction",
-    "descuento": 40,
-    "precio_normal": 49.99,
-    "precio": 29.99,
+    "clave": "steam-1086940",
+    "appid": 1086940,
+    "nombre": "Baldur's Gate 3",
+    "descuento": 30,
+    "precio_normal": 34.99,
+    "precio": 24.49,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
+    "fin_visto": null,
+    "slug": "baldurs-gate-3"
+  },
+  {
+    "clave": "steam-1426210",
+    "appid": 1426210,
+    "nombre": "It Takes Two",
+    "descuento": 80,
+    "precio_normal": 39.99,
+    "precio": 7.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
     "plataformas": [
       "Windows"
     ],
-    "termina": "2026-12-07T18:00:00Z",
+    "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
-    "slug": "split-fiction"
+    "slug": "it-takes-two"
   },
   {
     "clave": "steam-5527800",
@@ -149,7 +130,7 @@
     "termina": "2026-12-08T18:00:24Z",
     "vigente": true,
     "visto_primero": "2026-11-25T01:25:36Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "no-asteroids"
   },
@@ -168,7 +149,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
   },
@@ -187,9 +168,29 @@
     "termina": "2026-12-04T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-25T01:25:36Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "warhammer-40-000-space-marine-2"
+  },
+  {
+    "clave": "steam-3321460",
+    "appid": 3321460,
+    "nombre": "Crimson Desert Enhanced",
+    "descuento": 20,
+    "precio_normal": 69.99,
+    "precio": 55.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-11-30T08:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-16T08:53:27Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
+    "fin_visto": null,
+    "slug": "crimson-desert-enhanced"
   },
   {
     "clave": "steam-4435490",
@@ -206,9 +207,28 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "visto_ultimo": "2026-11-25T19:01:33Z",
     "fin_visto": null,
     "slug": "call-of-duty-modern-warfare-4"
+  },
+  {
+    "clave": "steam-2001120",
+    "appid": 2001120,
+    "nombre": "Split Fiction",
+    "descuento": 40,
+    "precio_normal": 49.99,
+    "precio": 29.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-25T13:31:26Z",
+    "slug": "split-fiction",
+    "fin_visto": "2026-11-25T19:01:33Z"
   },
   {
     "clave": "steam-3751260",
@@ -227,26 +247,6 @@
     "visto_primero": "2026-11-24T01:19:48Z",
     "visto_ultimo": "2026-11-24T19:07:57Z",
     "slug": "the-blood-of-dawnwalker",
-    "fin_visto": "2026-11-25T01:25:36Z"
-  },
-  {
-    "clave": "steam-3321460",
-    "appid": 3321460,
-    "nombre": "Crimson Desert Enhanced",
-    "descuento": 20,
-    "precio_normal": 69.99,
-    "precio": 55.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-30T08:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-16T08:53:27Z",
-    "visto_ultimo": "2026-11-24T19:07:57Z",
-    "slug": "crimson-desert-enhanced",
     "fin_visto": "2026-11-25T01:25:36Z"
   },
   {
