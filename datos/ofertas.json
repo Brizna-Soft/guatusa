@@ -1,24 +1,5 @@
 [
   {
-    "clave": "steam-3240220",
-    "appid": 3240220,
-    "nombre": "Grand Theft Auto V Enhanced",
-    "descuento": 56,
-    "precio_normal": 44.99,
-    "precio": 19.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
-    "fin_visto": null,
-    "slug": "grand-theft-auto-v-enhanced"
-  },
-  {
     "clave": "steam-1174180",
     "appid": 1174180,
     "nombre": "Red Dead Redemption 2",
@@ -33,9 +14,28 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
+  },
+  {
+    "clave": "steam-3240220",
+    "appid": 3240220,
+    "nombre": "Grand Theft Auto V Enhanced",
+    "descuento": 56,
+    "precio_normal": 44.99,
+    "precio": 19.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "fin_visto": null,
+    "slug": "grand-theft-auto-v-enhanced"
   },
   {
     "clave": "steam-2947440",
@@ -52,7 +52,7 @@
     "termina": "2026-12-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
     "fin_visto": null,
     "slug": "silent-hill-f"
   },
@@ -72,28 +72,9 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
-  },
-  {
-    "clave": "steam-3768760",
-    "appid": 3768760,
-    "nombre": "007 First Light",
-    "descuento": 50,
-    "precio_normal": 39.99,
-    "precio": 19.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
-    "fin_visto": null,
-    "slug": "007-first-light"
   },
   {
     "clave": "steam-1426210",
@@ -110,9 +91,28 @@
     "termina": "2026-12-03T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
     "fin_visto": null,
     "slug": "it-takes-two"
+  },
+  {
+    "clave": "steam-3768760",
+    "appid": 3768760,
+    "nombre": "007 First Light",
+    "descuento": 50,
+    "precio_normal": 39.99,
+    "precio": 19.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "fin_visto": null,
+    "slug": "007-first-light"
   },
   {
     "clave": "steam-1222140",
@@ -129,28 +129,9 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
     "fin_visto": null,
     "slug": "detroit-become-human"
-  },
-  {
-    "clave": "steam-4078430",
-    "appid": 4078430,
-    "nombre": "STAR WARS: Galactic Racer™",
-    "descuento": 20,
-    "precio_normal": 39.99,
-    "precio": 31.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-09T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
-    "fin_visto": null,
-    "slug": "star-wars-galactic-racer"
   },
   {
     "clave": "steam-2001120",
@@ -167,9 +148,28 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
     "fin_visto": null,
     "slug": "split-fiction"
+  },
+  {
+    "clave": "steam-4078430",
+    "appid": 4078430,
+    "nombre": "STAR WARS: Galactic Racer™",
+    "descuento": 20,
+    "precio_normal": 39.99,
+    "precio": 31.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-09T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-26T01:26:12Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "fin_visto": null,
+    "slug": "star-wars-galactic-racer"
   },
   {
     "clave": "steam-4435490",
@@ -186,7 +186,7 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T07:30:01Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
     "fin_visto": null,
     "slug": "call-of-duty-modern-warfare-4"
   },
