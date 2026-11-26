@@ -1774,6 +1774,38 @@
       "edad": 0,
       "leido": "2026-11-01T21:45:13Z"
     },
+    "2947440": {
+      "appid": 2947440,
+      "nombre": "SILENT HILL f",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura"
+      ],
+      "desarrollo": [
+        "NeoBards Entertainment Ltd."
+      ],
+      "anio": 2025,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: Windows 11 x64",
+        "Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA® GeForce® GTX 1070 Ti or AMD Radeon™ RX 5700",
+        "DirectX: Versión 12",
+        "Almacenamiento: 50 GB de espacio disponible",
+        "Tarjeta de sonido: Windows Compatible Audio Device.",
+        "Notas adicionales: Playing on minimum requirements should enable to play on Performance quality settings in 30 at 720p. SSD is recommended."
+      ],
+      "edad": 17,
+      "leido": "2026-11-26T01:26:19Z"
+    },
     "3093400": {
       "appid": 3093400,
       "nombre": "Knightica",
@@ -2400,6 +2432,38 @@
       ],
       "edad": 0,
       "leido": "2026-11-13T13:16:26Z"
+    },
+    "4078430": {
+      "appid": 4078430,
+      "nombre": "STAR WARS: Galactic Racer™",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Acción",
+        "Aventura",
+        "Carreras",
+        "Simuladores",
+        "Deportes"
+      ],
+      "desarrollo": [
+        "Fuse Games"
+      ],
+      "anio": 2026,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": false,
+        "latino": true
+      },
+      "requisitos": [
+        "SO: Windows 10",
+        "Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: Nvidia RTX 2060 / Intel Arc A580 / AMD Radeon RX 5600 XT 6GB",
+        "Almacenamiento: 50 GB de espacio disponible",
+        "Notas adicionales: SSD Required"
+      ],
+      "edad": 0,
+      "leido": "2026-11-26T01:26:20Z"
     },
     "4080220": {
       "appid": 4080220,
