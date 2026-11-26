@@ -14,7 +14,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
   },
@@ -33,9 +33,28 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
+  },
+  {
+    "clave": "steam-3768760",
+    "appid": 3768760,
+    "nombre": "007 First Light",
+    "descuento": 50,
+    "precio_normal": 39.99,
+    "precio": 19.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "fin_visto": null,
+    "slug": "007-first-light"
   },
   {
     "clave": "steam-2947440",
@@ -52,9 +71,28 @@
     "termina": "2026-12-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
     "fin_visto": null,
     "slug": "silent-hill-f"
+  },
+  {
+    "clave": "steam-1222140",
+    "appid": 1222140,
+    "nombre": "Detroit: Become Human",
+    "descuento": 90,
+    "precio_normal": 31.99,
+    "precio": 3.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "fin_visto": null,
+    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-1086940",
@@ -72,85 +110,9 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
-  },
-  {
-    "clave": "steam-1426210",
-    "appid": 1426210,
-    "nombre": "It Takes Two",
-    "descuento": 80,
-    "precio_normal": 39.99,
-    "precio": 7.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
-    "fin_visto": null,
-    "slug": "it-takes-two"
-  },
-  {
-    "clave": "steam-3768760",
-    "appid": 3768760,
-    "nombre": "007 First Light",
-    "descuento": 50,
-    "precio_normal": 39.99,
-    "precio": 19.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
-    "fin_visto": null,
-    "slug": "007-first-light"
-  },
-  {
-    "clave": "steam-1222140",
-    "appid": 1222140,
-    "nombre": "Detroit: Become Human",
-    "descuento": 90,
-    "precio_normal": 31.99,
-    "precio": 3.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
-    "fin_visto": null,
-    "slug": "detroit-become-human"
-  },
-  {
-    "clave": "steam-2001120",
-    "appid": 2001120,
-    "nombre": "Split Fiction",
-    "descuento": 40,
-    "precio_normal": 49.99,
-    "precio": 29.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
-    "fin_visto": null,
-    "slug": "split-fiction"
   },
   {
     "clave": "steam-4078430",
@@ -167,9 +129,66 @@
     "termina": "2026-12-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
     "fin_visto": null,
     "slug": "star-wars-galactic-racer"
+  },
+  {
+    "clave": "steam-2215430",
+    "appid": 2215430,
+    "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+    "descuento": 50,
+    "precio_normal": 49.99,
+    "precio": 24.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T19:07:48Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "fin_visto": null,
+    "slug": "ghost-of-tsushima-version-del-director"
+  },
+  {
+    "clave": "steam-1426210",
+    "appid": 1426210,
+    "nombre": "It Takes Two",
+    "descuento": 80,
+    "precio_normal": 39.99,
+    "precio": 7.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "fin_visto": null,
+    "slug": "it-takes-two"
+  },
+  {
+    "clave": "steam-2001120",
+    "appid": 2001120,
+    "nombre": "Split Fiction",
+    "descuento": 40,
+    "precio_normal": 49.99,
+    "precio": 29.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-26T13:29:40Z",
+    "slug": "split-fiction",
+    "fin_visto": "2026-11-26T19:08:01Z"
   },
   {
     "clave": "steam-4435490",
@@ -184,11 +203,11 @@
       "Windows"
     ],
     "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-23T19:10:27Z",
     "visto_ultimo": "2026-11-26T13:29:40Z",
-    "fin_visto": null,
-    "slug": "call-of-duty-modern-warfare-4"
+    "slug": "call-of-duty-modern-warfare-4",
+    "fin_visto": "2026-11-26T19:08:01Z"
   },
   {
     "clave": "steam-5527800",
@@ -209,25 +228,6 @@
     "visto_ultimo": "2026-11-26T01:26:12Z",
     "slug": "no-asteroids",
     "fin_visto": "2026-11-26T07:30:01Z"
-  },
-  {
-    "clave": "steam-2215430",
-    "appid": 2215430,
-    "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
-    "descuento": 50,
-    "precio_normal": 49.99,
-    "precio": 24.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-25T19:01:33Z",
-    "slug": "ghost-of-tsushima-version-del-director",
-    "fin_visto": "2026-11-26T01:26:12Z"
   },
   {
     "clave": "steam-2183900",
@@ -726,44 +726,5 @@
     "visto_ultimo": "2026-11-19T19:07:48Z",
     "slug": "nier-automata",
     "fin_visto": "2026-11-20T01:15:23Z"
-  },
-  {
-    "clave": "steam-12210",
-    "appid": 12210,
-    "nombre": "Grand Theft Auto IV: The Complete Edition",
-    "descuento": 70,
-    "precio_normal": 19.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-19T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-06T01:17:01Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
-    "slug": "grand-theft-auto-iv-the-complete-edition",
-    "fin_visto": "2026-11-19T19:07:48Z"
-  },
-  {
-    "clave": "steam-4459590",
-    "appid": 4459590,
-    "nombre": "Legión del azar - Slotbound",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-11-26T18:00:33Z",
-    "vigente": false,
-    "visto_primero": "2026-11-13T07:24:41Z",
-    "visto_ultimo": "2026-11-19T13:25:58Z",
-    "slug": "legion-del-azar-slotbound",
-    "fin_visto": "2026-11-19T19:07:48Z"
   }
 ]
