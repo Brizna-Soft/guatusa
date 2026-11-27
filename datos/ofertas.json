@@ -14,7 +14,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
   },
@@ -33,7 +33,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
   },
@@ -52,7 +52,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
     "fin_visto": null,
     "slug": "007-first-light"
   },
@@ -71,28 +71,9 @@
     "termina": "2026-12-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
     "fin_visto": null,
     "slug": "silent-hill-f"
-  },
-  {
-    "clave": "steam-1222140",
-    "appid": 1222140,
-    "nombre": "Detroit: Become Human",
-    "descuento": 90,
-    "precio_normal": 31.99,
-    "precio": 3.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
-    "fin_visto": null,
-    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-1086940",
@@ -110,7 +91,7 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
   },
@@ -129,9 +110,28 @@
     "termina": "2026-12-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
     "fin_visto": null,
     "slug": "star-wars-galactic-racer"
+  },
+  {
+    "clave": "steam-1222140",
+    "appid": 1222140,
+    "nombre": "Detroit: Become Human",
+    "descuento": 90,
+    "precio_normal": 31.99,
+    "precio": 3.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "fin_visto": null,
+    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-2215430",
@@ -148,9 +148,47 @@
     "termina": "2026-12-01T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
     "fin_visto": null,
     "slug": "ghost-of-tsushima-version-del-director"
+  },
+  {
+    "clave": "steam-2909400",
+    "appid": 2909400,
+    "nombre": "FINAL FANTASY VII REBIRTH",
+    "descuento": 85,
+    "precio_normal": 39.99,
+    "precio": 5.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-02T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-19T01:21:22Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "fin_visto": null,
+    "slug": "final-fantasy-vii-rebirth"
+  },
+  {
+    "clave": "steam-4435490",
+    "appid": 4435490,
+    "nombre": "Call of Duty®: Modern Warfare® 4",
+    "descuento": 15,
+    "precio_normal": 69.99,
+    "precio": 59.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "fin_visto": null,
+    "slug": "call-of-duty-modern-warfare-4"
   },
   {
     "clave": "steam-1426210",
@@ -165,11 +203,11 @@
       "Windows"
     ],
     "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-20T01:15:23Z",
     "visto_ultimo": "2026-11-26T19:08:01Z",
-    "fin_visto": null,
-    "slug": "it-takes-two"
+    "slug": "it-takes-two",
+    "fin_visto": "2026-11-27T01:28:24Z"
   },
   {
     "clave": "steam-2001120",
@@ -188,25 +226,6 @@
     "visto_primero": "2026-11-24T01:19:48Z",
     "visto_ultimo": "2026-11-26T13:29:40Z",
     "slug": "split-fiction",
-    "fin_visto": "2026-11-26T19:08:01Z"
-  },
-  {
-    "clave": "steam-4435490",
-    "appid": 4435490,
-    "nombre": "Call of Duty®: Modern Warfare® 4",
-    "descuento": 15,
-    "precio_normal": 69.99,
-    "precio": 59.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-26T13:29:40Z",
-    "slug": "call-of-duty-modern-warfare-4",
     "fin_visto": "2026-11-26T19:08:01Z"
   },
   {
@@ -324,25 +343,6 @@
     "visto_ultimo": "2026-11-24T13:25:12Z",
     "slug": "sin-nombre",
     "fin_visto": "2026-11-24T19:07:57Z"
-  },
-  {
-    "clave": "steam-2909400",
-    "appid": 2909400,
-    "nombre": "FINAL FANTASY VII REBIRTH",
-    "descuento": 85,
-    "precio_normal": 39.99,
-    "precio": 5.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-19T01:21:22Z",
-    "visto_ultimo": "2026-11-24T07:28:14Z",
-    "slug": "final-fantasy-vii-rebirth",
-    "fin_visto": "2026-11-24T13:25:12Z"
   },
   {
     "clave": "steam-1462040",
@@ -628,103 +628,5 @@
     "visto_ultimo": "2026-11-20T13:21:29Z",
     "slug": "battlefield-v",
     "fin_visto": "2026-11-20T19:08:00Z"
-  },
-  {
-    "clave": "steam-1771300",
-    "appid": 1771300,
-    "nombre": "Kingdom Come: Deliverance II",
-    "descuento": 67,
-    "precio_normal": 44.99,
-    "precio": 14.84,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-17T01:18:49Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
-    "slug": "kingdom-come-deliverance-ii",
-    "fin_visto": "2026-11-20T01:15:23Z"
-  },
-  {
-    "clave": "steam-5185890",
-    "appid": 5185890,
-    "nombre": "Zombies Aren't Real",
-    "descuento": 10,
-    "precio_normal": 5.69,
-    "precio": 5.12,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T18:00:06Z",
-    "vigente": false,
-    "visto_primero": "2026-11-13T18:59:45Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
-    "slug": "zombies-arent-real",
-    "fin_visto": "2026-11-20T01:15:23Z"
-  },
-  {
-    "clave": "steam-3218350",
-    "appid": 3218350,
-    "nombre": "Melvor Idle 2: A RuneScape Adventure",
-    "descuento": 10,
-    "precio_normal": 8.09,
-    "precio": 7.28,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS",
-      "Linux"
-    ],
-    "termina": "2026-11-24T18:00:44Z",
-    "vigente": false,
-    "visto_primero": "2026-11-17T13:16:57Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
-    "slug": "melvor-idle-2-a-runescape-adventure",
-    "fin_visto": "2026-11-20T01:15:23Z"
-  },
-  {
-    "clave": "steam-311210",
-    "appid": 311210,
-    "nombre": "Call of Duty®: Black Ops III",
-    "descuento": 75,
-    "precio_normal": 59.99,
-    "precio": 14.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
-    "plataformas": [
-      "Windows",
-      "macOS"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-18T01:25:39Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
-    "slug": "call-of-duty-black-ops-iii",
-    "fin_visto": "2026-11-20T01:15:23Z"
-  },
-  {
-    "clave": "steam-524220",
-    "appid": 524220,
-    "nombre": "NieR:Automata™",
-    "descuento": 60,
-    "precio_normal": 31.99,
-    "precio": 12.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-02T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-19T13:25:58Z",
-    "visto_ultimo": "2026-11-19T19:07:48Z",
-    "slug": "nier-automata",
-    "fin_visto": "2026-11-20T01:15:23Z"
   }
 ]
