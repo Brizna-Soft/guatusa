@@ -1,5 +1,25 @@
 [
   {
+    "clave": "steam-1091500",
+    "appid": 1091500,
+    "nombre": "Cyberpunk 2077",
+    "descuento": 70,
+    "precio_normal": 44.99,
+    "precio": 13.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-12-11T01:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "fin_visto": null,
+    "slug": "cyberpunk-2077"
+  },
+  {
     "clave": "steam-1174180",
     "appid": 1174180,
     "nombre": "Red Dead Redemption 2",
@@ -14,7 +34,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
   },
@@ -33,7 +53,7 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
     "fin_visto": null,
     "slug": "grand-theft-auto-v-enhanced"
   },
@@ -52,28 +72,9 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
     "fin_visto": null,
     "slug": "007-first-light"
-  },
-  {
-    "clave": "steam-2947440",
-    "appid": 2947440,
-    "nombre": "SILENT HILL f",
-    "descuento": 72,
-    "precio_normal": 32.99,
-    "precio": 9.23,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-09T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
-    "fin_visto": null,
-    "slug": "silent-hill-f"
   },
   {
     "clave": "steam-1086940",
@@ -91,28 +92,67 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
   },
   {
-    "clave": "steam-4078430",
-    "appid": 4078430,
-    "nombre": "STAR WARS: Galactic Racer™",
-    "descuento": 20,
+    "clave": "steam-1426210",
+    "appid": 1426210,
+    "nombre": "It Takes Two",
+    "descuento": 80,
     "precio_normal": 39.99,
-    "precio": 31.99,
+    "precio": 7.99,
     "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "fin_visto": null,
+    "slug": "it-takes-two"
+  },
+  {
+    "clave": "steam-2947440",
+    "appid": 2947440,
+    "nombre": "SILENT HILL f",
+    "descuento": 72,
+    "precio_normal": 32.99,
+    "precio": 9.23,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg",
     "plataformas": [
       "Windows"
     ],
     "termina": "2026-12-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
     "fin_visto": null,
-    "slug": "star-wars-galactic-racer"
+    "slug": "silent-hill-f"
+  },
+  {
+    "clave": "steam-2138330",
+    "appid": 2138330,
+    "nombre": "Cyberpunk 2077: Phantom Liberty",
+    "descuento": 40,
+    "precio_normal": 22.49,
+    "precio": 13.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg",
+    "plataformas": [
+      "Windows",
+      "macOS"
+    ],
+    "termina": "2026-12-11T01:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "fin_visto": null,
+    "slug": "cyberpunk-2077-phantom-liberty"
   },
   {
     "clave": "steam-1222140",
@@ -129,9 +169,28 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
     "fin_visto": null,
     "slug": "detroit-become-human"
+  },
+  {
+    "clave": "steam-4078430",
+    "appid": 4078430,
+    "nombre": "STAR WARS: Galactic Racer™",
+    "descuento": 20,
+    "precio_normal": 39.99,
+    "precio": 31.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-09T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-26T01:26:12Z",
+    "visto_ultimo": "2026-11-27T01:28:24Z",
+    "slug": "star-wars-galactic-racer",
+    "fin_visto": "2026-11-27T16:37:28Z"
   },
   {
     "clave": "steam-2215430",
@@ -146,11 +205,11 @@
       "Windows"
     ],
     "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-19T19:07:48Z",
     "visto_ultimo": "2026-11-27T01:28:24Z",
-    "fin_visto": null,
-    "slug": "ghost-of-tsushima-version-del-director"
+    "slug": "ghost-of-tsushima-version-del-director",
+    "fin_visto": "2026-11-27T16:37:28Z"
   },
   {
     "clave": "steam-2909400",
@@ -165,11 +224,11 @@
       "Windows"
     ],
     "termina": "2026-12-02T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-19T01:21:22Z",
     "visto_ultimo": "2026-11-27T01:28:24Z",
-    "fin_visto": null,
-    "slug": "final-fantasy-vii-rebirth"
+    "slug": "final-fantasy-vii-rebirth",
+    "fin_visto": "2026-11-27T16:37:28Z"
   },
   {
     "clave": "steam-4435490",
@@ -184,30 +243,11 @@
       "Windows"
     ],
     "termina": "2026-12-01T18:00:00Z",
-    "vigente": true,
+    "vigente": false,
     "visto_primero": "2026-11-23T19:10:27Z",
     "visto_ultimo": "2026-11-27T01:28:24Z",
-    "fin_visto": null,
-    "slug": "call-of-duty-modern-warfare-4"
-  },
-  {
-    "clave": "steam-1426210",
-    "appid": 1426210,
-    "nombre": "It Takes Two",
-    "descuento": 80,
-    "precio_normal": 39.99,
-    "precio": 7.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-26T19:08:01Z",
-    "slug": "it-takes-two",
-    "fin_visto": "2026-11-27T01:28:24Z"
+    "slug": "call-of-duty-modern-warfare-4",
+    "fin_visto": "2026-11-27T16:37:28Z"
   },
   {
     "clave": "steam-2001120",

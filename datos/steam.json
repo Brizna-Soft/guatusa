@@ -92,6 +92,35 @@
       "edad": 17,
       "leido": "2026-11-24T01:19:56Z"
     },
+    "1091500": {
+      "appid": 1091500,
+      "nombre": "Cyberpunk 2077",
+      "tipo": "game",
+      "gratis": false,
+      "generos": [
+        "Rol"
+      ],
+      "desarrollo": [
+        "CD PROJEKT RED"
+      ],
+      "anio": 2020,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: 64-bit Windows 10",
+        "Procesador: Core i7-6700 or Ryzen 5 1600",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380",
+        "DirectX: Versión 12",
+        "Almacenamiento: 70 GB de espacio disponible"
+      ],
+      "edad": 17,
+      "leido": "2026-11-27T16:37:39Z"
+    },
     "1174180": {
       "appid": 1174180,
       "nombre": "Red Dead Redemption 2",
@@ -867,6 +896,35 @@
       ],
       "edad": 0,
       "leido": "2026-11-20T01:15:33Z"
+    },
+    "2138330": {
+      "appid": 2138330,
+      "nombre": "Cyberpunk 2077: Phantom Liberty",
+      "tipo": "dlc",
+      "gratis": false,
+      "generos": [
+        "Rol"
+      ],
+      "desarrollo": [
+        "CD PROJEKT RED"
+      ],
+      "anio": 2023,
+      "idiomas": {
+        "texto_es": true,
+        "audio_es": true,
+        "latino": true
+      },
+      "requisitos": [
+        "Requiere un procesador y un sistema operativo de 64 bits",
+        "SO: 64-bit Windows 10",
+        "Procesador: Core i7-6700 or Ryzen 5 1600",
+        "Memoria: 12 GB de RAM",
+        "Gráficos: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380",
+        "DirectX: Versión 12",
+        "Almacenamiento: 35 GB de espacio disponible"
+      ],
+      "edad": 17,
+      "leido": "2026-11-27T16:37:40Z"
     },
     "2183900": {
       "appid": 2183900,
@@ -3441,6 +3499,10 @@
       "appid": 660900,
       "leido": "2026-11-02T00:00:17Z"
     },
+    "deadage2": {
+      "appid": 0,
+      "leido": "2026-11-27T16:37:28Z"
+    },
     "dwarvenrealms": {
       "appid": 2015240,
       "leido": "2026-11-01T21:45:08Z"
@@ -3496,6 +3558,10 @@
     "sorrywereclosed": {
       "appid": 1796580,
       "leido": "2026-11-01T21:45:08Z"
+    },
+    "verticaldropheroeshdsteam": {
+      "appid": 0,
+      "leido": "2026-11-27T16:37:28Z"
     }
   }
 }
