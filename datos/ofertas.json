@@ -15,7 +15,7 @@
     "termina": "2026-12-11T01:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-27T16:37:28Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
     "fin_visto": null,
     "slug": "cyberpunk-2077"
   },
@@ -34,28 +34,9 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
     "fin_visto": null,
     "slug": "red-dead-redemption-2"
-  },
-  {
-    "clave": "steam-3240220",
-    "appid": 3240220,
-    "nombre": "Grand Theft Auto V Enhanced",
-    "descuento": 56,
-    "precio_normal": 44.99,
-    "precio": 19.79,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-07T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
-    "fin_visto": null,
-    "slug": "grand-theft-auto-v-enhanced"
   },
   {
     "clave": "steam-3768760",
@@ -72,9 +53,28 @@
     "termina": "2026-12-07T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
     "fin_visto": null,
     "slug": "007-first-light"
+  },
+  {
+    "clave": "steam-3240220",
+    "appid": 3240220,
+    "nombre": "Grand Theft Auto V Enhanced",
+    "descuento": 56,
+    "precio_normal": 44.99,
+    "precio": 19.79,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-07T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
+    "fin_visto": null,
+    "slug": "grand-theft-auto-v-enhanced"
   },
   {
     "clave": "steam-1086940",
@@ -92,28 +92,9 @@
     "termina": "2026-11-30T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
     "fin_visto": null,
     "slug": "baldurs-gate-3"
-  },
-  {
-    "clave": "steam-1426210",
-    "appid": 1426210,
-    "nombre": "It Takes Two",
-    "descuento": 80,
-    "precio_normal": 39.99,
-    "precio": 7.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
-    "fin_visto": null,
-    "slug": "it-takes-two"
   },
   {
     "clave": "steam-2947440",
@@ -130,7 +111,7 @@
     "termina": "2026-12-09T18:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
     "fin_visto": null,
     "slug": "silent-hill-f"
   },
@@ -150,28 +131,9 @@
     "termina": "2026-12-11T01:00:00Z",
     "vigente": true,
     "visto_primero": "2026-11-27T16:37:28Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
     "fin_visto": null,
     "slug": "cyberpunk-2077-phantom-liberty"
-  },
-  {
-    "clave": "steam-1222140",
-    "appid": 1222140,
-    "nombre": "Detroit: Become Human",
-    "descuento": 90,
-    "precio_normal": 31.99,
-    "precio": 3.19,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-30T18:00:00Z",
-    "vigente": true,
-    "visto_primero": "2026-11-24T01:19:48Z",
-    "visto_ultimo": "2026-11-27T16:37:28Z",
-    "fin_visto": null,
-    "slug": "detroit-become-human"
   },
   {
     "clave": "steam-4078430",
@@ -186,11 +148,11 @@
       "Windows"
     ],
     "termina": "2026-12-09T18:00:00Z",
-    "vigente": false,
+    "vigente": true,
     "visto_primero": "2026-11-26T01:26:12Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
-    "slug": "star-wars-galactic-racer",
-    "fin_visto": "2026-11-27T16:37:28Z"
+    "visto_ultimo": "2026-11-28T01:27:17Z",
+    "fin_visto": null,
+    "slug": "star-wars-galactic-racer"
   },
   {
     "clave": "steam-2215430",
@@ -205,11 +167,68 @@
       "Windows"
     ],
     "termina": "2026-12-01T18:00:00Z",
-    "vigente": false,
+    "vigente": true,
     "visto_primero": "2026-11-19T19:07:48Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
-    "slug": "ghost-of-tsushima-version-del-director",
-    "fin_visto": "2026-11-27T16:37:28Z"
+    "visto_ultimo": "2026-11-28T01:27:17Z",
+    "fin_visto": null,
+    "slug": "ghost-of-tsushima-version-del-director"
+  },
+  {
+    "clave": "steam-4435490",
+    "appid": 4435490,
+    "nombre": "Call of Duty®: Modern Warfare® 4",
+    "descuento": 15,
+    "precio_normal": 69.99,
+    "precio": 59.49,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-01T18:00:00Z",
+    "vigente": true,
+    "visto_primero": "2026-11-23T19:10:27Z",
+    "visto_ultimo": "2026-11-28T01:27:17Z",
+    "fin_visto": null,
+    "slug": "call-of-duty-modern-warfare-4"
+  },
+  {
+    "clave": "steam-1426210",
+    "appid": 1426210,
+    "nombre": "It Takes Two",
+    "descuento": 80,
+    "precio_normal": 39.99,
+    "precio": 7.99,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-12-03T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-20T01:15:23Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "slug": "it-takes-two",
+    "fin_visto": "2026-11-28T01:27:17Z"
+  },
+  {
+    "clave": "steam-1222140",
+    "appid": 1222140,
+    "nombre": "Detroit: Become Human",
+    "descuento": 90,
+    "precio_normal": 31.99,
+    "precio": 3.19,
+    "moneda": "USD",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "plataformas": [
+      "Windows"
+    ],
+    "termina": "2026-11-30T18:00:00Z",
+    "vigente": false,
+    "visto_primero": "2026-11-24T01:19:48Z",
+    "visto_ultimo": "2026-11-27T16:37:28Z",
+    "slug": "detroit-become-human",
+    "fin_visto": "2026-11-28T01:27:17Z"
   },
   {
     "clave": "steam-2909400",
@@ -228,25 +247,6 @@
     "visto_primero": "2026-11-19T01:21:22Z",
     "visto_ultimo": "2026-11-27T01:28:24Z",
     "slug": "final-fantasy-vii-rebirth",
-    "fin_visto": "2026-11-27T16:37:28Z"
-  },
-  {
-    "clave": "steam-4435490",
-    "appid": 4435490,
-    "nombre": "Call of Duty®: Modern Warfare® 4",
-    "descuento": 15,
-    "precio_normal": 69.99,
-    "precio": 59.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-01T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-23T19:10:27Z",
-    "visto_ultimo": "2026-11-27T01:28:24Z",
-    "slug": "call-of-duty-modern-warfare-4",
     "fin_visto": "2026-11-27T16:37:28Z"
   },
   {
@@ -611,62 +611,5 @@
     "visto_ultimo": "2026-11-22T01:15:33Z",
     "slug": "horizon-forbidden-west-complete-edition",
     "fin_visto": "2026-11-22T07:18:35Z"
-  },
-  {
-    "clave": "steam-2406770",
-    "appid": 2406770,
-    "nombre": "Bodycam",
-    "descuento": 20,
-    "precio_normal": 17.99,
-    "precio": 14.39,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-11-20T21:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-14T01:08:37Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
-    "slug": "bodycam",
-    "fin_visto": "2026-11-21T01:19:22Z"
-  },
-  {
-    "clave": "steam-2075800",
-    "appid": 2075800,
-    "nombre": "STAR WARS Zero Company™",
-    "descuento": 20,
-    "precio_normal": 49.99,
-    "precio": 39.99,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-20T01:15:23Z",
-    "visto_ultimo": "2026-11-20T19:08:00Z",
-    "slug": "star-wars-zero-company",
-    "fin_visto": "2026-11-21T01:19:22Z"
-  },
-  {
-    "clave": "steam-1238810",
-    "appid": 1238810,
-    "nombre": "Battlefield™ V",
-    "descuento": 95,
-    "precio_normal": 49.99,
-    "precio": 2.49,
-    "moneda": "USD",
-    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg",
-    "plataformas": [
-      "Windows"
-    ],
-    "termina": "2026-12-03T18:00:00Z",
-    "vigente": false,
-    "visto_primero": "2026-11-20T13:21:29Z",
-    "visto_ultimo": "2026-11-20T13:21:29Z",
-    "slug": "battlefield-v",
-    "fin_visto": "2026-11-20T19:08:00Z"
   }
 ]
